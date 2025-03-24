@@ -1,0 +1,43 @@
+/* src/style.css */
+
+/* Style the dropdown */
+#audio-dropdown {
+  margin: 20px;
+  padding: 10px;
+  font-size: 16px;
+  background-color: #f4f4f4;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+/* Style for the whisper-transcript element */
+whisper-transcript {
+  display: block;
+  margin-top: 20px;
+  padding: 15px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+whisper-transcript audio {
+  width: 100%;
+  margin-top: 10px;
+}
+
+.media {
+  position: sticky;
+  top: 0; /* 0 means it sticks at the very top of the viewport */
+  z-index: 10; /* Ensure it stays on top of other content */
+  background-color: #fff; /* Optional: Add background color to avoid transparency */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional: Add shadow for better visibility */
+  padding: 10px; /* Optional: Add padding for spacing */
+}
+
+whisper-transcript .media {
+  position: sticky;
+  top: 0;
+  background-color: #fff;
+  z-index: 10;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
