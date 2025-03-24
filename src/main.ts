@@ -3,7 +3,7 @@ import "./style.css";
 
 document.addEventListener("DOMContentLoaded", () => {
   // Fetch the media JSON file
-  fetch("/test_for_whisper_transcript_online.json")
+  fetch("./test_for_whisper_transcript_online.json")
     .then((response) => response.json())
     .then((mediaFiles: MediaFile[]) => {
       // Create the dropdown
