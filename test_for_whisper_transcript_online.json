@@ -1,17 +1,17 @@
 [
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/2/pages/page_0/files/c000507_001_001_access.mp3",
-        "url": "/whisper-reviewer/transcripts/c000507_001_001_access_small.json",
+        "url": "./transcripts/c000507_001_001_access_small.json",
         "name": "Forest J. Ackerman Interview Raw (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/3/pages/page_0/files/c000507_001_003_access.mp3",
-        "url": "/transcripts/c000507_001_003_access_small.json",
+        "url": "./transcripts/c000507_001_003_access_small.json",
         "name": "Brian Aldis (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/4/pages/page_0/files/c000507_001_004_access.mp3",
-        "url": "/transcripts/c000507_001_004_access_small.json",
+        "url": "./transcripts/c000507_001_004_access_small.json",
         "name": "Brian Aldis Master #32-82 (small)"
     },
     {
