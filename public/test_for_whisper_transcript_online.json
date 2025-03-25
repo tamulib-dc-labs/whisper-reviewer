@@ -473,5 +473,35 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/92/pages/page_0/files/c000507_004_003_access.mp3",
         "url": "./transcripts/c000507_004_003_access_base.json",
         "name": "George R. R. Martin (base)"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/92/pages/page_0/files/c000507_004_003_access.mp3",
+        "url": "./transcripts/c000507_004_003_access_tiny.json",
+        "name": "George R. R. Martin Interview (Tiny Model)"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/92/pages/page_0/files/c000507_004_003_access.mp3",
+        "url": "./transcripts/c000507_004_003_access_base.json",
+        "name": "George R. R. Martin Interview (Base Model)"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/92/pages/page_0/files/c000507_004_003_access.mp3",
+        "url": "./transcripts/c000507_004_003_access_small.json",
+        "name": "George R. R. Martin Interview (Small Model)"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/92/pages/page_0/files/c000507_004_003_access.mp3",
+        "url": "./transcripts/c000507_004_003_access_medium.json",
+        "name": "George R. R. Martin Interview (Medium Model)"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/92/pages/page_0/files/c000507_004_003_access.mp3",
+        "url": "./transcripts/c000507_004_003_access_large.json",
+        "name": "George R. R. Martin Interview (Large Model)"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/92/pages/page_0/files/c000507_004_003_access.mp3",
+        "url": "./transcripts/c000507_004_003_access_turbo.json",
+        "name": "George R. R. Martin Interview (Turbo Model)"
     }
 ]
