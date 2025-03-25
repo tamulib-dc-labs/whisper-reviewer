@@ -10,19 +10,19 @@ document.addEventListener("DOMContentLoaded", () => {
       dropdown.className = "border border-gray-300 rounded-lg p-2 my-4 font-serif";
 
       function hasName(file: unknown): file is { name: string } {
-  return !!file && typeof file === 'object' && 'name' in file;
-}
+        return !!file && typeof file === 'object' && 'name' in file;
+      }
 
-    mediaFiles.forEach((file, index) => {
-          if (hasName(file)) {
-            const option = document.createElement("option");
-            option.value = index.toString();
-            option.textContent = file.name;
-            dropdown.appendChild(option);
-          } else {
-            console.error("File is missing 'name' property:", file);
-          }
-    });
+      const validMediaFiles = mediaFiles.filter(hasName);
+
+      validMediaFiles.sort((a, b) => a.name.localeCompare(b.name));
+
+      validMediaFiles.forEach((file, index) => {
+        const option = document.createElement("option");
+        option.value = index.toString();
+        option.textContent = file.name;
+        dropdown.appendChild(option);
+      });
 
       document.body.appendChild(dropdown);
 
@@ -30,7 +30,7 @@ document.addEventListener("DOMContentLoaded", () => {
       document.body.appendChild(whisperElement);
 
       const updateWhisperTranscript = (index: number) => {
-        const selectedFile = mediaFiles[index];
+        const selectedFile = validMediaFiles[index];
 
         document.body.removeChild(whisperElement);
 
@@ -39,7 +39,6 @@ document.addEventListener("DOMContentLoaded", () => {
         whisperElement.setAttribute("url", selectedFile.url);
 
         document.body.appendChild(whisperElement);
-
       };
 
       dropdown.addEventListener("change", (event) => {
