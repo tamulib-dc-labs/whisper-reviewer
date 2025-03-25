@@ -455,21 +455,6 @@
         "name": "James Gunn (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/89/pages/page_0/files/c000507_003_031_access.mp3",
-        "url": "./transcripts/c000507_003_031_access_small.json",
-        "name": "Robert E. Howard Scott Brown (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/90/pages/page_0/files/c000507_003_032_access.mp3",
-        "url": "./transcripts/c000507_003_032_access_small.json",
-        "name": "Robert E. Howard 5 (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/91/pages/page_0/files/c000507_003_033_access.mp3",
-        "url": "./transcripts/c000507_003_033_access_small.json",
-        "name": "Howard (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/92/pages/page_0/files/c000507_004_003_access.mp3",
         "url": "./transcripts/c000507_004_003_access_base.json",
         "name": "George R. R. Martin (base)"
@@ -503,5 +488,35 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/92/pages/page_0/files/c000507_004_003_access.mp3",
         "url": "./transcripts/c000507_004_003_access_turbo.json",
         "name": "George R. R. Martin Interview (Turbo Model)"
+    },
+        {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/89/pages/page_0/files/c000507_003_031_access.mp3",
+        "url": "./transcripts/demo/c000507_003_031_access_base.json",
+        "name": "Robert E. Howard Scott Brown (base)"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/89/pages/page_0/files/c000507_003_031_access.mp3",
+        "url": "./transcripts/demo/c000507_003_031_access_small.json",
+        "name": "Robert E. Howard Scott Brown (small)"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/90/pages/page_0/files/c000507_003_032_access.mp3",
+        "url": "./transcripts/demo/c000507_003_032_access_base.json",
+        "name": "Robert E. Howard 5 (base)"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/90/pages/page_0/files/c000507_003_032_access.mp3",
+        "url": "./transcripts/demo/c000507_003_032_access_small.json",
+        "name": "Robert E. Howard 5 (small)"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/91/pages/page_0/files/c000507_003_033_access.mp3",
+        "url": "./transcripts/demo/c000507_003_033_access_base.json",
+        "name": "Howard (base)"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/91/pages/page_0/files/c000507_003_033_access.mp3",
+        "url": "./transcripts/demo/c000507_003_033_access_small.json",
+        "name": "Howard (small)"
     }
 ]
