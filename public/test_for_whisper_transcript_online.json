@@ -489,7 +489,7 @@
         "url": "./transcripts/c000507_004_003_access_turbo.json",
         "name": "George R. R. Martin Interview (Turbo Model)"
     },
-        {
+    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/89/pages/page_0/files/c000507_003_031_access.mp3",
         "url": "./transcripts/c000507_003_031_access_base.json",
         "name": "Robert E. Howard Scott Brown (base)"
@@ -1368,5 +1368,10 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/27/pages/page_0/files/c000507_005_024_access.mp3",
         "url": "./transcripts/c000507_005_024_access_small.json",
         "name": "Time Travel (small)"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/92/pages/page_0/files/c000507_007_013b_access.mp3",
+        "url": "./transcripts/c000507_007_013b_access_turbo.json",
+        "name": "Whelan (Turbo) - Corina"
     }
 ]
