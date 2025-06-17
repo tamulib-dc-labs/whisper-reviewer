@@ -1,0 +1,49 @@
+name: Validate Changed WebVTT Files
+
+on:
+  pull_request:
+    paths:
+      - '**.vtt'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install webvtt-py
+
+      - name: Get list of changed .vtt files
+        id: changed
+        uses: tj-actions/changed-files@v44
+        with:
+          files: '**.vtt'
+
+      - name: Run VTT validator on changed files
+        run: |
+          python <<EOF
+          import webvtt
+          import sys
+
+          files = "${{ steps.changed.outputs.all_changed_files }}".split()
+          all_valid = True
+
+          for path in files:
+              try:
+                  webvtt.read(path)
+                  print(f"✅ Valid: {path}")
+              except Exception as e:
+                  print(f"❌ Invalid: {path} - {e}")
+                  all_valid = False
+
+          if not all_valid:
+              sys.exit(1)
+          EOF
