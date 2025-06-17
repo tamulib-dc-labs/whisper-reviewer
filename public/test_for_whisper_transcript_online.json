@@ -1463,5 +1463,55 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/5/pages/page_0/files/c000507_005_003_access.mp3",
         "url": "./transcripts/c000507_005_003_access_turbo.json",
         "name": "Science Fiction Radio Show Master #44-82 Clifford Simak (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/27/pages/page_0/files/c000507_001_025_access.mp3",
+        "url": "./transcripts/c000507_001_025_access_turbo.json",
+        "name": "M. Z. Bradley Master #49-82 (Turbo) - Mark"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/41/pages/page_0/files/c000507_001_038_access.mp3",
+        "url": "./transcripts/c000507_001_038_access_turbo.json",
+        "name": "Jack Chalker #37-82 (Turbo) - Mark"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/15/pages/page_0/files/c000507_001_015_access.mp3",
+        "url": "./transcripts/c000507_001_015_access_turbo.json",
+        "name": "Michael Bishop/Dr. J. Eric Holmes, D&D (Turbo) - Mark"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/29/pages/page_0/files/c000507_001_027_access.mp3",
+        "url": "./transcripts/c000507_001_027_access_turbo.json",
+        "name": "Charles Brown & Ardath Mayhar (Turbo) - Mark"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/75/pages/page_0/files/c000507_002_035_access.mp3",
+        "url": "./transcripts/c000507_002_035_access_turbo.json",
+        "name": "P. J. Farmer Master #39-82 (Turbo) - Mark"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/36/pages/page_0/files/c000507_001_033_access.mp3",
+        "url": "./transcripts/c000507_001_033_access_turbo.json",
+        "name": "Cataclysm (Turbo) - Mark"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/3/pages/page_0/files/c000507_001_003_access.mp3",
+        "url": "./transcripts/c000507_001_003_access_turbo.json",
+        "name": "Brian Aldis (Turbo) - Mark"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/40/pages/page_0/files/c000507_001_037_access.mp3",
+        "url": "./transcripts/c000507_001_037_access_turbo.json",
+        "name": "Jack Chalker (Turbo) - Mark"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/30/pages/page_0/files/c000507_001_028_access.mp3",
+        "url": "./transcripts/c000507_001_028_access_turbo.json",
+        "name": "Ed Bryant (Turbo) - Mark"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/31/pages/page_0/files/c000507_001_029_access.mp3",
+        "url": "./transcripts/c000507_001_029_access_turbo.json",
+        "name": "Ed Bryant Master #29-82 (Turbo) - Mark"
     }
 ]
