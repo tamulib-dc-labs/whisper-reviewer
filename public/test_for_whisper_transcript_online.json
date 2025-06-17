@@ -1383,5 +1383,55 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/4/pages/page_0/files/c000507_005_002_access.mp3",
         "url": "./transcripts/c000507_005_002_access_turbo.json",
         "name": "Clifford Simak (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/58/pages/page_0/files/c000507_006_018_access.mp3",
+        "url": "./transcripts/c000507_006_018_access_turbo.json",
+        "name": "Donald Wollheim (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/39/pages/page_0/files/c000507_006_002_access.mp3",
+        "url": "./transcripts/c000507_006_002_access_turbo.json",
+        "name": "Collecting: Bob Wayne, John Meux (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/57/pages/page_0/files/c000507_006_017_access.mp3",
+        "url": "./transcripts/c000507_006_017_access_turbo.json",
+        "name": "Gene Wolfe (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/32/pages/page_0/files/c000507_005_029_access.mp3",
+        "url": "./transcripts/c000507_005_029_access_turbo.json",
+        "name": "CK Vance (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/62/pages/page_0/files/c000507_006_021_access.mp3",
+        "url": "./transcripts/c000507_006_021_access_turbo.json",
+        "name": "George Zebrowski (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/38/pages/page_0/files/c000507_006_001_access.mp3",
+        "url": "./transcripts/c000507_006_001_access_turbo.json",
+        "name": "Howard Waldrup (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/42/pages/page_0/files/c000507_006_005_access.mp3",
+        "url": "./transcripts/c000507_006_005_access_turbo.json",
+        "name": "M. Whelan/R. Curtis (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/37/pages/page_0/files/c000507_005_034_access.mp3",
+        "url": "./transcripts/c000507_005_034_access_turbo.json",
+        "name": "Joan Vinge Interview (SF Radio Show) (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/9/pages/page_0/files/c000507_005_007_access.mp3",
+        "url": "./transcripts/c000507_005_007_access_turbo.json",
+        "name": "Joan Slonczewaki (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/48/pages/page_0/files/c000507_006_009_access.mp3",
+        "url": "./transcripts/c000507_006_009_access_turbo.json",
+        "name": "Paul Williams on Philip K. Dick (Turbo) - Corina"
     }
 ]
