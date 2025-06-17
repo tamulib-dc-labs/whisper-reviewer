@@ -1378,5 +1378,10 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/7/pages/page_0/files/c000507_005_005_access.mp3",
         "url": "./transcripts/c000507_005_005_access_turbo.json",
         "name": "Kirpal Singh Interview Raw 9/4/81 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/4/pages/page_0/files/c000507_005_002_access.mp3",
+        "url": "./transcripts/c000507_005_002_access_turbo.json",
+        "name": "Clifford Simak (Turbo) - Corina"
     }
 ]
