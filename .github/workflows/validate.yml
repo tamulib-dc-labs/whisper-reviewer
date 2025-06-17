@@ -27,23 +27,54 @@ jobs:
         with:
           files: '**.vtt'
 
-      - name: Run VTT validator on changed files
+      - name: Validate changed .vtt files
         run: |
+          files="${{ steps.diff.outputs.files }}"
+          if [ -z "$files" ]; then
+            echo "No .vtt files changed."
+            exit 0
+          fi
+      
           python <<EOF
-          import webvtt
           import sys
-
-          files = "${{ steps.changed.outputs.all_changed_files }}".split()
+          import re
+          import webvtt
+      
+          def is_valid_timecode(tc):
+              return re.match(r'^(\d{2}:)?\d{2}:\d{2}\.\d{3}$', tc)
+      
+          def validate_arrow_line(line):
+              if '-->' not in line:
+                  return False
+              parts = [p.strip() for p in line.split('-->')]
+              if len(parts) != 2:
+                  return False
+              return all(is_valid_timecode(p) for p in parts)
+      
+          def strict_validate(file):
+              with open(file, 'r', encoding='utf-8') as f:
+                  for line in f:
+                      line = line.strip()
+                      if re.match(r'^\d{2}:\d{2}:\d{2}\.\d{3} --> \d{2}:\d{2}:\d{2}\.\d{3}', line) or \
+                         re.match(r'^\d{2}:\d{2}\.\d{3} --> \d{2}:\d{2}\.\d{3}', line):
+                          if not validate_arrow_line(line):
+                              raise ValueError(f"Invalid cue timing format: {line}")
+                      elif re.search(r'--?>', line):  # catches '->' or '==>'
+                          if not validate_arrow_line(line):
+                              raise ValueError(f"Malformed timing line: {line}")
+      
+          files = "${{ steps.diff.outputs.files }}".split()
           all_valid = True
-
+      
           for path in files:
               try:
                   webvtt.read(path)
+                  strict_validate(path)
                   print(f"✅ Valid: {path}")
               except Exception as e:
                   print(f"❌ Invalid: {path} - {e}")
                   all_valid = False
-
+      
           if not all_valid:
               sys.exit(1)
           EOF
