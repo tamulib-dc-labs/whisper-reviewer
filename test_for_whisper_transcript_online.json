@@ -1433,5 +1433,35 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/48/pages/page_0/files/c000507_006_009_access.mp3",
         "url": "./transcripts/c000507_006_009_access_turbo.json",
         "name": "Paul Williams on Philip K. Dick (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/15/pages/page_0/files/c000507_005_013_access.mp3",
+        "url": "./transcripts/c000507_005_013_access_turbo.json",
+        "name": "Science Fiction Radio Show Master #30-82 Norman Spinrad (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/72/pages/page_0/files/c000507_006_030b_access.mp3",
+        "url": "./transcripts/c000507_006_030b_access_turbo.json",
+        "name": "Science Fiction Radio Show Program Number 30-82 Spinrad 1-4, Hogan \"Yesteryear\" 1982 Master (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/71/pages/page_0/files/c000507_006_030a_access.mp3",
+        "url": "./transcripts/c000507_006_030a_access_turbo.json",
+        "name": "Science Fiction Radio Show Program Number 31-82 Hogan 1-5 1982 Master (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/31/pages/page_0/files/c000507_005_028_access.mp3",
+        "url": "./transcripts/c000507_005_028_access_turbo.json",
+        "name": "Science Fiction Radio Show Master #34-82 Jack Vance (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/65/pages/page_0/files/c000507_006_024_access.mp3",
+        "url": "./transcripts/c000507_006_024_access_turbo.json",
+        "name": "Science Fiction Radio Show Master #28-82 Roger Zelazny (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/5/pages/page_0/files/c000507_005_003_access.mp3",
+        "url": "./transcripts/c000507_005_003_access_turbo.json",
+        "name": "Science Fiction Radio Show Master #44-82 Clifford Simak (Turbo) - Corina"
     }
 ]
