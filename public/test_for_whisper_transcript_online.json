@@ -1538,5 +1538,45 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/47/pages/page_0/files/c000507_006_008_access.mp3",
         "url": "./transcripts/c000507_006_008_access_turbo.json",
         "name": "SFRS: Paul O. Williams (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/41/pages/page_0/files/c000507_006_004_access.mp3",
+        "url": "./transcripts/c000507_006_004_access_turbo.json",
+        "name": "Wayne Comix ie SF Poetry 345 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/59/pages/page_0/files/c000507_006_019_access.mp3",
+        "url": "./transcripts/c000507_006_019_access_turbo.json",
+        "name": "World building (Science Fiction Radio Show) (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/23/pages/page_0/files/c000507_005_020_access.mp3",
+        "url": "./transcripts/c000507_005_020_access_turbo.json",
+        "name": "Theodore Sturgeon (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/24/pages/page_0/files/c000507_005_021_access.mp3",
+        "url": "./transcripts/c000507_005_021_access_turbo.json",
+        "name": "Theodore Sturgeon #2 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/27/pages/page_0/files/c000507_005_024_access.mp3",
+        "url": "./transcripts/c000507_005_024_access_turbo.json",
+        "name": "Time Travel (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/83/pages/page_0/files/c000507_007_007a_access.mp3",
+        "url": "./transcripts/c000507_007_007a_access_turbo.json",
+        "name": "Science Fiction Radio Show Master, Warren Norwood (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/66/pages/page_0/files/c000507_006_025_access.mp3",
+        "url": "./transcripts/c000507_006_025_access_turbo.json",
+        "name": "Zelazny (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/53/pages/page_0/files/c000507_006_014_access.mp3",
+        "url": "./transcripts/c000507_006_014_access_turbo.json",
+        "name": "Williamson Pt 3 (Turbo) - Corina"
     }
 ]
