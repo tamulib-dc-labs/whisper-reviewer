@@ -1513,5 +1513,30 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/31/pages/page_0/files/c000507_001_029_access.mp3",
         "url": "./transcripts/c000507_001_029_access_turbo.json",
         "name": "Ed Bryant Master #29-82 (Turbo) - Mark"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/19/pages/page_0/files/c000507_005_017_access.mp3",
+        "url": "./transcripts/c000507_005_017_access_turbo.json",
+        "name": "Spinrad/Hogan (Voyage to Yesterday) (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/10/pages/page_0/files/c000507_005_008_access.mp3",
+        "url": "./transcripts/c000507_005_008_access_turbo.json",
+        "name": "Social Science Fiction and Satire (SF Radio Show) (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/11/pages/page_0/files/c000507_005_009_access.mp3",
+        "url": "./transcripts/c000507_005_009_access_turbo.json",
+        "name": "Space Exploration [SF Radio Show] (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/54/pages/page_0/files/c000507_006_015_access.mp3",
+        "url": "./transcripts/c000507_006_015_access_turbo.json",
+        "name": "Science fiction Radio Show Tape 1 Williamson, et al (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/47/pages/page_0/files/c000507_006_008_access.mp3",
+        "url": "./transcripts/c000507_006_008_access_turbo.json",
+        "name": "SFRS: Paul O. Williams (Turbo) - Corina"
     }
 ]
