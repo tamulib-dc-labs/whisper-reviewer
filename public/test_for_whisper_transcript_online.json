@@ -1578,5 +1578,30 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/53/pages/page_0/files/c000507_006_014_access.mp3",
         "url": "./transcripts/c000507_006_014_access_turbo.json",
         "name": "Williamson Pt 3 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/28/pages/page_0/files/c000507_005_025_access.mp3",
+        "url": "./transcripts/c000507_005_025_access_tiny.json",
+        "name": "Underwood/Miller Tape 1 Raw (Tiny) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/29/pages/page_0/files/c000507_005_026_access.mp3",
+        "url": "./transcripts/c000507_005_026_access_tiny.json",
+        "name": "Underwood/Miller Tape 2 Raw (Tiny) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/25/pages/page_0/files/c000507_005_022_access.mp3",
+        "url": "./transcripts/c000507_005_022_access_tiny.json",
+        "name": "Sturgeon (Tiny) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/30/pages/page_0/files/c000507_005_027_access.mp3",
+        "url": "./transcripts/c000507_005_027_access_tiny.json",
+        "name": "A.E. Van Vogt/Madrigal Singers (ConClave IV-1979) (Tiny) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/26/pages/page_0/files/c000507_005_023_access.mp3",
+        "url": "./transcripts/c000507_005_023_access_tiny.json",
+        "name": "Sturgeon, Biggle, Odbert 177 (Tiny) - Corina"
     }
 ]
