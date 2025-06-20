@@ -52,7 +52,7 @@
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/12/pages/page_0/files/c000507_001_012_access.mp3",
         "url": "./transcripts/c000507_001_012_access_small.json",
-        "name": "Wizard of Oz, Frank Baum (small)"
+        "name": "Wizard of Oz, Frank Baum (small) - Corina"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/13/pages/page_0/files/c000507_001_013_access.mp3",
@@ -177,7 +177,7 @@
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/37/pages/page_0/files/c000507_001_034_access.mp3",
         "url": "./transcripts/c000507_001_034_access_small.json",
-        "name": "A Close Encounter with the Center for UFO Studies with Dr. Richard Haines (small)"
+        "name": "A Close Encounter with the Center for UFO Studies with Dr. Richard Haines (small) - Corina"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/38/pages/page_0/files/c000507_001_035_access.mp3",
@@ -1242,7 +1242,7 @@
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/68/pages/page_0/files/c000507_006_027_access.mp3",
         "url": "./transcripts/c000507_006_027_access_small.json",
-        "name": "53 (small)"
+        "name": "53 (small) - Corina"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/31/pages/page_0/files/c000507_005_028_access.mp3",
@@ -1603,5 +1603,30 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/26/pages/page_0/files/c000507_005_023_access.mp3",
         "url": "./transcripts/c000507_005_023_access_tiny.json",
         "name": "Sturgeon, Biggle, Odbert 177 (Tiny) - Corina"
+        },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/55/pages/page_0/files/c000507_004_019_access.mp3",
+        "url": "./transcripts/c000507_004_019_access_turbo.json",
+        "name": "Chad Oliver (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/79/pages/page_0/files/c000507_004_041_access.mp3",
+        "url": "./transcripts/c000507_004_041_access_turbo.json",
+        "name": "Charles Sheffield (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/14/pages/page_0/files/c000507_003_018_access.mp3",
+        "url": "./transcripts/c000507_003_018_access_turbo.json",
+        "name": "Charles Harness (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/60/pages/page_0/files/c000507_004_024_access.mp3",
+        "url": "./transcripts/c000507_004_024_access_turbo.json",
+        "name": "Andy Porter/Joe Mayhew (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/80/pages/page_0/files/c000507_004_042_access.mp3",
+        "url": "./transcripts/c000507_004_042_access_turbo.json",
+        "name": "Charles Sheffield & M. Zimmer Bradley (Turbo) - Corina"
     }
 ]
