@@ -579,7 +579,6 @@
         "url": "./transcripts/c000507_003_017_1_access_small.json",
         "name": "Charles Harness Master Side 1 & 2 (small)"
     },
-
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/67/pages/page_0/files/c000507_004_031_access.mp3",
         "url": "./transcripts/c000507_004_031_access_small.json",
@@ -825,7 +824,6 @@
         "url": "./transcripts/c000507_007_003b_access_small.json",
         "name": "Harrison Side 2 (small)"
     },
-
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/73/pages/page_0/files/c000507_006_031a_access.mp3",
         "url": "./transcripts/c000507_006_031a_access_small.json",
@@ -911,7 +909,6 @@
         "url": "./transcripts/c000507_005_030_access_small.json",
         "name": "Jack Vance Part 1 (small)"
     },
-
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/63/pages/page_0/files/c000507_006_022_access.mp3",
         "url": "./transcripts/c000507_006_022_access_small.json",
@@ -967,7 +964,6 @@
         "url": "./transcripts/c000507_005_012_access_small.json",
         "name": "Norman Spinrad Raw Pt. 2 (small)"
     },
-
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/88/pages/page_0/files/c000507_007_010a_access.mp3",
         "url": "./transcripts/c000507_007_010a_access_small.json",
@@ -993,7 +989,6 @@
         "url": "./transcripts/c000507_007_012b_access_small.json",
         "name": "Waldron Side 2 (small)"
     },
-
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/58/pages/page_0/files/c000507_006_018_access.mp3",
         "url": "./transcripts/c000507_006_018_access_small.json",
@@ -1144,7 +1139,6 @@
         "url": "./transcripts/c000507_007_003a_access_small.json",
         "name": "Science Fiction Radio Show Master, Harry Harrison (small)"
     },
-
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/25/pages/page_0/files/c000507_005_022_access.mp3",
         "url": "./transcripts/c000507_005_022_access_small.json",
@@ -1399,5 +1393,30 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/80/pages/page_0/files/c000507_004_042_access.mp3",
         "url": "./transcripts/c000507_004_042_access_turbo.json",
         "name": "Charles Sheffield & M. Zimmer Bradley (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/5/pages/page_0/files/c000507_003_010_access.mp3",
+        "url": "./transcripts/c000507_003_010_access_turbo.json",
+        "name": "Gunn Sch./Tolkien/Ing (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/34/pages/page_0/files/c000507_003_039_access.mp3",
+        "url": "./transcripts/c000507_003_039_access_turbo.json",
+        "name": "Damon Knight (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/11/pages/page_0/files/c000507_003_016_access.mp3",
+        "url": "./transcripts/c000507_003_016_access_turbo.json",
+        "name": "Hard Science Fiction with Hal Clement (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/31/pages/page_0/files/c000507_003_036_access.mp3",
+        "url": "./transcripts/c000507_003_036_access_turbo.json",
+        "name": "Dean Ing (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/56/pages/page_0/files/c000507_004_020_access.mp3",
+        "url": "./transcripts/c000507_004_020_access_turbo.json",
+        "name": "Fredrick Pohl Interview (Turbo) - Corina"
     }
 ]
