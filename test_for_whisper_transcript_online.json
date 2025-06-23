@@ -445,11 +445,6 @@
         "name": "Science Fiction Radio Show Master #31-82 J. P. Hogan (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/41/pages/page_0/files/c000507_004_005_access.mp3",
-        "url": "./transcripts/c000507_004_005_access_small.json",
-        "name": "John Maex (Collecting) (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/77/pages/page_0/files/c000507_004_040_1_access.mp3",
         "url": "./transcripts/c000507_004_040_1_access_small.json",
         "name": "Charles Sheffield Master Side 1 & 2 (small)"
@@ -706,11 +701,6 @@
         "name": "Science fiction Radio Show Master #33-82 (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/55/pages/page_0/files/c000507_004_019_access.mp3",
-        "url": "./transcripts/c000507_004_019_access_small.json",
-        "name": "Chad Oliver (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/52/pages/page_0/files/c000507_004_016_access.mp3",
         "url": "./transcripts/c000507_004_016_access_small.json",
         "name": "Warren Norwood (small)"
@@ -857,16 +847,6 @@
         "name": "Science Fiction Radio Show Master, Chad Oliver (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/71/pages/page_0/files/c000507_006_030a_access.mp3",
-        "url": "./transcripts/c000507_006_030a_access_small.json",
-        "name": "Science Fiction Radio Show Program Number 31-82 Hogan 1-5 1982 Master (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/42/pages/page_0/files/c000507_006_005_access.mp3",
-        "url": "./transcripts/c000507_006_005_access_small.json",
-        "name": "M. Whelan/R. Curtis (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/34/pages/page_0/files/c000507_005_031_access.mp3",
         "url": "./transcripts/c000507_005_031_access_small.json",
         "name": "Jack Vance, Tape 1, Lane, Master (small)"
@@ -874,12 +854,7 @@
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/50/pages/page_0/files/c000507_006_011_access.mp3",
         "url": "./transcripts/c000507_006_011_access_small.json",
-        "name": "Jack Williamson 1/2 Track Copy Pop Eliminater Used Tape 1 (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/37/pages/page_0/files/c000507_005_034_access.mp3",
-        "url": "./transcripts/c000507_005_034_access_small.json",
-        "name": "Joan Vinge Interview (SF Radio Show) (small)"
+        "name": "Jack Williarson 1/2 Track Copy Pop Eliminater Used Tape 1 (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/40/pages/page_0/files/c000507_006_003_access.mp3",
@@ -943,11 +918,6 @@
         "name": "Underwood/Miller Tape 1 Raw (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/9/pages/page_0/files/c000507_005_007_access.mp3",
-        "url": "./transcripts/c000507_005_007_access_small.json",
-        "name": "Joan Slonczewaki (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/45/pages/page_0/files/c000507_006_007_1_access.mp3",
         "url": "./transcripts/c000507_006_007_1_access_small.json",
         "name": "Paul O. Williams Side 1 & 2 Master (small)"
@@ -974,11 +944,6 @@
         "name": "Science Fiction Radio Show Master, George Proctor (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/15/pages/page_0/files/c000507_005_013_access.mp3",
-        "url": "./transcripts/c000507_005_013_access_small.json",
-        "name": "Science Fiction Radio Show Master #30-82 Norman Spinrad (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/46/pages/page_0/files/c000507_006_007_2_access.mp3",
         "url": "./transcripts/c000507_006_007_2_access_small.json",
         "name": "Paul O. Williams Side 1 & 2 Master (small)"
@@ -995,11 +960,6 @@
     },
 
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/58/pages/page_0/files/c000507_006_018_access.mp3",
-        "url": "./transcripts/c000507_006_018_access_small.json",
-        "name": "Donald Wollheim (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/74/pages/page_0/files/c000507_006_031b_access.mp3",
         "url": "./transcripts/c000507_006_031b_access_small.json",
         "name": "Tape 1 & 2 (small)"
@@ -1013,11 +973,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/20/pages/page_0/files/c000507_005_018_access.mp3",
         "url": "./transcripts/c000507_005_018_access_small.json",
         "name": "Radio Play: \"Stuck on the Shoulder of the Roadto SF\" (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/62/pages/page_0/files/c000507_006_021_access.mp3",
-        "url": "./transcripts/c000507_006_021_access_small.json",
-        "name": "George Zebrowski (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/7/pages/page_0/files/c000507_005_005_access.mp3",
@@ -1068,11 +1023,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/64/pages/page_0/files/c000507_006_023_access.mp3",
         "url": "./transcripts/c000507_006_023_access_small.json",
         "name": "Roger Zelazny Pt. 2 Raw (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/38/pages/page_0/files/c000507_006_001_access.mp3",
-        "url": "./transcripts/c000507_006_001_access_small.json",
-        "name": "Howard Waldrup (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/21/pages/page_0/files/c000507_005_019_1_access.mp3",
@@ -1133,11 +1083,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/17/pages/page_0/files/c000507_005_015_access.mp3",
         "url": "./transcripts/c000507_005_015_access_small.json",
         "name": "Spinrad 2 (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/72/pages/page_0/files/c000507_006_030b_access.mp3",
-        "url": "./transcripts/c000507_006_030b_access_small.json",
-        "name": "Science Fiction Radio Show Program Number 30-82 Spinrad 1-4, Hogan \"Yesteryear\" 1982 Master (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/78/pages/page_0/files/c000507_007_003a_access.mp3",
