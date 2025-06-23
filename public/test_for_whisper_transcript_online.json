@@ -1339,7 +1339,7 @@
         "url": "./transcripts/c000507_004_042_access_turbo.json",
         "name": "Charles Sheffield & M. Zimmer Bradley (Turbo) - Corina"
     },
-        {
+    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/5/pages/page_0/files/c000507_003_010_access.mp3",
         "url": "./transcripts/c000507_003_010_access_turbo.json",
         "name": "Gunn Sch./Tolkien/Ing (Turbo) - Corina"
@@ -1388,5 +1388,30 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/15/pages/page_0/files/c000507_003_019_access.mp3",
         "url": "./transcripts/c000507_003_019_access_turbo.json",
         "name": "Harry Harrison (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/10/pages/page_0/files/c000507_003_015_access.mp3",
+        "url": "./transcripts/c000507_003_015_access_turbo.json",
+        "name": "Joe Haldeman Interview (SF Radio Show) (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/9/pages/page_0/files/c000507_003_014_access.mp3",
+        "url": "./transcripts/c000507_003_014_access_turbo.json",
+        "name": "Joe Haldeman (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/62/pages/page_0/files/c000507_004_026_access.mp3",
+        "url": "./transcripts/c000507_004_026_access_turbo.json",
+        "name": "Jerry Pournelle Interview (mixed master) 30 min (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/53/pages/page_0/files/c000507_004_017_access.mp3",
+        "url": "./transcripts/c000507_004_017_access_turbo.json",
+        "name": "Kevin O'Donnell (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/46/pages/page_0/files/c000507_004_009_access.mp3",
+        "url": "./transcripts/c000507_004_009_access_turbo.json",
+        "name": "Janet Morris (Turbo) - Corina"
     }
 ]
