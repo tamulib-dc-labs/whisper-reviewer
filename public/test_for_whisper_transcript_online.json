@@ -852,7 +852,7 @@
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/50/pages/page_0/files/c000507_006_011_access.mp3",
         "url": "./transcripts/c000507_006_011_access_small.json",
-        "name": "Jack Williarson 1/2 Track Copy Pop Eliminater Used Tape 1 (small)"
+        "name": "Jack Williamson 1/2 Track Copy Pop Eliminater Used Tape 1 (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/40/pages/page_0/files/c000507_006_003_access.mp3",
@@ -1339,7 +1339,7 @@
         "url": "./transcripts/c000507_004_042_access_turbo.json",
         "name": "Charles Sheffield & M. Zimmer Bradley (Turbo) - Corina"
     },
-    {
+        {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/5/pages/page_0/files/c000507_003_010_access.mp3",
         "url": "./transcripts/c000507_003_010_access_turbo.json",
         "name": "Gunn Sch./Tolkien/Ing (Turbo) - Corina"
@@ -1363,5 +1363,30 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/56/pages/page_0/files/c000507_004_020_access.mp3",
         "url": "./transcripts/c000507_004_020_access_turbo.json",
         "name": "Fredrick Pohl Interview (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/21/pages/page_0/files/c000507_003_025_access.mp3",
+        "url": "./transcripts/c000507_003_025_access_turbo.json",
+        "name": "James P. Hogan (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/16/pages/page_0/files/c000507_003_020_access.mp3",
+        "url": "./transcripts/c000507_003_020_access_turbo.json",
+        "name": "Harry Harrison/George Proctor (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/19/pages/page_0/files/c000507_003_023_access.mp3",
+        "url": "./transcripts/c000507_003_023_access_turbo.json",
+        "name": "Hogan (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/28/pages/page_0/files/c000507_003_034_access.mp3",
+        "url": "./transcripts/c000507_003_034_access_turbo.json",
+        "name": "Hugo & Nebula Show: Chalker/Cherryh, Pohl/Joan Vinge (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/15/pages/page_0/files/c000507_003_019_access.mp3",
+        "url": "./transcripts/c000507_003_019_access_turbo.json",
+        "name": "Harry Harrison (Turbo) - Corina"
     }
 ]
