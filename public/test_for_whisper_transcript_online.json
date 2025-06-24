@@ -435,11 +435,6 @@
         "name": "Howard (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/46/pages/page_0/files/c000507_004_009_access.mp3",
-        "url": "./transcripts/c000507_004_009_access_small.json",
-        "name": "Janet Morris (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/22/pages/page_0/files/c000507_003_026_access.mp3",
         "url": "./transcripts/c000507_003_026_access_small.json",
         "name": "Science Fiction Radio Show Master #31-82 J. P. Hogan (small)"
@@ -475,11 +470,6 @@
         "name": "Robots SF Radio Show (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/21/pages/page_0/files/c000507_003_025_access.mp3",
-        "url": "./transcripts/c000507_003_025_access_small.json",
-        "name": "James P. Hogan (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/76/pages/page_0/files/c000507_004_039_access.mp3",
         "url": "./transcripts/c000507_004_039_access_small.json",
         "name": "Science Fiction Music SFRS (small)"
@@ -503,11 +493,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/4/pages/page_0/files/c000507_003_009_access.mp3",
         "url": "./transcripts/c000507_003_009_access_small.json",
         "name": "James Gunn (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/62/pages/page_0/files/c000507_004_026_access.mp3",
-        "url": "./transcripts/c000507_004_026_access_small.json",
-        "name": "Jerry Pournelle Interview (mixed master) 30 min (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/33/pages/page_0/files/c000507_003_038_access.mp3",
@@ -548,11 +533,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/2/pages/page_0/files/c000507_003_008_1_access.mp3",
         "url": "./transcripts/c000507_003_008_1_access_small.json",
         "name": "James Gunn Master Side 1 & 2 (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/10/pages/page_0/files/c000507_003_015_access.mp3",
-        "url": "./transcripts/c000507_003_015_access_small.json",
-        "name": "Joe Haldeman Interview (SF Radio Show) (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/54/pages/page_0/files/c000507_004_018_access.mp3",
@@ -678,11 +658,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/49/pages/page_0/files/c000507_004_013_access.mp3",
         "url": "./transcripts/c000507_004_013_access_small.json",
         "name": "Larry Niven (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/9/pages/page_0/files/c000507_003_014_access.mp3",
-        "url": "./transcripts/c000507_003_014_access_small.json",
-        "name": "Joe Haldeman (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/30/pages/page_0/files/c000507_003_035_2_access.mp3",
