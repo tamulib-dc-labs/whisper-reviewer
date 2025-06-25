@@ -1350,16 +1350,6 @@
         "name": "Janet Morris (Turbo) - Corina"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/53/pages/page_0/files/c000507_004_017_access.mp3",
-        "url": "./transcripts/c000507_004_017_access_turbo1.json",
-        "name": "Kevin O'Donnell (Turbo) - Corina beamsize 5"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/53/pages/page_0/files/c000507_004_017_access.mp3",
-        "url": "./transcripts/c000507_004_017_access_turbo2.json",
-        "name": "Kevin O'Donnell (Turbo) - Corina beamsize 8"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/17/pages/page_0/files/c000507_003_021_access.mp3",
         "url": "./transcripts/c000507_003_021_access_turbo.json",
         "name": "Robert A. Heinlein (SF Radio Show) (Turbo) - Corina"
