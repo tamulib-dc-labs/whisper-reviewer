@@ -1383,5 +1383,130 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/76/pages/page_0/files/c000507_004_039_access.mp3",
         "url": "./transcripts/c000507_004_039_access_turbo.json",
         "name": "Science Fiction Music SFRS (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/72/pages/page_0/files/c000507_002_032_access.mp3",
+        "url": "./transcripts/c000507_002_032_access_turbo.json",
+        "name": "Philip Jose Farmer (Turbo) - Mark"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/48/pages/page_0/files/c000507_002_006_access.mp3",
+        "url": "./transcripts/c000507_002_006_access_turbo.json",
+        "name": "Arthur C. Clarke Science Fiction Radio Show (Turbo) - Mark"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/8/pages/page_0/files/c000507_001_008_access.mp3",
+        "url": "./transcripts/c000507_001_008_access_turbo.json",
+        "name": "Poul Anderson (Turbo) - Mark"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/14/pages/page_0/files/c000507_001_014_access.mp3",
+        "url": "./transcripts/c000507_001_014_access_turbo.json",
+        "name": "Gregory Benford (Turbo) - Mark"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/38/pages/page_0/files/c000507_004_001_access.mp3",
+        "url": "./transcripts/c000507_004_001_access_turbo.json",
+        "name": "Science Fiction Radio show Master # 27-82 George R.R. Martin (Turbo) - Mark"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/10/pages/page_0/files/c000507_001_010_access.mp3",
+        "url": "./transcripts/c000507_001_010_access_turbo.json",
+        "name": "Piers Anthony (Turbo) - Mark"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/9/pages/page_0/files/c000507_001_009_access.mp3",
+        "url": "./transcripts/c000507_001_009_access_turbo.json",
+        "name": "Poul Anderson Master #42-82 (Turbo) - Mark"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/22/pages/page_0/files/c000507_001_021_access.mp3",
+        "url": "./transcripts/c000507_001_021_access_turbo.json",
+        "name": "Ray Bradbury (Turbo) - Mark"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/46/pages/page_0/files/c000507_002_004_access.mp3",
+        "url": "./transcripts/c000507_002_004_access_turbo.json",
+        "name": "C. J. Cherryh (Turbo) - Mark"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/23/pages/page_0/files/c000507_001_022_access.mp3",
+        "url": "./transcripts/c000507_001_022_access_turbo.json",
+        "name": "Ray Bradbury Master #40-82 (Turbo) - Mark"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/47/pages/page_0/files/c000507_002_005_access.mp3",
+        "url": "./transcripts/c000507_002_005_access_turbo.json",
+        "name": "C. J. Cherryh #41-82 (Turbo) - Mark"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/74/pages/page_0/files/c000507_002_034_access.mp3",
+        "url": "./transcripts/c000507_002_034_access_turbo.json",
+        "name": "Jose Farmer (Turbo) - Mark"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/24/pages/page_0/files/c000507_001_023_access.mp3",
+        "url": "./transcripts/c000507_001_023_access_turbo.json",
+        "name": "Ray Bradbury and Jessica A. Salmonson (Turbo) - Mark"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/67/pages/page_0/files/c000507_002_028_access.mp3",
+        "url": "./transcripts/c000507_002_028_access_turbo.json",
+        "name": "Roger Ebert/Williamson, Poul (Turbo) - Mark"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/83/pages/page_0/files/c000507_003_003_access.mp3",
+        "url": "./transcripts/c000507_003_003_access_turbo.json",
+        "name": "Robert Forward/Teresa Patterson (Turbo) - Mark"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/51/pages/page_0/files/c000507_002_009_access.mp3",
+        "url": "./transcripts/c000507_002_009_access_turbo.json",
+        "name": "Jo Clayton/Ann Maxwell (Turbo) - Mark"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/90/pages/page_0/files/c000507_003_032_access.mp3",
+        "url": "./transcripts/c000507_003_032_access_turbo.json",
+        "name": "Robert E. Howard 5 (Turbo) - Mark"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/35/pages/page_0/files/c000507_001_032_access.mp3",
+        "url": "./transcripts/c000507_001_032_access_turbo.json",
+        "name": "Terry Carr 46-82 (Turbo) - Mark"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/63/pages/page_0/files/c000507_002_023_access.mp3",
+        "url": "./transcripts/c000507_002_023_access_turbo.json",
+        "name": "Gordon Dickson (Turbo) - Mark"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/80/pages/page_0/files/c000507_003_001_access.mp3",
+        "url": "./transcripts/c000507_003_001_access_turbo.json",
+        "name": "Robert Forward (Turbo) - Mark"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/79/pages/page_0/files/c000507_002_040_access.mp3",
+        "url": "./transcripts/c000507_002_040_access_turbo.json",
+        "name": "Science fiction Radio show Master, Robert Forward #43-82 (Turbo) - Mark"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/84/pages/page_0/files/c000507_003_004_access.mp3",
+        "url": "./transcripts/c000507_003_004_access_turbo.json",
+        "name": "Future Histories: Sicence Fiction Radio Show (Turbo) - Mark"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/62/pages/page_0/files/c000507_002_022_access.mp3",
+        "url": "./transcripts/c000507_002_022_access_turbo.json",
+        "name": "Henson Dark Crystal Music Show (Turbo) - Mark"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/4/pages/page_0/files/c000507_001_004_access.mp3",
+        "url": "./transcripts/c000507_001_004_access_turbo.json",
+        "name": "Brian Aldis Master #32-82 (Turbo) - Mark"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/32/pages/page_0/files/c000507_001_030_access.mp3",
+        "url": "./transcripts/c000507_001_030_access_turbo.json",
+        "name": "Terry Carr (Turbo) - Mark"
     }
 ]
