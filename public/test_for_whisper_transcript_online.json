@@ -290,11 +290,6 @@
         "name": "Roger Ebert Master Side 1 (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/67/pages/page_0/files/c000507_002_028_access.mp3",
-        "url": "./transcripts/c000507_002_028_access_small.json",
-        "name": "Roger Ebert/Williamson, Poul (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/68/pages/page_0/files/c000507_002_029_access.mp3",
         "url": "./transcripts/c000507_002_029_access_small.json",
         "name": "Ellison 67 (small)"
@@ -350,11 +345,6 @@
         "name": "Science fiction Radio show Master, Robert Forward #43-82 (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/80/pages/page_0/files/c000507_003_001_access.mp3",
-        "url": "./transcripts/c000507_003_001_access_small.json",
-        "name": "Robert Forward (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/81/pages/page_0/files/c000507_003_002_1_access.mp3",
         "url": "./transcripts/c000507_003_002_1_access_small.json",
         "name": "Robert Forward Interview Raw Side 1 & 2 (small)"
@@ -363,11 +353,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/82/pages/page_0/files/c000507_003_002_2_access.mp3",
         "url": "./transcripts/c000507_003_002_2_access_small.json",
         "name": "Robert Forward Interview Raw Side 1 & 2 (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/83/pages/page_0/files/c000507_003_003_access.mp3",
-        "url": "./transcripts/c000507_003_003_access_small.json",
-        "name": "Robert Forward/Teresa Patterson (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/84/pages/page_0/files/c000507_003_004_access.mp3",
@@ -425,11 +410,6 @@
         "name": "Robert E. Howard Scott Brown (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/90/pages/page_0/files/c000507_003_032_access.mp3",
-        "url": "./transcripts/c000507_003_032_access_small.json",
-        "name": "Robert E. Howard 5 (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/91/pages/page_0/files/c000507_003_033_access.mp3",
         "url": "./transcripts/c000507_003_033_access_small.json",
         "name": "Howard (small)"
@@ -463,11 +443,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/29/pages/page_0/files/c000507_003_035_1_access.mp3",
         "url": "./transcripts/c000507_003_035_1_access_small.json",
         "name": "Dean Ing Master Side 1 & 2 (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/65/pages/page_0/files/c000507_004_029_access.mp3",
-        "url": "./transcripts/c000507_004_029_access_small.json",
-        "name": "Robots SF Radio Show (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/76/pages/page_0/files/c000507_004_039_access.mp3",
@@ -550,11 +525,6 @@
         "name": "Charles Harness Master Side 1 & 2 (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/67/pages/page_0/files/c000507_004_031_access.mp3",
-        "url": "./transcripts/c000507_004_031_access_small.json",
-        "name": "Saberhagen Tape 6 (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/61/pages/page_0/files/c000507_004_025_access.mp3",
         "url": "./transcripts/c000507_004_025_access_small.json",
         "name": "Jerry Pournelle Raw (small)"
@@ -618,11 +588,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/23/pages/page_0/files/c000507_003_027_access.mp3",
         "url": "./transcripts/c000507_003_027_access_small.json",
         "name": "James Hogan Interview Raw #1 (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/38/pages/page_0/files/c000507_004_001_access.mp3",
-        "url": "./transcripts/c000507_004_001_access_small.json",
-        "name": "Science Fiction Radio show Master # 27-82 George R.R. Martin (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/37/pages/page_0/files/c000507_003_042_access.mp3",
