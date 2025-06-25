@@ -580,11 +580,6 @@
         "name": "Pamela Sargent Interview Raw (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/17/pages/page_0/files/c000507_003_021_access.mp3",
-        "url": "./transcripts/c000507_003_021_access_small.json",
-        "name": "Robert A. Heinlein (SF Radio Show) (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/6/pages/page_0/files/c000507_003_011_access.mp3",
         "url": "./transcripts/c000507_003_011_access_small.json",
         "name": "Dr. Richard Hains (small)"
@@ -628,11 +623,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/38/pages/page_0/files/c000507_004_001_access.mp3",
         "url": "./transcripts/c000507_004_001_access_small.json",
         "name": "Science Fiction Radio show Master # 27-82 George R.R. Martin (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/53/pages/page_0/files/c000507_004_017_access.mp3",
-        "url": "./transcripts/c000507_004_017_access_small.json",
-        "name": "Kevin O'Donnell (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/37/pages/page_0/files/c000507_003_042_access.mp3",
@@ -698,11 +688,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/18/pages/page_0/files/c000507_003_022_access.mp3",
         "url": "./transcripts/c000507_003_022_access_small.json",
         "name": "Jim Henson Master (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/32/pages/page_0/files/c000507_003_037_access.mp3",
-        "url": "./transcripts/c000507_003_037_access_small.json",
-        "name": "Lewis Aggiecon/Dean Ing/Wollheim (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/51/pages/page_0/files/c000507_004_015_access.mp3",
