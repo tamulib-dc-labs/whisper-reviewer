@@ -120,11 +120,6 @@
         "name": "Charlie Brown (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/32/pages/page_0/files/c000507_001_030_access.mp3",
-        "url": "./transcripts/c000507_001_030_access_small.json",
-        "name": "Terry Carr (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/33/pages/page_0/files/c000507_001_031_1_access.mp3",
         "url": "./transcripts/c000507_001_031_1_access_small.json",
         "name": "Terry Carr Interview Side 1 & 2 (small)"
@@ -133,11 +128,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/34/pages/page_0/files/c000507_001_031_2_access.mp3",
         "url": "./transcripts/c000507_001_031_2_access_small.json",
         "name": "Terry Carr Interview Side 1 & 2 (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/35/pages/page_0/files/c000507_001_032_access.mp3",
-        "url": "./transcripts/c000507_001_032_access_small.json",
-        "name": "Terry Carr 46-82 (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/37/pages/page_0/files/c000507_001_034_access.mp3",
@@ -338,11 +328,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/78/pages/page_0/files/c000507_002_038_access.mp3",
         "url": "./transcripts/c000507_002_038_access_small.json",
         "name": "First Contact Pt. 2 (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/79/pages/page_0/files/c000507_002_040_access.mp3",
-        "url": "./transcripts/c000507_002_040_access_small.json",
-        "name": "Science fiction Radio show Master, Robert Forward #43-82 (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/81/pages/page_0/files/c000507_003_002_1_access.mp3",
@@ -588,11 +573,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/42/pages/page_0/files/c000507_004_006_access.mp3",
         "url": "./transcripts/c000507_004_006_access_small.json",
         "name": "Fred Meyer Master Int'l Wizard of Oz (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/52/pages/page_0/files/c000507_004_016_access.mp3",
-        "url": "./transcripts/c000507_004_016_access_small.json",
-        "name": "Warren Norwood (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/49/pages/page_0/files/c000507_004_013_access.mp3",
