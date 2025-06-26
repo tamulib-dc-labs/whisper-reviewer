@@ -1428,5 +1428,25 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/32/pages/page_0/files/c000507_001_030_access.mp3",
         "url": "./transcripts/c000507_001_030_access_turbo.json",
         "name": "Terry Carr (Turbo) - Mark"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/33/pages/page_0/files/c000507_003_038_access.mp3",
+        "url": "./transcripts/c000507_003_038_access_turbo.json",
+        "name": "Science Fiction Radio Show Master Lee Killough #23-82 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/12/pages/page_0/files/c000507_005_010_access.mp3",
+        "url": "./transcripts/c000507_005_010_access_turbo.json",
+        "name": "Space Exploration (SF Radio Show) (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/59/pages/page_0/files/c000507_004_023_access.mp3",
+        "url": "./transcripts/c000507_004_023_access_turbo.json",
+        "name": "Science Fiction Radio Show Tape 2 F. Pohl (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/47/pages/page_0/files/c000507_004_010_access.mp3",
+        "url": "./transcripts/c000507_004_010_access_turbo.json",
+        "name": "New Wave (Turbo) - Corina"
     }
 ]
