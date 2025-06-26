@@ -5,11 +5,6 @@
         "name": "Forest J. Ackerman Interview Raw (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/4/pages/page_0/files/c000507_001_004_access.mp3",
-        "url": "./transcripts/c000507_001_004_access_small.json",
-        "name": "Brian Aldis Master #32-82 (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/5/pages/page_0/files/c000507_001_005_access.mp3",
         "url": "./transcripts/c000507_001_005_access_small.json",
         "name": "Amsbury (small)"
@@ -178,16 +173,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/46/pages/page_0/files/c000507_002_004_access.mp3",
         "url": "./transcripts/c000507_002_004_access_small.json",
         "name": "C. J. Cherryh (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/47/pages/page_0/files/c000507_002_005_access.mp3",
-        "url": "./transcripts/c000507_002_005_access_small.json",
-        "name": "C. J. Cherryh #41-82 (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/48/pages/page_0/files/c000507_002_006_access.mp3",
-        "url": "./transcripts/c000507_002_006_access_small.json",
-        "name": "Arthur C. Clarke Science Fiction Radio Show (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/49/pages/page_0/files/c000507_002_007_access.mp3",
