@@ -50,11 +50,6 @@
         "name": "Gregory Benford Phone Interview Raw (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/14/pages/page_0/files/c000507_001_014_access.mp3",
-        "url": "./transcripts/c000507_001_014_access_small.json",
-        "name": "Gregory Benford (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/16/pages/page_0/files/c000507_001_016_1_access.mp3",
         "url": "./transcripts/c000507_001_016_1_access_small.json",
         "name": "Michael Bishop (small)"
@@ -170,11 +165,6 @@
         "name": "Cherryh Update P. Anthony (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/46/pages/page_0/files/c000507_002_004_access.mp3",
-        "url": "./transcripts/c000507_002_004_access_small.json",
-        "name": "C. J. Cherryh (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/49/pages/page_0/files/c000507_002_007_access.mp3",
         "url": "./transcripts/c000507_002_007_access_small.json",
         "name": "Arthur C. Clarke (2-2) (small)"
@@ -183,11 +173,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/50/pages/page_0/files/c000507_002_008_access.mp3",
         "url": "./transcripts/c000507_002_008_access_small.json",
         "name": "Jo Clayton Master (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/51/pages/page_0/files/c000507_002_009_access.mp3",
-        "url": "./transcripts/c000507_002_009_access_small.json",
-        "name": "Jo Clayton/Ann Maxwell (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/52/pages/page_0/files/c000507_002_010_access.mp3",
@@ -240,16 +225,6 @@
         "name": "De Camp (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/62/pages/page_0/files/c000507_002_022_access.mp3",
-        "url": "./transcripts/c000507_002_022_access_small.json",
-        "name": "Henson Dark Crystal Music Show (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/63/pages/page_0/files/c000507_002_023_access.mp3",
-        "url": "./transcripts/c000507_002_023_access_small.json",
-        "name": "Gordon Dickson (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/64/pages/page_0/files/c000507_002_024_access.mp3",
         "url": "./transcripts/c000507_002_024_access_small.json",
         "name": "Gordon Dickson Interview Master (small)"
@@ -285,19 +260,9 @@
         "name": "Philip Jose Farmer 1st Interview Master Raw (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/72/pages/page_0/files/c000507_002_032_access.mp3",
-        "url": "./transcripts/c000507_002_032_access_small.json",
-        "name": "Philip Jose Farmer (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/73/pages/page_0/files/c000507_002_033_access.mp3",
         "url": "./transcripts/c000507_002_033_access_small.json",
         "name": "Farmer (OZ) (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/74/pages/page_0/files/c000507_002_034_access.mp3",
-        "url": "./transcripts/c000507_002_034_access_small.json",
-        "name": "Jose Farmer (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/76/pages/page_0/files/c000507_002_036_access.mp3",
@@ -323,11 +288,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/82/pages/page_0/files/c000507_003_002_2_access.mp3",
         "url": "./transcripts/c000507_003_002_2_access_small.json",
         "name": "Robert Forward Interview Raw Side 1 & 2 (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/84/pages/page_0/files/c000507_003_004_access.mp3",
-        "url": "./transcripts/c000507_003_004_access_small.json",
-        "name": "Future Histories: Sicence Fiction Radio Show (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/85/pages/page_0/files/c000507_003_005_1_access.mp3",
@@ -1433,5 +1393,65 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/47/pages/page_0/files/c000507_004_010_access.mp3",
         "url": "./transcripts/c000507_004_010_access_turbo.json",
         "name": "New Wave (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/77/pages/page_0/files/c000507_002_037_access.mp3",
+        "url": "./transcripts/c000507_002_037_access_turbo.json",
+        "name": "First Contact Pt. 1 (Notes on back in green) (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/76/pages/page_0/files/c000507_002_036_access.mp3",
+        "url": "./transcripts/c000507_002_036_access_turbo.json",
+        "name": "First Contact Pt. 1 (Notes on back in red) (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/92/pages/page_0/files/c000507_004_003_access.mp3",
+        "url": "./transcripts/c000507_004_003_access_turbo.json",
+        "name": "George R. R. Martin (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/61/pages/page_0/files/c000507_002_021_access.mp3",
+        "url": "./transcripts/c000507_002_021_access_turbo.json",
+        "name": "De Camp (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/52/pages/page_0/files/c000507_002_010_access.mp3",
+        "url": "./transcripts/c000507_002_010_access_turbo.json",
+        "name": "Computers (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/78/pages/page_0/files/c000507_002_038_access.mp3",
+        "url": "./transcripts/c000507_002_038_access_turbo.json",
+        "name": "First Contact Pt. 2 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/91/pages/page_0/files/c000507_003_033_access.mp3",
+        "url": "./transcripts/c000507_003_033_access_turbo.json",
+        "name": "Howard (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/88/pages/page_0/files/c000507_003_007_access.mp3",
+        "url": "./transcripts/c000507_003_007_access_turbo.json",
+        "name": "James Gunn (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/65/pages/page_0/files/c000507_002_026_access.mp3",
+        "url": "./transcripts/c000507_002_026_access_turbo.json",
+        "name": "Early Science Fiction  (SF Radio Show) (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/55/pages/page_0/files/c000507_002_013_access.mp3",
+        "url": "./transcripts/c000507_002_013_access_turbo.json",
+        "name": "Clement (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/60/pages/page_0/files/c000507_002_020_access.mp3",
+        "url": "./transcripts/c000507_002_020_access_turbo.json",
+        "name": "Humor in S.F. with L. Sprague de Camp (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/51/pages/page_0/files/c000507_004_015_access.mp3",
+        "url": "./transcripts/c000507_004_015_access_turbo.json",
+        "name": "Larry Niven (Turbo) - Corina"
     }
 ]
