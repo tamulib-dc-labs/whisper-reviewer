@@ -320,11 +320,6 @@
         "name": "Robert Forward Interview Raw Side 1 & 2 (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/84/pages/page_0/files/c000507_003_004_access.mp3",
-        "url": "./transcripts/c000507_003_004_access_small.json",
-        "name": "Future Histories: Sicence Fiction Radio Show (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/85/pages/page_0/files/c000507_003_005_1_access.mp3",
         "url": "./transcripts/c000507_003_005_1_access_small.json",
         "name": "Mark Geston Master Side 1 & 2 (small)"
@@ -1427,6 +1422,56 @@
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/47/pages/page_0/files/c000507_004_010_access.mp3",
         "url": "./transcripts/c000507_004_010_access_turbo.json",
-        "name": "New Wave (Turbo) - Corina"
-    }
+        "name": "New Wave (Turbo) - Corina" 
+     },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/77/pages/page_0/files/c000507_002_037_access.mp3",
+        "url": "./transcripts/c000507_002_037_access_turbo.json",
+        "name": "First Contact Pt. 1 (Notes on back in green) (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/76/pages/page_0/files/c000507_002_036_access.mp3",
+        "url": "./transcripts/c000507_002_036_access_turbo.json",
+        "name": "First Contact Pt. 1 (Notes on back in red) (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/92/pages/page_0/files/c000507_004_003_access.mp3",
+        "url": "./transcripts/c000507_004_003_access_turbo.json",
+        "name": "George R. R. Martin (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/61/pages/page_0/files/c000507_002_021_access.mp3",
+        "url": "./transcripts/c000507_002_021_access_turbo.json",
+        "name": "De Camp (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/52/pages/page_0/files/c000507_002_010_access.mp3",
+        "url": "./transcripts/c000507_002_010_access_turbo.json",
+        "name": "Computers (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/78/pages/page_0/files/c000507_002_038_access.mp3",
+        "url": "./transcripts/c000507_002_038_access_turbo.json",
+        "name": "First Contact Pt. 2 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/91/pages/page_0/files/c000507_003_033_access.mp3",
+        "url": "./transcripts/c000507_003_033_access_turbo.json",
+        "name": "Howard (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/88/pages/page_0/files/c000507_003_007_access.mp3",
+        "url": "./transcripts/c000507_003_007_access_turbo.json",
+        "name": "James Gunn (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/65/pages/page_0/files/c000507_002_026_access.mp3",
+        "url": "./transcripts/c000507_002_026_access_turbo.json",
+        "name": "Early Science Fiction  (SF Radio Show) (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/55/pages/page_0/files/c000507_002_013_access.mp3",
+        "url": "./transcripts/c000507_002_013_access_turbo.json",
+        "name": "Clement (Turbo) - Corina"
+        }
 ]
