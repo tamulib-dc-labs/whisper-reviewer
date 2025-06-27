@@ -170,11 +170,6 @@
         "name": "Cherryh Update P. Anthony (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/46/pages/page_0/files/c000507_002_004_access.mp3",
-        "url": "./transcripts/c000507_002_004_access_small.json",
-        "name": "C. J. Cherryh (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/49/pages/page_0/files/c000507_002_007_access.mp3",
         "url": "./transcripts/c000507_002_007_access_small.json",
         "name": "Arthur C. Clarke (2-2) (small)"
