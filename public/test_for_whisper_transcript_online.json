@@ -260,19 +260,9 @@
         "name": "Philip Jose Farmer 1st Interview Master Raw (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/72/pages/page_0/files/c000507_002_032_access.mp3",
-        "url": "./transcripts/c000507_002_032_access_small.json",
-        "name": "Philip Jose Farmer (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/73/pages/page_0/files/c000507_002_033_access.mp3",
         "url": "./transcripts/c000507_002_033_access_small.json",
         "name": "Farmer (OZ) (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/74/pages/page_0/files/c000507_002_034_access.mp3",
-        "url": "./transcripts/c000507_002_034_access_small.json",
-        "name": "Jose Farmer (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/76/pages/page_0/files/c000507_002_036_access.mp3",
@@ -1458,5 +1448,10 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/60/pages/page_0/files/c000507_002_020_access.mp3",
         "url": "./transcripts/c000507_002_020_access_turbo.json",
         "name": "Humor in S.F. with L. Sprague de Camp (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/51/pages/page_0/files/c000507_004_015_access.mp3",
+        "url": "./transcripts/c000507_004_015_access_turbo.json",
+        "name": "Larry Niven (Turbo) - Corina"
     }
 ]
