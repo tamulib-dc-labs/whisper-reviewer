@@ -20,21 +20,6 @@
         "name": "Poul Anderson Raw Pt. 2 (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/8/pages/page_0/files/c000507_001_008_access.mp3",
-        "url": "./transcripts/c000507_001_008_access_small.json",
-        "name": "Poul Anderson (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/9/pages/page_0/files/c000507_001_009_access.mp3",
-        "url": "./transcripts/c000507_001_009_access_small.json",
-        "name": "Poul Anderson Master #42-82 (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/10/pages/page_0/files/c000507_001_010_access.mp3",
-        "url": "./transcripts/c000507_001_010_access_small.json",
-        "name": "Piers Anthony (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/11/pages/page_0/files/c000507_001_011_2_access.mp3",
         "url": "./transcripts/c000507_001_011_2_access_small.json",
         "name": "Piers Anthony Master Side 1 & 2 (small)"
@@ -78,21 +63,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/21/pages/page_0/files/c000507_001_020_access.mp3",
         "url": "./transcripts/c000507_001_020_access_small.json",
         "name": "Ray Bradbury Part II (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/22/pages/page_0/files/c000507_001_021_access.mp3",
-        "url": "./transcripts/c000507_001_021_access_small.json",
-        "name": "Ray Bradbury (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/23/pages/page_0/files/c000507_001_022_access.mp3",
-        "url": "./transcripts/c000507_001_022_access_small.json",
-        "name": "Ray Bradbury Master #40-82 (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/24/pages/page_0/files/c000507_001_023_access.mp3",
-        "url": "./transcripts/c000507_001_023_access_small.json",
-        "name": "Ray Bradbury and Jessica A. Salmonson (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/25/pages/page_0/files/c000507_001_024_1_access.mp3",
@@ -183,11 +153,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/53/pages/page_0/files/c000507_002_011_access.mp3",
         "url": "./transcripts/c000507_002_011_access_small.json",
         "name": "Hal Clement Raw (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/54/pages/page_0/files/c000507_002_012_access.mp3",
-        "url": "./transcripts/c000507_002_012_access_small.json",
-        "name": "Clement (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/55/pages/page_0/files/c000507_002_013_access.mp3",
@@ -340,11 +305,6 @@
         "name": "Robert E. Howard Scott Brown (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/91/pages/page_0/files/c000507_003_033_access.mp3",
-        "url": "./transcripts/c000507_003_033_access_small.json",
-        "name": "Howard (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/77/pages/page_0/files/c000507_004_040_1_access.mp3",
         "url": "./transcripts/c000507_004_040_1_access_small.json",
         "name": "Charles Sheffield Master Side 1 & 2 (small)"
@@ -388,11 +348,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/4/pages/page_0/files/c000507_003_009_access.mp3",
         "url": "./transcripts/c000507_003_009_access_small.json",
         "name": "James Gunn (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/33/pages/page_0/files/c000507_003_038_access.mp3",
-        "url": "./transcripts/c000507_003_038_access_small.json",
-        "name": "Science Fiction Radio Show Master Lee Killough #23-82 (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/35/pages/page_0/files/c000507_003_040_access.mp3",
@@ -540,34 +495,14 @@
         "name": "Jessica Salmonson Master side 1 (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/59/pages/page_0/files/c000507_004_023_access.mp3",
-        "url": "./transcripts/c000507_004_023_access_small.json",
-        "name": "Science Fiction Radio Show Tape 2 F. Pohl (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/40/pages/page_0/files/c000507_004_004_access.mp3",
         "url": "./transcripts/c000507_004_004_access_small.json",
         "name": "George R. R. Martin (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/47/pages/page_0/files/c000507_004_010_access.mp3",
-        "url": "./transcripts/c000507_004_010_access_small.json",
-        "name": "New Wave (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/18/pages/page_0/files/c000507_003_022_access.mp3",
         "url": "./transcripts/c000507_003_022_access_small.json",
         "name": "Jim Henson Master (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/51/pages/page_0/files/c000507_004_015_access.mp3",
-        "url": "./transcripts/c000507_004_015_access_small.json",
-        "name": "Larry Niven (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/48/pages/page_0/files/c000507_004_012_access.mp3",
-        "url": "./transcripts/c000507_004_012_access_small.json",
-        "name": "Larry niven Interview (SF Radio Show) (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/66/pages/page_0/files/c000507_004_030_access.mp3",
@@ -618,11 +553,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/8/pages/page_0/files/c000507_005_006_access.mp3",
         "url": "./transcripts/c000507_005_006_access_small.json",
         "name": "Joan Slonczewaki Interview with Bill Vernon Raw (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/12/pages/page_0/files/c000507_005_010_access.mp3",
-        "url": "./transcripts/c000507_005_010_access_small.json",
-        "name": "Space Exploration (SF Radio Show) (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/87/pages/page_0/files/c000507_007_009b_access.mp3",
