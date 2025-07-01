@@ -180,24 +180,9 @@
         "name": "L. Sprague de Camp Raw Pt. 2 (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/60/pages/page_0/files/c000507_002_020_access.mp3",
-        "url": "./transcripts/c000507_002_020_access_small.json",
-        "name": "Humor in S.F. with L. Sprague de Camp (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/61/pages/page_0/files/c000507_002_021_access.mp3",
-        "url": "./transcripts/c000507_002_021_access_small.json",
-        "name": "De Camp (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/64/pages/page_0/files/c000507_002_024_access.mp3",
         "url": "./transcripts/c000507_002_024_access_small.json",
         "name": "Gordon Dickson Interview Master (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/65/pages/page_0/files/c000507_002_026_access.mp3",
-        "url": "./transcripts/c000507_002_026_access_small.json",
-        "name": "Early Science Fiction (SF Radio Show) (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/66/pages/page_0/files/c000507_002_027_access.mp3",
@@ -230,21 +215,6 @@
         "name": "Farmer (OZ) (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/76/pages/page_0/files/c000507_002_036_access.mp3",
-        "url": "./transcripts/c000507_002_036_access_small.json",
-        "name": "First Contact Pt. 1 (Notes on back in red) (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/77/pages/page_0/files/c000507_002_037_access.mp3",
-        "url": "./transcripts/c000507_002_037_access_small.json",
-        "name": "First Contact Pt. 1 (Notes on back in green) (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/78/pages/page_0/files/c000507_002_038_access.mp3",
-        "url": "./transcripts/c000507_002_038_access_small.json",
-        "name": "First Contact Pt. 2 (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/81/pages/page_0/files/c000507_003_002_1_access.mp3",
         "url": "./transcripts/c000507_003_002_1_access_small.json",
         "name": "Robert Forward Interview Raw Side 1 & 2 (small)"
@@ -268,16 +238,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/87/pages/page_0/files/c000507_003_006_access.mp3",
         "url": "./transcripts/c000507_003_006_access_small.json",
         "name": "James Gunn (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/88/pages/page_0/files/c000507_003_007_access.mp3",
-        "url": "./transcripts/c000507_003_007_access_small.json",
-        "name": "James Gunn (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/92/pages/page_0/files/c000507_004_003_access.mp3",
-        "url": "./transcripts/c000507_004_003_access_base.json",
-        "name": "George R. R. Martin (base)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/92/pages/page_0/files/c000507_004_003_access.mp3",
@@ -493,11 +453,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/70/pages/page_0/files/c000507_004_034_access.mp3",
         "url": "./transcripts/c000507_004_034_access_small.json",
         "name": "Jessica Salmonson Master side 1 (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/40/pages/page_0/files/c000507_004_004_access.mp3",
-        "url": "./transcripts/c000507_004_004_access_small.json",
-        "name": "George R. R. Martin (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/18/pages/page_0/files/c000507_003_022_access.mp3",
