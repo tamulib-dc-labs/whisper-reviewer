@@ -240,26 +240,6 @@
         "name": "James Gunn (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/92/pages/page_0/files/c000507_004_003_access.mp3",
-        "url": "./transcripts/c000507_004_003_access_small.json",
-        "name": "George R. R. Martin Interview (Small Model)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/92/pages/page_0/files/c000507_004_003_access.mp3",
-        "url": "./transcripts/c000507_004_003_access_medium.json",
-        "name": "George R. R. Martin Interview (Medium Model)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/92/pages/page_0/files/c000507_004_003_access.mp3",
-        "url": "./transcripts/c000507_004_003_access_large.json",
-        "name": "George R. R. Martin Interview (Large Model)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/92/pages/page_0/files/c000507_004_003_access.mp3",
-        "url": "./transcripts/c000507_004_003_access_turbo.json",
-        "name": "George R. R. Martin Interview (Turbo Model)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/89/pages/page_0/files/c000507_003_031_access.mp3",
         "url": "./transcripts/c000507_003_031_access_small.json",
         "name": "Robert E. Howard Scott Brown (small)"
@@ -463,11 +443,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/66/pages/page_0/files/c000507_004_030_access.mp3",
         "url": "./transcripts/c000507_004_030_access_small.json",
         "name": "Rudy Rucker Raw Interview (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/19/pages/page_0/files/c000507_003_023_access.mp3",
-        "url": "./transcripts/c000507_003_023_access_small.json",
-        "name": "Hogan (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/45/pages/page_0/files/c000507_004_008_access.mp3",
@@ -1338,5 +1313,30 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/51/pages/page_0/files/c000507_004_015_access.mp3",
         "url": "./transcripts/c000507_004_015_access_turbo.json",
         "name": "Larry Niven (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/40/pages/page_0/files/c000507_006_003_access.mp3",
+        "url": "./transcripts/c000507_006_003_access_turbo.json",
+        "name": "Bob Wayne Master Side 1 Only (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/67/pages/page_0/files/c000507_006_026_access.mp3",
+        "url": "./transcripts/c000507_006_026_access_turbo.json",
+        "name": "051 Air Next Term as Bi-Weekly (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/6/pages/page_0/files/c000507_005_004_access.mp3",
+        "url": "./transcripts/c000507_005_004_access_turbo.json",
+        "name": "1. Tolkien Society Raw Inter. Denvention II; 2. SF poetry Association 9/5/81 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/12/pages/page_0/files/c000507_003_017_1_access.mp3",
+        "url": "./transcripts/c000507_003_017_1_access_turbo.json",
+        "name": "Charles Harness Master Side 1 & 2 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/13/pages/page_0/files/c000507_003_017_2_access.mp3",
+        "url": "./transcripts/c000507_003_017_2_access_turbo.json",
+        "name": "Charles Harness Master Side 1 & 2 (Turbo) - Corina"
     }
 ]
