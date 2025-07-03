@@ -205,11 +205,6 @@
         "name": "Philip Jose Farmer 1st Interview Master Raw (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/73/pages/page_0/files/c000507_002_033_access.mp3",
-        "url": "./transcripts/c000507_002_033_access_small.json",
-        "name": "Farmer (OZ) (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/81/pages/page_0/files/c000507_003_002_1_access.mp3",
         "url": "./transcripts/c000507_003_002_1_access_small.json",
         "name": "Robert Forward Interview Raw Side 1 & 2 (small)"
@@ -338,11 +333,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/71/pages/page_0/files/c000507_004_035_1_access.mp3",
         "url": "./transcripts/c000507_004_035_1_access_small.json",
         "name": "Pamela Sargent Interview Raw (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/6/pages/page_0/files/c000507_003_011_access.mp3",
-        "url": "./transcripts/c000507_003_011_access_small.json",
-        "name": "Dr. Richard Hains (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/27/pages/page_0/files/c000507_003_030_2_access.mp3",
@@ -643,11 +633,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/25/pages/page_0/files/c000507_005_022_access.mp3",
         "url": "./transcripts/c000507_005_022_access_small.json",
         "name": "Sturgeon (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/75/pages/page_0/files/c000507_007_001a_access.mp3",
-        "url": "./transcripts/c000507_007_001a_access_small.json",
-        "name": "Edward Bryant interview Master Tape Left Only (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/91/pages/page_0/files/c000507_007_013a_access.mp3",
@@ -1323,5 +1308,25 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/2/pages/page_0/files/c000507_001_001_access.mp3",
         "url": "./transcripts/c000507_001_001_access_turbo.json",
         "name": "Forest J. Ackerman Interview Raw (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/17/pages/page_0/files/c000507_001_016_2_access.mp3",
+        "url": "./transcripts/c000507_001_016_2_access_turbo.json",
+        "name": "Michael Bishop (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/16/pages/page_0/files/c000507_001_016_1_access.mp3",
+        "url": "./transcripts/c000507_001_016_1_access_turbo.json",
+        "name": "Michael Bishop (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/7/pages/page_0/files/c000507_001_007_access.mp3",
+        "url": "./transcripts/c000507_001_007_access_turbo.json",
+        "name": "Poul Anderson Raw Pt. 2 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/6/pages/page_0/files/c000507_001_006_access.mp3",
+        "url": "./transcripts/c000507_001_006_access_turbo.json",
+        "name": "Poul Anderson Raw Pt. 1 (Turbo) - Corina"
     }
 ]
