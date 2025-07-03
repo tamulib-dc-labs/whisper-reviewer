@@ -255,11 +255,6 @@
         "name": "Lee Killough Tape 1 Raw (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/29/pages/page_0/files/c000507_003_035_1_access.mp3",
-        "url": "./transcripts/c000507_003_035_1_access_small.json",
-        "name": "Dean Ing Master Side 1 & 2 (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/8/pages/page_0/files/c000507_003_013_access.mp3",
         "url": "./transcripts/c000507_003_013_access_small.json",
         "name": "Joe Haldeman Raw (small)"
@@ -365,11 +360,6 @@
         "name": "Fredrick Pohl Raw Pt. 1 (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/64/pages/page_0/files/c000507_004_028_access.mp3",
-        "url": "./transcripts/c000507_004_028_access_small.json",
-        "name": "Don Rio, Side 1 Only, Wizards and Warriors, Master (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/23/pages/page_0/files/c000507_003_027_access.mp3",
         "url": "./transcripts/c000507_003_027_access_small.json",
         "name": "James Hogan Interview Raw #1 (small)"
@@ -388,11 +378,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/49/pages/page_0/files/c000507_004_013_access.mp3",
         "url": "./transcripts/c000507_004_013_access_small.json",
         "name": "Larry Niven (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/30/pages/page_0/files/c000507_003_035_2_access.mp3",
-        "url": "./transcripts/c000507_003_035_2_access_small.json",
-        "name": "Dean Ing Master Side 1 & 2 (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/73/pages/page_0/files/c000507_004_036_access.mp3",
@@ -565,11 +550,6 @@
         "name": "Tape 1 & 2 (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/69/pages/page_0/files/c000507_006_028a_access.mp3",
-        "url": "./transcripts/c000507_006_028a_access_small.json",
-        "name": "Curtis (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/20/pages/page_0/files/c000507_005_018_access.mp3",
         "url": "./transcripts/c000507_005_018_access_small.json",
         "name": "Radio Play: \"Stuck on the Shoulder of the Roadto SF\" (small)"
@@ -608,11 +588,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/21/pages/page_0/files/c000507_005_019_1_access.mp3",
         "url": "./transcripts/c000507_005_019_1_access_small.json",
         "name": "Theodore Sturgeon Side 1 & 2 Master (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/77/pages/page_0/files/c000507_007_002b_access.mp3",
-        "url": "./transcripts/c000507_007_002b_access_small.json",
-        "name": "Donaldson Side 2 (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/18/pages/page_0/files/c000507_005_016_access.mp3",
@@ -1323,5 +1298,30 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/77/pages/page_0/files/c000507_007_002b_access.mp3",
         "url": "./transcripts/c000507_007_002b_access_turbo.json",
         "name": "Donaldson Side 2 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/73/pages/page_0/files/c000507_002_033_access.mp3",
+        "url": "./transcripts/c000507_002_033_access_turbo.json",
+        "name": "Farmer (OZ) (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/6/pages/page_0/files/c000507_003_011_access.mp3",
+        "url": "./transcripts/c000507_003_011_access_turbo.json",
+        "name": "Dr. Richard Hains (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/68/pages/page_0/files/c000507_002_029_access.mp3",
+        "url": "./transcripts/c000507_002_029_access_turbo.json",
+        "name": "Ellison 67 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/75/pages/page_0/files/c000507_007_001a_access.mp3",
+        "url": "./transcripts/c000507_007_001a_access_turbo.json",
+        "name": "Edward Bryant interview Master Tape Left Only (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/2/pages/page_0/files/c000507_001_001_access.mp3",
+        "url": "./transcripts/c000507_001_001_access_turbo.json",
+        "name": "Forest J. Ackerman Interview Raw (Turbo) - Corina"
     }
 ]
