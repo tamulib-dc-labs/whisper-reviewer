@@ -1323,5 +1323,10 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/26/pages/page_0/files/c000507_003_030_1_access.mp3",
         "url": "./transcripts/c000507_003_030_1_access_turbo.json",
         "name": "J. Eric Holmes D&D Games Raw (Side 1) (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/39/pages/page_0/files/c000507_001_036_access.mp3",
+        "url": "./transcripts/c000507_001_036_access_turbo.json",
+        "name": "Jack Chalker Raw Tape 2 (Turbo) - Corina"
     }
 ]
