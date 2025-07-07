@@ -70,11 +70,6 @@
         "name": "A Close Encounter with the Center for UFO Studies with Dr. Richard Haines (small) - Corina"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/39/pages/page_0/files/c000507_001_036_access.mp3",
-        "url": "./transcripts/c000507_001_036_access_small.json",
-        "name": "Jack Chalker Raw Tape 2 (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/42/pages/page_0/files/c000507_002_001_1_access.mp3",
         "url": "./transcripts/c000507_002_001_1_access_small.json",
         "name": "C. J. Cherryh Interview Raw Side 1 & 2 (small)"
@@ -225,11 +220,6 @@
         "name": "Janet Morris Side 1 & 2 Master Part 1 (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/20/pages/page_0/files/c000507_003_024_access.mp3",
-        "url": "./transcripts/c000507_003_024_access_small.json",
-        "name": "Hogan Interview (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/7/pages/page_0/files/c000507_003_012_access.mp3",
         "url": "./transcripts/c000507_003_012_access_small.json",
         "name": "Joe Haldeman Master (small)"
@@ -278,11 +268,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/27/pages/page_0/files/c000507_003_030_2_access.mp3",
         "url": "./transcripts/c000507_003_030_2_access_small.json",
         "name": "Lee Roy Butler on Robert E. Howard Side 2 Raw (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/26/pages/page_0/files/c000507_003_030_1_access.mp3",
-        "url": "./transcripts/c000507_003_030_1_access_small.json",
-        "name": "J. Eric Holmes D&D Games Raw (Side 1) (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/23/pages/page_0/files/c000507_003_027_access.mp3",
@@ -1328,5 +1313,10 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/39/pages/page_0/files/c000507_001_036_access.mp3",
         "url": "./transcripts/c000507_001_036_access_turbo.json",
         "name": "Jack Chalker Raw Tape 2 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/34/pages/page_0/files/c000507_005_031_access.mp3",
+        "url": "./transcripts/c000507_005_031_access_turbo.json",
+        "name": "Jack Vance, Tape 1, Lane, Master (Turbo) - Corina"
     }
 ]
