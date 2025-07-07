@@ -230,11 +230,6 @@
         "name": "Joe Haldeman Raw (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/69/pages/page_0/files/c000507_004_033_access.mp3",
-        "url": "./transcripts/c000507_004_033_access_small.json",
-        "name": "Fred Saberhagen Raw Pt. 2 (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/39/pages/page_0/files/c000507_004_002_access.mp3",
         "url": "./transcripts/c000507_004_002_access_small.json",
         "name": "George RR Martin Fevre Dream (small)"
@@ -300,11 +295,6 @@
         "name": "James Hogan Interview Raw Pt. 2 (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/68/pages/page_0/files/c000507_004_032_access.mp3",
-        "url": "./transcripts/c000507_004_032_access_small.json",
-        "name": "Fred Saberhagen Raw Pt. 1 (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/71/pages/page_0/files/c000507_004_035_1_access.mp3",
         "url": "./transcripts/c000507_004_035_1_access_small.json",
         "name": "Pamela Sargent Interview Raw (small)"
@@ -333,11 +323,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/37/pages/page_0/files/c000507_003_042_access.mp3",
         "url": "./transcripts/c000507_003_042_access_small.json",
         "name": "Lee Killough Tape 2 Raw (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/42/pages/page_0/files/c000507_004_006_access.mp3",
-        "url": "./transcripts/c000507_004_006_access_small.json",
-        "name": "Fred Meyer Master Int'l Wizard of Oz (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/49/pages/page_0/files/c000507_004_013_access.mp3",
