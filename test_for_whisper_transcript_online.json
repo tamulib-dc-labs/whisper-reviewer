@@ -415,11 +415,6 @@
         "name": "Roger Zelazny Pt. 1 Raw (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/60/pages/page_0/files/c000507_006_020_1_access.mp3",
-        "url": "./transcripts/c000507_006_020_1_access_small.json",
-        "name": "George Zebrowski Raw Side 1 & 2 (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/29/pages/page_0/files/c000507_005_026_access.mp3",
         "url": "./transcripts/c000507_005_026_access_small.json",
         "name": "Underwood/Miller Tape 2 Raw (small)"
@@ -483,11 +478,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/20/pages/page_0/files/c000507_005_018_access.mp3",
         "url": "./transcripts/c000507_005_018_access_small.json",
         "name": "Radio Play: \"Stuck on the Shoulder of the Roadto SF\" (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/61/pages/page_0/files/c000507_006_020_2_access.mp3",
-        "url": "./transcripts/c000507_006_020_2_access_small.json",
-        "name": "George Zebrowski Raw Side 1 & 2 (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/86/pages/page_0/files/c000507_007_009a_access.mp3",
@@ -1313,5 +1303,30 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/60/pages/page_0/files/c000507_006_020_1_access.mp3",
         "url": "./transcripts/c000507_006_020_1_access_turbo.json",
         "name": "George Zebrowski Raw Side 1 & 2 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/20/pages/page_0/files/c000507_003_024_access.mp3",
+        "url": "./transcripts/c000507_003_024_access_turbo.json",
+        "name": "Hogan Interview (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/13/pages/page_0/files/c000507_001_013_access.mp3",
+        "url": "./transcripts/c000507_001_013_access_turbo.json",
+        "name": "Gregory Benford Phone Interview Raw (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/79/pages/page_0/files/c000507_007_003b_access.mp3",
+        "url": "./transcripts/c000507_007_003b_access_turbo.json",
+        "name": "Harrison Side 2 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/64/pages/page_0/files/c000507_002_024_access.mp3",
+        "url": "./transcripts/c000507_002_024_access_turbo.json",
+        "name": "Gordon Dickson Interview Master (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/53/pages/page_0/files/c000507_002_011_access.mp3",
+        "url": "./transcripts/c000507_002_011_access_turbo.json",
+        "name": "Hal Clement Raw (Turbo) - Corina"
     }
 ]
