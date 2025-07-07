@@ -210,11 +210,6 @@
         "name": "Robert E. Howard Scott Brown (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/58/pages/page_0/files/c000507_004_022_access.mp3",
-        "url": "./transcripts/c000507_004_022_access_small.json",
-        "name": "Fredrick Pohl Raw Pt. 2 (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/72/pages/page_0/files/c000507_004_035_2_access.mp3",
         "url": "./transcripts/c000507_004_035_2_access_small.json",
         "name": "Pamela Sargent Interview Raw (small)"
@@ -308,11 +303,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/26/pages/page_0/files/c000507_003_030_1_access.mp3",
         "url": "./transcripts/c000507_003_030_1_access_small.json",
         "name": "J. Eric Holmes D&D Games Raw (Side 1) (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/57/pages/page_0/files/c000507_004_021_access.mp3",
-        "url": "./transcripts/c000507_004_021_access_small.json",
-        "name": "Fredrick Pohl Raw Pt. 1 (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/23/pages/page_0/files/c000507_003_027_access.mp3",
