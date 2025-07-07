@@ -225,11 +225,6 @@
         "name": "Joe Haldeman Raw (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/39/pages/page_0/files/c000507_004_002_access.mp3",
-        "url": "./transcripts/c000507_004_002_access_small.json",
-        "name": "George RR Martin Fevre Dream (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/4/pages/page_0/files/c000507_003_009_access.mp3",
         "url": "./transcripts/c000507_003_009_access_small.json",
         "name": "James Gunn (small)"
@@ -348,11 +343,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/44/pages/page_0/files/c000507_004_007_2_access.mp3",
         "url": "./transcripts/c000507_004_007_2_access_small.json",
         "name": "Janet Morris Side 1 & 2 Master Part 1 (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/56/pages/page_0/files/c000507_006_016_2_access.mp3",
-        "url": "./transcripts/c000507_006_016_2_access_small.json",
-        "name": "Gene Wolfe Master Side 1 & 2 (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/79/pages/page_0/files/c000507_007_003b_access.mp3",
@@ -558,11 +548,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/85/pages/page_0/files/c000507_007_008b_access.mp3",
         "url": "./transcripts/c000507_007_008b_access_small.json",
         "name": "Side 2 (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/55/pages/page_0/files/c000507_006_016_1_access.mp3",
-        "url": "./transcripts/c000507_006_016_1_access_small.json",
-        "name": "Gene Wolfe Master Side 1 & 2 (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/22/pages/page_0/files/c000507_005_019_2_access.mp3",
