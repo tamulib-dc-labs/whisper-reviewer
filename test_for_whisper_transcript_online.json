@@ -70,11 +70,6 @@
         "name": "A Close Encounter with the Center for UFO Studies with Dr. Richard Haines (small) - Corina"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/38/pages/page_0/files/c000507_001_035_access.mp3",
-        "url": "./transcripts/c000507_001_035_access_small.json",
-        "name": "Jack Chalker Raw Tape 1 (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/39/pages/page_0/files/c000507_001_036_access.mp3",
         "url": "./transcripts/c000507_001_036_access_small.json",
         "name": "Jack Chalker Raw Tape 2 (small)"
@@ -1323,5 +1318,10 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/38/pages/page_0/files/c000507_001_035_access.mp3",
         "url": "./transcripts/c000507_001_035_access_turbo.json",
         "name": "Jack Chalker Raw Tape 1 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/33/pages/page_0/files/c000507_005_030_access.mp3",
+        "url": "./transcripts/c000507_005_030_access_turbo.json",
+        "name": "Jack Vance Part 1 (Turbo) - Corina"
     }
 ]
