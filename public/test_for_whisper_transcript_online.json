@@ -1280,11 +1280,6 @@
         "name": "George Zebrowski Raw Side 1 & 2 (Turbo) - Corina"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/20/pages/page_0/files/c000507_003_024_access.mp3",
-        "url": "./transcripts/c000507_003_024_access_turbo.json",
-        "name": "Hogan Interview (Turbo) - Corina"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/13/pages/page_0/files/c000507_001_013_access.mp3",
         "url": "./transcripts/c000507_001_013_access_turbo.json",
         "name": "Gregory Benford Phone Interview Raw (Turbo) - Corina"
