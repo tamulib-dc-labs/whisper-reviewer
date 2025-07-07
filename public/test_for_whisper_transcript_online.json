@@ -340,11 +340,6 @@
         "name": "Science Fiction Radio Show Master, Chad Oliver (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/34/pages/page_0/files/c000507_005_031_access.mp3",
-        "url": "./transcripts/c000507_005_031_access_small.json",
-        "name": "Jack Vance, Tape 1, Lane, Master (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/50/pages/page_0/files/c000507_006_011_access.mp3",
         "url": "./transcripts/c000507_006_011_access_small.json",
         "name": "Jack Williamson 1/2 Track Copy Pop Eliminater Used Tape 1 (small)"
@@ -1318,5 +1313,20 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/34/pages/page_0/files/c000507_005_031_access.mp3",
         "url": "./transcripts/c000507_005_031_access_turbo.json",
         "name": "Jack Vance, Tape 1, Lane, Master (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/52/pages/page_0/files/c000507_006_013_access.mp3",
+        "url": "./transcripts/c000507_006_013_access_turbo.json",
+        "name": "Jack Williamson Interview | Raw Interview, Reel II (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/25/pages/page_0/files/c000507_003_029_access.mp3",
+        "url": "./transcripts/c000507_003_029_access_turbo.json",
+        "name": "Hogan Update (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/35/pages/page_0/files/c000507_005_032_access.mp3",
+        "url": "./transcripts/c000507_005_032_access_turbo.json",
+        "name": "Jack Vance, Tape 2, Lane, Master (Turbo) - Corina"
     }
 ]
