@@ -1303,5 +1303,30 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/57/pages/page_0/files/c000507_004_021_access.mp3",
         "url": "./transcripts/c000507_004_021_access_turbo.json",
         "name": "Fredrick Pohl Raw Pt. 1 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/55/pages/page_0/files/c000507_006_016_1_access.mp3",
+        "url": "./transcripts/c000507_006_016_1_access_turbo.json",
+        "name": "Gene Wolfe Master Side 1 & 2 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/39/pages/page_0/files/c000507_004_002_access.mp3",
+        "url": "./transcripts/c000507_004_002_access_turbo.json",
+        "name": "George RR Martin Fevre Dream (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/56/pages/page_0/files/c000507_006_016_2_access.mp3",
+        "url": "./transcripts/c000507_006_016_2_access_turbo.json",
+        "name": "Gene Wolfe Master Side 1 & 2 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/61/pages/page_0/files/c000507_006_020_2_access.mp3",
+        "url": "./transcripts/c000507_006_020_2_access_turbo.json",
+        "name": "George Zebrowski Raw Side 1 & 2 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/60/pages/page_0/files/c000507_006_020_1_access.mp3",
+        "url": "./transcripts/c000507_006_020_1_access_turbo.json",
+        "name": "George Zebrowski Raw Side 1 & 2 (Turbo) - Corina"
     }
 ]
