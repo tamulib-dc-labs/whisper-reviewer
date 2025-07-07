@@ -335,11 +335,6 @@
         "name": "Janet Morris Side 1 & 2 Master Part 1 (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/79/pages/page_0/files/c000507_007_003b_access.mp3",
-        "url": "./transcripts/c000507_007_003b_access_small.json",
-        "name": "Harrison Side 2 (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/73/pages/page_0/files/c000507_006_031a_access.mp3",
         "url": "./transcripts/c000507_006_031a_access_small.json",
         "name": "James P. Hogan Master Tape 1 (small)"
@@ -1323,5 +1318,10 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/13/pages/page_0/files/c000507_001_013_access.mp3",
         "url": "./transcripts/c000507_001_013_access_turbo.json",
         "name": "Gregory Benford Phone Interview Raw (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/38/pages/page_0/files/c000507_001_035_access.mp3",
+        "url": "./transcripts/c000507_001_035_access_turbo.json",
+        "name": "Jack Chalker Raw Tape 1 (Turbo) - Corina"
     }
 ]
