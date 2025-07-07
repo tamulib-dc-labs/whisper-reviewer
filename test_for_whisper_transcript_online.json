@@ -385,11 +385,6 @@
         "name": "Jack Williamson Interview | Raw Interview, Reel I (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/33/pages/page_0/files/c000507_005_030_access.mp3",
-        "url": "./transcripts/c000507_005_030_access_small.json",
-        "name": "Jack Vance Part 1 (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/63/pages/page_0/files/c000507_006_022_access.mp3",
         "url": "./transcripts/c000507_006_022_access_small.json",
         "name": "Roger Zelazny Pt. 1 Raw (small)"
@@ -1323,5 +1318,10 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/33/pages/page_0/files/c000507_005_030_access.mp3",
         "url": "./transcripts/c000507_005_030_access_turbo.json",
         "name": "Jack Vance Part 1 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/20/pages/page_0/files/c000507_003_024_access.mp3",
+        "url": "./transcripts/c000507_003_024_access_turbo.json",
+        "name": "Hogan Interview (Turbo) - Corina"
     }
 ]
