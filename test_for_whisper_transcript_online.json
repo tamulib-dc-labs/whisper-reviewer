@@ -120,11 +120,6 @@
         "name": "Jo Clayton Master (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/53/pages/page_0/files/c000507_002_011_access.mp3",
-        "url": "./transcripts/c000507_002_011_access_small.json",
-        "name": "Hal Clement Raw (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/55/pages/page_0/files/c000507_002_013_access.mp3",
         "url": "./transcripts/c000507_002_013_access_small.json",
         "name": "Clement (small)"
@@ -148,11 +143,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/59/pages/page_0/files/c000507_002_018_access.mp3",
         "url": "./transcripts/c000507_002_018_access_small.json",
         "name": "L. Sprague de Camp Raw Pt. 2 (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/64/pages/page_0/files/c000507_002_024_access.mp3",
-        "url": "./transcripts/c000507_002_024_access_small.json",
-        "name": "Gordon Dickson Interview Master (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/66/pages/page_0/files/c000507_002_027_access.mp3",
@@ -1328,5 +1318,10 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/53/pages/page_0/files/c000507_002_011_access.mp3",
         "url": "./transcripts/c000507_002_011_access_turbo.json",
         "name": "Hal Clement Raw (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/13/pages/page_0/files/c000507_001_013_access.mp3",
+        "url": "./transcripts/c000507_001_013_access_turbo.json",
+        "name": "Gregory Benford Phone Interview Raw (Turbo) - Corina"
     }
 ]
