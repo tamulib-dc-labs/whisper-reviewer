@@ -105,11 +105,6 @@
         "name": "Arthur C. Clarke (2-2) (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/50/pages/page_0/files/c000507_002_008_access.mp3",
-        "url": "./transcripts/c000507_002_008_access_small.json",
-        "name": "Jo Clayton Master (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/55/pages/page_0/files/c000507_002_013_access.mp3",
         "url": "./transcripts/c000507_002_013_access_small.json",
         "name": "Clement (small)"
@@ -195,19 +190,9 @@
         "name": "Lee Killough Tape 1 Raw (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/8/pages/page_0/files/c000507_003_013_access.mp3",
-        "url": "./transcripts/c000507_003_013_access_small.json",
-        "name": "Joe Haldeman Raw (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/35/pages/page_0/files/c000507_003_040_access.mp3",
         "url": "./transcripts/c000507_003_040_access_small.json",
         "name": "Damon Knight Side 1 Master (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/7/pages/page_0/files/c000507_003_012_access.mp3",
-        "url": "./transcripts/c000507_003_012_access_small.json",
-        "name": "Joe Haldeman Master (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/54/pages/page_0/files/c000507_004_018_access.mp3",
@@ -245,24 +230,9 @@
         "name": "Stan Schmidt (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/18/pages/page_0/files/c000507_003_022_access.mp3",
-        "url": "./transcripts/c000507_003_022_access_small.json",
-        "name": "Jim Henson Master (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/66/pages/page_0/files/c000507_004_030_access.mp3",
         "url": "./transcripts/c000507_004_030_access_small.json",
         "name": "Rudy Rucker Raw Interview (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/36/pages/page_0/files/c000507_005_033_access.mp3",
-        "url": "./transcripts/c000507_005_033_access_small.json",
-        "name": "Joan Vinge Raw (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/8/pages/page_0/files/c000507_005_006_access.mp3",
-        "url": "./transcripts/c000507_005_006_access_small.json",
-        "name": "Joan Slonczewaki Interview with Bill Vernon Raw (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/87/pages/page_0/files/c000507_007_009b_access.mp3",
@@ -1338,5 +1308,30 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/8/pages/page_0/files/c000507_005_006_access.mp3",
         "url": "./transcripts/c000507_005_006_access_turbo.json",
         "name": "Joan Slonczewaki Interview with Bill Vernon Raw (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/54/pages/page_0/files/c000507_004_018_access.mp3",
+        "url": "./transcripts/c000507_004_018_access_turbo.json",
+        "name": "Kevin O'Donnell, Jr. Master Side 1 only (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/59/pages/page_0/files/c000507_002_018_access.mp3",
+        "url": "./transcripts/c000507_002_018_access_turbo.json",
+        "name": "L. Sprague de Camp Raw Pt. 2 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/49/pages/page_0/files/c000507_004_013_access.mp3",
+        "url": "./transcripts/c000507_004_013_access_turbo.json",
+        "name": "Larry Niven (Turbo) - Corina"
+    },
+    {
+        "audio": "",
+        "url": "./transcripts/c000507_004_012_access_turbo.json",
+        "name": "Larry niven Interview (SF Radio Show) (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/58/pages/page_0/files/c000507_002_017_access.mp3",
+        "url": "./transcripts/c000507_002_017_access_turbo.json",
+        "name": "L. Sprague de Camp Raw Pt. 1 (Turbo) - Corina"
     }
 ]
