@@ -335,11 +335,6 @@
         "name": "Science Fiction Radio Show Master, Chad Oliver (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/50/pages/page_0/files/c000507_006_011_access.mp3",
-        "url": "./transcripts/c000507_006_011_access_small.json",
-        "name": "Jack Williamson 1/2 Track Copy Pop Eliminater Used Tape 1 (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/81/pages/page_0/files/c000507_007_005a_access.mp3",
         "url": "./transcripts/c000507_007_005a_access_small.json",
         "name": "Science Fiction Radio Show Master, Gordon Lewis, Aggiecon (small)"
@@ -348,11 +343,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/82/pages/page_0/files/c000507_007_006a_access.mp3",
         "url": "./transcripts/c000507_007_006a_access_small.json",
         "name": "Science Fiction Radio Show Master, Ardath Mayhar (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/51/pages/page_0/files/c000507_006_012_access.mp3",
-        "url": "./transcripts/c000507_006_012_access_small.json",
-        "name": "Jack Williamson Interview | Raw Interview, Reel I (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/63/pages/page_0/files/c000507_006_022_access.mp3",
@@ -435,11 +425,6 @@
         "name": "Science Fiction Radio Show Master Richard Curtis (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/49/pages/page_0/files/c000507_006_010_access.mp3",
-        "url": "./transcripts/c000507_006_010_access_small.json",
-        "name": "Jack Williamson 1/2 Track Copy Pop Eliminater Tape 1 (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/43/pages/page_0/files/c000507_006_006_1_access.mp3",
         "url": "./transcripts/c000507_006_006_1_access_small.json",
         "name": "Paul O. Williams Interview Side 1 & 2 (small)"
@@ -513,11 +498,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/16/pages/page_0/files/c000507_005_014_access.mp3",
         "url": "./transcripts/c000507_005_014_access_small.json",
         "name": "Spinrad 1 (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/52/pages/page_0/files/c000507_006_013_access.mp3",
-        "url": "./transcripts/c000507_006_013_access_small.json",
-        "name": "Jack Williamson Interview | Raw Interview, Reel II (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/92/pages/page_0/files/c000507_007_013b_access.mp3",
@@ -1333,5 +1313,35 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/49/pages/page_0/files/c000507_006_010_access.mp3",
         "url": "./transcripts/c000507_006_010_access_turbo.json",
         "name": "Jack Williamson 1/2 Track Copy Pop Eliminater Tape 1 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/23/pages/page_0/files/c000507_003_027_access.mp3",
+        "url": "./transcripts/c000507_003_027_access_turbo.json",
+        "name": "James Hogan Interview Raw #1 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/2/pages/page_0/files/c000507_003_008_1_access.mp3",
+        "url": "./transcripts/c000507_003_008_1_access_turbo.json",
+        "name": "James Gunn Master Side 1 & 2 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/87/pages/page_0/files/c000507_003_006_access.mp3",
+        "url": "./transcripts/c000507_003_006_access_turbo.json",
+        "name": "James Gunn (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/73/pages/page_0/files/c000507_006_031a_access.mp3",
+        "url": "./transcripts/c000507_006_031a_access_turbo.json",
+        "name": "James P. Hogan Master Tape 1 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/3/pages/page_0/files/c000507_003_008_2_access.mp3",
+        "url": "./transcripts/c000507_003_008_2_access_turbo.json",
+        "name": "James Gunn Master Side 1 & 2 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/24/pages/page_0/files/c000507_003_028_access.mp3",
+        "url": "./transcripts/c000507_003_028_access_turbo.json",
+        "name": "James Hogan Interview Raw Pt. 2 (Turbo) - Corina"
     }
 ]
