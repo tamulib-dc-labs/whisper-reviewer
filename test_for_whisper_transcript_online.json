@@ -15,11 +15,6 @@
         "name": "Wizard of Oz, Frank Baum (small) - Corina"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/13/pages/page_0/files/c000507_001_013_access.mp3",
-        "url": "./transcripts/c000507_001_013_access_small.json",
-        "name": "Gregory Benford Phone Interview Raw (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/18/pages/page_0/files/c000507_001_017_access.mp3",
         "url": "./transcripts/c000507_001_017_access_small.json",
         "name": "Blish 001 (small)"
@@ -1138,11 +1133,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/60/pages/page_0/files/c000507_006_020_1_access.mp3",
         "url": "./transcripts/c000507_006_020_1_access_turbo.json",
         "name": "George Zebrowski Raw Side 1 & 2 (Turbo) - Corina"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/13/pages/page_0/files/c000507_001_013_access.mp3",
-        "url": "./transcripts/c000507_001_013_access_turbo.json",
-        "name": "Gregory Benford Phone Interview Raw (Turbo) - Corina"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/79/pages/page_0/files/c000507_007_003b_access.mp3",
