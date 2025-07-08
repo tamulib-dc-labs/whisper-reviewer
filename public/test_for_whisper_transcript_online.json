@@ -205,11 +205,6 @@
         "name": "Damon Knight Side 1 Master (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/43/pages/page_0/files/c000507_004_007_1_access.mp3",
-        "url": "./transcripts/c000507_004_007_1_access_small.json",
-        "name": "Janet Morris Side 1 & 2 Master Part 1 (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/7/pages/page_0/files/c000507_003_012_access.mp3",
         "url": "./transcripts/c000507_003_012_access_small.json",
         "name": "Joe Haldeman Master (small)"
@@ -225,16 +220,6 @@
         "name": "Larry Niven Interview Show (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/61/pages/page_0/files/c000507_004_025_access.mp3",
-        "url": "./transcripts/c000507_004_025_access_small.json",
-        "name": "Jerry Pournelle Raw (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/24/pages/page_0/files/c000507_003_028_access.mp3",
-        "url": "./transcripts/c000507_003_028_access_small.json",
-        "name": "James Hogan Interview Raw Pt. 2 (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/71/pages/page_0/files/c000507_004_035_1_access.mp3",
         "url": "./transcripts/c000507_004_035_1_access_small.json",
         "name": "Pamela Sargent Interview Raw (small)"
@@ -243,11 +228,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/27/pages/page_0/files/c000507_003_030_2_access.mp3",
         "url": "./transcripts/c000507_003_030_2_access_small.json",
         "name": "Lee Roy Butler on Robert E. Howard Side 2 Raw (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/23/pages/page_0/files/c000507_003_027_access.mp3",
-        "url": "./transcripts/c000507_003_027_access_small.json",
-        "name": "James Hogan Interview Raw #1 (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/37/pages/page_0/files/c000507_003_042_access.mp3",
@@ -265,11 +245,6 @@
         "name": "Stan Schmidt (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/70/pages/page_0/files/c000507_004_034_access.mp3",
-        "url": "./transcripts/c000507_004_034_access_small.json",
-        "name": "Jessica Salmonson Master side 1 (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/18/pages/page_0/files/c000507_003_022_access.mp3",
         "url": "./transcripts/c000507_003_022_access_small.json",
         "name": "Jim Henson Master (small)"
@@ -278,21 +253,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/66/pages/page_0/files/c000507_004_030_access.mp3",
         "url": "./transcripts/c000507_004_030_access_small.json",
         "name": "Rudy Rucker Raw Interview (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/45/pages/page_0/files/c000507_004_008_access.mp3",
-        "url": "./transcripts/c000507_004_008_access_small.json",
-        "name": "Janet Morris Side 1 Master Part 2 (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/44/pages/page_0/files/c000507_004_007_2_access.mp3",
-        "url": "./transcripts/c000507_004_007_2_access_small.json",
-        "name": "Janet Morris Side 1 & 2 Master Part 1 (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/73/pages/page_0/files/c000507_006_031a_access.mp3",
-        "url": "./transcripts/c000507_006_031a_access_small.json",
-        "name": "James P. Hogan Master Tape 1 (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/36/pages/page_0/files/c000507_005_033_access.mp3",
@@ -1348,5 +1308,35 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/44/pages/page_0/files/c000507_004_007_2_access.mp3",
         "url": "./transcripts/c000507_004_007_2_access_turbo.json",
         "name": "Janet Morris Side 1 & 2 Master Part 1 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/7/pages/page_0/files/c000507_003_012_access.mp3",
+        "url": "./transcripts/c000507_003_012_access_turbo.json",
+        "name": "Joe Haldeman Master (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/8/pages/page_0/files/c000507_003_013_access.mp3",
+        "url": "./transcripts/c000507_003_013_access_turbo.json",
+        "name": "Joe Haldeman Raw (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/18/pages/page_0/files/c000507_003_022_access.mp3",
+        "url": "./transcripts/c000507_003_022_access_turbo.json",
+        "name": "Jim Henson Master (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/50/pages/page_0/files/c000507_002_008_access.mp3",
+        "url": "./transcripts/c000507_002_008_access_turbo.json",
+        "name": "Jo Clayton Master (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/36/pages/page_0/files/c000507_005_033_access.mp3",
+        "url": "./transcripts/c000507_005_033_access_turbo.json",
+        "name": "Joan Vinge Raw (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/8/pages/page_0/files/c000507_005_006_access.mp3",
+        "url": "./transcripts/c000507_005_006_access_turbo.json",
+        "name": "Joan Slonczewaki Interview with Bill Vernon Raw (Turbo) - Corina"
     }
 ]
