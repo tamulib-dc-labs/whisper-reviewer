@@ -180,11 +180,6 @@
         "name": "Mark Geston Master Side 1 & 2 (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/87/pages/page_0/files/c000507_003_006_access.mp3",
-        "url": "./transcripts/c000507_003_006_access_small.json",
-        "name": "James Gunn (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/89/pages/page_0/files/c000507_003_031_access.mp3",
         "url": "./transcripts/c000507_003_031_access_small.json",
         "name": "Robert E. Howard Scott Brown (small)"
@@ -205,11 +200,6 @@
         "name": "Joe Haldeman Raw (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/4/pages/page_0/files/c000507_003_009_access.mp3",
-        "url": "./transcripts/c000507_003_009_access_small.json",
-        "name": "James Gunn (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/35/pages/page_0/files/c000507_003_040_access.mp3",
         "url": "./transcripts/c000507_003_040_access_small.json",
         "name": "Damon Knight Side 1 Master (small)"
@@ -223,16 +213,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/7/pages/page_0/files/c000507_003_012_access.mp3",
         "url": "./transcripts/c000507_003_012_access_small.json",
         "name": "Joe Haldeman Master (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/3/pages/page_0/files/c000507_003_008_2_access.mp3",
-        "url": "./transcripts/c000507_003_008_2_access_small.json",
-        "name": "James Gunn Master Side 1 & 2 (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/2/pages/page_0/files/c000507_003_008_1_access.mp3",
-        "url": "./transcripts/c000507_003_008_1_access_small.json",
-        "name": "James Gunn Master Side 1 & 2 (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/54/pages/page_0/files/c000507_004_018_access.mp3",
@@ -1343,5 +1323,30 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/24/pages/page_0/files/c000507_003_028_access.mp3",
         "url": "./transcripts/c000507_003_028_access_turbo.json",
         "name": "James Hogan Interview Raw Pt. 2 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/70/pages/page_0/files/c000507_004_034_access.mp3",
+        "url": "./transcripts/c000507_004_034_access_turbo.json",
+        "name": "Jessica Salmonson Master side 1 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/43/pages/page_0/files/c000507_004_007_1_access.mp3",
+        "url": "./transcripts/c000507_004_007_1_access_turbo.json",
+        "name": "Janet Morris Side 1 & 2 Master Part 1 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/61/pages/page_0/files/c000507_004_025_access.mp3",
+        "url": "./transcripts/c000507_004_025_access_turbo.json",
+        "name": "Jerry Pournelle Raw (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/45/pages/page_0/files/c000507_004_008_access.mp3",
+        "url": "./transcripts/c000507_004_008_access_turbo.json",
+        "name": "Janet Morris Side 1 Master Part 2 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/44/pages/page_0/files/c000507_004_007_2_access.mp3",
+        "url": "./transcripts/c000507_004_007_2_access_turbo.json",
+        "name": "Janet Morris Side 1 & 2 Master Part 1 (Turbo) - Corina"
     }
 ]
