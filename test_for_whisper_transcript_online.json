@@ -35,16 +35,6 @@
         "name": "Ray Bradbury Part II (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/25/pages/page_0/files/c000507_001_024_1_access.mp3",
-        "url": "./transcripts/c000507_001_024_1_access_small.json",
-        "name": "Marion Zimmer Bradley Master Side 1 & 2 (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/26/pages/page_0/files/c000507_001_024_2_access.mp3",
-        "url": "./transcripts/c000507_001_024_2_access_small.json",
-        "name": "Marion Zimmer Bradley Master Side 1 & 2 (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/28/pages/page_0/files/c000507_001_026_access.mp3",
         "url": "./transcripts/c000507_001_026_access_small.json",
         "name": "Charlie Brown (small)"
@@ -150,16 +140,6 @@
         "name": "Robert Forward Interview Raw Side 1 & 2 (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/85/pages/page_0/files/c000507_003_005_1_access.mp3",
-        "url": "./transcripts/c000507_003_005_1_access_small.json",
-        "name": "Mark Geston Master Side 1 & 2 (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/86/pages/page_0/files/c000507_003_005_2_access.mp3",
-        "url": "./transcripts/c000507_003_005_2_access_small.json",
-        "name": "Mark Geston Master Side 1 & 2 (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/89/pages/page_0/files/c000507_003_031_access.mp3",
         "url": "./transcripts/c000507_003_031_access_small.json",
         "name": "Robert E. Howard Scott Brown (small)"
@@ -168,11 +148,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/72/pages/page_0/files/c000507_004_035_2_access.mp3",
         "url": "./transcripts/c000507_004_035_2_access_small.json",
         "name": "Pamela Sargent Interview Raw (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/36/pages/page_0/files/c000507_003_041_access.mp3",
-        "url": "./transcripts/c000507_003_041_access_small.json",
-        "name": "Lee Killough Tape 1 Raw (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/35/pages/page_0/files/c000507_003_040_access.mp3",
@@ -185,29 +160,9 @@
         "name": "Kevin O'Donnell, Jr. Master Side 1 only (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/50/pages/page_0/files/c000507_004_014_access.mp3",
-        "url": "./transcripts/c000507_004_014_access_small.json",
-        "name": "Larry Niven Interview Show (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/71/pages/page_0/files/c000507_004_035_1_access.mp3",
         "url": "./transcripts/c000507_004_035_1_access_small.json",
         "name": "Pamela Sargent Interview Raw (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/27/pages/page_0/files/c000507_003_030_2_access.mp3",
-        "url": "./transcripts/c000507_003_030_2_access_small.json",
-        "name": "Lee Roy Butler on Robert E. Howard Side 2 Raw (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/37/pages/page_0/files/c000507_003_042_access.mp3",
-        "url": "./transcripts/c000507_003_042_access_small.json",
-        "name": "Lee Killough Tape 2 Raw (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/49/pages/page_0/files/c000507_004_013_access.mp3",
-        "url": "./transcripts/c000507_004_013_access_small.json",
-        "name": "Larry Niven (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/73/pages/page_0/files/c000507_004_036_access.mp3",
@@ -1363,5 +1318,35 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/85/pages/page_0/files/c000507_003_005_1_access.mp3",
         "url": "./transcripts/c000507_003_005_1_access_turbo.json",
         "name": "Mark Geston Master Side 1 & 2 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/46/pages/page_0/files/c000507_006_007_2_access.mp3",
+        "url": "./transcripts/c000507_006_007_2_access_turbo.json",
+        "name": "Paul O. Williams Side 1 & 2 Master (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/44/pages/page_0/files/c000507_006_006_2_access.mp3",
+        "url": "./transcripts/c000507_006_006_2_access_turbo.json",
+        "name": "Paul O. Williams Interview Side 1 & 2 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/72/pages/page_0/files/c000507_004_035_2_access.mp3",
+        "url": "./transcripts/c000507_004_035_2_access_turbo.json",
+        "name": "Pamela Sargent Interview Raw (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/71/pages/page_0/files/c000507_004_035_1_access.mp3",
+        "url": "./transcripts/c000507_004_035_1_access_turbo.json",
+        "name": "Pamela Sargent Interview Raw (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/45/pages/page_0/files/c000507_006_007_1_access.mp3",
+        "url": "./transcripts/c000507_006_007_1_access_turbo.json",
+        "name": "Paul O. Williams Side 1 & 2 Master (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/43/pages/page_0/files/c000507_006_006_1_access.mp3",
+        "url": "./transcripts/c000507_006_006_1_access_turbo.json",
+        "name": "Paul O. Williams Interview Side 1 & 2 (Turbo) - Corina"
     }
 ]
