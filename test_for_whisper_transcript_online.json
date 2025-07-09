@@ -115,16 +115,6 @@
         "name": "Richard Curtis Master Side 1 (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/58/pages/page_0/files/c000507_002_017_access.mp3",
-        "url": "./transcripts/c000507_002_017_access_small.json",
-        "name": "L. Sprague de Camp Raw Pt. 1 (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/59/pages/page_0/files/c000507_002_018_access.mp3",
-        "url": "./transcripts/c000507_002_018_access_small.json",
-        "name": "L. Sprague de Camp Raw Pt. 2 (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/66/pages/page_0/files/c000507_002_027_access.mp3",
         "url": "./transcripts/c000507_002_027_access_small.json",
         "name": "Roger Ebert Master Side 1 (small)"
@@ -1323,5 +1313,55 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/58/pages/page_0/files/c000507_002_017_access.mp3",
         "url": "./transcripts/c000507_002_017_access_turbo.json",
         "name": "L. Sprague de Camp Raw Pt. 1 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/37/pages/page_0/files/c000507_003_042_access.mp3",
+        "url": "./transcripts/c000507_003_042_access_turbo.json",
+        "name": "Lee Killough Tape 2 Raw (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/27/pages/page_0/files/c000507_003_030_2_access.mp3",
+        "url": "./transcripts/c000507_003_030_2_access_turbo.json",
+        "name": "Lee Roy Butler on Robert E. Howard Side 2 Raw (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/36/pages/page_0/files/c000507_003_041_access.mp3",
+        "url": "./transcripts/c000507_003_041_access_turbo.json",
+        "name": "Lee Killough Tape 1 Raw (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/25/pages/page_0/files/c000507_001_024_1_access.mp3",
+        "url": "./transcripts/c000507_001_024_1_access_turbo.json",
+        "name": "Marion Zimmer Bradley Master Side 1 & 2 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/26/pages/page_0/files/c000507_001_024_2_access.mp3",
+        "url": "./transcripts/c000507_001_024_2_access_turbo.json",
+        "name": "Marion Zimmer Bradley Master Side 1 & 2 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/18/pages/page_0/files/c000507_005_016_access.mp3",
+        "url": "./transcripts/c000507_005_016_access_turbo.json",
+        "name": "Norman Spinrad, Iron Dream Ban, Update Tape (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/14/pages/page_0/files/c000507_005_012_access.mp3",
+        "url": "./transcripts/c000507_005_012_access_turbo.json",
+        "name": "Norman Spinrad Raw Pt. 2 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/13/pages/page_0/files/c000507_005_011_access.mp3",
+        "url": "./transcripts/c000507_005_011_access_turbo.json",
+        "name": "Norman Spinrad Raw Pt. 1 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/86/pages/page_0/files/c000507_003_005_2_access.mp3",
+        "url": "./transcripts/c000507_003_005_2_access_turbo.json",
+        "name": "Mark Geston Master Side 1 & 2 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/85/pages/page_0/files/c000507_003_005_1_access.mp3",
+        "url": "./transcripts/c000507_003_005_1_access_turbo.json",
+        "name": "Mark Geston Master Side 1 & 2 (Turbo) - Corina"
     }
 ]
