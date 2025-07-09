@@ -1328,5 +1328,10 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/70/pages/page_0/files/c000507_006_029a_access.mp3",
         "url": "./transcripts/c000507_006_029a_access_turbo.json",
         "name": "Science Fiction Radio Show Master  Richard Curtis (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/82/pages/page_0/files/c000507_007_006a_access.mp3",
+        "url": "./transcripts/c000507_007_006a_access_turbo.json",
+        "name": "Science Fiction Radio Show Master, Ardath Mayhar (Turbo) - Corina"
     }
 ]
