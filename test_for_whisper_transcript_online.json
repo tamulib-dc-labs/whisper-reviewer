@@ -5,11 +5,6 @@
         "name": "Amsbury (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/11/pages/page_0/files/c000507_001_011_2_access.mp3",
-        "url": "./transcripts/c000507_001_011_2_access_small.json",
-        "name": "Piers Anthony Master Side 1 & 2 (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/12/pages/page_0/files/c000507_001_012_access.mp3",
         "url": "./transcripts/c000507_001_012_access_small.json",
         "name": "Wizard of Oz, Frank Baum (small) - Corina"
@@ -23,16 +18,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/19/pages/page_0/files/c000507_001_018_access.mp3",
         "url": "./transcripts/c000507_001_018_access_small.json",
         "name": "Blish 002 (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/20/pages/page_0/files/c000507_001_019_access.mp3",
-        "url": "./transcripts/c000507_001_019_access_small.json",
-        "name": "Ray Bradbury Master Side 1 (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/21/pages/page_0/files/c000507_001_020_access.mp3",
-        "url": "./transcripts/c000507_001_020_access_small.json",
-        "name": "Ray Bradbury Part II (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/28/pages/page_0/files/c000507_001_026_access.mp3",
@@ -100,44 +85,9 @@
         "name": "Crider/Laughlin Interview Tape 1 Raw (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/57/pages/page_0/files/c000507_002_016_access.mp3",
-        "url": "./transcripts/c000507_002_016_access_small.json",
-        "name": "Richard Curtis Master Side 1 (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/66/pages/page_0/files/c000507_002_027_access.mp3",
-        "url": "./transcripts/c000507_002_027_access_small.json",
-        "name": "Roger Ebert Master Side 1 (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/68/pages/page_0/files/c000507_002_029_access.mp3",
         "url": "./transcripts/c000507_002_029_access_small.json",
         "name": "Ellison 67 (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/69/pages/page_0/files/c000507_002_030_1_access.mp3",
-        "url": "./transcripts/c000507_002_030_1_access_small.json",
-        "name": "Roger Elwood Side 1 & 2 Raw (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/70/pages/page_0/files/c000507_002_030_2_access.mp3",
-        "url": "./transcripts/c000507_002_030_2_access_small.json",
-        "name": "Roger Elwood Side 1 & 2 Raw (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/71/pages/page_0/files/c000507_002_031_access.mp3",
-        "url": "./transcripts/c000507_002_031_access_small.json",
-        "name": "Philip Jose Farmer 1st Interview Master Raw (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/81/pages/page_0/files/c000507_003_002_1_access.mp3",
-        "url": "./transcripts/c000507_003_002_1_access_small.json",
-        "name": "Robert Forward Interview Raw Side 1 & 2 (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/82/pages/page_0/files/c000507_003_002_2_access.mp3",
-        "url": "./transcripts/c000507_003_002_2_access_small.json",
-        "name": "Robert Forward Interview Raw Side 1 & 2 (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/89/pages/page_0/files/c000507_003_031_access.mp3",
@@ -233,11 +183,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/74/pages/page_0/files/c000507_006_031b_access.mp3",
         "url": "./transcripts/c000507_006_031b_access_small.json",
         "name": "Tape 1 & 2 (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/20/pages/page_0/files/c000507_005_018_access.mp3",
-        "url": "./transcripts/c000507_005_018_access_small.json",
-        "name": "Radio Play: \"Stuck on the Shoulder of the Roadto SF\" (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/86/pages/page_0/files/c000507_007_009a_access.mp3",
@@ -1358,5 +1303,30 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/66/pages/page_0/files/c000507_002_027_access.mp3",
         "url": "./transcripts/c000507_002_027_access_turbo.json",
         "name": "Roger Ebert Master Side 1 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/66/pages/page_0/files/c000507_004_030_access.mp3",
+        "url": "./transcripts/c000507_004_030_access_turbo.json",
+        "name": "Rudy Rucker Raw Interview (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/84/pages/page_0/files/c000507_007_008a_access.mp3",
+        "url": "./transcripts/c000507_007_008a_access_turbo.json",
+        "name": "Science Fiction Radio Show Master, Chad Oliver (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/64/pages/page_0/files/c000507_006_023_access.mp3",
+        "url": "./transcripts/c000507_006_023_access_turbo.json",
+        "name": "Roger Zelazny Pt. 2 Raw (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/63/pages/page_0/files/c000507_006_022_access.mp3",
+        "url": "./transcripts/c000507_006_022_access_turbo.json",
+        "name": "Roger Zelazny Pt. 1 Raw (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/70/pages/page_0/files/c000507_006_029a_access.mp3",
+        "url": "./transcripts/c000507_006_029a_access_turbo.json",
+        "name": "Science Fiction Radio Show Master  Richard Curtis (Turbo) - Corina"
     }
 ]
