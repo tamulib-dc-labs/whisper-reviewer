@@ -145,11 +145,6 @@
         "name": "Robert E. Howard Scott Brown (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/72/pages/page_0/files/c000507_004_035_2_access.mp3",
-        "url": "./transcripts/c000507_004_035_2_access_small.json",
-        "name": "Pamela Sargent Interview Raw (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/35/pages/page_0/files/c000507_003_040_access.mp3",
         "url": "./transcripts/c000507_003_040_access_small.json",
         "name": "Damon Knight Side 1 Master (small)"
@@ -158,11 +153,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/54/pages/page_0/files/c000507_004_018_access.mp3",
         "url": "./transcripts/c000507_004_018_access_small.json",
         "name": "Kevin O'Donnell, Jr. Master Side 1 only (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/71/pages/page_0/files/c000507_004_035_1_access.mp3",
-        "url": "./transcripts/c000507_004_035_1_access_small.json",
-        "name": "Pamela Sargent Interview Raw (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/73/pages/page_0/files/c000507_004_036_access.mp3",
@@ -220,29 +210,14 @@
         "name": "Underwood/Miller Tape 1 Raw (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/45/pages/page_0/files/c000507_006_007_1_access.mp3",
-        "url": "./transcripts/c000507_006_007_1_access_small.json",
-        "name": "Paul O. Williams Side 1 & 2 Master (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/80/pages/page_0/files/c000507_007_004a_access.mp3",
         "url": "./transcripts/c000507_007_004a_access_small.json",
         "name": "Science Fiction Radio Show Master, Leigh Kennedy (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/14/pages/page_0/files/c000507_005_012_access.mp3",
-        "url": "./transcripts/c000507_005_012_access_small.json",
-        "name": "Norman Spinrad Raw Pt. 2 (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/88/pages/page_0/files/c000507_007_010a_access.mp3",
         "url": "./transcripts/c000507_007_010a_access_small.json",
         "name": "Science Fiction Radio Show Master, George Proctor (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/46/pages/page_0/files/c000507_006_007_2_access.mp3",
-        "url": "./transcripts/c000507_006_007_2_access_small.json",
-        "name": "Paul O. Williams Side 1 & 2 Master (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/26/pages/page_0/files/c000507_005_023_access.mp3",
@@ -275,11 +250,6 @@
         "name": "Science Fiction Radio Show Master Richard Curtis (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/43/pages/page_0/files/c000507_006_006_1_access.mp3",
-        "url": "./transcripts/c000507_006_006_1_access_small.json",
-        "name": "Paul O. Williams Interview Side 1 & 2 (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/64/pages/page_0/files/c000507_006_023_access.mp3",
         "url": "./transcripts/c000507_006_023_access_small.json",
         "name": "Roger Zelazny Pt. 2 Raw (small)"
@@ -290,29 +260,14 @@
         "name": "Theodore Sturgeon Side 1 & 2 Master (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/18/pages/page_0/files/c000507_005_016_access.mp3",
-        "url": "./transcripts/c000507_005_016_access_small.json",
-        "name": "Norman Spinrad, Iron Dream Ban, Update Tape (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/68/pages/page_0/files/c000507_006_027_access.mp3",
         "url": "./transcripts/c000507_006_027_access_small.json",
         "name": "53 (small) - Corina"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/44/pages/page_0/files/c000507_006_006_2_access.mp3",
-        "url": "./transcripts/c000507_006_006_2_access_small.json",
-        "name": "Paul O. Williams Interview Side 1 & 2 (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/30/pages/page_0/files/c000507_005_027_access.mp3",
         "url": "./transcripts/c000507_005_027_access_small.json",
         "name": "A.E. Van Vogt/Madrigal Singers (ConClave IV-1979) (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/13/pages/page_0/files/c000507_005_011_access.mp3",
-        "url": "./transcripts/c000507_005_011_access_small.json",
-        "name": "Norman Spinrad Raw Pt. 1 (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/85/pages/page_0/files/c000507_007_008b_access.mp3",
@@ -1348,5 +1303,60 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/43/pages/page_0/files/c000507_006_006_1_access.mp3",
         "url": "./transcripts/c000507_006_006_1_access_turbo.json",
         "name": "Paul O. Williams Interview Side 1 & 2 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/21/pages/page_0/files/c000507_001_020_access.mp3",
+        "url": "./transcripts/c000507_001_020_access_turbo.json",
+        "name": "Ray Bradbury Part II (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/11/pages/page_0/files/c000507_001_011_2_access.mp3",
+        "url": "./transcripts/c000507_001_011_2_access_turbo.json",
+        "name": "Piers Anthony Master Side 1 & 2 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/71/pages/page_0/files/c000507_002_031_access.mp3",
+        "url": "./transcripts/c000507_002_031_access_turbo.json",
+        "name": "Philip Jose Farmer 1st Interview Master Raw (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/20/pages/page_0/files/c000507_005_018_access.mp3",
+        "url": "./transcripts/c000507_005_018_access_turbo.json",
+        "name": "Radio Play: \"Stuck on the Shoulder of the Roadto SF\" (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/20/pages/page_0/files/c000507_001_019_access.mp3",
+        "url": "./transcripts/c000507_001_019_access_turbo.json",
+        "name": "Ray Bradbury Master Side 1 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/69/pages/page_0/files/c000507_002_030_1_access.mp3",
+        "url": "./transcripts/c000507_002_030_1_access_turbo.json",
+        "name": "Roger Elwood Side 1 & 2 Raw (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/82/pages/page_0/files/c000507_003_002_2_access.mp3",
+        "url": "./transcripts/c000507_003_002_2_access_turbo.json",
+        "name": "Robert Forward Interview Raw Side 1 & 2 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/81/pages/page_0/files/c000507_003_002_1_access.mp3",
+        "url": "./transcripts/c000507_003_002_1_access_turbo.json",
+        "name": "Robert Forward Interview Raw Side 1 & 2 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/57/pages/page_0/files/c000507_002_016_access.mp3",
+        "url": "./transcripts/c000507_002_016_access_turbo.json",
+        "name": "Richard Curtis Master Side 1 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/70/pages/page_0/files/c000507_002_030_2_access.mp3",
+        "url": "./transcripts/c000507_002_030_2_access_turbo.json",
+        "name": "Roger Elwood Side 1 & 2 Raw (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/66/pages/page_0/files/c000507_002_027_access.mp3",
+        "url": "./transcripts/c000507_002_027_access_turbo.json",
+        "name": "Roger Ebert Master Side 1 (Turbo) - Corina"
     }
 ]
