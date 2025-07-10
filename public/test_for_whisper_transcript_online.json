@@ -1,10 +1,5 @@
 [
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/12/pages/page_0/files/c000507_001_012_access.mp3",
-        "url": "./transcripts/c000507_001_012_access_small.json",
-        "name": "Wizard of Oz, Frank Baum (small) - Corina"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/18/pages/page_0/files/c000507_001_017_access.mp3",
         "url": "./transcripts/c000507_001_017_access_small.json",
         "name": "Blish 001 (small)"
@@ -25,44 +20,9 @@
         "name": "A Close Encounter with the Center for UFO Studies with Dr. Richard Haines (small) - Corina"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/42/pages/page_0/files/c000507_002_001_1_access.mp3",
-        "url": "./transcripts/c000507_002_001_1_access_small.json",
-        "name": "C. J. Cherryh Interview Raw Side 1 & 2 (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/42/pages/page_0/files/c000507_002_001_1_access.mp3",
-        "url": "./transcripts/c000507_002_001_1_access_medium.json",
-        "name": "C. J. Cherryh Interview Raw Side 1 & 2 (medium)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/43/pages/page_0/files/c000507_002_001_2_access.mp3",
-        "url": "./transcripts/c000507_002_001_2_access_medium.json",
-        "name": "C. J. Cherryh Interview Raw Side 1 & 2 (medium)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/43/pages/page_0/files/c000507_002_001_2_access.mp3",
-        "url": "./transcripts/c000507_002_001_2_access_small.json",
-        "name": "C. J. Cherryh Interview Raw Side 1 & 2 (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/44/pages/page_0/files/c000507_002_002_access.mp3",
-        "url": "./transcripts/c000507_002_002_access_small.json",
-        "name": "C. J. Cherryh Interview Raw, Tape 2: Side 1 (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/45/pages/page_0/files/c000507_002_003_access.mp3",
         "url": "./transcripts/c000507_002_003_access_small.json",
         "name": "Cherryh Update P. Anthony (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/49/pages/page_0/files/c000507_002_007_access.mp3",
-        "url": "./transcripts/c000507_002_007_access_small.json",
-        "name": "Arthur C. Clarke (2-2) (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/55/pages/page_0/files/c000507_002_013_access.mp3",
-        "url": "./transcripts/c000507_002_013_access_small.json",
-        "name": "Clement (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/56/pages/page_0/files/c000507_002_014_access.mp3",
@@ -85,16 +45,6 @@
         "name": "Damon Knight Side 1 Master (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/54/pages/page_0/files/c000507_004_018_access.mp3",
-        "url": "./transcripts/c000507_004_018_access_small.json",
-        "name": "Kevin O'Donnell, Jr. Master Side 1 only (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/73/pages/page_0/files/c000507_004_036_access.mp3",
-        "url": "./transcripts/c000507_004_036_access_small.json",
-        "name": "Stan Schmidt (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/80/pages/page_0/files/c000507_007_004a_access.mp3",
         "url": "./transcripts/c000507_007_004a_access_small.json",
         "name": "Science Fiction Radio Show Master, Leigh Kennedy (small)"
@@ -108,11 +58,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/30/pages/page_0/files/c000507_005_027_access.mp3",
         "url": "./transcripts/c000507_005_027_access_small.json",
         "name": "A.E. Van Vogt/Madrigal Singers (ConClave IV-1979) (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/78/pages/page_0/files/c000507_007_003a_access.mp3",
-        "url": "./transcripts/c000507_007_003a_access_small.json",
-        "name": "Science Fiction Radio Show Master, Harry Harrison (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/92/pages/page_0/files/c000507_007_013b_access.mp3",
@@ -1343,5 +1288,25 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/19/pages/page_0/files/c000507_001_018_access.mp3",
         "url": "./transcripts/c000507_001_018_access_turbo.json",
         "name": "Blish 002 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/45/pages/page_0/files/c000507_002_003_access.mp3",
+        "url": "./transcripts/c000507_002_003_access_turbo.json",
+        "name": "Cherryh Update P. Anthony (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/28/pages/page_0/files/c000507_001_026_access.mp3",
+        "url": "./transcripts/c000507_001_026_access_turbo.json",
+        "name": "Charlie Brown (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/80/pages/page_0/files/c000507_007_004a_access.mp3",
+        "url": "./transcripts/c000507_007_004a_access_turbo.json",
+        "name": "Science Fiction Radio Show Master, Leigh Kennedy (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/56/pages/page_0/files/c000507_002_014_access.mp3",
+        "url": "./transcripts/c000507_002_014_access_turbo.json",
+        "name": "Crider/Laughlin Interview Tape 1 Raw (Turbo) - Corina"
     }
 ]
