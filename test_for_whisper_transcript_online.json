@@ -1,10 +1,5 @@
 [
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/5/pages/page_0/files/c000507_001_005_access.mp3",
-        "url": "./transcripts/c000507_001_005_access_small.json",
-        "name": "Amsbury (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/12/pages/page_0/files/c000507_001_012_access.mp3",
         "url": "./transcripts/c000507_001_012_access_small.json",
         "name": "Wizard of Oz, Frank Baum (small) - Corina"
@@ -1333,5 +1328,20 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/5/pages/page_0/files/c000507_001_005_access.mp3",
         "url": "./transcripts/c000507_001_005_access_turbo.json",
         "name": "Amsbury (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/42/pages/page_0/files/c000507_002_001_1_access.mp3",
+        "url": "./transcripts/c000507_002_001_1_access_turbo.json",
+        "name": "C. J. Cherryh Interview Raw Side 1 & 2 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/18/pages/page_0/files/c000507_001_017_access.mp3",
+        "url": "./transcripts/c000507_001_017_access_turbo.json",
+        "name": "Blish 001 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/19/pages/page_0/files/c000507_001_018_access.mp3",
+        "url": "./transcripts/c000507_001_018_access_turbo.json",
+        "name": "Blish 002 (Turbo) - Corina"
     }
 ]
