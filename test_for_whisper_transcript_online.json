@@ -115,11 +115,6 @@
         "name": "Side 2 (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/81/pages/page_0/files/c000507_007_005a_access.mp3",
-        "url": "./transcripts/c000507_007_005a_access_small.json",
-        "name": "Science Fiction Radio Show Master, Gordon Lewis, Aggiecon (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/29/pages/page_0/files/c000507_005_026_access.mp3",
         "url": "./transcripts/c000507_005_026_access_small.json",
         "name": "Underwood/Miller Tape 2 Raw (small)"
@@ -130,11 +125,6 @@
         "name": "Science Fiction Radio Show Stephen Donaldson (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/89/pages/page_0/files/c000507_007_012a_access.mp3",
-        "url": "./transcripts/c000507_007_012a_access_small.json",
-        "name": "Science Fiction Radio Show Master, Howard Waldron (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/28/pages/page_0/files/c000507_005_025_access.mp3",
         "url": "./transcripts/c000507_005_025_access_small.json",
         "name": "Underwood/Miller Tape 1 Raw (small)"
@@ -143,11 +133,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/80/pages/page_0/files/c000507_007_004a_access.mp3",
         "url": "./transcripts/c000507_007_004a_access_small.json",
         "name": "Science Fiction Radio Show Master, Leigh Kennedy (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/88/pages/page_0/files/c000507_007_010a_access.mp3",
-        "url": "./transcripts/c000507_007_010a_access_small.json",
-        "name": "Science Fiction Radio Show Master, George Proctor (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/26/pages/page_0/files/c000507_005_023_access.mp3",
@@ -1338,5 +1323,40 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/89/pages/page_0/files/c000507_007_012a_access.mp3",
         "url": "./transcripts/c000507_007_012a_access_turbo.json",
         "name": "Science Fiction Radio Show Master, Howard Waldron (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/25/pages/page_0/files/c000507_005_022_access.mp3",
+        "url": "./transcripts/c000507_005_022_access_turbo.json",
+        "name": "Sturgeon (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/85/pages/page_0/files/c000507_007_008b_access.mp3",
+        "url": "./transcripts/c000507_007_008b_access_turbo.json",
+        "name": "Side 2 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/26/pages/page_0/files/c000507_005_023_access.mp3",
+        "url": "./transcripts/c000507_005_023_access_turbo.json",
+        "name": "Sturgeon, Biggle, Odbert 177 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/73/pages/page_0/files/c000507_004_036_access.mp3",
+        "url": "./transcripts/c000507_004_036_access_turbo.json",
+        "name": "Stan Schmidt (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/16/pages/page_0/files/c000507_005_014_access.mp3",
+        "url": "./transcripts/c000507_005_014_access_turbo.json",
+        "name": "Spinrad 1 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/17/pages/page_0/files/c000507_005_015_access.mp3",
+        "url": "./transcripts/c000507_005_015_access_turbo.json",
+        "name": "Spinrad 2 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/87/pages/page_0/files/c000507_007_009b_access.mp3",
+        "url": "./transcripts/c000507_007_009b_access_turbo.json",
+        "name": "Side 2 (Turbo) - Corina"
     }
 ]
