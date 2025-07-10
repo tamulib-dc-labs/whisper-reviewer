@@ -1300,12 +1300,12 @@
         "name": "Damon Knight Side 1 Master (Turbo) - Corina"
     },
     {
-        "audio": "",
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/40/pages/page_0/files/c000507_004_004_access.mp3",
         "url": "./transcripts/c000507_004_004_access_turbo.json",
         "name": "George R. R. Martin (Turbo) - Corina"
     },
     {
-        "audio": "",
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/54/pages/page_0/files/c000507_002_012_access.mp3",
         "url": "./transcripts/c000507_002_012_access_turbo.json",
         "name": "Clement (Turbo) - Corina"
     },
