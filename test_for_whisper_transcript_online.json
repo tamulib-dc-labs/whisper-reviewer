@@ -25,11 +25,6 @@
         "name": "Robert E. Howard Scott Brown (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/35/pages/page_0/files/c000507_003_040_access.mp3",
-        "url": "./transcripts/c000507_003_040_access_small.json",
-        "name": "Damon Knight Side 1 Master (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/68/pages/page_0/files/c000507_006_027_access.mp3",
         "url": "./transcripts/c000507_006_027_access_small.json",
         "name": "53 (small) - Corina"
@@ -1295,7 +1290,7 @@
         "name": "John Maex (Collecting) (Turbo) - Corina"
     },
     {
-        "audio": "",
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/4/pages/page_0/files/c000507_003_009_access.mp3",
         "url": "./transcripts/c000507_003_009_access_turbo.json",
         "name": "James Gunn (Turbo) - Corina"
     },
@@ -1303,5 +1298,20 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/35/pages/page_0/files/c000507_003_040_access.mp3",
         "url": "./transcripts/c000507_003_040_access_turbo.json",
         "name": "Damon Knight Side 1 Master (Turbo) - Corina"
+    },
+    {
+        "audio": "",
+        "url": "./transcripts/c000507_004_004_access_turbo.json",
+        "name": "George R. R. Martin (Turbo) - Corina"
+    },
+    {
+        "audio": "",
+        "url": "./transcripts/c000507_002_012_access_turbo.json",
+        "name": "Clement (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/89/pages/page_0/files/c000507_003_031_access.mp3",
+        "url": "./transcripts/c000507_003_031_access_turbo.json",
+        "name": "Robert E. Howard Scott Brown (Turbo) - Corina"
     }
 ]
