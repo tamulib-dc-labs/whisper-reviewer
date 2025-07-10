@@ -110,34 +110,14 @@
         "name": "Stan Schmidt (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/sci_fi_temp_batch_2_objects/66/pages/page_0/files/c000507_004_030_access.mp3",
-        "url": "./transcripts/c000507_004_030_access_small.json",
-        "name": "Rudy Rucker Raw Interview (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/87/pages/page_0/files/c000507_007_009b_access.mp3",
         "url": "./transcripts/c000507_007_009b_access_small.json",
         "name": "Side 2 (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/84/pages/page_0/files/c000507_007_008a_access.mp3",
-        "url": "./transcripts/c000507_007_008a_access_small.json",
-        "name": "Science Fiction Radio Show Master, Chad Oliver (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/81/pages/page_0/files/c000507_007_005a_access.mp3",
         "url": "./transcripts/c000507_007_005a_access_small.json",
         "name": "Science Fiction Radio Show Master, Gordon Lewis, Aggiecon (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/82/pages/page_0/files/c000507_007_006a_access.mp3",
-        "url": "./transcripts/c000507_007_006a_access_small.json",
-        "name": "Science Fiction Radio Show Master, Ardath Mayhar (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/63/pages/page_0/files/c000507_006_022_access.mp3",
-        "url": "./transcripts/c000507_006_022_access_small.json",
-        "name": "Roger Zelazny Pt. 1 Raw (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/29/pages/page_0/files/c000507_005_026_access.mp3",
@@ -188,16 +168,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/86/pages/page_0/files/c000507_007_009a_access.mp3",
         "url": "./transcripts/c000507_007_009a_access_small.json",
         "name": "Science Fiction Radio Show Master, Teresa Patterson Costuming Fan, Side 1 (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/70/pages/page_0/files/c000507_006_029a_access.mp3",
-        "url": "./transcripts/c000507_006_029a_access_small.json",
-        "name": "Science Fiction Radio Show Master Richard Curtis (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/64/pages/page_0/files/c000507_006_023_access.mp3",
-        "url": "./transcripts/c000507_006_023_access_small.json",
-        "name": "Roger Zelazny Pt. 2 Raw (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/21/pages/page_0/files/c000507_005_019_1_access.mp3",
@@ -1327,11 +1297,46 @@
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/70/pages/page_0/files/c000507_006_029a_access.mp3",
         "url": "./transcripts/c000507_006_029a_access_turbo.json",
-        "name": "Science Fiction Radio Show Master  Richard Curtis (Turbo) - Corina"
+        "name": "Science Fiction Radio Show Master Richard Curtis (Turbo) - Corina"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/82/pages/page_0/files/c000507_007_006a_access.mp3",
         "url": "./transcripts/c000507_007_006a_access_turbo.json",
         "name": "Science Fiction Radio Show Master, Ardath Mayhar (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/91/pages/page_0/files/c000507_007_013a_access.mp3",
+        "url": "./transcripts/c000507_007_013a_access_turbo.json",
+        "name": "Science Fiction Radio Show Master, Michael Whelan (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/78/pages/page_0/files/c000507_007_003a_access.mp3",
+        "url": "./transcripts/c000507_007_003a_access_turbo.json",
+        "name": "Science Fiction Radio Show Master, Harry Harrison (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/88/pages/page_0/files/c000507_007_010a_access.mp3",
+        "url": "./transcripts/c000507_007_010a_access_turbo.json",
+        "name": "Science Fiction Radio Show Master, George Proctor (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/81/pages/page_0/files/c000507_007_005a_access.mp3",
+        "url": "./transcripts/c000507_007_005a_access_turbo.json",
+        "name": "Science Fiction Radio Show Master, Gordon Lewis, Aggiecon (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/86/pages/page_0/files/c000507_007_009a_access.mp3",
+        "url": "./transcripts/c000507_007_009a_access_turbo.json",
+        "name": "Science Fiction Radio Show Master, Teresa Patterson Costuming Fan, Side 1 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/76/pages/page_0/files/c000507_007_002a_access.mp3",
+        "url": "./transcripts/c000507_007_002a_access_turbo.json",
+        "name": "Science Fiction Radio Show Stephen Donaldson (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/89/pages/page_0/files/c000507_007_012a_access.mp3",
+        "url": "./transcripts/c000507_007_012a_access_turbo.json",
+        "name": "Science Fiction Radio Show Master, Howard Waldron (Turbo) - Corina"
     }
 ]
