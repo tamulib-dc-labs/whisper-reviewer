@@ -25,16 +25,6 @@
         "name": "Charlie Brown (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/33/pages/page_0/files/c000507_001_031_1_access.mp3",
-        "url": "./transcripts/c000507_001_031_1_access_small.json",
-        "name": "Terry Carr Interview Side 1 & 2 (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/34/pages/page_0/files/c000507_001_031_2_access.mp3",
-        "url": "./transcripts/c000507_001_031_2_access_small.json",
-        "name": "Terry Carr Interview Side 1 & 2 (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/37/pages/page_0/files/c000507_001_034_access.mp3",
         "url": "./transcripts/c000507_001_034_access_small.json",
         "name": "A Close Encounter with the Center for UFO Studies with Dr. Richard Haines (small) - Corina"
@@ -110,34 +100,9 @@
         "name": "Stan Schmidt (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/29/pages/page_0/files/c000507_005_026_access.mp3",
-        "url": "./transcripts/c000507_005_026_access_small.json",
-        "name": "Underwood/Miller Tape 2 Raw (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/28/pages/page_0/files/c000507_005_025_access.mp3",
-        "url": "./transcripts/c000507_005_025_access_small.json",
-        "name": "Underwood/Miller Tape 1 Raw (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/80/pages/page_0/files/c000507_007_004a_access.mp3",
         "url": "./transcripts/c000507_007_004a_access_small.json",
         "name": "Science Fiction Radio Show Master, Leigh Kennedy (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/90/pages/page_0/files/c000507_007_012b_access.mp3",
-        "url": "./transcripts/c000507_007_012b_access_small.json",
-        "name": "Waldron Side 2 (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/74/pages/page_0/files/c000507_006_031b_access.mp3",
-        "url": "./transcripts/c000507_006_031b_access_small.json",
-        "name": "Tape 1 & 2 (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/21/pages/page_0/files/c000507_005_019_1_access.mp3",
-        "url": "./transcripts/c000507_005_019_1_access_small.json",
-        "name": "Theodore Sturgeon Side 1 & 2 Master (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/68/pages/page_0/files/c000507_006_027_access.mp3",
@@ -148,11 +113,6 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/30/pages/page_0/files/c000507_005_027_access.mp3",
         "url": "./transcripts/c000507_005_027_access_small.json",
         "name": "A.E. Van Vogt/Madrigal Singers (ConClave IV-1979) (small)"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/22/pages/page_0/files/c000507_005_019_2_access.mp3",
-        "url": "./transcripts/c000507_005_019_2_access_small.json",
-        "name": "Theodore Sturgeon Side 1 & 2 Master (small)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/78/pages/page_0/files/c000507_007_003a_access.mp3",
@@ -1353,5 +1313,25 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/33/pages/page_0/files/c000507_001_031_1_access.mp3",
         "url": "./transcripts/c000507_001_031_1_access_turbo.json",
         "name": "Terry Carr Interview Side 1 & 2 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/43/pages/page_0/files/c000507_002_001_2_access.mp3",
+        "url": "./transcripts/c000507_002_001_2_access_turbo.json",
+        "name": "C. J. Cherryh Interview Raw Side 1 & 2 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/49/pages/page_0/files/c000507_002_007_access.mp3",
+        "url": "./transcripts/c000507_002_007_access_turbo.json",
+        "name": "Arthur C. Clarke  (2-2) (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/44/pages/page_0/files/c000507_002_002_access.mp3",
+        "url": "./transcripts/c000507_002_002_access_turbo.json",
+        "name": "C. J. Cherryh Interview Raw, Tape 2: Side 1 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/5/pages/page_0/files/c000507_001_005_access.mp3",
+        "url": "./transcripts/c000507_001_005_access_turbo.json",
+        "name": "Amsbury (Turbo) - Corina"
     }
 ]
