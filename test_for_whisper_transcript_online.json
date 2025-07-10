@@ -20,11 +20,6 @@
         "name": "Ellison 67 (small)"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/89/pages/page_0/files/c000507_003_031_access.mp3",
-        "url": "./transcripts/c000507_003_031_access_small.json",
-        "name": "Robert E. Howard Scott Brown (small)"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/68/pages/page_0/files/c000507_006_027_access.mp3",
         "url": "./transcripts/c000507_006_027_access_small.json",
         "name": "53 (small) - Corina"
