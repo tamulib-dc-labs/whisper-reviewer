@@ -1335,7 +1335,7 @@
         "name": "Flying the Apollo Missions, part 2 (Turbo) - Corina"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/saf-output_objects/42/pages/page_0/files/hernan-conteras_023_access.mp3",
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/saf-output_objects/42/pages/page_0/files/gerald-griffin_004_access.mp3",
         "url": "./transcripts/gerald-griffin_004_access_turbo.json",
         "name": "Apollo XII \"The Intrepid Voyage\" (Turbo) - Corina"
     },
@@ -1343,5 +1343,15 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/saf-output_objects/2/pages/page_0/files/gerald-griffin_001_access.mp3",
         "url": "./transcripts/gerald-griffin_001_access_turbo.json",
         "name": "The Airplane and NASA: Epsiode 1 - The Golden Days of Flight (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/saf-output_objects/3/pages/page_0/files/gerald-griffin_002_access.mp3",
+        "url": "./transcripts/gerald-griffin_002_access_turbo.json",
+        "name": "Flying the Apollo Missions, part 1 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/saf-output_objects/43/pages/page_0/files/gerald-griffin_005_access.mp3",
+        "url": "./transcripts/gerald-griffin_005_access_turbo.json",
+        "name": "Apollo 13: The Untold Story (Turbo) - Corina"
     }
 ]
