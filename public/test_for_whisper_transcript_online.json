@@ -1308,5 +1308,30 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/89/pages/page_0/files/c000507_003_031_access.mp3",
         "url": "./transcripts/c000507_003_031_access_turbo.json",
         "name": "Robert E. Howard Scott Brown (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/saf-output_objects/11",
+        "url": "./transcripts/gerald-griffin_019a_access_turbo.json",
+        "name": "NASA Space Note No. 82 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/saf-output_objects/13",
+        "url": "./transcripts/gerald-griffin_020b_access_turbo.json",
+        "name": "SS 1704 \"Apollo II. . .15th Anniversary\" NASA Special Report #236: Apollo II. . .an anniversary program with sound effects (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/saf-output_objects/9",
+        "url": "./transcripts/gerald-griffin_018a_access_turbo.json",
+        "name": "Press Conference with Bob Crippen and John Young after first STS-1 flight - Part 1 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/saf-output_objects/10",
+        "url": "./transcripts/gerald-griffin_018b_access_turbo.json",
+        "name": "Press Conference with Bob Crippen and John Young after first STS-1 flight - Part 2 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/saf-output_objects/12",
+        "url": "./transcripts/gerald-griffin_020a_access_turbo.json",
+        "name": "SS 1704 \"Apollo II. . .15th Anniversary\" NASA Special Report #236: Apollo II. . .an anniversary program with sound effects (Turbo) - Corina"
     }
 ]
