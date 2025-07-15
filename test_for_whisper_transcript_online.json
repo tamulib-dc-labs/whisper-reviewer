@@ -1353,5 +1353,100 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/saf-output_objects/43/pages/page_0/files/gerald-griffin_005_access.mp3",
         "url": "./transcripts/gerald-griffin_005_access_turbo.json",
         "name": "Apollo 13: The Untold Story (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/saf-output_objects/6/pages/page_0/files/gerald-griffin_008_access.mp3",
+        "url": "./transcripts/gerald-griffin_008_access_turbo.json",
+        "name": "The Space Shuttle Saga: Columbia (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/saf-output_objects/45/pages/page_0/files/gerald-griffin_009_access.mp3",
+        "url": "./transcripts/gerald-griffin_009_access_turbo.json",
+        "name": "Flight Festival 87, Gerry, et al (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/saf-output_objects/46/pages/page_0/files/gerald-griffin_010_access.mp3",
+        "url": "./transcripts/gerald-griffin_010_access_turbo.json",
+        "name": "\"The Challenge\" (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/saf-output_objects/44/pages/page_0/files/gerald-griffin_007_access.mp3",
+        "url": "./transcripts/gerald-griffin_007_access_turbo.json",
+        "name": "NASA: Houston, we've got a problem (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/saf-output_objects/5/pages/page_0/files/gerald-griffin_006_access.mp3",
+        "url": "./transcripts/gerald-griffin_006_access_turbo.json",
+        "name": "Apollo 13 Retrospective-The Real Stuff (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/saf-output_objects/8/pages/page_0/files/gerald-griffin_014_access.mp3",
+        "url": "./transcripts/gerald-griffin_014_access_turbo.json",
+        "name": "U.S. Space Foundation (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/saf-output_objects/47/pages/page_0/files/gerald-griffin_011_access.mp3",
+        "url": "./transcripts/gerald-griffin_011_access_turbo.json",
+        "name": "SYFY Channel Inside Space: Apollo 13: The Real Story (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/saf-output_objects/49/pages/page_0/files/gerald-griffin_015_access.mp3",
+        "url": "./transcripts/gerald-griffin_015_access_turbo.json",
+        "name": "Columbia Final Mission (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/saf-output_objects/7/pages/page_0/files/gerald-griffin_013_access.mp3",
+        "url": "./transcripts/gerald-griffin_013_access_turbo.json",
+        "name": "Memorial Service for Alan B. Shepard Jr (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/saf-output_objects/48/pages/page_0/files/gerald-griffin_012_access.mp3",
+        "url": "./transcripts/gerald-griffin_012_access_turbo.json",
+        "name": "Turning Points in History/ The Eagle Has Landed (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/saf-output_objects/14/pages/page_0/files/gerald-griffin_021a_access.mp3",
+        "url": "./transcripts/gerald-griffin_021a_access_turbo.json",
+        "name": "NASA Space Stories 1076-1079 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/saf-output_objects/16/pages/page_0/files/gerald-griffin_022a_access.mp3",
+        "url": "./transcripts/gerald-griffin_022a_access_turbo.json",
+        "name": "NASA Space Stories 1080-1083 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/saf-output_objects/11/pages/page_0/files/gerald-griffin_019a_access.mp3",
+        "url": "./transcripts/gerald-griffin_019a_access_turbo.json",
+        "name": "NASA Space Note No. 82 (Turbo) - Corina"
+    },
+    {
+        "audio": "",
+        "url": "./transcripts/gerald-griffin_022b_access_turbo.json",
+        "name": "NASA Special Report #238: Gamma Ray Observatory: Window oo a Dynamic Universe (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/saf-output_objects/17/pages/page_0/files/gerald-griffin_022b_access.mp3",
+        "url": "./transcripts/gerald-griffin_016_access_turbo.json",
+        "name": "Clayton Memorial Lecture Space Shuttle Orbiter (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/saf-output_objects/51/pages/page_0/files/gerald-griffin_017_access.mp3",
+        "url": "./transcripts/gerald-griffin_017_access_turbo.json",
+        "name": "\"Ulysses\" Lunar Lander/Micro Rover Project (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/saf-output_objects/15/pages/page_0/files/gerald-griffin_021b_access.mp3",
+        "url": "./transcripts/gerald-griffin_021b_access_turbo.json",
+        "name": "NASA Special Report #237: The Flight of Discovery (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/saf-output_objects/19/pages/page_0/files/gerald-griffin_023b_access.mp3",
+        "url": "./transcripts/gerald-griffin_023b_access_turbo.json",
+        "name": "NASA Special Report 239: Space Flight Participant Program (Turbo) - Corina"
+    },
+    {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/saf-output_objects/18/pages/page_0/files/gerald-griffin_023a_access.mp3",
+        "url": "./transcripts/gerald-griffin_023a_access_turbo.json",
+        "name": "NASA Space Stories 1084-1087 (Turbo) - Corina"
     }
 ]
