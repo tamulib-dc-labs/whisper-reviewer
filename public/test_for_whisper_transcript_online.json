@@ -4,6 +4,11 @@
         "url": "./transcripts/c000507_001_017_access_small.json",
         "name": "Blish 001 (small)"
     },
+      {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/18/pages/page_0/files/c000507_001_017_access.mp3",
+        "url": "./transcripts/c000507_001_017_access.json",
+        "name": "Blish 001 (whisperx)"
+    },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/19/pages/page_0/files/c000507_001_018_access.mp3",
         "url": "./transcripts/c000507_001_018_access_small.json",
