@@ -14,6 +14,11 @@
         "url": "./transcripts/c000507_001_018_access_small.json",
         "name": "Blish 002 (small)"
     },
+      {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/19/pages/page_0/files/c000507_001_018_access.mp3",
+        "url": "./transcripts/c000507_001_018_access.json",
+        "name": "Blish 002 (whisperx)"
+    },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/37/pages/page_0/files/c000507_001_034_access.mp3",
         "url": "./transcripts/c000507_001_034_access_small.json",
@@ -24,6 +29,11 @@
         "url": "./transcripts/c000507_002_029_access_small.json",
         "name": "Ellison 67 (small)"
     },
+      {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/68/pages/page_0/files/c000507_002_029_access.mp3",
+        "url": "./transcripts/c000507_002_029_access.json",
+        "name": "Ellison 67 (whisperx)"
+    },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/68/pages/page_0/files/c000507_006_027_access.mp3",
         "url": "./transcripts/c000507_006_027_access_small.json",
@@ -33,6 +43,11 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/30/pages/page_0/files/c000507_005_027_access.mp3",
         "url": "./transcripts/c000507_005_027_access_small.json",
         "name": "A.E. Van Vogt/Madrigal Singers (ConClave IV-1979) (small)"
+    },
+     {
+        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/30/pages/page_0/files/c000507_005_027_access.mp3",
+        "url": "./transcripts/c000507_005_027_access.json",
+        "name": "A.E. Van Vogt/Madrigal Singers (ConClave IV-1979) (whisperx)"
     },
     {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/92/pages/page_0/files/c000507_007_013b_access.mp3",
