@@ -1495,31 +1495,6 @@
         "name": "03-VOTV-Boykin_Calvin-video02-medium.mp4"
     },
     {
-        "audio": "https://kaltura.library.tamu.edu/avalon/986c2b47-d239-43b6-b065-3b4ab9b07eed/outputs/03-VOTV-Adams_Bill-video-medium.mp4/index.m3u8",
-        "url": "./transcripts/hh63sw03r_xw42n802w.json",
-        "name": "03-VOTV-Adams_Bill-video-medium.mp4"
-    },
-    {
-        "audio": "https://kaltura.library.tamu.edu/avalon/af8de3e1-ee5b-4ee9-9151-33b265861910/outputs/03-VOTV-Carlton_PK-video-medium.mp4/index.m3u8",
-        "url": "./transcripts/736664720_v692t6392.json",
-        "name": "03-VOTV-Carlton_PK-video-medium.mp4"
-    },
-    {
-        "audio": "https://kaltura.library.tamu.edu/avalon/986c2b47-d239-43b6-b065-3b4ab9b07eed/outputs/03-VOTV-Browning_Tom-video-medium.mp4/index.m3u8",
-        "url": "./transcripts/fq977v048_rf55z791k.json",
-        "name": "03-VOTV-Browning_Tom-video-medium.mp4"
-    },
-    {
-        "audio": "https://kaltura.library.tamu.edu/avalon/986c2b47-d239-43b6-b065-3b4ab9b07eed/outputs/03-VOTV-Bruner-Bob-video-medium.mp4/index.m3u8",
-        "url": "./transcripts/tt44pn07r_sj139214q",
-        "name": "03-VOTV-Bruner-Bob-video-medium.mp4"
-    },
-    {
-        "audio": "https://kaltura.library.tamu.edu/avalon/986c2b47-d239-43b6-b065-3b4ab9b07eed/outputs/03-VOTV-Boykin_Calvin-video01-medium.mp4/index.m3u8",
-        "url": "./transcripts/bn999687g_bv73c0623.json",
-        "name": "03-VOTV-Boykin_Calvin-video01-medium.mp4"
-    },
-    {
         "audio": "https://kaltura.library.tamu.edu/avalon/986c2b47-d239-43b6-b065-3b4ab9b07eed/outputs/03-VOTV-Burns_Curtis-video-medium.mp4/index.m3u8",
         "url": "./transcripts/4b29b619z_qn59q418p.json",
         "name": "03-VOTV-Burns_Curtis-video-medium.mp4"
@@ -1538,5 +1513,15 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/17b15bd7-b5f7-4847-bc42-27a958519ec8/outputs/03-VOTV-Bayliss_Garland-video-medium.mp4/index.m3u8",
         "url": "./transcripts/7w62f844w_mc87pq484.json",
         "name": "03-VOTV-Bayliss_Garland-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/82e56b37-6714-49d4-bd96-a5b9c507f5bf/outputs/03-VOTV-Boykin_Anne_Project_Hold-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/9593tv33v_zk51vh031.json",
+        "name": "03-VOTV-Boykin_Anne_Project_Hold-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/af8de3e1-ee5b-4ee9-9151-33b265861910/outputs/03-VOTV-Carlton_PK-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/736664720_v692t6392.json",
+        "name": "03-VOTV-Carlton_PK-video-medium.mp4 whisperx"
     }
 ]
