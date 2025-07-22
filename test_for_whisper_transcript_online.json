@@ -1495,7 +1495,7 @@
         "name": "03-VOTV-Boykin_Calvin-video02-medium.mp4"
     },
     {
-        "audio": "https://kaltura.library.tamu.edu/avalon/986c2b47-d239-43b6-b065-3b4ab9b07eed/outputs/03-VOTV-Burns_Curtis-video-medium.mp4/index.m3u8",
+        "audio": "https://kaltura.library.tamu.edu/avalon/983a8153-b376-412d-b594-20b795916d14/outputs/03-VOTV-Burns_Curtis-video-medium.mp4/index.m3u8",
         "url": "./transcripts/4b29b619z_qn59q418p.json",
         "name": "03-VOTV-Burns_Curtis-video-medium.mp4"
     },
@@ -1523,5 +1523,10 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/af8de3e1-ee5b-4ee9-9151-33b265861910/outputs/03-VOTV-Carlton_PK-video-medium.mp4/index.m3u8",
         "url": "./transcripts/736664720_v692t6392.json",
         "name": "03-VOTV-Carlton_PK-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/983a8153-b376-412d-b594-20b795916d14/outputs/03-VOTV-Burns_Curtis-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/4b29b619z_qn59q418p.json",
+        "name": "03-VOTV-Burns_Curtis-video-medium.mp4 whisperx"
     }
 ]
