@@ -1528,5 +1528,15 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/983a8153-b376-412d-b594-20b795916d14/outputs/03-VOTV-Burns_Curtis-video-medium.mp4/index.m3u8",
         "url": "./transcripts/4b29b619z_qn59q418p.json",
         "name": "03-VOTV-Burns_Curtis-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/fe75025d-6938-42fa-a277-7e538d0e606a/outputs/03-VOTV-Boykin_Calvin-video01-medium.mp4/index.m3u8",
+        "url": "./transcripts/bn999687g_bv73c0623.json",
+        "name": "03-VOTV-Boykin_Calvin-video01-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/39cb58d1-7a4f-4299-ab9a-c1d71cb21d05/outputs/03-VOTV-Brewster_Joe-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/bg257f25z_9g54xh94c.json",
+        "name": "03-VOTV-Brewster_Joe-video-medium.mp4 whisperx"
     }
 ]
