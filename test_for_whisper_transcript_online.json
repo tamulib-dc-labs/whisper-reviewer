@@ -1483,5 +1483,20 @@
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/saf-output_objects/18/pages/page_0/files/gerald-griffin_023a_access.mp3",
         "url": "./transcripts/gerald-griffin_023a_access_turbo.json",
         "name": "NASA Space Stories 1084-1087 (Turbo) - Corina"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/ec88eebf-ca3e-463b-a507-e72fdc556157/outputs/03-VOTV-Beal_Norman-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/1v53jx20h_8w32r581p.json",
+        "name": "03-VOTV-Beal_Norman-video-medium.mp4"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/60a509d7-b9ed-4c8c-b1c0-412d6db6c348/outputs/03-VOTV-Boykin_Calvin-video02-medium.mp4/index.m3u8",
+        "url": "./transcripts/2r36tx75h_9880vr23v.json",
+        "name": "03-VOTV-Boykin_Calvin-video02-medium.mp4"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/986c2b47-d239-43b6-b065-3b4ab9b07eed/outputs/03-VOTV-Adams_Bill-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/hh63sw03r_xw42n802w.json",
+        "name": "03-VOTV-Adams_Bill-video-medium.mp4"
     }
 ]
