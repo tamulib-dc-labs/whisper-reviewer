@@ -49,7 +49,7 @@
         "url": "./transcripts/c000507_002_029_access_small.json",
         "name": "Ellison 67 (small)"
     },
-      {
+    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/68/pages/page_0/files/c000507_002_029_access.mp3",
         "url": "./transcripts/c000507_002_029_access.json",
         "name": "Ellison 67 (whisperx)"
@@ -59,7 +59,7 @@
         "url": "./transcripts/c000507_006_027_access_small.json",
         "name": "53 (small) - Corina"
     },
-     {
+    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/last_batch_for_pre_objects/30/pages/page_0/files/c000507_005_027_access.mp3",
         "url": "./transcripts/c000507_005_027_access.json",
         "name": "A.E. Van Vogt/Madrigal Singers (ConClave IV-1979) (whisperx)"
@@ -1498,5 +1498,45 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/986c2b47-d239-43b6-b065-3b4ab9b07eed/outputs/03-VOTV-Adams_Bill-video-medium.mp4/index.m3u8",
         "url": "./transcripts/hh63sw03r_xw42n802w.json",
         "name": "03-VOTV-Adams_Bill-video-medium.mp4"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/af8de3e1-ee5b-4ee9-9151-33b265861910/outputs/03-VOTV-Carlton_PK-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/736664720_v692t6392.json",
+        "name": "03-VOTV-Carlton_PK-video-medium.mp4"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/986c2b47-d239-43b6-b065-3b4ab9b07eed/outputs/03-VOTV-Browning_Tom-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/fq977v048_rf55z791k.json",
+        "name": "03-VOTV-Browning_Tom-video-medium.mp4"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/986c2b47-d239-43b6-b065-3b4ab9b07eed/outputs/03-VOTV-Bruner-Bob-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/tt44pn07r_sj139214q",
+        "name": "03-VOTV-Bruner-Bob-video-medium.mp4"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/986c2b47-d239-43b6-b065-3b4ab9b07eed/outputs/03-VOTV-Boykin_Calvin-video01-medium.mp4/index.m3u8",
+        "url": "./transcripts/bn999687g_bv73c0623.json",
+        "name": "03-VOTV-Boykin_Calvin-video01-medium.mp4"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/986c2b47-d239-43b6-b065-3b4ab9b07eed/outputs/03-VOTV-Burns_Curtis-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/4b29b619z_qn59q418p.json",
+        "name": "03-VOTV-Burns_Curtis-video-medium.mp4"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/97b6e554-a15f-494a-bd1f-bf3957c23663/outputs/03-VOTV-Banta_Gary-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/3r074v152_nz805z87x.json",
+        "name": "03-VOTV-Banta_Gary-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/e8a9ce9b-929f-40bf-9262-8960d84e8c1a/outputs/03-VOTV-Birdwell_Alfred-Whitey-video01-medium.mp4/index.m3u8",
+        "url": "./transcripts/3t945r03g_qn59q419z.json",
+        "name": "03-VOTV-Birdwell_Alfred-Whitey-video01-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/17b15bd7-b5f7-4847-bc42-27a958519ec8/outputs/03-VOTV-Bayliss_Garland-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/7w62f844w_mc87pq484.json",
+        "name": "03-VOTV-Bayliss_Garland-video-medium.mp4 whisperx"
     }
 ]
