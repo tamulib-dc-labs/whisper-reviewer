@@ -1553,5 +1553,20 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/a75f04b7-ef9d-4bc3-aef5-db695e9598da/outputs/03-VOTV-Upham_Jack-video-medium.mp4/index.m3u8",
         "url": "./transcripts/05741r94m_2227mp88r.json",
         "name": "03-VOTV-Upham_Jack-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/fdbb515a-4f90-4a31-9dae-5ec898f89c80/outputs/03-VOTV-Hill_Henry-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/12579s484_8049g5257.json",
+        "name": "03-VOTV-Hill_Henry-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/e519b010-d023-4677-98d6-0d6f1438aabd/outputs/03-VOTV-Rosser_Terry-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/0v8380787_0z708w568.json",
+        "name": "03-VOTV-Rosser_Terry-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/f07acdc3-b846-4512-8218-d948ca3f292e/outputs/03-VOTV-StarrDouglass-video02-medium.mp4/index.m3u8",
+        "url": "./transcripts/0k225b202_2j62s506q.json",
+        "name": "03-VOTV-StarrDouglass-video02-medium.mp4 whisperx"
     }
 ]
