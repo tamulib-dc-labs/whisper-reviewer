@@ -1578,5 +1578,15 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/2d516eb3-8fac-435e-898b-2ceba613f352/outputs/03-VOTV-Guidry_Mike-video02-medium.mp4/index.m3u8",
         "url": "./transcripts/12579s505_fj236243d.json",
         "name": "03-VOTV-Guidry_Mike-video02-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/c3b2e861-a8f1-4a1b-bec8-2d51abb6a7c1/outputs/03-VOTV-Eyre_Ed-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/1v53jx21s_f4752g94n.json",
+        "name": "03-VOTV-Eyre_Ed-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/b9e1f77d-2c18-4fa8-ac2a-5f47956adb24/outputs/03-VOTV-West_Jim-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/1j92g773q_ff365539k.json",
+        "name": "03-VOTV-West_Jim-video-medium.mp4 whisperx"
     }
 ]
