@@ -1590,6 +1590,16 @@
         "name": "03-VOTV-West_Jim-video-medium.mp4 whisperx"
     },
     {
+        "audio": "https://kaltura.library.tamu.edu/avalon/92e8b38a-5dbe-4f4f-8d29-13b23e713b44/outputs/tfs_svs01_03b_14-medium.mp4/index.m3u8",
+        "url": "./transcripts/0p096696q_b5644r623.json",
+        "name": "tfs_svs01_03b_14-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/f047c231-289d-4586-b294-d798821675c7/outputs/tfs_jek04_01b_spots-medium.mp4/index.m3u8",
+        "url": "./transcripts/0g354f26g_0g354f27r.json",
+        "name": "tfs_jek04_01b_spots-medium.mp4 whisperx"
+    },
+    {
         "audio": "https://kaltura.library.tamu.edu/avalon/58f36cfb-b661-46c5-b882-421b4abcafa2/outputs/tfs_jek04_05a_08-medium.mp4/index.m3u8",
         "url": "./transcripts/0c483j46q_d217qp63n.json",
         "name": "tfs_jek04_05a_08-medium.mp4 whisperx"
