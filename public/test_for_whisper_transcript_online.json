@@ -1538,5 +1538,20 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/39cb58d1-7a4f-4299-ab9a-c1d71cb21d05/outputs/03-VOTV-Brewster_Joe-video-medium.mp4/index.m3u8",
         "url": "./transcripts/bg257f25z_9g54xh94c.json",
         "name": "03-VOTV-Brewster_Joe-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/6e69a3d4-2fd4-4354-bcba-82e935ef9c4a/outputs/03-VOTV-Pratt_Gordon-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/0c483j56z_m326m1935.json",
+        "name": "03-VOTV-Pratt_Gordon-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/5e199a54-d01f-47b0-b2dc-3f4c33cbfe87/outputs/03-VOTV-Gammon_Spec-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/474299320_cc08hf749.json",
+        "name": "03-VOTV-Gammon_Spec-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/a75f04b7-ef9d-4bc3-aef5-db695e9598da/outputs/03-VOTV-Upham_Jack-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/05741r94m_2227mp88r.json",
+        "name": "03-VOTV-Upham_Jack-video-medium.mp4 whisperx"
     }
 ]
