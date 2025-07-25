@@ -1823,5 +1823,15 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/e9318723-a846-4b87-a7af-e671d256c4c9/outputs/tfs_svs02_01b_05-medium.mp4/index.m3u8",
         "url": "./transcripts/b5644r61t_vq27zn48d.json",
         "name": "tfs_svs02_01b_05-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/3ebda695-0503-47cd-89b9-2ae9413be3d8/outputs/tfs_svs02_03b_18-medium.mp4/index.m3u8",
+        "url": "./transcripts/bc386j324_v979v3168.json",
+        "name": "tfs_svs02_03b_18-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/8f57a484-e3be-483f-800f-2beec267edac/outputs/tfs_svs01_01a_01-medium.mp4/index.m3u8",
+        "url": "./transcripts/bg257f14f_j3860700v.json",
+        "name": "tfs_svs01_01a_01-medium.mp4 whisperx"
     }
 ]
