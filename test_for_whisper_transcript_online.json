@@ -2038,5 +2038,25 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/eb6aa928-ac10-4d69-8059-eb322461a1f2/outputs/tfs_jek03_03a_05s-medium.mp4/index.m3u8",
         "url": "./transcripts/m613mx695_zs25x8585.json",
         "name": "tfs_jek03_03a_05s-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/9a952314-4d73-4a86-b7dd-c4253eca3971/outputs/tfs_swp02_05a_09-medium.mp4/index.m3u8",
+        "url": "./transcripts/mk61rh10p_7w62f8323.json",
+        "name": "tfs_swp02_05a_09-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/63e727a6-17c8-40d6-a425-852fdfb8b968/outputs/tfs_tot_06a_11-medium.mp4/index.m3u8",
+        "url": "./transcripts/mc87pq40x_td96k2606.json",
+        "name": "tfs_tot_06a_11-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/65d0e75d-5539-4ceb-950b-e45b7ba14e82/outputs/tfs_swp02_06b_12-medium.mp4/index.m3u8",
+        "url": "./transcripts/ms35t8663_q811kj738.json",
+        "name": "tfs_swp02_06b_12-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/9314815e-bff4-4460-b4cd-7d29ce8816b5/outputs/tfs_swp02_04a_07-medium.mp4/index.m3u8",
+        "url": "./transcripts/mk61rh11z_4j03cz73v.json",
+        "name": "tfs_swp02_04a_07-medium.mp4 whisperx"
     }
 ]
