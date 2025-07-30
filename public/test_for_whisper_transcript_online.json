@@ -2198,5 +2198,75 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/ded46be6-dd2c-4840-926c-9d5492cea0bb/outputs/tfs_jek04_02a_02-medium.mp4/index.m3u8",
         "url": "./transcripts/v692t633d_2801pg41b.json",
         "name": "tfs_jek04_02a_02-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/221f3fae-8214-402d-b26b-e2abf5e9f842/outputs/tfs_jek02_02b_04-medium.mp4/index.m3u8",
+        "url": "./transcripts/vx021f22w_xw42n798h.json",
+        "name": "tfs_jek02_02b_04-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/3987c869-5323-4089-adcd-f29af9e3a7db/outputs/tfs_jek02_04a_07-medium.mp4/index.m3u8",
+        "url": "./transcripts/vx021f21m_kk91fk65d.json",
+        "name": "tfs_jek02_04a_07-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/4c789879-76e1-4ce0-9d89-a94e044acdf9/outputs/tfs_bsf02_02a_03-medium.mp4/index.m3u8",
+        "url": "./transcripts/vx021f235_cj82k7441.json",
+        "name": "tfs_bsf02_02a_03-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/28ee252f-9850-4393-a032-958515ceb884/outputs/tfs_jek02_03b_06-medium.mp4/index.m3u8",
+        "url": "./transcripts/vq27zn474_2j62s495d.json",
+        "name": "tfs_jek02_03b_06-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/72314d12-a3d6-4387-a0bb-592ff7cbe899/outputs/tfs_tot_04a_07-medium.mp4/index.m3u8",
+        "url": "./transcripts/xk81jk49s_gf06g273j.json",
+        "name": "tfs_tot_04a_07-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/62dea81b-96c5-481d-b4fa-faf68a8ba3be/outputs/tfs_jek01_04b_08-medium.mp4/index.m3u8",
+        "url": "./transcripts/wd375w35b_qb98mf61z.json",
+        "name": "tfs_jek01_04b_08-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/7a02a0b0-d53c-4f69-99a8-03c7e4ad3bc8/outputs/tfs_swp01_04b_08-medium.mp4/index.m3u8",
+        "url": "./transcripts/w9505052n_4t64gn301.json",
+        "name": "tfs_swp01_04b_08-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/fcf31303-c357-40b8-bc71-e5a0c5edc469/outputs/tfs_svs02_03a_15-medium.mp4/index.m3u8",
+        "url": "./transcripts/vx021f24f_k3569449z.json",
+        "name": "tfs_svs02_03a_15-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/ea21e44e-032e-44c8-87b3-0b98d0a54790/outputs/tfs_jek02_01a_01-medium.mp4/index.m3u8",
+        "url": "./transcripts/xp68kg278_sx61dm37v.json",
+        "name": "tfs_jek02_01a_01-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/7e8cce85-cab4-484a-ad1b-9b2cd144835a/outputs/tfs_swp01_07a_13-medium.mp4/index.m3u8",
+        "url": "./transcripts/zk51vg89d_vd66vz92z.json",
+        "name": "tfs_swp01_07a_13-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/c0f3e519-9db4-431b-a212-332f6937d52f/outputs/tfs_swp01_06a_11-medium.mp4/index.m3u8",
+        "url": "./transcripts/zp38wc749_v979v3150.json",
+        "name": "tfs_swp01_06a_11-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/4aab431c-72bb-4096-bc48-4c710a87058d/outputs/tfs_jek04_07b_13-medium.mp4/index.m3u8",
+        "url": "./transcripts/xs55mc135_9s1616317.json",
+        "name": "tfs_jek04_07b_13-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/e148cc36-c459-4a4a-9b01-b90e78c83c73/outputs/tfs_swp01_03a_05-medium.mp4/index.m3u8",
+        "url": "./transcripts/zs25x8606_rj430466m.json",
+        "name": "tfs_swp01_03a_05-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/53c233f9-9531-4e67-b752-d5d1736ddece/outputs/tfs_swp01_05a_09-medium.mp4/index.m3u8",
+        "url": "./transcripts/zs25x859f_h415p9635.json",
+        "name": "tfs_swp01_05a_09-medium.mp4 whisperx"
     }
 ]
