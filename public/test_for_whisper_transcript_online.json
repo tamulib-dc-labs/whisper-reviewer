@@ -2268,5 +2268,40 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/53c233f9-9531-4e67-b752-d5d1736ddece/outputs/tfs_swp01_05a_09-medium.mp4/index.m3u8",
         "url": "./transcripts/zs25x859f_h415p9635.json",
         "name": "tfs_swp01_05a_09-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/627fb047-84fd-454c-ae63-7552b815ce9f/outputs/Lit-Owens-Disk_b003_i076a-HenryGreen-medium.mp4/index.m3u8",
+        "url": "./transcripts/0k225b14x_bn999678h.json",
+        "name": "Lit-Owens-Disk_b003_i076a-HenryGreen-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/15034af7-1bf3-404a-970a-38b966d6db97/outputs/Lit-Owens-Disk_b007_i167b-OhMona-medium.mp4/index.m3u8",
+        "url": "./transcripts/0k225b12c_df65v794n.json",
+        "name": "Lit-Owens-Disk_b007_i167b-OhMona-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/974d0e12-79e7-4e47-912c-c00243e1cf2f/outputs/Lit-Owens-Disk_b003_i076b2-LovelyWilliam-medium.mp4/index.m3u8",
+        "url": "./transcripts/0k225b14x_mk61rh09x.json",
+        "name": "Lit-Owens-Disk_b003_i076b2-LovelyWilliam-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/6a9c42e8-a414-475a-8139-d1ce32f27b4e/outputs/Lit-Owens-Disk_b007_i167a-Watermelon-medium.mp4/index.m3u8",
+        "url": "./transcripts/0k225b12c_b2773v766.json",
+        "name": "Lit-Owens-Disk_b007_i167a-Watermelon-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/a3f92958-d15b-4c3b-8de0-719b7f87ab71/outputs/Lit-Owens-Disk_b003_i076b1-KeepYourGardenClean-medium.mp4/index.m3u8",
+        "url": "./transcripts/0k225b14x_mc87pq38w.json",
+        "name": "Lit-Owens-Disk_b003_i076b1-KeepYourGardenClean-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/c7180d5a-3ea7-480c-92ec-93d35df5b365/outputs/Lit-Owens-Disk_b006_i139a-OnceIHadALittleSweetheart-medium.mp4/index.m3u8",
+        "url": "./transcripts/0k225b13n_hd76s019k.json",
+        "name": "Lit-Owens-Disk_b006_i139a-OnceIHadALittleSweetheart-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/1d012dd2-bfea-4b69-9f84-c573ceaa16a6/outputs/Lit-Owens-Disk_b006_i139b-TwoLittleChildren-medium.mp4/index.m3u8",
+        "url": "./transcripts/0k225b13n_br86b362v.json",
+        "name": "Lit-Owens-Disk_b006_i139b-TwoLittleChildren-medium.mp4 whisperx"
     }
 ]
