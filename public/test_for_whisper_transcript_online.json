@@ -2303,5 +2303,35 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/1d012dd2-bfea-4b69-9f84-c573ceaa16a6/outputs/Lit-Owens-Disk_b006_i139b-TwoLittleChildren-medium.mp4/index.m3u8",
         "url": "./transcripts/0k225b13n_br86b362v.json",
         "name": "Lit-Owens-Disk_b006_i139b-TwoLittleChildren-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/048056e1-ff7c-4953-8003-b641f47d995e/outputs/Lit-Owens-Disk_b006_i144b3-SailorBoy-medium.mp4/index.m3u8",
+        "url": "./transcripts/08612n580_g158bh45b.json",
+        "name": "Lit-Owens-Disk_b006_i144b3-SailorBoy-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/05df720b-ad1e-44b7-8460-35a1d3ab055a/outputs/Lit-Owens-Disk_b002_i026a_-_The_House_Carpenter-medium.mp4/index.m3u8",
+        "url": "./transcripts/0r9673819_x346d428z.json",
+        "name": "Lit-Owens-Disk_b002_i026a_-_The_House_Carpenter-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/a4643b70-9431-47e5-b6c9-103de05c3cef/outputs/Lit-Owens-Disk_b006_i144b2-MyOldDaddy-in-Law-medium.mp4/index.m3u8",
+        "url": "./transcripts/08612n580_8c97kq46t.json",
+        "name": "Lit-Owens-Disk_b006_i144b2-MyOldDaddy-in-Law-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/189f00f9-db92-4ed1-a12d-3cd800ee6e0e/outputs/Lit-Owens-Disk_b006_i144b1-SluneckoSviti_part2_-medium.mp4/index.m3u8",
+        "url": "./transcripts/08612n580_j098zb196.json",
+        "name": "Lit-Owens-Disk_b006_i144b1-SluneckoSviti_part2_-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/19ab385e-db7f-43ec-9ff1-c89a35916cc0/outputs/Lit-Owens-Disk_b002_i026b_-_Ti_Risslety_Rosslety-medium.mp4/index.m3u8",
+        "url": "./transcripts/0r9673819_x346d4297.json",
+        "name": "Lit-Owens-Disk_b002_i026b_-_Ti_Risslety_Rosslety-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/f70fc042-f973-4dd8-87aa-d20cd90753a4/outputs/Lit-Owens-Disk_b006_i144a-SluneckoSviti_part1_-medium.mp4/index.m3u8",
+        "url": "./transcripts/08612n580_1831ck04j.json",
+        "name": "Lit-Owens-Disk_b006_i144a-SluneckoSviti_part1_-medium.mp4 whisperx"
     }
 ]
