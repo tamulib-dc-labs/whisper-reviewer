@@ -2698,5 +2698,70 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/7390e15c-6ba8-41d1-bda8-e18c60c9836d/outputs/Lit-Owens-Disk_b007_i177b2-RyeWhiskey_part2_-medium.mp4/index.m3u8",
         "url": "./transcripts/5138jd93w_hd76s016r.json",
         "name": "Lit-Owens-Disk_b007_i177b2-RyeWhiskey_part2_-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/8d8519f8-3473-419a-bdb9-3714b4d9c96f/outputs/Lit-Owens-Disk_b007_i174b-WadeInTheWater-medium.mp4/index.m3u8",
+        "url": "./transcripts/6h440s59n_4f16c2831.json",
+        "name": "Lit-Owens-Disk_b007_i174b-WadeInTheWater-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/f9014925-ed18-4857-a510-492b9e14944e/outputs/Lit-Owens-Disk_b006_i143b2-_unidentified_-medium.mp4/index.m3u8",
+        "url": "./transcripts/6d56zw62k_w66343689.json",
+        "name": "Lit-Owens-Disk_b006_i143b2-_unidentified_-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/f06b11e5-3d9a-46be-aa2b-47c425cb883d/outputs/Lit-Owens-Disk_b008_i196b2-RoxyAnn-medium.mp4/index.m3u8",
+        "url": "./transcripts/6682x398c_2227mp72v.json",
+        "name": "Lit-Owens-Disk_b008_i196b2-RoxyAnn-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/b719e4b6-85b0-488f-a224-d695b25e49f7/outputs/Lit-Owens-Disk_b008_i196b1-Cindy-medium.mp4/index.m3u8",
+        "url": "./transcripts/6682x398c_6h440s58c.json",
+        "name": "Lit-Owens-Disk_b008_i196b1-Cindy-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/6e4aa396-684e-472d-be7c-c33141929fd3/outputs/Lit-Owens-Disk_b003_i069a1-SpanishFandillio-medium.mp4/index.m3u8",
+        "url": "./transcripts/5q47rn83g_ws859f741.json",
+        "name": "Lit-Owens-Disk_b003_i069a1-SpanishFandillio-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/71de57c8-34cc-45b4-b516-19ed677c2524/outputs/Lit-Owens-Disk_b006_i143b1-MrsNeutra_unidentifiedSwissFolkSong_-medium.mp4/index.m3u8",
+        "url": "./transcripts/6d56zw62k_rx913p98q.json",
+        "name": "Lit-Owens-Disk_b006_i143b1-MrsNeutra_unidentifiedSwissFolkSong_-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/8c763b1a-af6b-4c26-90ca-5c35aa967547/outputs/Lit-Owens-Disk_b008_i195a-TheHarlotOfJerusalem-medium.mp4/index.m3u8",
+        "url": "./transcripts/6682x3973_9z902z939.json",
+        "name": "Lit-Owens-Disk_b008_i195a-TheHarlotOfJerusalem-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/5a66a6f9-3380-482f-991f-9e89a144731b/outputs/Lit-Owens-Disk_b004_i089a-_unidentified_-medium.mp4/index.m3u8",
+        "url": "./transcripts/6h440s61p_k930bx081.json",
+        "name": "Lit-Owens-Disk_b004_i089a-_unidentified_-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/d7b630b6-d0b1-4290-9936-75226e8b49bd/outputs/Lit-Owens-Disk_b007_i174a-GodIsCalling_WhenTheGatesSwingOpen_-medium.mp4/index.m3u8",
+        "url": "./transcripts/6h440s59n_d791sg21k.json",
+        "name": "Lit-Owens-Disk_b007_i174a-GodIsCalling_WhenTheGatesSwingOpen_-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/5f8f20c1-a438-45c5-9542-4a7da68d8299/outputs/Lit-Owens-Disk_b008_i196a-IHadButFiftyCents-medium.mp4/index.m3u8",
+        "url": "./transcripts/6682x398c_ns064609g.json",
+        "name": "Lit-Owens-Disk_b008_i196a-IHadButFiftyCents-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/b4a9f3c7-d798-4772-b9c4-5ffad536319d/outputs/Lit-Owens-Disk_b008_i196b3-Josie-medium.mp4/index.m3u8",
+        "url": "./transcripts/6682x398c_vh53wv79n.json",
+        "name": "Lit-Owens-Disk_b008_i196b3-Josie-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/67c33861-a6db-4cf6-9d39-4847eae02488/outputs/Lit-Owens-Disk_b003_i069b-TheBastardKingOfEngland-medium.mp4/index.m3u8",
+        "url": "./transcripts/5q47rn83g_v692t631v.json",
+        "name": "Lit-Owens-Disk_b003_i069b-TheBastardKingOfEngland-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/c7ccb1af-0405-4c02-8312-d3fd814c1b3f/outputs/Lit-Owens-Disk_b006_i143a-JesusIsMine-medium.mp4/index.m3u8",
+        "url": "./transcripts/6d56zw62k_tm70mv27g.json",
+        "name": "Lit-Owens-Disk_b006_i143a-JesusIsMine-medium.mp4 whisperx"
     }
 ]
