@@ -2383,5 +2383,55 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/57fc5a6f-0f5d-49d1-a412-fbe96b666dc2/outputs/Lit-Owens-Disk_b006_i140a-PlayPartyTune-medium.mp4/index.m3u8",
         "url": "./transcripts/1544bp14j_q811kj70f.json",
         "name": "Lit-Owens-Disk_b006_i140a-PlayPartyTune-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/b2883fd7-f80c-4b66-8bf8-6e539d766f85/outputs/Lit-Owens-Disk_b002_i044a-I_mOnTheBattlefield-medium.mp4/index.m3u8",
+        "url": "./transcripts/2227mp734_6108vb30g.json",
+        "name": "Lit-Owens-Disk_b002_i044a-I_mOnTheBattlefield-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/20258f27-d9fe-4a48-bd17-0b825cc475a8/outputs/Lit-Owens-Disk_b002_i027a_-_Gypsy_Davy-medium.mp4/index.m3u8",
+        "url": "./transcripts/1v53jx06p_d504rk41v.json",
+        "name": "Lit-Owens-Disk_b002_i027a_-_Gypsy_Davy-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/065904c7-effb-4a10-815b-736f571b9117/outputs/Lit-Owens-Disk_b004_i093a-_BrownKelly_Waltz-medium.mp4/index.m3u8",
+        "url": "./transcripts/2514nk609_8336h195z.json",
+        "name": "Lit-Owens-Disk_b004_i093a-_BrownKelly_Waltz-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/cf4f8771-435d-421a-a9b7-8ac807d1da3d/outputs/Lit-Owens-Disk_b002_i027b_-_Lady_Mary-medium.mp4/index.m3u8",
+        "url": "./transcripts/1v53jx06p_4m90dv554.json",
+        "name": "Lit-Owens-Disk_b002_i027b_-_Lady_Mary-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/29732b48-e63c-4f9c-8775-44c4a4744a98/outputs/Lit-Owens-Disk_b007_i168a-TheRightChurch_ButTheWrongPew_-medium.mp4/index.m3u8",
+        "url": "./transcripts/2f75r812m_kk91fk598.json",
+        "name": "Lit-Owens-Disk_b007_i168a-TheRightChurch_ButTheWrongPew_-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/71ef562b-a0f8-4fc8-8978-5f180a96a73f/outputs/Lit-Owens-Disk_b004_i097a-EighthOfJanuary-medium.mp4/index.m3u8",
+        "url": "./transcripts/2n49t179j_1c18df81z.json",
+        "name": "Lit-Owens-Disk_b004_i097a-EighthOfJanuary-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/1087ad3a-e302-4d8a-9383-b61401843b9d/outputs/Lit-Owens-Disk_b007_i168b-DriftenApart_DriftingFurtherFromMe_-medium.mp4/index.m3u8",
+        "url": "./transcripts/2f75r812m_9w032309z.json",
+        "name": "Lit-Owens-Disk_b007_i168b-DriftenApart_DriftingFurtherFromMe_-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/4671ad5a-8c80-47bd-836a-91348b1a032a/outputs/Lit-Owens-Disk_b006_i138b-ShineOnHarvestMoon-medium.mp4/index.m3u8",
+        "url": "./transcripts/1r66j120f_t722h892r.json",
+        "name": "Lit-Owens-Disk_b006_i138b-ShineOnHarvestMoon-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/2be2e71e-dea0-4483-8310-6fe7c6dfb1a7/outputs/Lit-Owens-Disk_b004_i093b-GoodnightWaltz-medium.mp4/index.m3u8",
+        "url": "./transcripts/2514nk609_2j62s492k.json",
+        "name": "Lit-Owens-Disk_b004_i093b-GoodnightWaltz-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/902be85a-2956-4cae-ab4d-e180058e9b6f/outputs/Lit-Owens-Disk_b002_i044b-I_veBeenListening-medium.mp4/index.m3u8",
+        "url": "./transcripts/2227mp734_9593tv23m.json",
+        "name": "Lit-Owens-Disk_b002_i044b-I_veBeenListening-medium.mp4 whisperx"
     }
 ]
