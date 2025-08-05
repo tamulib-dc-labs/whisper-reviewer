@@ -2433,5 +2433,50 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/902be85a-2956-4cae-ab4d-e180058e9b6f/outputs/Lit-Owens-Disk_b002_i044b-I_veBeenListening-medium.mp4/index.m3u8",
         "url": "./transcripts/2227mp734_9593tv23m.json",
         "name": "Lit-Owens-Disk_b002_i044b-I_veBeenListening-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/73f9b070-fb36-4f41-8eec-fc3a17bc13d7/outputs/Lit-Owens-Disk_b001_i024a_-_The_Hangman_s_Tree-medium.mp4/index.m3u8",
+        "url": "./transcripts/2r36tx62f_b5644r59s.json",
+        "name": "Lit-Owens-Disk_b001_i024a_-_The_Hangman_s_Tree-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/8862f130-8375-4db1-b118-a4d6afa9334a/outputs/Lit-Owens-Disk_b003_i073b-DoYouBelieveInHaints_part2_-medium.mp4/index.m3u8",
+        "url": "./transcripts/2n49t1809_t435gd086.json",
+        "name": "Lit-Owens-Disk_b003_i073b-DoYouBelieveInHaints_part2_-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/04230cc3-0b48-4595-ba62-2e8c04ca2229/outputs/Lit-Owens-Disk_b004_i097b-SoldiersJoy-medium.mp4/index.m3u8",
+        "url": "./transcripts/2n49t179j_np193925m.json",
+        "name": "Lit-Owens-Disk_b004_i097b-SoldiersJoy-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/405c5a9f-fff9-498d-90b5-f040b30e4896/outputs/Lit-Owens-Disk_b006_i142a-AllaEnElRanchoGrande-medium.mp4/index.m3u8",
+        "url": "./transcripts/2v23vt43g_6h440s62z.json",
+        "name": "Lit-Owens-Disk_b006_i142a-AllaEnElRanchoGrande-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/ea10ee23-9e86-4def-94d8-89020d11ef88/outputs/Lit-Owens-Disk_b003_i073a-DoYouBelieveInHaints_part1_-medium.mp4/index.m3u8",
+        "url": "./transcripts/2n49t1809_zw12z542h.json",
+        "name": "Lit-Owens-Disk_b003_i073a-DoYouBelieveInHaints_part1_-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/54263173-7bf6-4366-ac25-09b4fa0a1db2/outputs/Lit-Owens-Disk_b002_i048b-TheOldFashionedCot-medium.mp4/index.m3u8",
+        "url": "./transcripts/2r36tx615_x920fw95x.json",
+        "name": "Lit-Owens-Disk_b002_i048b-TheOldFashionedCot-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/aabab634-7e47-4285-8ce9-f004dac03058/outputs/Lit-Owens-Disk_b001_i024b_-_Barbara_Allen-medium.mp4/index.m3u8",
+        "url": "./transcripts/2r36tx62f_8k71nh19d.json",
+        "name": "Lit-Owens-Disk_b001_i024b_-_Barbara_Allen-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/39fa8a68-c677-4d42-a5cd-7fc7d4d7dd04/outputs/Lit-Owens-Disk_b002_i048a-TheWickedDaughter-medium.mp4/index.m3u8",
+        "url": "./transcripts/2r36tx615_b5644r58h.json",
+        "name": "Lit-Owens-Disk_b002_i048a-TheWickedDaughter-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/3a40d017-3cc0-4a58-9f38-8fdeac004c91/outputs/Lit-Owens-Disk_b002_i037a-JesusIsSweeter-medium.mp4/index.m3u8",
+        "url": "./transcripts/2v23vt426_n870zq976.json",
+        "name": "Lit-Owens-Disk_b002_i037a-JesusIsSweeter-medium.mp4 whisperx"
     }
 ]
