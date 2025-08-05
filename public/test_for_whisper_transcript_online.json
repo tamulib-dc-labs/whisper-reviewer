@@ -2478,5 +2478,75 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/3a40d017-3cc0-4a58-9f38-8fdeac004c91/outputs/Lit-Owens-Disk_b002_i037a-JesusIsSweeter-medium.mp4/index.m3u8",
         "url": "./transcripts/2v23vt426_n870zq976.json",
         "name": "Lit-Owens-Disk_b002_i037a-JesusIsSweeter-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/405c5a9f-fff9-498d-90b5-f040b30e4896/outputs/Lit-Owens-Disk_b006_i142a-AllaEnElRanchoGrande-medium.mp4/index.m3u8",
+        "url": "./transcripts/2v23vt43g_6h440s62z.json",
+        "name": "Lit-Owens-Disk_b006_i142a-AllaEnElRanchoGrande-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/fab33e9d-7bf4-4eb1-8f82-0adbd79836c5/outputs/Lit-Owens-Disk_b003_i066a1-HomeOnTheRange-medium.mp4/index.m3u8",
+        "url": "./transcripts/41687h54j_6t053g05b.json",
+        "name": "Lit-Owens-Disk_b003_i066a1-HomeOnTheRange-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/e4f46638-c261-4b39-a121-2debe8adcb79/outputs/Lit-Owens-Disk_b001_i020a_-_Little_Joe_the_Wrangler__part_1-medium.mp4/index.m3u8",
+        "url": "./transcripts/3484zg98v_0z708w479.json",
+        "name": "Lit-Owens-Disk_b001_i020a_-_Little_Joe_the_Wrangler__part_1-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/10611c6d-f9b2-480b-8399-d5df9a26f309/outputs/Lit-Owens-Disk_b002_i029a_-_Frog_Went_A_Courting-medium.mp4/index.m3u8",
+        "url": "./transcripts/3n203z130_v979v313f.json",
+        "name": "Lit-Owens-Disk_b002_i029a_-_Frog_Went_A_Courting-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/f4bbb13c-2bac-4810-b4fc-7672a7363a7a/outputs/Lit-Owens-Disk_b001_i020b2_-_Going_to_Leave_Old_Texas-medium.mp4/index.m3u8",
+        "url": "./transcripts/3484zg98v_fq977t904.json",
+        "name": "Lit-Owens-Disk_b001_i020b2_-_Going_to_Leave_Old_Texas-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/5395786a-d8e6-4d70-9005-674b3ed45d11/outputs/Lit-Owens-Disk_b007_i164a-ListenToTheMockingbird-medium.mp4/index.m3u8",
+        "url": "./transcripts/3f462548s_z316q170m.json",
+        "name": "Lit-Owens-Disk_b007_i164a-ListenToTheMockingbird-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/e7d4a3a4-4f58-45cc-bdba-0b699c7018de/outputs/Lit-Owens-Disk_b001_i020b1_-_Little_Joe_the_Wrangler__part_2-medium.mp4/index.m3u8",
+        "url": "./transcripts/3484zg98v_fx719m57k.json",
+        "name": "Lit-Owens-Disk_b001_i020b1_-_Little_Joe_the_Wrangler__part_2-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/cb8d3b54-711b-4738-8198-71a2c1f61ee1/outputs/Lit-Owens-Disk_b005_i106b-MaisJoliePilleMaisTuConnais-medium.mp4/index.m3u8",
+        "url": "./transcripts/3j333230k_3484zg97k.json",
+        "name": "Lit-Owens-Disk_b005_i106b-MaisJoliePilleMaisTuConnais-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/da5e1520-795c-4e82-baff-90569ea53879/outputs/Lit-Owens-Disk_b007_i164b-CrippleCreek-medium.mp4/index.m3u8",
+        "url": "./transcripts/3f462548s_2514nk588.json",
+        "name": "Lit-Owens-Disk_b007_i164b-CrippleCreek-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/e446db9f-f04b-4423-a1b2-e3a65c522b44/outputs/Lit-Owens-Disk_b002_i029b_-_Frog_Went_A_Courting-medium.mp4/index.m3u8",
+        "url": "./transcripts/3n203z130_x920fw966.json",
+        "name": "Lit-Owens-Disk_b002_i029b_-_Frog_Went_A_Courting-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/d8ec7c5e-5858-44e4-a9c5-f3d8d8f016dd/outputs/Lit-Owens-Disk_b005_i106a-Te_sPetite-medium.mp4/index.m3u8",
+        "url": "./transcripts/3j333230k_4x51hj10s.json",
+        "name": "Lit-Owens-Disk_b005_i106a-Te_sPetite-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/1e6b36f2-a9c2-4046-9438-2f4c9e97496e/outputs/Lit-Owens-Disk_b003_i064b2-FairEllender-medium.mp4/index.m3u8",
+        "url": "./transcripts/3r074v020_xk81jk46z.json",
+        "name": "Lit-Owens-Disk_b003_i064b2-FairEllender-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/559084ea-1b82-44ad-97c5-72822b975dd7/outputs/Lit-Owens-Disk_b003_i064b1-FairEllender_TheBrownGirl-medium.mp4/index.m3u8",
+        "url": "./transcripts/3r074v020_gt54kn06q.json",
+        "name": "Lit-Owens-Disk_b003_i064b1-FairEllender_TheBrownGirl-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/7ee70d07-c3fa-487e-89b8-ec1ceabd3f4e/outputs/Lit-Owens-Disk_b003_i064a-TheBrownGirl-medium.mp4/index.m3u8",
+        "url": "./transcripts/3r074v020_mg74qm19x.json",
+        "name": "Lit-Owens-Disk_b003_i064a-TheBrownGirl-medium.mp4 whisperx"
     }
 ]
