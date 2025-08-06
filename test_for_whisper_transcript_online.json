@@ -2763,5 +2763,70 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/c7ccb1af-0405-4c02-8312-d3fd814c1b3f/outputs/Lit-Owens-Disk_b006_i143a-JesusIsMine-medium.mp4/index.m3u8",
         "url": "./transcripts/6d56zw62k_tm70mv27g.json",
         "name": "Lit-Owens-Disk_b006_i143a-JesusIsMine-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/832f2aa4-019e-4046-9ebe-353f3fc6a028/outputs/Lit-Owens-Disk_b002_i040a-ItMayBeTheBestForMe-medium.mp4/index.m3u8",
+        "url": "./transcripts/6q182k22r_fb4948535.json",
+        "name": "Lit-Owens-Disk_b002_i040a-ItMayBeTheBestForMe-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/fecb942e-fe27-4a33-886c-367a40c6a85d/outputs/Lit-Owens-Disk_b007_i165b1-WilliamHall_BriskYoungFarmer__part2_-medium.mp4/index.m3u8",
+        "url": "./transcripts/6q182k21g_p5547r47r.json",
+        "name": "Lit-Owens-Disk_b007_i165b1-WilliamHall_BriskYoungFarmer__part2_-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/afd801ab-b7f9-4f24-875a-ffdd4446cacf/outputs/Lit-Owens-Disk_b007_i165b2-HebrewChildren-medium.mp4/index.m3u8",
+        "url": "./transcripts/6q182k21g_1r66j119p.json",
+        "name": "Lit-Owens-Disk_b007_i165b2-HebrewChildren-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/75d0c527-7820-448e-9ec6-48e9387a89ba/outputs/Lit-Owens-Disk_b004_i089b-_unidentified_-medium.mp4/index.m3u8",
+        "url": "./transcripts/6h440s61p_td96k2585.json",
+        "name": "Lit-Owens-Disk_b004_i089b-_unidentified_-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/81258731-1786-4a56-a056-253159ac246a/outputs/Lit-Owens-Disk_b002_i033a_-_Travelin_On-medium.mp4/index.m3u8",
+        "url": "./transcripts/6t053g06m_n583xv109.json",
+        "name": "Lit-Owens-Disk_b002_i033a_-_Travelin_On-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/7f1bed0a-7299-458b-95e6-b95b7118c6b6/outputs/Lit-Owens-Disk_b003_i054a-BelleBlanc-medium.mp4/index.m3u8",
+        "url": "./transcripts/6m311p41f_73666459f.json",
+        "name": "Lit-Owens-Disk_b003_i054a-BelleBlanc-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/2d9aef8d-5900-4dda-903d-e975ac12d193/outputs/Lit-Owens-Disk_b008_i198a3-TheKvasarvalsen-medium.mp4/index.m3u8",
+        "url": "./transcripts/70795775k_c534fp05b.json",
+        "name": "Lit-Owens-Disk_b008_i198a3-TheKvasarvalsen-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/0b7b91b1-5527-43b1-af97-2bc240c439f5/outputs/Lit-Owens-Disk_b003_i054b-UnidentifiedCajunSong-medium.mp4/index.m3u8",
+        "url": "./transcripts/6m311p41f_gh93gz622.json",
+        "name": "Lit-Owens-Disk_b003_i054b-UnidentifiedCajunSong-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/3ed90fc3-53d8-4537-a960-83863c0c89c8/outputs/Lit-Owens-Disk_b002_i040-Heaven_sRadio-medium.mp4/index.m3u8",
+        "url": "./transcripts/6q182k22r_mw22v5563.json",
+        "name": "Lit-Owens-Disk_b002_i040-Heaven_sRadio-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/a13d2f46-0e09-4f0e-b158-984690f464c7/outputs/Lit-Owens-Disk_b007_i165a-WilliamHall_BriskYoungFarmer__part1_-medium.mp4/index.m3u8",
+        "url": "./transcripts/6q182k21g_jd472w56b.json",
+        "name": "Lit-Owens-Disk_b007_i165a-WilliamHall_BriskYoungFarmer__part1_-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/63b49409-03c8-4576-864f-92f2093dffb1/outputs/Lit-Owens-Disk_b008_i198a1-AJantaAJa-medium.mp4/index.m3u8",
+        "url": "./transcripts/70795775k_x346d423k.json",
+        "name": "Lit-Owens-Disk_b008_i198a1-AJantaAJa-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/c2d61a65-4612-4149-afc7-e6421169e218/outputs/Lit-Owens-Disk_b005_i111a-_unidentified_-medium.mp4/index.m3u8",
+        "url": "./transcripts/70795776v_b5644r577.json",
+        "name": "Lit-Owens-Disk_b005_i111a-_unidentified_-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/a66da325-21f0-4ea8-bfb4-be681740339e/outputs/Lit-Owens-Disk_b002_i033b_-_By_and_By-medium.mp4/index.m3u8",
+        "url": "./transcripts/6t053g06m_s7526c55z.json",
+        "name": "Lit-Owens-Disk_b002_i033b_-_By_and_By-medium.mp4 whisperx"
     }
 ]
