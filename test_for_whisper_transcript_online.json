@@ -2828,5 +2828,80 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/a66da325-21f0-4ea8-bfb4-be681740339e/outputs/Lit-Owens-Disk_b002_i033b_-_By_and_By-medium.mp4/index.m3u8",
         "url": "./transcripts/6t053g06m_s7526c55z.json",
         "name": "Lit-Owens-Disk_b002_i033b_-_By_and_By-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/c7d6b20e-4ce0-4651-8444-6d319e43f373/outputs/Lit-Owens-Disk_b001_i005a_-_Claude_s_Wife-medium.mp4/index.m3u8",
+        "url": "./transcripts/8623hx773_9593tv255.json",
+        "name": "Lit-Owens-Disk_b001_i005a_-_Claude_s_Wife-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/e57c9244-bb3d-4fa7-a4a8-4b3456e3a29b/outputs/Lit-Owens-Disk_b004_i101a-LeatherBritches-medium.mp4/index.m3u8",
+        "url": "./transcripts/7p88cg57g_r781wg14x.json",
+        "name": "Lit-Owens-Disk_b004_i101a-LeatherBritches-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/e447cc28-d54d-4463-9ffa-218db320e73c/outputs/Lit-Owens-Disk_b004_i088b1-_unidentified_-medium.mp4/index.m3u8",
+        "url": "./transcripts/7p88cg58r_ng451h506.json",
+        "name": "Lit-Owens-Disk_b004_i088b1-_unidentified_-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/65f40871-5090-4ab7-a397-d07785074005/outputs/Lit-Owens-Disk_b001_i005b_-_O_Girls_Mind_Who_You_Slight-medium.mp4/index.m3u8",
+        "url": "./transcripts/8623hx773_4f16c285k.json",
+        "name": "Lit-Owens-Disk_b001_i005b_-_O_Girls_Mind_Who_You_Slight-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/5f02e4de-4b91-40db-972b-c28a089f57ac/outputs/Lit-Owens-Disk_b006_i147b-SoldierSoldier-medium.mp4/index.m3u8",
+        "url": "./transcripts/8336h194p_sj139202x.json",
+        "name": "Lit-Owens-Disk_b006_i147b-SoldierSoldier-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/b3f828f2-8add-44ed-9f39-e4eec5b204c9/outputs/Lit-Owens-Disk_b006_i147a-TooLate-medium.mp4/index.m3u8",
+        "url": "./transcripts/8336h194p_1g05fb68n.json",
+        "name": "Lit-Owens-Disk_b006_i147a-TooLate-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/f7189dea-048d-4efa-9a3c-1799b7e8f640/outputs/Lit-Owens-Disk_b001_i017a_-_My_Shepherd_s_Gone_and_Left_Me-medium.mp4/index.m3u8",
+        "url": "./transcripts/7d278t08s_2n49t1834.json",
+        "name": "Lit-Owens-Disk_b001_i017a_-_My_Shepherd_s_Gone_and_Left_Me-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/b592f957-0d1b-4319-af6e-1fc981675ca8/outputs/Lit-Owens-Disk_b004_i101b-RusticDance-medium.mp4/index.m3u8",
+        "url": "./transcripts/7p88cg57g_1j92g7562.json",
+        "name": "Lit-Owens-Disk_b004_i101b-RusticDance-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/77c3e747-684e-45f6-ad46-f364cf553196/outputs/Lit-Owens-Disk_b006_i148a2-IWishToMyLordIWasSingleAgain-medium.mp4/index.m3u8",
+        "url": "./transcripts/8910jt72z_1v53jx044.json",
+        "name": "Lit-Owens-Disk_b006_i148a2-IWishToMyLordIWasSingleAgain-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/eee23ecb-17bd-4266-b7b7-23b204be6408/outputs/Lit-Owens-Disk_b004_i088a-LeBreton-medium.mp4/index.m3u8",
+        "url": "./transcripts/7p88cg58r_6w924b91d.json",
+        "name": "Lit-Owens-Disk_b004_i088a-LeBreton-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/6cffb0c0-c7a1-4be3-8382-a8604578b192/outputs/Lit-Owens-Disk_b006_i148a1-BanksOfCloddie_part2_-medium.mp4/index.m3u8",
+        "url": "./transcripts/8910jt72z_x059c7418.json",
+        "name": "Lit-Owens-Disk_b006_i148a1-BanksOfCloddie_part2_-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/4be9716a-7f3f-4ea7-b29d-cd9b9589b798/outputs/Lit-Owens-Disk_b001_i017b_-_Ride_On_King_Jesus-medium.mp4/index.m3u8",
+        "url": "./transcripts/7d278t08s_dz010q170.json",
+        "name": "Lit-Owens-Disk_b001_i017b_-_Ride_On_King_Jesus-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/69d9bfaf-9fec-40cc-a1ee-f40a3647a622/outputs/Lit-Owens-Disk_b004_i088b2-_unidentified_-medium.mp4/index.m3u8",
+        "url": "./transcripts/7p88cg58r_5t34sj64h.json",
+        "name": "Lit-Owens-Disk_b004_i088b2-_unidentified_-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/dd900d0e-cb97-464c-a063-ed7fa74e575d/outputs/Lit-Owens-Disk_b006_i148b-BanksOfCloddie_part1_-medium.mp4/index.m3u8",
+        "url": "./transcripts/8910jt72z_jm214p21q.json",
+        "name": "Lit-Owens-Disk_b006_i148b-BanksOfCloddie_part1_-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/fcbf439e-648e-4d02-bf4f-c66bf23e9d00/outputs/Lit-Owens-Disk_b005_i111b-EtPiTuCrois-medium.mp4/index.m3u8",
+        "url": "./transcripts/70795776v_kd17cs92v.json",
+        "name": "Lit-Owens-Disk_b005_i111b-EtPiTuCrois-medium.mp4 whisperx"
     }
 ]
