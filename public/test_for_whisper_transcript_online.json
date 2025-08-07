@@ -3488,5 +3488,65 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/f04a6ef1-fc6b-4607-88d7-30774ec82a21/outputs/Lit-Owens-Disk_b007_i162b1-TheJealousLover_part2_-medium.mp4/index.m3u8",
         "url": "./transcripts/jd472w552_mk61rh07c.json",
         "name": "Lit-Owens-Disk_b007_i162b1-TheJealousLover_part2_-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/d0f1a502-7a51-4b42-9e80-997d720904fd/outputs/Lit-Owens-Disk_b006_i150a-WhenILayMyBurdenDown-medium.mp4/index.m3u8",
+        "url": "./transcripts/jd472w57m_kk91fk601.json",
+        "name": "Lit-Owens-Disk_b006_i150a-WhenILayMyBurdenDown-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/2d095cbe-7b50-40b4-991e-df2a77e69a9e/outputs/Lit-Owens-Disk_b007_i171a-TheGoodShipZion-medium.mp4/index.m3u8",
+        "url": "./transcripts/k3569441r_5999n3456.json",
+        "name": "Lit-Owens-Disk_b007_i171a-TheGoodShipZion-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/03c49b8c-5eeb-4d1e-884c-c5ba6ef1ae7d/outputs/Lit-Owens-Disk_b007_i156b-CowboyJack_part2_-medium.mp4/index.m3u8",
+        "url": "./transcripts/jh343s320_7s75dc43c.json",
+        "name": "Lit-Owens-Disk_b007_i156b-CowboyJack_part2_-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/dcb9f5d9-a4ac-4b55-95c7-c53116ba31de/outputs/Lit-Owens-Disk_b003_i075b-Mazurka-medium.mp4/index.m3u8",
+        "url": "./transcripts/js956f89w_707957774.json",
+        "name": "Lit-Owens-Disk_b003_i075b-Mazurka-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/7e2ba35c-bd9b-498c-b61b-c5a7d4bd5113/outputs/Lit-Owens-Disk_b003_i075a-MaisJolieBlonde-medium.mp4/index.m3u8",
+        "url": "./transcripts/js956f89w_jq085k064.json",
+        "name": "Lit-Owens-Disk_b003_i075a-MaisJolieBlonde-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/fa07ce4f-3bd5-4c5c-99cd-63b34f86f8cb/outputs/Lit-Owens-Disk_b004_i091a-Number3_StJoseph_-medium.mp4/index.m3u8",
+        "url": "./transcripts/js956f88m_5d86p025z.json",
+        "name": "Lit-Owens-Disk_b004_i091a-Number3_StJoseph_-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/5bc9b01f-fde7-406f-b29c-4f02c99503d0/outputs/Lit-Owens-Disk_b002_i050b-MyLoveIsARider-medium.mp4/index.m3u8",
+        "url": "./transcripts/jh343s34j_8910jt75s.json",
+        "name": "Lit-Owens-Disk_b002_i050b-MyLoveIsARider-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/f5f9d30d-16ee-40df-8d5d-71a9d674c39e/outputs/Lit-Owens-Disk_b007_i162a-TheJealousLover_part1_-medium.mp4/index.m3u8",
+        "url": "./transcripts/jd472w552_x346d424v.json",
+        "name": "Lit-Owens-Disk_b007_i162a-TheJealousLover_part1_-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/be2d983c-d7b1-4c87-a7e4-193045e20cf8/outputs/Lit-Owens-Disk_b006_i150b-WhenAMotherLovesHerChildren-medium.mp4/index.m3u8",
+        "url": "./transcripts/jd472w57m_xw42n795p.json",
+        "name": "Lit-Owens-Disk_b006_i150b-WhenAMotherLovesHerChildren-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/7c61b6f4-65ef-4183-9bfd-bb52fec1a87b/outputs/Lit-Owens-Disk_b004_i091b-Number4_StJoseph_-medium.mp4/index.m3u8",
+        "url": "./transcripts/js956f88m_g732d900g.json",
+        "name": "Lit-Owens-Disk_b004_i091b-Number4_StJoseph_-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/021ba852-af26-4ae5-9651-0b87610ef76d/outputs/Lit-Owens-Disk_b002_i050a-TheCowboy_sLament-medium.mp4/index.m3u8",
+        "url": "./transcripts/jh343s34j_79407x223.json",
+        "name": "Lit-Owens-Disk_b002_i050a-TheCowboy_sLament-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/497cbd2e-b8fc-4647-bc40-8f1b2f103710/outputs/Lit-Owens-Disk_b007_i156a-CowboyJack_part1_-medium.mp4/index.m3u8",
+        "url": "./transcripts/jh343s320_r207tp42n.json",
+        "name": "Lit-Owens-Disk_b007_i156a-CowboyJack_part1_-medium.mp4 whisperx"
     }
 ]
