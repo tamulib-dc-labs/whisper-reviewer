@@ -3968,5 +3968,60 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/f8addee5-d742-4d12-82e3-511993c4e88d/outputs/Lit-Owens-Disk_b005_i125a-AsleepInTheDeep-medium.mp4/index.m3u8",
         "url": "./transcripts/rr171x34x_3n203z12q.json",
         "name": "Lit-Owens-Disk_b005_i125a-AsleepInTheDeep-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/0e0b3252-92e5-4bea-aebe-03f529b04d0e/outputs/Lit-Owens-Disk_b007_i163a-LasCuatroMilpas-medium.mp4/index.m3u8",
+        "url": "./transcripts/rn301147n_td96k259f.json",
+        "name": "Lit-Owens-Disk_b007_i163a-LasCuatroMilpas-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/16a74e9d-bb1c-441c-bbe6-22f4acd98acf/outputs/Lit-Owens-Disk_b007_i182b-ClimbingJacobsLadder-medium.mp4/index.m3u8",
+        "url": "./transcripts/rv042t15z_k3569440g.json",
+        "name": "Lit-Owens-Disk_b007_i182b-ClimbingJacobsLadder-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/3d75ff48-c1c3-4826-b739-c53b29c454fd/outputs/Lit-Owens-Disk_b001_i004b_-_The_Irish_Girl-medium.mp4/index.m3u8",
+        "url": "./transcripts/sj139204g_zg64tm00z.json",
+        "name": "Lit-Owens-Disk_b001_i004b_-_The_Irish_Girl-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/dc403229-8ef2-4222-a591-9edbaf2a7aaf/outputs/Lit-Owens-Disk_b007_i182a-TheBloodDoneSignedMyName-medium.mp4/index.m3u8",
+        "url": "./transcripts/rv042t15z_dv13zt305.json",
+        "name": "Lit-Owens-Disk_b007_i182a-TheBloodDoneSignedMyName-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/c0f187d5-522c-462f-bbda-918cec3969a3/outputs/Lit-Owens-Disk_b005_i116b-SheCameRollinDownTheMountain-medium.mp4/index.m3u8",
+        "url": "./transcripts/rx913p990_fj236226r.json",
+        "name": "Lit-Owens-Disk_b005_i116b-SheCameRollinDownTheMountain-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/c237eb94-b12c-4b36-af2a-0dc7ece621df/outputs/Lit-Owens-Disk_b007_i163b2-ElPetate-medium.mp4/index.m3u8",
+        "url": "./transcripts/rn301147n_pg15bf02d.json",
+        "name": "Lit-Owens-Disk_b007_i163b2-ElPetate-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/59694dbf-9d7d-4bc1-9a15-9ffa2cde0fed/outputs/Lit-Owens-Disk_b005_i116a-SheCameRollinDownTheMountain-medium.mp4/index.m3u8",
+        "url": "./transcripts/rx913p990_jq085k05v.json",
+        "name": "Lit-Owens-Disk_b005_i116a-SheCameRollinDownTheMountain-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/26011525-08eb-49fe-8950-068fca0ddb38/outputs/Lit-Owens-Disk_b007_i163b1-Adalita-medium.mp4/index.m3u8",
+        "url": "./transcripts/rn301147n_2n49t184d.json",
+        "name": "Lit-Owens-Disk_b007_i163b1-Adalita-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/752dc367-7ef7-41bb-ae9e-4c41990f1ccf/outputs/Lit-Owens-Disk_b001_i008a_-_The_Bright_Sherman_Valley-medium.mp4/index.m3u8",
+        "url": "./transcripts/rr171x36g_xk81jk48h.json",
+        "name": "Lit-Owens-Disk_b001_i008a_-_The_Bright_Sherman_Valley-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/b2a18843-ec28-4bf0-aab5-5626b0cc08bc/outputs/Lit-Owens-Disk_b006_i131b-GodOfOurFathers-medium.mp4/index.m3u8",
+        "url": "./transcripts/sf2685179_3197xm16b.json",
+        "name": "Lit-Owens-Disk_b006_i131b-GodOfOurFathers-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/4cea6531-20f2-4074-bff8-e4b3bfc77049/outputs/Lit-Owens-Disk_b001_i004a_-_The_Orphan_Girl-medium.mp4/index.m3u8",
+        "url": "./transcripts/sj139204g_bv73c0509.json",
+        "name": "Lit-Owens-Disk_b001_i004a_-_The_Orphan_Girl-medium.mp4 whisperx"
     }
 ]
