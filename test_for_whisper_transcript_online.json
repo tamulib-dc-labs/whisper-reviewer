@@ -3753,5 +3753,60 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/4fe0ae66-4b20-4e29-bb5f-5251af276432/outputs/Lit-Owens-Disk_b008_i185b-Jericho-medium.mp4/index.m3u8",
         "url": "./transcripts/nv9352973_n296wz19j.json",
         "name": "Lit-Owens-Disk_b008_i185b-Jericho-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/9809a733-1c7a-4917-b8db-f3dbf2e78ab0/outputs/Lit-Owens-Disk_b003_i058b3-AllonsALafayette-medium.mp4/index.m3u8",
+        "url": "./transcripts/q237hr99x_b8515n44d.json",
+        "name": "Lit-Owens-Disk_b003_i058b3-AllonsALafayette-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/3470e49a-c843-409c-8c30-0796e79d7299/outputs/Lit-Owens-Disk_b001_i003a_-_The_Butcher_s_Boy-medium.mp4/index.m3u8",
+        "url": "./transcripts/qf85nb420_z890rt341.json",
+        "name": "Lit-Owens-Disk_b001_i003a_-_The_Butcher_s_Boy-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/81686fe5-e959-41e6-aad6-2028d6210330/outputs/Lit-Owens-Disk_b003_i058a1-AbbevilleTwo-Step-medium.mp4/index.m3u8",
+        "url": "./transcripts/q237hr99x_1j92g758m.json",
+        "name": "Lit-Owens-Disk_b003_i058a1-AbbevilleTwo-Step-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/35f8d85c-83ed-4e3b-9f51-4a932e9161cb/outputs/Lit-Owens-Disk_b002_i043b-WhenTheMorningComes-medium.mp4/index.m3u8",
+        "url": "./transcripts/q811kj71q_dn39x160k.json",
+        "name": "Lit-Owens-Disk_b002_i043b-WhenTheMorningComes-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/88e3dfd7-13c5-4cf8-9745-db88f7ef77bd/outputs/Lit-Owens-Disk_b008_i193a-TheHappyBluebird_HowShallIGetHome-medium.mp4/index.m3u8",
+        "url": "./transcripts/qb98mf58n_wd375w342.json",
+        "name": "Lit-Owens-Disk_b008_i193a-TheHappyBluebird_HowShallIGetHome-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/135601d3-be74-4a9b-b8c2-b85d84392f02/outputs/Lit-Owens-Disk_b001_i003b_-_Goodbye_Little_Bonnie_Blue_Eyes-medium.mp4/index.m3u8",
+        "url": "./transcripts/qf85nb420_br86b364d.json",
+        "name": "Lit-Owens-Disk_b001_i003b_-_Goodbye_Little_Bonnie_Blue_Eyes-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/6301fda1-d74a-40a6-a928-7874dc834022/outputs/Lit-Owens-Disk_b001_i021b_-_Joe_Bowers-medium.mp4/index.m3u8",
+        "url": "./transcripts/qf85nb41q_bg257f12w.json",
+        "name": "Lit-Owens-Disk_b001_i021b_-_Joe_Bowers-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/40f36148-796d-49e4-b8d9-ff2ce012cb7e/outputs/Lit-Owens-Disk_b008_i193b-OneDayAsIWandered-medium.mp4/index.m3u8",
+        "url": "./transcripts/qb98mf58n_c247ds15b.json",
+        "name": "Lit-Owens-Disk_b008_i193b-OneDayAsIWandered-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/dc7e48b8-6283-46c2-9797-7a779ccbb854/outputs/Lit-Owens-Disk_b003_i058b-HowDidYouFeel-medium.mp4/index.m3u8",
+        "url": "./transcripts/q237hr99x_gx41mh933.json",
+        "name": "Lit-Owens-Disk_b003_i058b-HowDidYouFeel-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/043879e8-94bd-482f-9d87-e72be5352d45/outputs/Lit-Owens-Disk_b002_i043a-PutYourAllOnTheAltar-medium.mp4/index.m3u8",
+        "url": "./transcripts/q811kj71q_w0892999t.json",
+        "name": "Lit-Owens-Disk_b002_i043a-PutYourAllOnTheAltar-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/36343f2e-5b6f-4aed-82a8-3b8a41a9af4c/outputs/Lit-Owens-Disk_b001_i021a_-_The_Massa_s_Runned_Away-medium.mp4/index.m3u8",
+        "url": "./transcripts/qf85nb41q_ks65hc27r.json",
+        "name": "Lit-Owens-Disk_b001_i021a_-_The_Massa_s_Runned_Away-medium.mp4 whisperx"
     }
 ]
