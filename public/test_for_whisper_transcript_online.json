@@ -4048,5 +4048,45 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/90f5a895-3b7b-42b4-b9fe-22fa023ad92f/outputs/NAB_to_OMore-medium.mp4/index.m3u8",
         "url": "./transcripts/8049g510m_nz805z800.json",
         "name": "O'More Calls interview [audio excerpt] whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/b7882783-33b7-4114-b531-837190fd75ac/outputs/Garden_LTD_Auction_Lots99-100-medium.mp4/index.m3u8",
+        "url": "./transcripts/1831ck05t_2n49t185p.json",
+        "name": "Sotheby's Sale, Garden Library [audio excerpt] whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/2a44cd5d-c50c-44fc-99bc-5d101a424992/outputs/Charles_Blockson-medium.mp4/index.m3u8",
+        "url": "./transcripts/2227mp75p_1g05fb70p.json",
+        "name": "Charles Blockson interview [audio excerpt] whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/ef90e484-9869-4a2b-afa1-d9383d8e83f0/outputs/Stephen_C_Blumberg-02-medium.mp4/index.m3u8",
+        "url": "./transcripts/3t945q85r_3r074v038.json",
+        "name": "Blumberg #2 interview [audio excerpt] whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/f6d04fb2-5080-4afd-bcd8-232c28706c73/outputs/Walter_L_Pforzheimer-medium.mp4/index.m3u8",
+        "url": "./transcripts/73666462r_8p58pd01g.json",
+        "name": "Walter Pforzheimer interview [audio excerpt] whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/a09386a9-0d5c-451a-a5f4-c3a8913b785c/outputs/Roger_Stoddard-medium.mp4/index.m3u8",
+        "url": "./transcripts/cv43nw911_rn3011496.json",
+        "name": "Roger Stoddard interview [audio excerpt] whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/5389ae04-63c9-4d8d-a247-59809fbbc591/outputs/Stephen_C_Blumberg-01-medium.mp4/index.m3u8",
+        "url": "./transcripts/vt150j378_p5547r52m.json",
+        "name": "Blumberg #1 interview [audio excerpt] whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/29952cd7-72c0-4fea-a607-fd443e15e62d/outputs/Ellen_Dunlap-medium.mp4/index.m3u8",
+        "url": "./transcripts/v118rd67s_dv13zt330.json",
+        "name": "Ellen Dunlap interview [audio excerpt] whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/0e99215d-212f-41b7-8178-5e5ce64463d5/outputs/Walter_L_Pforzheimer-medium.mp4/index.m3u8",
+        "url": "./transcripts/kd17cs94d_kk91fk63v.json",
+        "name": "[Untitled] whisperx"
     }
 ]
