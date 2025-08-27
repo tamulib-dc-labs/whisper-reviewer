@@ -4023,5 +4023,30 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/4cea6531-20f2-4074-bff8-e4b3bfc77049/outputs/Lit-Owens-Disk_b001_i004a_-_The_Orphan_Girl-medium.mp4/index.m3u8",
         "url": "./transcripts/sj139204g_bv73c0509.json",
         "name": "Lit-Owens-Disk_b001_i004a_-_The_Orphan_Girl-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/4367abca-b672-4142-918c-ecdce9e9d6d2/outputs/Carter_Burden-medium.mp4/index.m3u8",
+        "url": "./transcripts/fq977t92p_1z40ks932.json",
+        "name": "Carter Burden interview [audio excerpt] whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/90f5a895-3b7b-42b4-b9fe-22fa023ad92f/outputs/NAB_to_OMore-medium.mp4/index.m3u8",
+        "url": "./transcripts/8049g510m_nz805z800.json",
+        "name": "O'More Calls interview [audio excerpt] whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/86666f09-0332-4753-93dd-b05b21cc6418/outputs/Edwin_Wolfe_2nd-medium.mp4/index.m3u8",
+        "url": "./transcripts/ns064611h_pc289j17s.json",
+        "name": "Edwin Wolfe interview [audio excerpt] whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/4367abca-b672-4142-918c-ecdce9e9d6d2/outputs/Carter_Burden-medium.mp4/index.m3u8",
+        "url": "./transcripts/fq977t92p_1z40ks932.json",
+        "name": "Carter Burden interview [audio excerpt] whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/90f5a895-3b7b-42b4-b9fe-22fa023ad92f/outputs/NAB_to_OMore-medium.mp4/index.m3u8",
+        "url": "./transcripts/8049g510m_nz805z800.json",
+        "name": "O'More Calls interview [audio excerpt] whisperx"
     }
 ]
