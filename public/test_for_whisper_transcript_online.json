@@ -4078,5 +4078,45 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/f6d04fb2-5080-4afd-bcd8-232c28706c73/outputs/Walter_L_Pforzheimer-medium.mp4/index.m3u8",
         "url": "./transcripts/73666462r_8p58pd01g.json",
         "name": "Walter Pforzheimer interview [audio excerpt] whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/bcc08291-dd3b-4a71-a7a8-c6aabcde79ed/outputs/Lit-Owens-Disk_b008_i188a-FarmersCursedWife-medium.mp4/index.m3u8",
+        "url": "./transcripts/tt44pm96f_w66343671.json",
+        "name": "Lit-Owens-Disk_b008_i188a-FarmersCursedWife-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/e9fb4ed8-2631-4d06-8ba6-e1cfd5864aeb/outputs/Lit-Owens-Disk_b001_i001a_-_If_Brother_Jack_Were_Here-medium.mp4/index.m3u8",
+        "url": "./transcripts/sn009x86t_08612n57q.json",
+        "name": "Lit-Owens-Disk_b001_i001a_-_If_Brother_Jack_Were_Here-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/4dffb714-da7c-400a-ad0a-e4eed39c1581/outputs/Lit-Owens-Disk_b008_i187a-JohnSawTheStone-medium.mp4/index.m3u8",
+        "url": "./transcripts/tt44pm97q_x633f1111.json",
+        "name": "Lit-Owens-Disk_b008_i187a-JohnSawTheStone-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/b3f75949-00aa-4200-afc9-7b0d140fb94b/outputs/Lit-Owens-Disk_b001_i001b_-_The_Little__Dobie_Shack-medium.mp4/index.m3u8",
+        "url": "./transcripts/sn009x86t_h989r3289.json",
+        "name": "Lit-Owens-Disk_b001_i001b_-_The_Little__Dobie_Shack-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/248197cf-2ea9-4a66-a000-d44d2f64004b/outputs/Lit-Owens-Disk_b008_i188b2-WhenTheSaints_GoMarchingIn_-medium.mp4/index.m3u8",
+        "url": "./transcripts/tt44pm96f_j6731384x.json",
+        "name": "Lit-Owens-Disk_b008_i188b2-WhenTheSaints_GoMarchingIn_-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/d8853305-cc71-4a6e-b2ff-1674061dae92/outputs/Lit-Owens-Disk_b008_i188b1-WhereIsTheCrow-medium.mp4/index.m3u8",
+        "url": "./transcripts/tt44pm96f_0g354f23n.json",
+        "name": "Lit-Owens-Disk_b008_i188b1-WhereIsTheCrow-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/a772e545-3bc7-4c5e-a6ec-2433960cde81/outputs/Lit-Owens-Disk_b008_i187b-TwoWingsOfGlory-medium.mp4/index.m3u8",
+        "url": "./transcripts/tt44pm97q_tm70mv266.json",
+        "name": "Lit-Owens-Disk_b008_i187b-TwoWingsOfGlory-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/d383a8d2-c8f7-4f6b-aea8-f5965d551a1d/outputs/Lit-Owens-Disk_b005_i127a-OheHelene-medium.mp4/index.m3u8",
+        "url": "./transcripts/rn301144t_8p58pc98c.json",
+        "name": "Lit-Owens-Disk_b005_i127a-OheHelene-medium.mp4 whisperx"
     }
 ]
