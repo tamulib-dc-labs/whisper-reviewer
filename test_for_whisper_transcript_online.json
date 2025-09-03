@@ -4118,5 +4118,40 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/d383a8d2-c8f7-4f6b-aea8-f5965d551a1d/outputs/Lit-Owens-Disk_b005_i127a-OheHelene-medium.mp4/index.m3u8",
         "url": "./transcripts/rn301144t_8p58pc98c.json",
         "name": "Lit-Owens-Disk_b005_i127a-OheHelene-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/1e15202a-4524-4c6d-84e0-90108e572de0/outputs/Lit-Owens-Disk_b006_i134a2-TheDeathOfaLover-medium.mp4/index.m3u8",
+        "url": "./transcripts/v118rd64z_n009w234m.json",
+        "name": "Lit-Owens-Disk_b006_i134a2-TheDeathOfaLover-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/daed8205-b1b4-49ed-b39a-4f5e7e0225dd/outputs/Lit-Owens-Disk_b006_i134a1-DisSemHodilDosoli-medium.mp4/index.m3u8",
+        "url": "./transcripts/v118rd64z_df65v798r.json",
+        "name": "Lit-Owens-Disk_b006_i134a1-DisSemHodilDosoli-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/37d79b75-1090-490a-914f-a0aeaeb56c80/outputs/Lit-Owens-Disk_b003_i057b-Mary-medium.mp4/index.m3u8",
+        "url": "./transcripts/tt44pm980_f1881k977.json",
+        "name": "Lit-Owens-Disk_b003_i057b-Mary-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/b4739c64-1004-4997-b3d8-302f3366cd39/outputs/Lit-Owens-Disk_b006_i134b-NatZosovuJeHayck-medium.mp4/index.m3u8",
+        "url": "./transcripts/v118rd64z_hh63sv940.json",
+        "name": "Lit-Owens-Disk_b006_i134b-NatZosovuJeHayck-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/bc02bed5-417b-44c3-923e-b88c0d5c61fe/outputs/Lit-Owens-Disk_b003_i062b-InterviewMadameMarieSonnier-medium.mp4/index.m3u8",
+        "url": "./transcripts/v118rd62d_9p2909417.json",
+        "name": "Lit-Owens-Disk_b003_i062b-InterviewMadameMarieSonnier-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/d952b3ed-bf6d-4e41-802d-2972cabd03f3/outputs/Lit-Owens-Disk_b003_i057a-MaryMagdeline-medium.mp4/index.m3u8",
+        "url": "./transcripts/tt44pm980_h702q6489.json",
+        "name": "Lit-Owens-Disk_b003_i057a-MaryMagdeline-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/d0eaf9f0-b070-40c5-954f-de29fda1c263/outputs/Lit-Owens-Disk_b003_i062a-CajunConversation-medium.mp4/index.m3u8",
+        "url": "./transcripts/v118rd62d_hd76s020b.json",
+        "name": "Lit-Owens-Disk_b003_i062a-CajunConversation-medium.mp4 whisperx"
     }
 ]
