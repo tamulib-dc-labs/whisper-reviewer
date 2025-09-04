@@ -4228,5 +4228,20 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/cfdf08d4-e394-4e00-a297-253d7ff61d96/outputs/Lit-Owens-Disk_b007_i170a-ICriedAllNight-medium.mp4/index.m3u8",
         "url": "./transcripts/vm40xr69n_ms35t8638.json",
         "name": "Lit-Owens-Disk_b007_i170a-ICriedAllNight-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/8c548f82-f597-4f11-9b7f-1bd27cd6f1e2/outputs/Lit-Owens-Disk_b008_i198a2-HarNiHort-medium.mp4/index.m3u8",
+        "url": "./transcripts/70795775k_gx41mh92t.json",
+        "name": "Lit-Owens-Disk_b008_i198a2-HarNiHort-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/36aa08ea-92a5-4144-a89a-cf88bd593543/outputs/Lit-Owens-Disk_b005_i110b-C_estHipPuisTaiaut-medium.mp4/index.m3u8",
+        "url": "./transcripts/mp48sc852_jd472w58w.json",
+        "name": "Lit-Owens-Disk_b005_i110b-C_estHipPuisTaiaut-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/147da6ce-8b9a-4465-ae08-83128937de2e/outputs/Lit-Owens-Disk_b006_i146a-_unidentifiedCzechSong_-medium.mp4/index.m3u8",
+        "url": "./transcripts/cj82k742g_8s45q882q.json",
+        "name": "Lit-Owens-Disk_b006_i146a-_unidentifiedCzechSong_-medium.mp4 whisperx"
     }
 ]
