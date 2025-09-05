@@ -4243,5 +4243,55 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/147da6ce-8b9a-4465-ae08-83128937de2e/outputs/Lit-Owens-Disk_b006_i146a-_unidentifiedCzechSong_-medium.mp4/index.m3u8",
         "url": "./transcripts/cj82k742g_8s45q882q.json",
         "name": "Lit-Owens-Disk_b006_i146a-_unidentifiedCzechSong_-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/b0fecf5c-abbd-4699-a8df-d36124d75cca/outputs/Lit-Owens-Disk_b006_i137b-MyNightsAreLonesome-medium.mp4/index.m3u8",
+        "url": "./transcripts/ws859f716_wm117p03j.json",
+        "name": "Lit-Owens-Disk_b006_i137b-MyNightsAreLonesome-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/b9f4e53f-8c91-48c7-b0b6-92a1abd78092/outputs/Lit-Owens-Disk_b005_i114a-WhenIWasInMyFathersHouse-medium.mp4/index.m3u8",
+        "url": "./transcripts/x059c743t_br86b3634.json",
+        "name": "Lit-Owens-Disk_b005_i114a-WhenIWasInMyFathersHouse-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/2518d795-f54f-4585-9991-bb2e5e02be47/outputs/Lit-Owens-Disk_b008_i199a-WhenTheMorningComes-medium.mp4/index.m3u8",
+        "url": "./transcripts/ww72bb54s_gt54kn045.json",
+        "name": "Lit-Owens-Disk_b008_i199a-WhenTheMorningComes-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/d887db3c-073d-406b-baff-025d61f484eb/outputs/Lit-Owens-Disk_b002_i041a-SwingLowSweetChariot-medium.mp4/index.m3u8",
+        "url": "./transcripts/wm117p06c_h128nd79t.json",
+        "name": "Lit-Owens-Disk_b002_i041a-SwingLowSweetChariot-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/be7e50e0-8410-4061-907a-d12f76f8d210/outputs/Lit-Owens-Disk_b006_i137a-MyNightsAreLonesome-medium.mp4/index.m3u8",
+        "url": "./transcripts/ws859f716_fq977t87t.json",
+        "name": "Lit-Owens-Disk_b006_i137a-MyNightsAreLonesome-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/af2c1460-0cd3-4447-8823-d7ffcf35896e/outputs/Lit-Owens-Disk_b002_i041b-SwingingOnTheGoldenGates-medium.mp4/index.m3u8",
+        "url": "./transcripts/wm117p06c_05741r76p.json",
+        "name": "Lit-Owens-Disk_b002_i041b-SwingingOnTheGoldenGates-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/aae2161a-dac3-4325-8313-26a18db6cea5/outputs/Lit-Owens-Disk_b002_i031a_-_Rich_Irish_Lady__part_1_-medium.mp4/index.m3u8",
+        "url": "./transcripts/x346d427p_8c97kq448.json",
+        "name": "Lit-Owens-Disk_b002_i031a_-_Rich_Irish_Lady__part_1_-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/93b56903-db1f-4bd1-8410-0ae2c9cbb8e8/outputs/Lit-Owens-Disk_b002_i031b1_-_Rich_Irish_Lady__part_2_-medium.mp4/index.m3u8",
+        "url": "./transcripts/x346d427p_1n79h440p.json",
+        "name": "Lit-Owens-Disk_b002_i031b1_-_Rich_Irish_Lady__part_2_-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/4cb0d7bd-0545-4abe-a096-63fcb81f9f33/outputs/Lit-Owens-Disk_b005_i114b-_unidentified_-medium.mp4/index.m3u8",
+        "url": "./transcripts/x059c743t_sf268518k.json",
+        "name": "Lit-Owens-Disk_b005_i114b-_unidentified_-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/f02299e7-a347-48f8-8aa3-f10e2eb0cbae/outputs/Lit-Owens-Disk_b002_i031b2_-_Lazy_Man-medium.mp4/index.m3u8",
+        "url": "./transcripts/x346d427p_q811kj720.json",
+        "name": "Lit-Owens-Disk_b002_i031b2_-_Lazy_Man-medium.mp4 whisperx"
     }
 ]
