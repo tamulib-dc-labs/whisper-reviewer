@@ -4383,5 +4383,35 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/c5a58e3a-a485-48da-8979-36c61fb40f4b/outputs/Lit-Owens-Disk_b002_i032a_-_The_Old_Woman_from_Ireland-medium.mp4/index.m3u8",
         "url": "./transcripts/xk81jk477_70795779p.json",
         "name": "Lit-Owens-Disk_b002_i032a_-_The_Old_Woman_from_Ireland-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/3240b57b-abe7-4b43-a0ba-7306634192fd/outputs/Lit-Owens-Disk_b007_i176b-I_mLookingForThatMan-medium.mp4/index.m3u8",
+        "url": "./transcripts/zw12z5396_9w032308p.json",
+        "name": "Lit-Owens-Disk_b007_i176b-I_mLookingForThatMan-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/8b1bd943-97f7-4d95-97aa-0d8b290bdd54/outputs/Lit-Owens-Disk_b006_i145a1-TheFairMaid-medium.mp4/index.m3u8",
+        "url": "./transcripts/zs25x857w_bn9996777.json",
+        "name": "Lit-Owens-Disk_b006_i145a1-TheFairMaid-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/8d4258b9-69cf-4097-b26e-ba07f4ecb674/outputs/Lit-Owens-Disk_b006_i145a2-ByeByeMyDarlin-medium.mp4/index.m3u8",
+        "url": "./transcripts/zs25x857w_3484zg969.json",
+        "name": "Lit-Owens-Disk_b006_i145a2-ByeByeMyDarlin-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/e39c163e-8d6b-4e6d-bcd7-5285c7458a23/outputs/Lit-Owens-Disk_b001_i009a_-_Green_Corn__with_banjo_story_-medium.mp4/index.m3u8",
+        "url": "./transcripts/zc77sq15b_rv042t167.json",
+        "name": "Lit-Owens-Disk_b001_i009a_-_Green_Corn__with_banjo_story_-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/dae56c61-2239-45aa-a462-cf51df5e21f0/outputs/Lit-Owens-Disk_b007_i176a-YouOughtToSawMyLord-medium.mp4/index.m3u8",
+        "url": "./transcripts/zw12z5396_vt150j34f.json",
+        "name": "Lit-Owens-Disk_b007_i176a-YouOughtToSawMyLord-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/dee80915-a9e6-4adb-9fe5-da7499158ff9/outputs/Lit-Owens-Disk_b006_i145b-IHaveAFather-medium.mp4/index.m3u8",
+        "url": "./transcripts/zs25x857w_x059c742j.json",
+        "name": "Lit-Owens-Disk_b006_i145b-IHaveAFather-medium.mp4 whisperx"
     }
 ]
