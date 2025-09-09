@@ -4293,5 +4293,30 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/f02299e7-a347-48f8-8aa3-f10e2eb0cbae/outputs/Lit-Owens-Disk_b002_i031b2_-_Lazy_Man-medium.mp4/index.m3u8",
         "url": "./transcripts/x346d427p_q811kj720.json",
         "name": "Lit-Owens-Disk_b002_i031b2_-_Lazy_Man-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/29adaeb0-8bf9-4b03-b783-5457060e1343/outputs/Lit-Owens-Disk_b006_i151a-OldTimeReligion-medium.mp4/index.m3u8",
+        "url": "./transcripts/x920fw93c_0c483j45f.json",
+        "name": "Lit-Owens-Disk_b006_i151a-OldTimeReligion-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/d0432449-1f80-4f61-806c-0f13f6dd2f29/outputs/Lit-Owens-Disk_b006_i151b-LeadinMeOn_PreciousLordTakeMyHand_-medium.mp4/index.m3u8",
+        "url": "./transcripts/x920fw93c_j3860696g.json",
+        "name": "Lit-Owens-Disk_b006_i151b-LeadinMeOn_PreciousLordTakeMyHand_-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/ed36b817-84e1-4354-a060-763523b401b8/outputs/Lit-Owens-Disk_b001_i007b_-_Go_To_Sleep__Baby-medium.mp4/index.m3u8",
+        "url": "./transcripts/xg94hp64n_9g54xh755.json",
+        "name": "Lit-Owens-Disk_b001_i007b_-_Go_To_Sleep__Baby-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/925ea58a-c6ac-469b-80d5-7f01ec30ee9b/outputs/Lit-Owens-Disk_b005_i105b-SwingLow-medium.mp4/index.m3u8",
+        "url": "./transcripts/x920fw94n_zc77sq142.json",
+        "name": "Lit-Owens-Disk_b005_i105b-SwingLow-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/378bafde-7c30-4b08-9882-b43cdd88585d/outputs/Lit-Owens-Disk_b005_i105a-AmazingGrace-medium.mp4/index.m3u8",
+        "url": "./transcripts/x920fw94n_2r36tx60w.json",
+        "name": "Lit-Owens-Disk_b005_i105a-AmazingGrace-medium.mp4 whisperx"
     }
 ]
