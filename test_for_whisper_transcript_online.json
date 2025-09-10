@@ -4448,5 +4448,20 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/36987e32-3a55-4fed-a2f9-091e32133021/outputs/03-VOTV-Bailey_Jeff-video01-medium.mp4/index.m3u8",
         "url": "./transcripts/br86b375x_pz50gw25s.json",
         "name": "03-VOTV-Bailey_Jeff-video01-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/e971358a-a6f4-4199-a803-084a6d9da9bd/outputs/03-VOTV-Anderson_John-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/hq37vn76t_3n203z25s.json",
+        "name": "03-VOTV-Anderson_John-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/a36d7daa-073a-4395-962e-fbe7e394280f/outputs/03-VOTV-Bailey_Jeff-video02-medium.mp4/index.m3u8",
+        "url": "./transcripts/w0892b079_8336h2093.json",
+        "name": "03-VOTV-Bailey_Jeff-video02-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/4005c5e5-43f9-4db1-a466-26e325c23397/outputs/03-VOTV-Balmain_LeRoy-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/8336h208t_2r36tx76s.json",
+        "name": "03-VOTV-Balmain_LeRoy-video-medium.mp4 whisperx"
     }
 ]
