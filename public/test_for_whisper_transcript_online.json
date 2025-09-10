@@ -4413,5 +4413,20 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/dee80915-a9e6-4adb-9fe5-da7499158ff9/outputs/Lit-Owens-Disk_b006_i145b-IHaveAFather-medium.mp4/index.m3u8",
         "url": "./transcripts/zs25x857w_x059c742j.json",
         "name": "Lit-Owens-Disk_b006_i145b-IHaveAFather-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/9047abce-952e-4c14-9a38-72b1abb45a97/outputs/03-VOTV-Buell_Frank-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/jq085k196_x346d439g.json",
+        "name": "03-VOTV-Buell_Frank-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/7505746b-4c1f-4f6d-ac22-7ea1a270ad68/outputs/03-VOTV-Bruner_Bob-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/tt44pn07r_sj139214q.json",
+        "name": "03-VOTV-Bruner_Bob-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/29d844c6-af38-4d30-b11e-ac7af3890e9c/outputs/03-VOTV-Browning_Tom-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/fq977v048_rf55z791k.json",
+        "name": "03-VOTV-Browning_Tom-video-medium.mp4 whisperx"
     }
 ]
