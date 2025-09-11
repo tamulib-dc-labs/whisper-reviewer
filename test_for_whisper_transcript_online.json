@@ -4488,5 +4488,10 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/4005c5e5-43f9-4db1-a466-26e325c23397/outputs/03-VOTV-Balmain_LeRoy-video-medium.mp4/index.m3u8",
         "url": "./transcripts/8336h208t_2r36tx76s.json",
         "name": "03-VOTV-Balmain_LeRoy-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/bd30f5a3-383d-4d65-b4b3-aa33f44753b3/outputs/03-VOTV-Adkins_Ray-video01-medium.mp4/index.m3u8",
+        "url": "./transcripts/9880vr244_xw42n8035.json",
+        "name": "03-VOTV-Adkins_Ray-video01-medium.mp4 whisperx"
     }
 ]
