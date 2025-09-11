@@ -1490,6 +1490,31 @@
         "name": "03-VOTV-Beal_Norman-video-medium.mp4"
     },
     {
+        "audio": "https://kaltura-pre.library.tamu.edu/avalon/a6268416-ba40-4501-890d-1c8bfdbc4a5b/outputs/02_00021-a_01-medium.mp4/index.m3u8",
+        "url": "./transcripts/02_00021-a_01.json",
+        "name": "Caitlyn Sample: MSC Presidential Experience"
+    },
+    {
+        "audio": "https://kaltura-pre.library.tamu.edu/avalon/d9e2f30c-94f5-4f17-89aa-de7b489e4597/outputs/02_00021-a_02-high.mp4/index.m3u8",
+        "url": "./transcripts/02_00021-a_02.json",
+        "name": "Caitlyn Sample: Black Student Experience at Texas A&M"
+    },
+    {
+        "audio": "https://kaltura-pre.library.tamu.edu/avalon/1fa543d9-8672-4880-ada3-f17b086020b9/outputs/02_00021-b_01-medium.mp4/index.m3u8",
+        "url": "./transcripts/02_00021-b_01.json",
+        "name": "Caitlyn Sample: Bobby Beiser Oral History"
+    },
+    {
+        "audio": "https://kaltura-pre.library.tamu.edu/avalon/5e7d7edd-a97c-46d8-8855-1213aebd8eb5/outputs/02_00021-c_01-medium.mp4/index.m3u8",
+        "url": "./transcripts/02_00021-c_01.json",
+        "name": "Caitlyn Sample: Oral History: MSC Council President"
+    },
+    {
+        "audio": "https://kaltura-pre.library.tamu.edu/avalon/0dcd8208-9252-4641-b8b9-eea34ff8709d/outputs/02_00021-c_02-medium.mp4/index.m3u8",
+        "url": "./transcripts/02_00021-c_02.json",
+        "name": "Caitlyn Sample: Texas A&M Student Leadership Oral History"
+    },
+    {
         "audio": "https://kaltura.library.tamu.edu/avalon/60a509d7-b9ed-4c8c-b1c0-412d6db6c348/outputs/03-VOTV-Boykin_Calvin-video02-medium.mp4/index.m3u8",
         "url": "./transcripts/2r36tx75h_9880vr23v.json",
         "name": "03-VOTV-Boykin_Calvin-video02-medium.mp4"
