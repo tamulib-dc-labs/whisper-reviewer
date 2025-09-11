@@ -4493,5 +4493,20 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/bd30f5a3-383d-4d65-b4b3-aa33f44753b3/outputs/03-VOTV-Adkins_Ray-video01-medium.mp4/index.m3u8",
         "url": "./transcripts/9880vr244_xw42n8035.json",
         "name": "03-VOTV-Adkins_Ray-video01-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/94da6c86-aaa9-46d4-a8b0-537146af05e0/outputs/03-VOTV-Alexander_Dr-Philip-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/gf06g287w_6w924b99m.json",
+        "name": "03-VOTV-Alexander_Dr-Philip-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/1aadf131-be59-4e90-a5dc-33b926bc8412/outputs/03-VOTV-Adkins_Ray-video02-medium.mp4/index.m3u8",
+        "url": "./transcripts/70795787c_t722h898d.json",
+        "name": "03-VOTV-Adkins_Ray-video02-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/986c2b47-d239-43b6-b065-3b4ab9b07eed/outputs/03-VOTV-Adams_Bill-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/hh63sw03r_xw42n802w.json",
+        "name": "03-VOTV-Adams_Bill-video-medium.mp4 whisperx"
     }
 ]
