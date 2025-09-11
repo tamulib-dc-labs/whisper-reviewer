@@ -4508,5 +4508,45 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/986c2b47-d239-43b6-b065-3b4ab9b07eed/outputs/03-VOTV-Adams_Bill-video-medium.mp4/index.m3u8",
         "url": "./transcripts/hh63sw03r_xw42n802w.json",
         "name": "03-VOTV-Adams_Bill-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/073bc54a-0902-4fcc-8041-0b526d1fc3ec/outputs/03-VOTV-Dickey_Wilson-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/6682x405k_5t34sj840.json",
+        "name": "03-VOTV-Dickey_Wilson-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/d0064e07-83ee-412c-bc95-03b36ca5890f/outputs/03-VOTV-Dickey_Frank-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/n870zr06z_wd375w385.json",
+        "name": "03-VOTV-Dickey_Frank-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/f2dd5228-89eb-4687-8111-9f1c2b7553e4/outputs/03-VOTV-Adams_Billy-Joe-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/v118rd81m_3f462569j.json",
+        "name": "03-VOTV-Adams_Billy-Joe-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/444487fe-0408-430c-8d7c-b3bf38dd0bd3/outputs/03-VOTV-Franze_RF-Sonny-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/8w32r582z_2j62s5045.json",
+        "name": "03-VOTV-Franze_RF-Sonny-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/2a9d80df-194e-41e3-9f30-10d2cc425321/outputs/03-VOTV-Gallery_Bob-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/6d56zw74c_8p58pd09p.json",
+        "name": "03-VOTV-Gallery_Bob-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/7205aa04-dbd0-4d14-9eec-591e2cb10fa2/outputs/03-VOTV-Edmonds_WS-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/zc77sq249_bc386j44x.json",
+        "name": "03-VOTV-Edmonds_WS-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/eaaa90cb-6445-4e95-9c4c-41cb1fce969e/outputs/03-VOTV-Foltermann_Arnold-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/g732d917n_2227mp866.json",
+        "name": "03-VOTV-Foltermann_Arnold-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/c1e64911-8648-4400-bfd3-aa9a51281129/outputs/03-VOTV-Fliedner_Robert-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/zs25x877c_12579s47v.json",
+        "name": "03-VOTV-Fliedner_Robert-video-medium.mp4 whisperx"
     }
 ]
