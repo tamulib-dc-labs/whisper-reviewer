@@ -4588,5 +4588,25 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/e36e70df-5f22-4ac9-a6d1-c814ffe98745/outputs/03-VOTV-Davison_Dick-video02-medium.mp4/index.m3u8",
         "url": "./transcripts/n870zr077_zw12z5549.json",
         "name": "03-VOTV-Davison_Dick-video02-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/15586d99-665f-44cd-bb33-338d367f7378/outputs/03-VOTV-Darling_Thomas-video01-medium.mp4/index.m3u8",
+        "url": "./transcripts/ng451h60f_cj82k756t.json",
+        "name": "03-VOTV-Darling_Thomas-video01-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/c8683336-fbe7-4436-b58a-80b40919137b/outputs/03-VOTV-Currie_Jack-video01-medium.mp4/index.m3u8",
+        "url": "./transcripts/5x21tf57b_2801pg54d.json",
+        "name": "03-VOTV-Currie_Jack-video01-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/6626764a-ec0e-420d-88a5-5611feeb943e/outputs/03-VOTV-Cronin_Walter-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/z890rt45j_cn69m4331.json",
+        "name": "03-VOTV-Cronin_Walter-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/8139c7d9-0730-445b-9543-a5ddd572744b/outputs/03-VOTV-Cox_George-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/3t945r04r_dz010q25p.json",
+        "name": "03-VOTV-Cox_George-video-medium.mp4 whisperx"
     }
 ]
