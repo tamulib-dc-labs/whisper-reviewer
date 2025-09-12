@@ -4548,5 +4548,25 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/c1e64911-8648-4400-bfd3-aa9a51281129/outputs/03-VOTV-Fliedner_Robert-video-medium.mp4/index.m3u8",
         "url": "./transcripts/zs25x877c_12579s47v.json",
         "name": "03-VOTV-Fliedner_Robert-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/69889f19-d003-4645-8e7b-14565daea8c5/outputs/03-VOTV-Dethloff_Henry-video02-medium.mp4/index.m3u8",
+        "url": "./transcripts/tq57nr21b_3484zh10x.json",
+        "name": "03-VOTV-Dethloff_Henry-video02-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/5c75ef2f-1b13-48f3-ba04-fe049a8174d8/outputs/03-VOTV-Deiterich_Dick-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/mg74qm23h_t148fh38p.json",
+        "name": "03-VOTV-Deiterich_Dick-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/27e97e73-4393-4e47-bee4-658616c7a208/outputs/03-VOTV-Dethloff_Henry-video01-medium.mp4/index.m3u8",
+        "url": "./transcripts/kw52j822m_p5547r56q.json",
+        "name": "03-VOTV-Dethloff_Henry-video01-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/a5c68945-908a-4b75-81d7-cab0736af4d0/outputs/03-VOTV-DeZavala_Lawrence-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/pk02c986g_rb68xc05g.json",
+        "name": "03-VOTV-DeZavala_Lawrence-video-medium.mp4 whisperx"
     }
 ]
