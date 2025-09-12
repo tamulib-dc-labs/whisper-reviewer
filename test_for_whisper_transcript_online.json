@@ -4568,5 +4568,25 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/a5c68945-908a-4b75-81d7-cab0736af4d0/outputs/03-VOTV-DeZavala_Lawrence-video-medium.mp4/index.m3u8",
         "url": "./transcripts/pk02c986g_rb68xc05g.json",
         "name": "03-VOTV-DeZavala_Lawrence-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/c61dabe6-7424-42d9-bf37-82d5550c5eab/outputs/03-VOTV-Davison_Dick-video01-medium.mp4/index.m3u8",
+        "url": "./transcripts/d217qp75f_6108vb364.json",
+        "name": "03-VOTV-Davison_Dick-video01-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/96ff739f-c185-49c9-96b1-3cd2d323c5f6/outputs/03-VOTV-Darling_Thomas-video02-medium.mp4/index.m3u8",
+        "url": "./transcripts/6m311p54h_ns0646221.json",
+        "name": "03-VOTV-Darling_Thomas-video02-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/b2adfc33-012b-454a-b3b6-ea651f72c8b3/outputs/03-VOTV-Davis_Rex-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/5h73pw23g_g732d918x.json",
+        "name": "03-VOTV-Davis_Rex-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/e36e70df-5f22-4ac9-a6d1-c814ffe98745/outputs/03-VOTV-Davison_Dick-video02-medium.mp4/index.m3u8",
+        "url": "./transcripts/n870zr077_zw12z5549.json",
+        "name": "03-VOTV-Davison_Dick-video02-medium.mp4 whisperx"
     }
 ]
