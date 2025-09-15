@@ -4708,5 +4708,25 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/c8f01166-f488-4e95-b4ce-a468e7789b10/outputs/03-VOTV-Marsh_HJ-video-medium.mp4/index.m3u8",
         "url": "./transcripts/qj72p729p_2j62s505f.json",
         "name": "03-VOTV-Marsh_HJ-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/5534f012-9f88-4f05-b864-5dd2bc752640/outputs/03-VOTV-Kozlowski_Yolanda-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/m613mx784_d217qp76q.json",
+        "name": "03-VOTV-Kozlowski_Yolanda-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/16fe5b0f-00fc-4783-b4e8-09e5e5771066/outputs/03-VOTV-Lewis_Ron-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/6395w7327_m613mx81f.json",
+        "name": "03-VOTV-Lewis_Ron-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/fce4dc58-8cc7-466f-884e-132f876b5557/outputs/03-VOTV-Lewis_Durwood-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/5425k983w_dn39x170t.json",
+        "name": "03-VOTV-Lewis_Durwood-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/d59f7297-de59-47b4-a14d-5eaef6efd485/outputs/03-VOTV-Litterst_Frank-video01-medium.mp4/index.m3u8",
+        "url": "./transcripts/5x21tf58m_5999n3609.json",
+        "name": "03-VOTV-Litterst_Frank-video01-medium.mp4 whisperx"
     }
 ]
