@@ -4648,5 +4648,25 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/6dcf5753-7140-4d25-ac35-3fc049b658d9/outputs/03-VOTV-Moore_Jim-video-medium.mp4/index.m3u8",
         "url": "./transcripts/v979v332n_x633f1243.json",
         "name": "03-VOTV-Moore_Jim-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/20ce920c-a8db-4dc5-8c17-e510e6840a19/outputs/03-VOTV-Monroe_Haskell-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/4f16c299x_z603qx574.json",
+        "name": "03-VOTV-Monroe_Haskell-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/b8c3162e-a641-4d15-a6d3-c7444353fe55/outputs/03-VOTV-Meyer_Alton-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/xp68kg35z_rx913q13m.json",
+        "name": "03-VOTV-Meyer_Alton-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/0c92380f-fb8b-4165-9492-d872f4ef7cd5/outputs/03-VOTV-Middleton_Bob-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/kp78gg56z_fj2362424.json",
+        "name": "03-VOTV-Middleton_Bob-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/359c269a-bb33-4cb9-8a3c-b1d3ef1884e3/outputs/03-VOTV-Mullins_Brent-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/tx31qh84w_cz30ps811.json",
+        "name": "03-VOTV-Mullins_Brent-video-medium.mp4 whisperx"
     }
 ]
