@@ -4728,5 +4728,45 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/d59f7297-de59-47b4-a14d-5eaef6efd485/outputs/03-VOTV-Litterst_Frank-video01-medium.mp4/index.m3u8",
         "url": "./transcripts/5x21tf58m_5999n3609.json",
         "name": "03-VOTV-Litterst_Frank-video01-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/55d8569a-a58e-40f9-a609-3e82a6c15793/outputs/03-VOTV-Kling_Bill-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/vx021f33d_g445cd36m.json",
+        "name": "03-VOTV-Kling_Bill-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/035d2930-b3f9-49b0-ba5f-a682df3fbb45/outputs/03-VOTV-Kozlowski_Ed-Yolanda-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/qf85nb58w_bc386j456.json",
+        "name": "03-VOTV-Kozlowski_Ed-Yolanda-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/124b2b7d-2d39-4266-9527-b3c24144874c/outputs/03-VOTV-Hopgood_Ted-video02-medium.mp4/index.m3u8",
+        "url": "./transcripts/5t34sj858_12579s51f.json",
+        "name": "03-VOTV-Hopgood_Ted-video02-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/3a76e17e-369d-4fa7-82b2-b461c79af952/outputs/03-VOTV-Huss_Carl-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/41687h67m_pk02c987r.json",
+        "name": "03-VOTV-Huss_Carl-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/45ada274-4584-48a5-92d4-8b166cfc836d/outputs/03-VOTV-Kennedy_Gordon-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/jw827b81x_fb4948713.json",
+        "name": "03-VOTV-Kennedy_Gordon-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/eed58d62-aa5b-4497-8c9a-8afc1450cd14/outputs/03-VOTV-Huffman_Jeffrey-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/4b29b620q_qv33rw81j.json",
+        "name": "03-VOTV-Huffman_Jeffrey-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/c652f995-a971-4c31-9ddf-e9351b244982/outputs/03-VOTV-Jackson_Dale-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/gt54kn21t_s4655g802.json",
+        "name": "03-VOTV-Jackson_Dale-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/a9a71154-85a5-432c-b4cd-4cdf387ce85a/outputs/03-VOTV-Hudson_Louis-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/sn009x94h_js956g01z.json",
+        "name": "03-VOTV-Hudson_Louis-video-medium.mp4 whisperx"
     }
 ]
