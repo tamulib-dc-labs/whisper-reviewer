@@ -4688,5 +4688,25 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/d879619d-a194-4f82-bf7a-772de1fe5fef/outputs/03-VOTV-McCaskill_Gerald-video-medium.mp4/index.m3u8",
         "url": "./transcripts/g158bh55k_gq67jr38r.json",
         "name": "03-VOTV-McCaskill_Gerald-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/a9bd3995-7a4c-46f8-ad34-7b38dfdd911f/outputs/03-VOTV-Loveless_Ken-video01-medium.mp4/index.m3u8",
+        "url": "./transcripts/44558d527_4j03cz85n.json",
+        "name": "03-VOTV-Loveless_Ken-video01-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/ea9c72ac-6c43-4556-acee-a0aca6268b3b/outputs/03-VOTV-Litterst_Frank-video02-medium.mp4/index.m3u8",
+        "url": "./transcripts/j6731399j_5999n361k.json",
+        "name": "03-VOTV-Litterst_Frank-video02-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/178f59da-628a-4e77-967d-f9d0c22b762a/outputs/03-VOTV-Loveless_Ken-video02-medium.mp4/index.m3u8",
+        "url": "./transcripts/8049g523p_s4655g81b.json",
+        "name": "03-VOTV-Loveless_Ken-video02-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/c8f01166-f488-4e95-b4ce-a468e7789b10/outputs/03-VOTV-Marsh_HJ-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/qj72p729p_2j62s505f.json",
+        "name": "03-VOTV-Marsh_HJ-video-medium.mp4 whisperx"
     }
 ]
