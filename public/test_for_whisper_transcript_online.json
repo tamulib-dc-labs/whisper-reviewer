@@ -4768,5 +4768,40 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/a9a71154-85a5-432c-b4cd-4cdf387ce85a/outputs/03-VOTV-Hudson_Louis-video-medium.mp4/index.m3u8",
         "url": "./transcripts/sn009x94h_js956g01z.json",
         "name": "03-VOTV-Hudson_Louis-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/71744b48-3e80-47b9-ba60-ce48dc0c1a44/outputs/03-VOTV-Hopgood_Ted-video01-medium.mp4/index.m3u8",
+        "url": "./transcripts/qb98mf716_w0892b08k.json",
+        "name": "03-VOTV-Hopgood_Ted-video01-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/5f1c4ebf-d636-4070-8de9-8949e81426ab/outputs/03-VOTV-Hope_Lannes-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/9z903003h_m613mx805.json",
+        "name": "03-VOTV-Hope_Lannes-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/c8f20fd5-b295-4fb1-8825-978ff6c4c46a/outputs/03-VOTV-Holland_Fred-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/vd66w004q_bg257f267.json",
+        "name": "03-VOTV-Holland_Fred-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/a62db0cc-bc7a-4103-8978-d873df526f69/outputs/03-VOTV-Hobbs_Duke-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/k3569456c_pk02c9881.json",
+        "name": "03-VOTV-Hobbs_Duke-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/5ae6a71a-50ac-45b1-b77c-826e13b65f4b/outputs/03-VOTV-Higgins_Ed-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/kd17ct05q_dz010q26z.json",
+        "name": "03-VOTV-Higgins_Ed-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/98ff79af-f390-441c-a719-aa42902f2e8b/outputs/03-VOTV-Harper_Bill-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/5425k9845_kw52j823w.json",
+        "name": "03-VOTV-Harper_Bill-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/5131aaf9-853f-401e-a04e-f279550ae590/outputs/03-VOTV-Hester_Jim-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/qb98mf72g_0r9673887.json",
+        "name": "03-VOTV-Hester_Jim-video-medium.mp4 whisperx"
     }
 ]
