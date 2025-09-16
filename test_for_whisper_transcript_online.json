@@ -4803,5 +4803,45 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/5131aaf9-853f-401e-a04e-f279550ae590/outputs/03-VOTV-Hester_Jim-video-medium.mp4/index.m3u8",
         "url": "./transcripts/qb98mf72g_0r9673887.json",
         "name": "03-VOTV-Hester_Jim-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/624aa49c-a178-4fe3-ad05-3abc80f4c952/outputs/03-VOTV-Hanover_Joe-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/w66343778_m613mx79d.json",
+        "name": "03-VOTV-Hanover_Joe-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/4e55fe0f-df2a-4bd8-ab07-30ab0bcdc4bd/outputs/03-VOTV-Hanson_Al-video01-medium.mp4/index.m3u8",
+        "url": "./transcripts/sj1392150_tx31qh855.json",
+        "name": "03-VOTV-Hanson_Al-video01-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/697abb0e-9d39-417f-9c5d-09c3e90ea743/outputs/03-VOTV-Happ_John-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/gx41mj01k_7s75dc57q.json",
+        "name": "03-VOTV-Happ_John-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/6c3e253d-5b84-4815-875f-3c28a3fce1b2/outputs/03-VOTV-Guidry_Mike-video03-medium.mp4/index.m3u8",
+        "url": "./transcripts/bz60cw39c_sq87bt762.json",
+        "name": "03-VOTV-Guidry_Mike-video03-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/f366d07e-e55e-4592-b97b-a9f8ec5f2d2b/outputs/03-VOTV-Gordon_Jim-video02-medium.mp4/index.m3u8",
+        "url": "./transcripts/hh63sw041_8049g526h.json",
+        "name": "03-VOTV-Gordon_Jim-video02-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/ffacf3b6-b4b3-4b1b-ae7f-372430f70836/outputs/03-VOTV-Jarvis_Mike-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/xk81jk591_3t945r051.json",
+        "name": "03-VOTV-Jarvis_Mike-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/56a88807-ae91-4eb3-b9c7-8e2f1d1fba69/outputs/03-VOTV-Hamilton_Bill-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/db78tc18s_6969z0927.json",
+        "name": "03-VOTV-Hamilton_Bill-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/a2ae3f4c-a09b-4777-abd0-2b850a4c5dad/outputs/03-VOTV-Jacquin_Jules-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/h415p971v_xp68kg367.json",
+        "name": "03-VOTV-Jacquin_Jules-video-medium.mp4 whisperx"
     }
 ]
