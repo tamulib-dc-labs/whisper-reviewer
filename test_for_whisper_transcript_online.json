@@ -1285,16 +1285,6 @@
         "name": "C. J. Cherryh Interview Raw Side 1 & 2 (Turbo) - Corina"
     },
     {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/18/pages/page_0/files/c000507_001_017_access.mp3",
-        "url": "./transcripts/c000507_001_017_access_turbo.json",
-        "name": "Blish 001 (Turbo) - Corina"
-    },
-    {
-        "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/19/pages/page_0/files/c000507_001_018_access.mp3",
-        "url": "./transcripts/c000507_001_018_access_turbo.json",
-        "name": "Blish 002 (Turbo) - Corina"
-    },
-    {
         "audio": "https://api-pre.library.tamu.edu/fcrepo/rest/bb/97/f2/3e/bb97f23e-803a-4bd6-8406-06802623554c/scifi_initial_objects/45/pages/page_0/files/c000507_002_003_access.mp3",
         "url": "./transcripts/c000507_002_003_access_turbo.json",
         "name": "Cherryh Update P. Anthony (Turbo) - Corina"
@@ -2353,11 +2343,6 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/19ab385e-db7f-43ec-9ff1-c89a35916cc0/outputs/Lit-Owens-Disk_b002_i026b_-_Ti_Risslety_Rosslety-medium.mp4/index.m3u8",
         "url": "./transcripts/0r9673819_x346d4297.json",
         "name": "Lit-Owens-Disk_b002_i026b_-_Ti_Risslety_Rosslety-medium.mp4 whisperx"
-    },
-    {
-        "audio": "https://kaltura.library.tamu.edu/avalon/f70fc042-f973-4dd8-87aa-d20cd90753a4/outputs/Lit-Owens-Disk_b006_i144a-SluneckoSviti_part1_-medium.mp4/index.m3u8",
-        "url": "./transcripts/08612n580_1831ck04j.json",
-        "name": "Lit-Owens-Disk_b006_i144a-SluneckoSviti_part1_-medium.mp4 whisperx"
     },
     {
         "audio": "https://kaltura.library.tamu.edu/avalon/f70fc042-f973-4dd8-87aa-d20cd90753a4/outputs/Lit-Owens-Disk_b006_i144a-SluneckoSviti_part1_-medium.mp4/index.m3u8",
@@ -3715,11 +3700,6 @@
         "name": "Lit-Owens-Disk_b003_i063a2-SawAnOldCrow-medium.mp4 whisperx"
     },
     {
-        "audio": "https://kaltura.library.tamu.edu/avalon/0e0b3252-92e5-4bea-aebe-03f529b04d0e/outputs/Lit-Owens-Disk_b007_i163a-LasCuatroMilpas-medium.mp4/index.m3u8",
-        "url": "./transcripts/rn301147n_td96k259f.json",
-        "name": "Lit-Owens-Disk_b007_i163a-LasCuatroMilpas-medium.mp4 whisperx"
-    },
-    {
         "audio": "https://kaltura.library.tamu.edu/avalon/507d842d-695c-4ecc-a0bb-6c3a07ef1c05/outputs/Lit-Owens-Disk_b001_i008b_-_Kitty_Wells-medium.mp4/index.m3u8",
         "url": "./transcripts/rr171x36g_bv73c049j.json",
         "name": "Lit-Owens-Disk_b001_i008b_-_Kitty_Wells-medium.mp4 whisperx"
@@ -3728,11 +3708,6 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/e0e9fd9b-7d64-4fe6-b441-4ad3694efe37/outputs/Lit-Owens-Disk_b006_i129b-JungleNannySong-medium.mp4/index.m3u8",
         "url": "./transcripts/rj430463s_gb19f588x.json",
         "name": "Lit-Owens-Disk_b006_i129b-JungleNannySong-medium.mp4 whisperx"
-    },
-    {
-        "audio": "https://kaltura.library.tamu.edu/avalon/d383a8d2-c8f7-4f6b-aea8-f5965d551a1d/outputs/Lit-Owens-Disk_b005_i127a-OheHelene-medium.mp4/index.m3u8",
-        "url": "./transcripts/rn301144t_8p58pc98c.json",
-        "name": "Lit-Owens-Disk_b005_i127a-OheHelene-medium.mp4 whisperx"
     },
     {
         "audio": "https://kaltura.library.tamu.edu/avalon/70ce3d85-cd2d-41c6-ba6e-879f951f7453/outputs/Lit-Owens-Disk_b004_i092a-SanGiuseppiChimavaLiOrfanelli-medium.mp4/index.m3u8",
@@ -3750,11 +3725,6 @@
         "name": "Lit-Owens-Disk_b005_i113b-GitAlongLittleDogies-medium.mp4 whisperx"
     },
     {
-        "audio": "https://kaltura.library.tamu.edu/avalon/c237eb94-b12c-4b36-af2a-0dc7ece621df/outputs/Lit-Owens-Disk_b007_i163b2-ElPetate-medium.mp4/index.m3u8",
-        "url": "./transcripts/rn301147n_pg15bf02d.json",
-        "name": "Lit-Owens-Disk_b007_i163b2-ElPetate-medium.mp4 whisperx"
-    },
-    {
         "audio": "https://kaltura.library.tamu.edu/avalon/aaf6e3ac-da24-4de1-88b7-5dbd37d42db3/outputs/Lit-Owens-Disk_b005_i125b-InEinemKuhlenGrunde-medium.mp4/index.m3u8",
         "url": "./transcripts/rr171x34x_wm117p04t.json",
         "name": "Lit-Owens-Disk_b005_i125b-InEinemKuhlenGrunde-medium.mp4 whisperx"
@@ -3763,11 +3733,6 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/1b81a4be-ae53-43e7-97ff-3557ab0ffb0d/outputs/Lit-Owens-Disk_b004_i092b2-StJoseph-medium.mp4/index.m3u8",
         "url": "./transcripts/rn3011453_7m01bk77g.json",
         "name": "Lit-Owens-Disk_b004_i092b2-StJoseph-medium.mp4 whisperx"
-    },
-    {
-        "audio": "https://kaltura.library.tamu.edu/avalon/26011525-08eb-49fe-8950-068fca0ddb38/outputs/Lit-Owens-Disk_b007_i163b1-Adalita-medium.mp4/index.m3u8",
-        "url": "./transcripts/rn301147n_2n49t184d.json",
-        "name": "Lit-Owens-Disk_b007_i163b1-Adalita-medium.mp4 whisperx"
     },
     {
         "audio": "https://kaltura.library.tamu.edu/avalon/f2f11a43-358a-4208-9670-e38dedf60840/outputs/Lit-Owens-Disk_b004_i103b-_InMyFathersHouse_MadameTrosclair-medium.mp4/index.m3u8",
