@@ -4868,5 +4868,25 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/83e58f14-3b51-487c-82d9-b6a57bd78a17/outputs/Lit-Owens-Disk_b004_i090a-StJoseph-medium.mp4/index.m3u8",
         "url": "./transcripts/wh246s217_j9602072c.json",
         "name": "Lit-Owens-Disk_b004_i090a-StJoseph-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/f8c1e572-c441-4fb7-906e-66e8aaf47f16/outputs/03-VOTV-Junek_Ivo-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/c247ds28d_4t64gn41j.json",
+        "name": "03-VOTV-Junek_Ivo-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/38db6bf1-194e-4a19-a305-7d7db4b1b859/outputs/03-VOTV-Wolters_Freddie-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/z316q1814_hq37vn78c.json",
+        "name": "03-VOTV-Wolters_Freddie-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/fe2039f1-6e90-4cf9-842c-e5c6fb84962e/outputs/03-VOTV-Kozlowski_Yolanda-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/4f16c300g_gh93gz70r.json",
+        "name": "03-VOTV-Kozlowski_Yolanda-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/73a42fe2-9f6e-41bc-8df4-9c014b451037/outputs/03-VOTV-Kocman_Frank-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/ns064624k_z316q180v.json",
+        "name": "03-VOTV-Kocman_Frank-video-medium.mp4 whisperx"
     }
 ]
