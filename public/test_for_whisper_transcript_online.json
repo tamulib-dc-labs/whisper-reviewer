@@ -4888,5 +4888,65 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/73a42fe2-9f6e-41bc-8df4-9c014b451037/outputs/03-VOTV-Kocman_Frank-video-medium.mp4/index.m3u8",
         "url": "./transcripts/ns064624k_z316q180v.json",
         "name": "03-VOTV-Kocman_Frank-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/71574260-04c9-4909-ac66-58a91a49208b/outputs/03-VOTV-Wade_James-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/bg257f27h_3t945r069.json",
+        "name": "03-VOTV-Wade_James-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/52085f8d-52aa-488b-8fcb-d09c6ebae7d8/outputs/03-VOTV-VonRoeder_Hazel-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/n009w243k_q237hs09z.json",
+        "name": "03-VOTV-VonRoeder_Hazel-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/1fd3d090-8245-4beb-8797-69a08a2430cd/outputs/03-VOTV-Woodall_James-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/fb494872c_ws859f88c.json",
+        "name": "03-VOTV-Woodall_James-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/b531ff8e-d767-44b2-8e2a-0bfa5ce5b5ca/outputs/03-VOTV-Youngkin_Bill-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/3j3332456_2227mp87g.json",
+        "name": "03-VOTV-Youngkin_Bill-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/7c4a8c00-377d-47c8-88b4-996d0737999a/outputs/03-VOTV-Youngblood_Keith-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/6682x406v_vq27zn57c.json",
+        "name": "03-VOTV-Youngblood_Keith-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/f1aa0944-a818-414f-8768-e5e52bf609e9/outputs/03-VOTV-West_David-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/w3763693d_8623hx88m.json",
+        "name": "03-VOTV-West_David-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/dafe79ca-322c-4ee6-9e58-9bc1a1ee22ff/outputs/03-VOTV-Wilkinson_Bob-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/b2773v919_9z903004s.json",
+        "name": "03-VOTV-Wilkinson_Bob-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/22c84546-81bc-4cd0-b848-76850f6b4dfb/outputs/03-VOTV-White_Mark-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/rf55z792v_12579s52q.json",
+        "name": "03-VOTV-White_Mark-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/75fbb249-6e05-4747-a10f-35047fe24423/outputs/03-VOTV-Voelkel_Tyson-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/qv33rw82t_g158bh574.json",
+        "name": "03-VOTV-Voelkel_Tyson-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/8b6455de-18f2-4b64-ba6c-ab24984f3fb6/outputs/03-VOTV-Valigura_Ray-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/gx41mj034_bk128b09t.json",
+        "name": "03-VOTV-Valigura_Ray-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/37963546-9c1c-4407-8a5b-7dadac03dc45/outputs/03-VOTV-Thompson_Eddie-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/cr56n116m_2z10wq369.json",
+        "name": "03-VOTV-Thompson_Eddie-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/536a109e-7a3b-4372-9d57-1a98d291d0c4/outputs/03-VOTV-Thomas_Rich-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/rr171x509_np1939410.json",
+        "name": "03-VOTV-Thomas_Rich-video-medium.mp4 whisperx"
     }
 ]
