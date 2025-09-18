@@ -4948,5 +4948,45 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/536a109e-7a3b-4372-9d57-1a98d291d0c4/outputs/03-VOTV-Thomas_Rich-video-medium.mp4/index.m3u8",
         "url": "./transcripts/rr171x509_np1939410.json",
         "name": "03-VOTV-Thomas_Rich-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/f1449065-cc86-4a6d-8fd2-a28eff2884fa/outputs/03-VOTV-Stewart_Larry-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/44558d53h_ff365541m.json",
+        "name": "03-VOTV-Stewart_Larry-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/c71b1e39-d2c6-4941-9441-28793b227aca/outputs/03-VOTV-Stephens_Paul-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/2b88qc40j_v979v333x.json",
+        "name": "03-VOTV-Stephens_Paul-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/57fb763e-55f9-400a-8ad7-ee9618543993/outputs/03-VOTV-Stroman_Bill-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/hd76s033d_tx31qh86f.json",
+        "name": "03-VOTV-Stroman_Bill-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/0a04c7f3-9213-4d58-b04f-042257db4866/outputs/03-VOTV-StarrDouglass-video02-medium.mp4/index.m3u8",
+        "url": "./transcripts/v405s9646_j38607146.json",
+        "name": "03-VOTV-StarrDouglass-video02-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/cc973b63-d9f0-48f6-93db-f4163373fee8/outputs/03-VOTV-Sippial_Chuck-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/f1881m078_7d278t202.json",
+        "name": "03-VOTV-Sippial_Chuck-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/2d825490-9917-4962-940b-79f1f32bb0aa/outputs/03-VOTV-Southerland_Mike-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/9c67wm97z_1j92g7740.json",
+        "name": "03-VOTV-Southerland_Mike-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/b975adfd-67b8-44dc-ad5b-9e0cfe8720a7/outputs/03-VOTV-Spoede_Bob-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/6108vb39z_ng451h61q.json",
+        "name": "03-VOTV-Spoede_Bob-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/7ada635a-76ab-411d-9bac-e6a164bf8bbd/outputs/03-VOTV-Smith_Charles-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/d791sg33c_pc289j26r.json",
+        "name": "03-VOTV-Smith_Charles-video-medium.mp4 whisperx"
     }
 ]
