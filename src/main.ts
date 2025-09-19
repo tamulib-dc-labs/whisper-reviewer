@@ -1,5 +1,14 @@
 import { MediaFile } from "./types/media";
 import "./style.css";
+import "whisper-transcript-sticky";
+
+declare global {
+  namespace JSX {
+    interface IntrinsicElements {
+      'whisper-transcript': any;
+    }
+  }
+}
 
 document.addEventListener("DOMContentLoaded", () => {
   fetch("./test_for_whisper_transcript_online.json")
