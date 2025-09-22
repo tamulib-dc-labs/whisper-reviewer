@@ -5113,5 +5113,15 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/a8bf1ac4-83dc-4bfd-9171-efb4c8e4e0c1/outputs/03-VOTV-Newton_Ty-video-medium.mp4/index.m3u8",
         "url": "./transcripts/2514nk71t_8g84mm38c.json",
         "name": "03-VOTV-Newton_Ty-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/ea6fcc5e-72a1-4b57-96ab-a7ff0d3e4866/outputs/03-VOTV-Shockey_Hugh-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/v692t640t_8336h210v.json",
+        "name": "03-VOTV-Shockey_Hugh-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/2b071a0e-77d7-4ad7-8eff-92465b24e68f/outputs/03-VOTV-Patterson_Pat-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/0c483j577_5m60qs02z.json",
+        "name": "03-VOTV-Patterson_Pat-video-medium.mp4 whisperx"
     }
 ]
