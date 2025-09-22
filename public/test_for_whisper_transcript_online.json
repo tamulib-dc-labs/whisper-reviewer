@@ -5028,5 +5028,70 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/326e3684-bd07-4b8b-839d-564c041407d3/outputs/03-VOTV-Riedel_Taylor-video-medium.mp4/index.m3u8",
         "url": "./transcripts/j098zb31g_d217qp770.json",
         "name": "03-VOTV-Riedel_Taylor-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/0afc89ea-8fa8-47fd-a069-aedd565708d0/outputs/03-VOTV-Richardson_Richard-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/hq37vn79n_hm50tr95h.json",
+        "name": "03-VOTV-Richardson_Richard-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/a8d079e1-48f0-4f3e-95b8-aa3cfdf2d979/outputs/03-VOTV-Rees_Holly-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/bc386j47r_r494vk388.json",
+        "name": "03-VOTV-Rees_Holly-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/51c06001-4795-48f3-ad1e-00f34bf24b1e/outputs/03-VOTV-Reynolds_Scotty-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/ft848q872_ks65hc36q.json",
+        "name": "03-VOTV-Reynolds_Scotty-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/79da35d6-2f56-4106-a66e-3d371752be99/outputs/03-VOTV-Robbins_Jim-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/9w032325b_vd66w0050.json",
+        "name": "03-VOTV-Robbins_Jim-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/09c9bd1a-78fb-4e45-a787-a9fa9608944d/outputs/03-VOTV-Ramirez_Rene-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/r207tp60k_2z10wq37k.json",
+        "name": "03-VOTV-Ramirez_Rene-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/92680342-8ab2-4b01-9665-e87be35e39ae/outputs/03-VOTV-Rampmeier_Al-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/1v53jx23b_dn39x1713.json",
+        "name": "03-VOTV-Rampmeier_Al-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/3ed2b27d-e215-4252-ab4e-791d0ac8d632/outputs/03-VOTV-Reid_Vic-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/pv63g046g_v118rd82w.json",
+        "name": "03-VOTV-Reid_Vic-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/2b4a5b59-07d0-40fa-a7ab-2f01de5d019c/outputs/03-VOTV-Pope_Bill-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/hx11xf37m_wm117p17w.json",
+        "name": "03-VOTV-Pope_Bill-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/153e26fa-3a7e-4c63-bc78-a1a5da6f8e49/outputs/03-VOTV-Parker_Brian-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/j098zb32r_b2773v92k.json",
+        "name": "03-VOTV-Parker_Brian-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/cf54ea8e-9d57-49a8-af84-75d6967432ce/outputs/03-VOTV-Novak_Albert-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/6d56zw75n_3484zh116.json",
+        "name": "03-VOTV-Novak_Albert-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/b5ca4d66-0918-4797-96db-c41fa1ae36b0/outputs/03-VOTV-Oliveras_Rick-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/zk51vh049_gx41mj04d.json",
+        "name": "03-VOTV-Oliveras_Rick-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/fea3ffc9-68e8-495f-9b5a-4502abb3f705/outputs/03-VOTV-Pardo_Bob-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/c534fp24j_bz60cw404.json",
+        "name": "03-VOTV-Pardo_Bob-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/5fa8cb60-b332-401e-97da-22393e30fa5a/outputs/03-VOTV-Opersteny_Charles-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/r494vk370_3484zh12g.json",
+        "name": "03-VOTV-Opersteny_Charles-video-medium.mp4 whisperx"
     }
 ]
