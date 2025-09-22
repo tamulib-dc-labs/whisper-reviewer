@@ -5093,5 +5093,25 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/5fa8cb60-b332-401e-97da-22393e30fa5a/outputs/03-VOTV-Opersteny_Charles-video-medium.mp4/index.m3u8",
         "url": "./transcripts/r494vk370_3484zh12g.json",
         "name": "03-VOTV-Opersteny_Charles-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/db2c5780-1cd3-4ff0-948d-317276ea8c80/outputs/03-VOTV-Sippial_Chuck-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/pr76f369j_bc386j499.json",
+        "name": "03-VOTV-Sippial_Chuck-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/30fc1e53-597c-4bca-b0c1-d250a91c4691/outputs/03-VOTV-Nicholas_Don-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/cv43nx07q_kp78gg58h.json",
+        "name": "03-VOTV-Nicholas_Don-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/0fea2697-6b4f-4cb2-9a12-bc29d71cc8b0/outputs/03-VOTV-South_Randy-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/j098zb331_z316q182d.json",
+        "name": "03-VOTV-South_Randy-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/a8bf1ac4-83dc-4bfd-9171-efb4c8e4e0c1/outputs/03-VOTV-Newton_Ty-video-medium.mp4/index.m3u8",
+        "url": "./transcripts/2514nk71t_8g84mm38c.json",
+        "name": "03-VOTV-Newton_Ty-video-medium.mp4 whisperx"
     }
 ]
