@@ -5123,5 +5123,15 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/2b071a0e-77d7-4ad7-8eff-92465b24e68f/outputs/03-VOTV-Patterson_Pat-video-medium.mp4/index.m3u8",
         "url": "./transcripts/0c483j577_5m60qs02z.json",
         "name": "03-VOTV-Patterson_Pat-video-medium.mp4 whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/0690220f-185c-49c0-8208-2a7ccf9326a7/outputs/David_Hayes-Bautista-medium.mp4/index.m3u8",
+        "url": "./transcripts/j38607014_ms35t867c.json",
+        "name": "David Hayes-Bautista: Chicano Movement and Mestizaje Ideology Oral History whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/61744a6c-63fc-496e-ad09-cbb85628c1d9/outputs/Lupe_Valdez-medium.mp4/index.m3u8",
+        "url": "./transcripts/vm40xr72z_sb397838t.json",
+        "name": "Lupe Valdez: Chicano Movement and Mestizaje Ideology Oral History whisperx"
     }
 ]
