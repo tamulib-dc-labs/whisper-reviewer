@@ -5133,5 +5133,45 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/61744a6c-63fc-496e-ad09-cbb85628c1d9/outputs/Lupe_Valdez-medium.mp4/index.m3u8",
         "url": "./transcripts/vm40xr72z_sb397838t.json",
         "name": "Lupe Valdez: Chicano Movement and Mestizaje Ideology Oral History whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/0441d55a-77b6-405d-83d8-ca384ae390ef/outputs/Luis_Valdez-medium.mp4/index.m3u8",
+        "url": "./transcripts/0p0966970_rx913q023.json",
+        "name": "Luis Valdez: Chicano Movement and Mestizaje Ideology Oral History whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/fdbe41aa-c687-43c6-b7a7-52338345f624/outputs/Armando_Rendon-medium.mp4/index.m3u8",
+        "url": "./transcripts/736664631_bk128996z.json",
+        "name": "Armando B. Rendon: Chicano Movement and Mestizaje Ideology Oral History whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/025c2540-403f-42d0-8707-b751cfe6b5c0/outputs/Lupe_Olgin-medium.mp4/index.m3u8",
+        "url": "./transcripts/6d56zw644_pv63g035z.json",
+        "name": "Lupe Olguin: Chicano Movement and Mestizaje Ideology Oral History whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/357c9e1c-b4cd-4c28-98be-620d223c151d/outputs/Lupe_Frias-medium.mp4/index.m3u8",
+        "url": "./transcripts/r207tp46r_z029p483f.json",
+        "name": "Lupe Friaz: Chicano Movement and Mestizaje Ideology Oral History whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/54ddb98c-9d8c-47cb-ac28-6aac686e110f/outputs/Felix_Alvarez_Part_1-medium.mp4/index.m3u8",
+        "url": "./transcripts/cf95jb56k_v979v317j.json",
+        "name": "Felix J. Alvarez: Chicano Movement and Mestizaje Ideology Oral History whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/2aaa040c-7fb8-47a5-b396-25477a261327/outputs/Aurora_Quevedo-medium.mp4/index.m3u8",
+        "url": "./transcripts/qf85nb45t_dj52w479s.json",
+        "name": "Aurora Quevedo: Chicano Movement and Mestizaje Ideology Oral History whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/328693dd-76ec-4f01-a456-ba285ad52f02/outputs/Felix_Alvarez_Part_2-medium.mp4/index.m3u8",
+        "url": "./transcripts/cf95jb56k_0c483j470.json",
+        "name": "Felix J. Alvarez: Chicano Movement and Mestizaje Ideology Oral History whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/12a027f2-59ce-4c6b-a542-357b43ba3312/outputs/Lily_Alvarez-medium.mp4/index.m3u8",
+        "url": "./transcripts/p8418n28s_5x21tf51p.json",
+        "name": "Lily Alvarez: Chicano Movement and Mestizaje Ideology Oral History whisperx"
     }
 ]
