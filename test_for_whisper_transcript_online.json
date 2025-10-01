@@ -5175,43 +5175,68 @@
         "name": "Lily Alvarez: Chicano Movement and Mestizaje Ideology Oral History whisperx"
     },
     {
-        "audio": null,
-        "url": "./transcripts/basbanes_03_013a_access-medium.json",
-        "name": "William Kennedy, Side B whisperx"
-    },
-    {
-        "audio": null,
+        "audio": "https://kaltura.library.tamu.edu/avalon/b82c747e-852c-4d2b-a9d6-f1a4ff1c9b14/outputs/basbanes_03_023a_access-medium.mp4/index.m3u8",
         "url": "./transcripts/basbanes_03_023a_access-medium.json",
-        "name": "William Kennedy, Side B whisperx"
+        "name": "Breon Mitchell, Side A whisperx"
     },
     {
-        "audio": null,
+        "audio": "https://kaltura.library.tamu.edu/avalon/00b667ce-2198-440b-ac63-af1aadb66d3e/outputs/basbanes_02_006b_access-medium.mp4/index.m3u8",
+        "url": "./transcripts/basbanes_02_006b_access-medium.json",
+        "name": "Tsongas, Side B whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/6fdb3003-3db0-4af8-8d9e-73ff3cee0340/outputs/basbanes_02_005a_access-medium.mp4/index.m3u8",
         "url": "./transcripts/basbanes_02_005a_access-medium.json",
-        "name": "William Kennedy, Side B whisperx"
+        "name": "Anthony Burgess, Side A whisperx"
     },
     {
-        "audio": null,
+        "audio": "https://kaltura.library.tamu.edu/avalon/012ac6e2-34ed-4b01-b6cf-a2a5f2b8943f/outputs/basbanes_03_033a_access-medium.mp4/index.m3u8",
         "url": "./transcripts/basbanes_03_033a_access-medium.json",
-        "name": "William Kennedy, Side B whisperx"
+        "name": "Elaine Pagels, Side A whisperx"
     },
     {
-        "audio": null,
+        "audio": "https://kaltura.library.tamu.edu/avalon/1763932a-2496-49c1-88ce-b04656990ad1/outputs/basbanes_02_008a_access-medium.mp4/index.m3u8",
         "url": "./transcripts/basbanes_02_008a_access-medium.json",
-        "name": "William Kennedy, Side B whisperx"
+        "name": "Nick Basbanes, Clark Univ., Side A whisperx"
     },
     {
-        "audio": null,
+        "audio": "https://kaltura.library.tamu.edu/avalon/f8eb7f66-4739-471c-9f93-f2e991d8930d/outputs/basbanes_04_008b_access-medium.mp4/index.m3u8",
+        "url": "./transcripts/basbanes_04_008b_access-medium.json",
+        "name": "Brian Lamb, Side B whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/5db51c01-2d48-4bf5-a539-4800ec2f8d64/outputs/basbanes_04_013a_access-medium.mp4/index.m3u8",
         "url": "./transcripts/basbanes_04_013a_access-medium.json",
-        "name": "William Kennedy, Side B whisperx"
+        "name": "Kevin Starr, Side A whisperx"
     },
     {
-        "audio": null,
+        "audio": "https://kaltura.library.tamu.edu/avalon/73cfdfc4-d5f8-4625-8de5-cf2c69bf87b7/outputs/basbanes_03_005b_access-medium.mp4/index.m3u8",
         "url": "./transcripts/basbanes_03_005b_access-medium.json",
-        "name": "William Kennedy, Side B whisperx"
+        "name": "Linda Klein/Marian Ash, Side B whisperx"
     },
     {
-        "audio": null,
+        "audio": "https://kaltura.library.tamu.edu/avalon/3a98e987-eb99-468c-b662-b8f7a86ef653/outputs/basbanes_04_006a_access-medium.mp4/index.m3u8",
+        "url": "./transcripts/basbanes_04_006a_access-medium.json",
+        "name": "William Kennedy, Side A whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/aaaefd3f-f074-47d9-a6de-646b19a05706/outputs/basbanes_03_008b_access-medium.mp4/index.m3u8",
         "url": "./transcripts/basbanes_03_008b_access-medium.json",
+        "name": "Jonathon Brent, Side B whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/7cb73914-840c-42ec-9a41-b15f4b0827c1/outputs/basbanes_03_010b_access-medium.mp4/index.m3u8",
+        "url": "./transcripts/basbanes_03_010b_access-medium.json",
+        "name": "Waxler?, Side B whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/f90cdf56-fdf1-4ed7-834a-da20083cb1d3/outputs/basbanes_03_013a_access-medium.mp4/index.m3u8",
+        "url": "./transcripts/basbanes_03_013a_access-medium.json",
+        "name": "Harold Bloom, Side A whisperx"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/9b8cf116-1178-45f4-8bb3-83af5cd955ca/outputs/basbanes_04_006b_access-medium.mp4/index.m3u8",
+        "url": "./transcripts/basbanes_04_006b_access-medium.json",
         "name": "William Kennedy, Side B whisperx"
     }
 ]
