@@ -5176,32 +5176,42 @@
     },
     {
         "audio": null,
+        "url": "./transcripts/basbanes_03_013a_access-medium.json",
+        "name": "William Kennedy, Side B whisperx"
+    },
+    {
+        "audio": null,
         "url": "./transcripts/basbanes_03_023a_access-medium.json",
-        "name": "None whisperx"
+        "name": "William Kennedy, Side B whisperx"
     },
     {
         "audio": null,
         "url": "./transcripts/basbanes_02_005a_access-medium.json",
-        "name": "None whisperx"
+        "name": "William Kennedy, Side B whisperx"
     },
     {
         "audio": null,
         "url": "./transcripts/basbanes_03_033a_access-medium.json",
-        "name": "None whisperx"
+        "name": "William Kennedy, Side B whisperx"
+    },
+    {
+        "audio": null,
+        "url": "./transcripts/basbanes_02_008a_access-medium.json",
+        "name": "William Kennedy, Side B whisperx"
     },
     {
         "audio": null,
         "url": "./transcripts/basbanes_04_013a_access-medium.json",
-        "name": "None whisperx"
+        "name": "William Kennedy, Side B whisperx"
     },
     {
         "audio": null,
         "url": "./transcripts/basbanes_03_005b_access-medium.json",
-        "name": "None whisperx"
+        "name": "William Kennedy, Side B whisperx"
     },
     {
         "audio": null,
         "url": "./transcripts/basbanes_03_008b_access-medium.json",
-        "name": "None whisperx"
+        "name": "William Kennedy, Side B whisperx"
     }
 ]
