@@ -5173,5 +5173,35 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/12a027f2-59ce-4c6b-a542-357b43ba3312/outputs/Lily_Alvarez-medium.mp4/index.m3u8",
         "url": "./transcripts/p8418n28s_5x21tf51p.json",
         "name": "Lily Alvarez: Chicano Movement and Mestizaje Ideology Oral History whisperx"
+    },
+    {
+        "audio": null,
+        "url": "./transcripts/basbanes_03_023a_access-medium.json",
+        "name": "None whisperx"
+    },
+    {
+        "audio": null,
+        "url": "./transcripts/basbanes_02_005a_access-medium.json",
+        "name": "None whisperx"
+    },
+    {
+        "audio": null,
+        "url": "./transcripts/basbanes_03_033a_access-medium.json",
+        "name": "None whisperx"
+    },
+    {
+        "audio": null,
+        "url": "./transcripts/basbanes_04_013a_access-medium.json",
+        "name": "None whisperx"
+    },
+    {
+        "audio": null,
+        "url": "./transcripts/basbanes_03_005b_access-medium.json",
+        "name": "None whisperx"
+    },
+    {
+        "audio": null,
+        "url": "./transcripts/basbanes_03_008b_access-medium.json",
+        "name": "None whisperx"
     }
 ]
