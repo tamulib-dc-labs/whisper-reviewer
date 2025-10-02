@@ -5378,5 +5378,25 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/7e5e6d12-8278-44f6-9af6-caabcad65a0f/outputs/basbanes_04_001b_access-medium.mp4/index.m3u8",
         "url": "./transcripts/basbanes_04_001b_access-medium.json",
         "name": "Nick Gage, Side B"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/cb83079e-0292-47ad-803d-152f20ab6f56/outputs/basbanes_03_031a_access-medium.mp4/index.m3u8",
+        "url": "./transcripts/basbanes_03_031a_access-medium.json",
+        "name": "Bryan McNerne?, Side A"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/5e3978ff-6867-420d-a92c-c80c98e9a4f2/outputs/basbanes_03_007b_access-medium.mp4/index.m3u8",
+        "url": "./transcripts/basbanes_03_007b_access-medium.json",
+        "name": "Perri Klass, Side B"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/92041715-357c-482f-8da1-1fdbe17bbd81/outputs/basbanes_03_004b_access-medium.mp4/index.m3u8",
+        "url": "./transcripts/basbanes_03_004b_access-medium.json",
+        "name": "John Hollander, Side B"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/e12e3581-cdbc-43db-ba23-e416ce48b1d0/outputs/basbanes_04_001a_access-medium.mp4/index.m3u8",
+        "url": "./transcripts/basbanes_04_001a_access-medium.json",
+        "name": "Nick Gage, Side A"
     }
 ]
