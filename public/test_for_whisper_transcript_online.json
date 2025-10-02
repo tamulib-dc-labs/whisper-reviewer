@@ -5423,5 +5423,70 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/c3d6c9f7-7ad1-4c35-b706-a0e042102ea9/outputs/basbanes_03_014b_access-medium.mp4/index.m3u8",
         "url": "./transcripts/basbanes_03_014b_access-medium.json",
         "name": "Wright State University, Side B"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/6292c8cb-2774-4ace-a14b-87668c05fe58/outputs/basbanes_03_020a_access-medium.mp4/index.m3u8",
+        "url": "./transcripts/basbanes_03_020a_access-medium.json",
+        "name": "Tina Weiner, Side A"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/985bc4c0-015d-4875-9a35-88a10247f671/outputs/basbanes_03_025b_access-medium.mp4/index.m3u8",
+        "url": "./transcripts/basbanes_03_025b_access-medium.json",
+        "name": "Marian Ash, Side B"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/aa0bf387-2e46-4feb-a03b-32bce1b96a07/outputs/basbanes_02_006a_access-medium.mp4/index.m3u8",
+        "url": "./transcripts/basbanes_02_006a_access-medium.json",
+        "name": "Tsongas, Side A"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/e226e69f-df96-4ccf-851e-a18c311cfcdf/outputs/basbanes_03_026a_access-medium.mp4/index.m3u8",
+        "url": "./transcripts/basbanes_03_026a_access-medium.json",
+        "name": "Doctor Nuland, Side A"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/38536768-6f32-414c-b689-b051d8b49c04/outputs/basbanes_03_035b_access-medium.mp4/index.m3u8",
+        "url": "./transcripts/basbanes_03_035b_access-medium.json",
+        "name": "Matthew Brucolli, Side B"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/01e2f6b3-a1f1-4271-903f-eb255857cf81/outputs/basbanes_01_003b_access-medium.mp4/index.m3u8",
+        "url": "./transcripts/basbanes_01_003b_access-medium.json",
+        "name": "Blumberg #3, Side B"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/893e23da-07a2-4c76-8b40-0096ab5b7e59/outputs/basbanes_03_030a_access-medium.mp4/index.m3u8",
+        "url": "./transcripts/basbanes_03_030a_access-medium.json",
+        "name": "Ron Schleifer, Side A"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/71c5aeb9-83dc-453f-a175-c3e030f584cf/outputs/basbanes_04_010a_access-medium.mp4/index.m3u8",
+        "url": "./transcripts/basbanes_04_010a_access-medium.json",
+        "name": "Geoffrey Nunberg, Side A"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/0a62a940-d340-45da-a04a-792d99620776/outputs/basbanes_03_003a_access-medium.mp4/index.m3u8",
+        "url": "./transcripts/basbanes_03_003a_access-medium.json",
+        "name": "Gaddis Smith, Side A"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/d47c345e-ae09-4e34-8b77-69316a36d684/outputs/basbanes_04_003a_access-medium.mp4/index.m3u8",
+        "url": "./transcripts/basbanes_04_003a_access-medium.json",
+        "name": "Robert Darnton, Side A"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/42ec20d0-e45e-4016-9f7e-e067ae9e6f92/outputs/basbanes_03_010a_access-medium.mp4/index.m3u8",
+        "url": "./transcripts/basbanes_03_010a_access-medium.json",
+        "name": "Waxler?, Side A"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/9c3d7d92-5f79-457c-af00-930a0da030f7/outputs/basbanes_03_036a_access-medium.mp4/index.m3u8",
+        "url": "./transcripts/basbanes_03_036a_access-medium.json",
+        "name": "John Donatich?, Side A"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/56302ab7-a471-4115-94fe-a41d1068b641/outputs/basbanes_04_010b_access-medium.mp4/index.m3u8",
+        "url": "./transcripts/basbanes_04_010b_access-medium.json",
+        "name": "Geoffrey Nunberg, Side B"
     }
 ]

@@ -1,0 +1,1337 @@
+WEBVTT
+
+00:02.242 --> 00:04.344
+We're talking with Professor Jeffrey Dunberg.
+
+00:04.644 --> 00:10.010
+Just tell me, Professor, where you teach and what you teach.
+
+00:10.030 --> 00:16.076
+I teach at Stanford University, and I'm a principal scientist at the Xerox Palo Alto Research Center.
+
+00:16.557 --> 00:17.678
+Uh-huh.
+
+00:17.758 --> 00:20.841
+I interviewed Mike Keller when I was out there last.
+
+00:20.861 --> 00:22.523
+I was down at Stanford.
+
+00:22.603 --> 00:25.566
+I wish to, well, I'll be out again.
+
+00:25.606 --> 00:28.048
+Maybe I can come visit you the next time around.
+
+00:28.068 --> 00:30.030
+Could you tell me specifically, you know.
+
+00:30.110 --> 00:31.692
+I say I'm in linguistics at Stanford.
+
+00:31.672 --> 00:32.253
+Okay.
+
+00:32.273 --> 00:36.640
+Could you tell me how you got interested in this particular subject, the future?
+
+00:36.660 --> 00:48.961
+Well, I've been working with these technologies in various ways for a number of years in my work at Xerox and whether on the Dictionary of the Future.
+
+00:49.021 --> 00:52.247
+Let me tell you what I think.
+
+00:52.267 --> 00:53.309
+Dictionary of the Future?
+
+00:53.389 --> 00:53.489
+Yeah.
+
+00:53.509 --> 00:55.873
+I mean, look, I'm among my...
+
+00:56.326 --> 00:58.068
+I've sort of had a foot in both camps.
+
+00:58.148 --> 01:05.518
+I'm the usage editor and chair of the usage panel of the American Heritage Dictionary, which is back there at Houghton Mifflin.
+
+01:05.538 --> 01:15.130
+And I also work on the application of digital technologies to various linguistic problems, among them the building of the Dictionary of the Future.
+
+01:15.651 --> 01:21.979
+And that's one example, but throughout this I've had a foot in both camps.
+
+01:22.685 --> 01:27.630
+both the culture of the traditional printed book and the technology.
+
+01:29.072 --> 01:32.756
+Pardon me for going off track, but what is the dictionary of the future?
+
+01:33.316 --> 01:46.971
+Well, I mean, we can ask what would it be like to have a dictionary in the... What we have now are simply digital adaptations of traditional print dictionaries.
+
+01:47.592 --> 01:53.840
+But that's not really a digital dictionary no more than when you watch an opera on television, you're watching a television show.
+
+01:54.441 --> 02:10.242
+So the question is, what would it be like if we started to build, if Johnson had this technology and started to build a dictionary from scratch in the middle of the 18th century?
+
+02:11.324 --> 02:13.667
+For example, would it be necessary to excerpt
+
+02:14.305 --> 02:26.341
+all of the quotations he used to justify the meaning of a word, when after all you could have all those texts available and accessible wherever they were on servers and so on.
+
+02:26.362 --> 02:41.342
+Would it be necessary to give a highly abstract rule for using the word in the form of a definition if it was possible to look at the actual use in question in its context?
+
+02:41.879 --> 02:54.755
+and build a system that was capable of saying, oh, well, in this context, this word means X, and then merely take you to some other set of examples from Addison or Steele or the online versions of those that exemplify that use.
+
+02:55.756 --> 03:05.929
+That's just one example, but the structure of a dictionary might change enormously, not to mention the possibility of providing other kinds of illustrations of, I mean, if you look in the dictionary, it doesn't mean the word tango.
+
+03:06.567 --> 03:17.243
+You find something like a Latin dance in a 2-4 rhythm with a characteristic pattern of step, step, step, step, step, step, close, which is not very illustrative of the meaning of the word.
+
+03:18.665 --> 03:23.632
+So you can imagine all kinds of ways we could deploy the technology to make the dictionary very different.
+
+03:23.652 --> 03:26.316
+You mean giving a visual demonstration?
+
+03:26.336 --> 03:34.448
+Giving a visual illustration of the meaning of the word or an oral illustration or simply by...
+
+03:34.732 --> 03:41.443
+providing citations for the use of a word that were not decontextualized the way they have to be in a standard dictionary.
+
+03:41.463 --> 03:46.231
+We actually built a system at our Grenoble Research Center.
+
+03:46.752 --> 03:48.154
+It's a little bilingual dictionary.
+
+03:49.075 --> 03:56.287
+And for understanding idioms, what it does is look at the context of a word.
+
+03:56.467 --> 03:58.731
+So if you say, he will hold the fort,
+
+03:59.015 --> 04:04.642
+You look up fort, you're taken to the entry for hold the fort, the corresponding entry for hold the fort.
+
+04:04.682 --> 04:07.505
+Fascinating.
+
+04:07.525 --> 04:09.367
+When is something like this going to be produced?
+
+04:09.808 --> 04:16.075
+Well, the little bilingual versions of that, there are a number of what we call functionalities involved here.
+
+04:16.656 --> 04:22.643
+One is the ability to analyze the context in which problematic occurrence of a word is found.
+
+04:23.281 --> 04:44.631
+That's there now, and for bilingual dictionaries it can be very useful because you have lots of idioms and expressions that consist of more than one word, and when you're looking them up for purpose of understanding their meaning in another language, it's very inefficient to be taken to the full entry for each of the words and then have to go down the long list to...
+
+04:45.218 --> 04:47.141
+to find the particular idiom in question.
+
+04:47.161 --> 04:50.005
+It's much more efficient if this thing can just grab onto the context.
+
+04:50.025 --> 04:54.612
+So that exists, and that's being marketed in this limited form for bilingual dictionaries.
+
+04:54.632 --> 04:56.435
+Now, you said something about Houghton-Nifflin.
+
+04:56.455 --> 04:58.438
+Is this something you're doing with Houghton-Nifflin?
+
+04:58.498 --> 05:04.387
+No, this is something I'm doing, I'm sorry, with the Xerox European research project.
+
+05:04.928 --> 05:07.832
+That Houghton-Nifflin, on the other hand, so that's one leg of this thing.
+
+05:07.852 --> 05:08.874
+I mean, you can use it.
+
+05:09.034 --> 05:10.416
+The one leg of this thing is we're building...
+
+05:10.835 --> 05:14.779
+And we're building all kinds of tools, tools for natural language retrieval and search.
+
+05:14.839 --> 05:31.655
+I mean, right now, anybody who's tried to look for something on the web realizes that, you know, it's a mess, so we're building tools that enable you to look with something more than the very inefficient methods you have now, and that's something else I'm involved in.
+
+05:34.158 --> 05:36.941
+I'm just going to give you the material now, and we'll go back and put it.
+
+05:37.441 --> 05:37.761
+That's fine.
+
+05:37.901 --> 05:40.504
+This is just fine.
+
+05:41.125 --> 05:50.862
+And all of this is involved in the production of multimedia documents and various new kinds of documents and the web and the links and so on.
+
+05:51.183 --> 06:03.825
+All of these technologies I'm in the midst of, and particularly a place like the Xerox Palo Alto Research Center, which is the place where a lot of these technologies were originally developed, where the mouse was developed, where the Ethernet was developed, where the bitmap display and the desktop metaphor were developed.
+
+06:04.295 --> 06:10.522
+At the same time, I've personally been involved in, as I say, the traditional book.
+
+06:10.722 --> 06:14.687
+I'm the usage editor and chair of the usage panel of the American Heritage Dictionary.
+
+06:15.107 --> 06:28.362
+That's the most conservative role at the most conservative dictionary, and the dictionary is probably the most conservative of literary genres in the sense that, you know, you look at one of Johnson's novels, like Rasselas,
+
+06:29.101 --> 06:31.544
+And it's almost incomprehensible to modern students.
+
+06:31.564 --> 06:33.526
+You have to explain to them what this is and so on and so forth.
+
+06:33.547 --> 06:43.599
+But students look at a 1918-century dictionary, and apart from the fact that the language itself has changed, the format and the structure of the book is utterly unchanged in the last 250 years.
+
+06:45.161 --> 06:53.171
+So the dictionary is not just a book written by books, but in a certain sense it was a book written by books in 1755 and not changed since.
+
+06:53.191 --> 06:54.973
+So here are these two cultures.
+
+06:55.696 --> 06:57.919
+Do you have sympathies with both?
+
+06:58.059 --> 06:58.720
+Sure.
+
+06:59.180 --> 07:16.941
+And I think the other reason for wanting to do this is that when you listen to what's being said on both sides, there's an almost willful pig-headedness, misinterpretation, dogmatism on both sides of the issue.
+
+07:16.981 --> 07:19.965
+On the one hand, you have these triumphalists of the new order.
+
+07:20.452 --> 07:30.512
+to insist that the book is going to, that digital technology is going to be introduced and sweep all the way before it the old line from
+
+07:31.218 --> 07:34.681
+Hugo's Hunchback of Notre Dame, this will go back.
+
+07:34.981 --> 07:38.685
+That Hugo references three times in this.
+
+07:39.025 --> 07:40.246
+Right.
+
+07:40.426 --> 07:45.271
+I think Eiko made the point that you can't discuss this without mentioning it.
+
+07:45.291 --> 07:46.191
+Could you explain it?
+
+07:46.372 --> 07:49.294
+Because nobody ever really explains the significance of that quote.
+
+07:49.555 --> 07:52.157
+Well, there's an assumption that we all know it.
+
+07:52.177 --> 07:57.141
+The Archbishop, the Archdeacon Frollo, and this is, of course, something that somehow didn't make it into the Disney version.
+
+07:58.122 --> 08:01.225
+Disney's not going to make the point about books, certainly.
+
+08:01.205 --> 08:15.163
+um is in as i recall is in a um a print shop and holds up a printed book and uh and looks at the cathedral in the background and says this will kill that whereby he he means um um
+
+08:16.814 --> 08:27.253
+Whether the stained glass of the windows or architecture in general, the book will somehow prevail over the symbolic function.
+
+08:27.273 --> 08:28.655
+That's a great quote.
+
+08:28.675 --> 08:39.835
+Somebody observed that when you look at the Bibliothèque de France, the New Bibliothèque de France in Paris, you're led to say, well, this is Perrault, the architect of Perrault's Revenge.
+
+08:40.439 --> 09:03.342
+uh over over uh we'll see whether the book will kill architecture have you been there yet yeah yeah i was just i was actually in the new building um do you have a contact name that i i'm planning to take the phones yeah um let's talk about that after okay it depends what you need and so yeah well i want to go i'm just setting up it's hard to get in i mean that's that's why well if i was i was with paula claire last week and he
+
+09:03.322 --> 09:07.668
+He said he might be able to throw a couple blocks for me, and hopefully he could do that.
+
+09:07.808 --> 09:10.832
+But in any case, go ahead.
+
+09:11.192 --> 09:12.474
+You know, let me just interject.
+
+09:12.514 --> 09:24.390
+You know, Paul LeClaire does say, you know, Paul LeClaire at the New York Public Library, we discussed this issue, and he says, you know, we are at a time when we are spending more money on new libraries than ever.
+
+09:24.890 --> 09:26.172
+You know, and he points out Frankfurt.
+
+09:26.192 --> 09:27.193
+He points out Paris.
+
+09:27.454 --> 09:28.635
+Right, absolutely, yeah.
+
+09:28.655 --> 09:30.898
+And, you know, I mean, is there a paradox here that,
+
+09:30.878 --> 09:32.520
+No, I mean, I don't think so.
+
+09:32.540 --> 09:33.822
+I mean, I don't think so for two reasons.
+
+09:34.243 --> 09:37.948
+Because, well, let me drop the other shoe on that.
+
+09:37.968 --> 09:38.088
+Okay.
+
+09:38.589 --> 09:40.351
+Because I just had one term.
+
+09:40.371 --> 09:40.772
+No, that's right.
+
+09:40.812 --> 09:41.874
+Go anywhere you want, by the way.
+
+09:41.894 --> 09:42.595
+I'm just, you know.
+
+09:42.615 --> 09:47.001
+No, no, because I said, well, you know, on the one hand, there's all this excessive rhetoric of the triumphalists.
+
+09:47.021 --> 09:54.972
+On the other hand, there are all the traditionalists who are insisting, you're not going to take my books away and nothing is as good.
+
+09:54.992 --> 09:58.557
+I can't take a laptop to bed, which to my mind is mostly a matter of the fact that it is.
+
+09:58.874 --> 10:04.345
+folds the wrong way.
+
+10:04.713 --> 10:07.095
+You know, this is all silly.
+
+10:07.115 --> 10:09.057
+I just saw a piece in the London Times.
+
+10:09.077 --> 10:10.479
+It actually misquoted me, rather.
+
+10:11.060 --> 10:12.021
+Is that right?
+
+10:12.081 --> 10:15.084
+I would not re-respond, but not to the New Times.
+
+10:15.164 --> 10:18.147
+But they said, oh, well, you know, the book is silly.
+
+10:18.167 --> 10:18.968
+The book is here to stay.
+
+10:18.988 --> 10:21.230
+This Internet is just a nine-day's wonder.
+
+10:21.250 --> 10:22.551
+And that's silly, too.
+
+10:22.792 --> 10:24.613
+That's how you were quoted in the Times?
+
+10:24.974 --> 10:25.454
+I'm sorry?
+
+10:25.474 --> 10:27.717
+I was quoted in the Times.
+
+10:27.757 --> 10:28.958
+Let me see if I have the thing here.
+
+10:29.458 --> 10:32.982
+Somebody sent it to me electronically.
+
+10:34.312 --> 10:39.798
+Was it with respect to this book, The Future of... It was with respect to an earlier article I had done.
+
+10:42.220 --> 10:44.082
+It was by a guy named Simon Jenkins.
+
+10:47.586 --> 10:59.779
+And he said... He quoted me as saying... I mean, he just quoted me as saying the opposite way.
+
+11:00.468 --> 11:01.831
+Don't worry about it.
+
+11:01.851 --> 11:03.634
+I'm just curious about what the context is.
+
+11:04.316 --> 11:05.939
+Let's go on with what we're doing.
+
+11:12.592 --> 11:16.840
+Your own name jumps right out at you.
+
+11:18.575 --> 11:20.538
+All of this will soon shake down.
+
+11:20.598 --> 11:32.636
+What is absurd is for screen communication to require for its self-esteem the ridiculing of books.
+
+11:32.656 --> 11:41.930
+Highly paid seminar addicts such as MIT's Nicholas Negroponte deride the book for having to be taken down from a shelf and, quote, accessed one person at a time.
+
+11:41.950 --> 11:46.236
+Jeffrey Nunberg declares in the Berkeley book, which isn't mentioned yet, I don't know what that means,
+
+11:46.570 --> 11:47.953
+I mean, I know what book he's talking about.
+
+11:48.153 --> 11:49.235
+Obviously, he's talking about this book.
+
+11:49.296 --> 11:53.123
+Most books as, quote, bound printed volumes will likely disappear soon.
+
+11:53.825 --> 11:54.686
+That's not what you say.
+
+11:55.127 --> 11:58.093
+And then the deconstructors proclaim that the closed book is dead.
+
+11:58.113 --> 12:00.218
+So, no, I mean, that's the opposite.
+
+12:00.238 --> 12:01.220
+I mean, I read this book.
+
+12:01.480 --> 12:04.326
+In another article, I've said that...
+
+12:04.930 --> 12:10.078
+that most books will disappear, but only the uninteresting ones.
+
+12:10.278 --> 12:12.221
+Do you do believe that most books will disappear?
+
+12:12.421 --> 12:20.834
+Well, I think, no, what I think I said, as bound printed volumes, if you take books as bound printed volumes, then most of them will disappear.
+
+12:20.894 --> 12:24.940
+But even the ones, you mean the new ones or the ones that are in existence?
+
+12:24.960 --> 12:26.923
+There's a number of bound printed volumes in the world.
+
+12:27.784 --> 12:29.487
+Most of them are...
+
+12:29.956 --> 12:40.212
+Parts catalogs and phone directories and schedules and various kinds of commercial records and so on.
+
+12:40.253 --> 12:42.236
+I mean, there are books that have no cultural interest.
+
+12:42.356 --> 12:42.757
+Okay.
+
+12:42.777 --> 12:45.020
+And whose occurrence in this bound printed form?
+
+12:45.040 --> 12:46.142
+This is what I said in the article.
+
+12:46.375 --> 12:49.440
+or the American Society, whose occurrence in this form is a mere contingency.
+
+12:49.721 --> 12:56.473
+And, you know, a replacement by digital media should be of concern to nobody, but, you know, who could argue with that?
+
+12:56.493 --> 12:58.877
+We should all be happy that that many trees will come.
+
+12:58.897 --> 13:05.869
+You know, Paul mentioned that, for instance, in April they had a conference in New York, a summit of libraries.
+
+13:05.849 --> 13:08.292
+And he said, he did a little figuring.
+
+13:08.312 --> 13:11.917
+He said, guess how many books were represented by the people who were here?
+
+13:12.017 --> 13:13.258
+It was a fascinating question.
+
+13:13.379 --> 13:17.203
+If you were to take a wild guess, let's say there were 50 libraries there.
+
+13:18.225 --> 13:21.469
+How many books do you think their combined holdings would have come to?
+
+13:21.689 --> 13:23.231
+And there's a purpose to the question here.
+
+13:23.852 --> 13:25.093
+Fifty books?
+
+13:25.254 --> 13:26.976
+Fifty major research libraries?
+
+13:27.116 --> 13:27.216
+Yeah.
+
+13:30.520 --> 13:32.402
+I don't know, 150, 200.
+
+13:32.422 --> 13:33.062
+500 million.
+
+13:33.082 --> 13:34.463
+500 million, interesting, yeah.
+
+13:34.483 --> 13:40.349
+Yeah, and so, I mean, my point is, when you're saying that the book will disappear, you can't be including those 500 million books.
+
+13:40.369 --> 13:43.551
+No, I'm not including, I mean, well, there's an interesting, we can come back to that in a second.
+
+13:43.571 --> 13:45.993
+Because nobody's going to digitize all of these books either.
+
+13:46.013 --> 13:51.298
+No, I mean, first of all, there are, what, 100 million or so items in the... 120 in the Library of Congress.
+
+13:51.318 --> 13:53.180
+In the Library of Congress.
+
+13:53.220 --> 13:54.341
+52 million in New York.
+
+13:54.381 --> 13:59.245
+That's a difficult notion, because a lot of those are things, there's a guy named Prof Gifford there, we were talking about it, because, you know, we...
+
+13:59.225 --> 14:02.531
+We've got things like Houdini's notebooks, scrapbooks.
+
+14:02.551 --> 14:08.722
+I mean, that's an item, and it's an undigitizable item in the sense that it's got all these tickets and so on.
+
+14:09.043 --> 14:12.669
+How many pages that represents, or whatever is difficult to say.
+
+14:13.250 --> 14:18.600
+But if you figure the cost of about...
+
+14:19.238 --> 14:22.081
+20 to 25 cents a page for digitization.
+
+14:22.482 --> 14:23.543
+Is that what it's down to now?
+
+14:23.663 --> 14:26.947
+Well, that's about... That's what the French figured as a franc a page.
+
+14:26.967 --> 14:28.829
+It's coming down dramatically then, isn't it?
+
+14:28.849 --> 14:29.750
+No, that's about right.
+
+14:29.790 --> 14:37.819
+I mean, that's for digitization of... Let's assume we have stacks and stacks of economics textbooks.
+
+14:37.839 --> 14:47.070
+These are books that don't have to be handled with excessive delicacy because we have copies of them somewhere else and assume that they're being... And they always have to be done.
+
+14:47.110 --> 14:48.992
+I mean, the techniques for...
+
+14:49.546 --> 14:56.879
+Actually digitizing books, I mean, you know, physically digitizing books are mechanical technologies.
+
+14:57.620 --> 15:02.569
+And so they're not subject to the kinds of growth curves that digital technologies are.
+
+15:03.250 --> 15:04.773
+But I say, you know, you have to turn pages.
+
+15:04.833 --> 15:07.958
+Now, we have new technologies with using air blades and things like that.
+
+15:08.399 --> 15:09.180
+Air, A-I-R?
+
+15:10.462 --> 15:11.925
+A-I-R, B-L-A-T-E-S.
+
+15:12.563 --> 15:15.388
+It's just a blade made of air, right?
+
+15:16.209 --> 15:19.154
+Rather than actually physically touching the page, you can just use air and turn it.
+
+15:19.595 --> 15:25.846
+And places like Xerox, who are in the business of moving papers, that's what we make are these large boxes that move paper, right?
+
+15:26.166 --> 15:27.829
+Is Xerox doing this out where you are?
+
+15:28.090 --> 15:28.771
+Yeah.
+
+15:28.791 --> 15:31.455
+Do you think it would be worth my while to come out there and take a look at this?
+
+15:31.475 --> 15:32.697
+To see Xerox panel out there research?
+
+15:32.778 --> 15:34.200
+Well, it's an amazing place.
+
+15:34.180 --> 15:37.728
+This is not going to be a once-over-lightly section.
+
+15:37.768 --> 15:39.873
+I'm really doing my work here.
+
+15:39.913 --> 15:41.958
+I don't know whether for this piece it makes sense to do that.
+
+15:42.219 --> 15:44.023
+It's interesting.
+
+15:44.263 --> 15:47.611
+There are two technologies.
+
+15:47.631 --> 15:51.480
+Let me wrap that and then come back to the technologies that could affect the book.
+
+15:52.085 --> 15:59.181
+In any event, the cost of scanning may come down in the future, but it's not going to come down the way the cost of computation has come down, because you're moving paper.
+
+16:00.323 --> 16:03.771
+And basically it's going to be, for the most part, something that people do with their hands.
+
+16:03.831 --> 16:09.503
+The cost of capture, whether it's books or slides or transparencies or art or whatever, it's just going to cost a certain amount.
+
+16:09.523 --> 16:11.207
+It's going to cost that much for a long time.
+
+16:11.710 --> 16:16.235
+Yeah, that's a labor price, basically, the cost of capture.
+
+16:16.255 --> 16:17.977
+It's basically a labor price, yeah.
+
+16:18.017 --> 16:25.304
+I mean, you have automatic page turners, for instance, for the blind, and they experimented with these at the Bibliotheque de France and other places.
+
+16:26.846 --> 16:28.367
+But the problem is that they're not very good.
+
+16:28.387 --> 16:30.089
+First of all, they can damage books, right?
+
+16:30.109 --> 16:30.670
+Now, it's all right.
+
+16:30.690 --> 16:38.578
+As I say, if you're just trying to get rid of one of your 400 copies of Samuels,
+
+16:39.098 --> 16:47.527
+the second edition of Samuelson's Economics, you know, whatever, we need one copy of that edition or something, you know, then you don't care if you tear off half of them, of course.
+
+16:47.547 --> 16:50.276
+But on the one hand, they're not, you know, they can damage the books.
+
+16:50.296 --> 16:52.062
+On the other hand, they sometimes skip pages.
+
+16:52.919 --> 16:56.807
+Well, it doesn't matter if they're readers for the handicapped.
+
+16:56.827 --> 16:58.410
+You know, I was up at Cornell.
+
+16:58.470 --> 16:59.572
+Oh, we've seen what they're doing.
+
+16:59.693 --> 17:01.737
+I spent, yeah, in fact, I'm going to go back.
+
+17:01.757 --> 17:03.861
+If that's Xerox, I mean, that was Xerox.
+
+17:03.881 --> 17:04.402
+Is that right?
+
+17:04.543 --> 17:05.925
+Yeah, we put that project.
+
+17:05.945 --> 17:11.256
+You know, but they're doing some things that invite serious criticism.
+
+17:11.336 --> 17:14.202
+You know, I mean, they're digitizing some books.
+
+17:14.182 --> 17:16.189
+The number is not enormous.
+
+17:16.329 --> 17:18.135
+It's about 3,500 so far.
+
+17:18.155 --> 17:18.677
+Right.
+
+17:18.697 --> 17:20.122
+But, I mean, I was in that room.
+
+17:20.182 --> 17:21.908
+I mean, these things look like veal cutlets.
+
+17:21.968 --> 17:23.835
+I mean, they've been stripped and filleted.
+
+17:23.855 --> 17:26.925
+Well, yeah, you have to assume, I mean, there are two things there.
+
+17:27.850 --> 17:30.555
+There are two reasons for guillotining a book.
+
+17:30.635 --> 17:34.763
+One is, as I say, it's one of your 15 copies of the second edition of Samuelson's Second Art.
+
+17:34.783 --> 17:35.765
+You just don't care.
+
+17:35.805 --> 17:38.450
+I mean, this is a book of which there are a lot of copies.
+
+17:38.871 --> 17:41.556
+Some of these books exist in no other format there, though, either.
+
+17:41.576 --> 17:43.600
+To recycle them.
+
+17:43.620 --> 17:47.648
+On the other hand, there are some books, like those they use in the Cornell Collection,
+
+17:48.067 --> 17:50.189
+which have no artifactual value.
+
+17:50.209 --> 17:52.471
+I mean, they're 19th century mathematics texts, for example.
+
+17:52.991 --> 17:55.153
+I mean, they're not, you know, they were printed on acid-based paper.
+
+17:55.173 --> 17:56.975
+They're not first editions of this or that.
+
+17:57.416 --> 18:00.598
+And they've got only one read left of them.
+
+18:00.879 --> 18:02.700
+You really can't turn those pages more.
+
+18:02.760 --> 18:03.461
+I like that phrase.
+
+18:03.481 --> 18:04.222
+I like that.
+
+18:04.302 --> 18:06.143
+One more read left.
+
+18:06.304 --> 18:15.492
+And then you may want to... Now, my sense is that... And then the third thing is, yeah, there should be technologies that enable... I mean, we're working on them, and Canon is working on them, and so on, that enable you...
+
+18:16.079 --> 18:16.800
+to digit.
+
+18:16.820 --> 18:21.387
+The problem is that if you don't have a flat, right now the best digitization is with flatbed scanners.
+
+18:22.208 --> 18:30.981
+But there are technologies we're working on and we've got them at PARC using, on the one hand, using new technologies for turning pages with air, for example, rather than physically manipulating the page.
+
+18:31.001 --> 18:40.375
+And on the other hand, ways of computationally correcting the distortions involved in taking a picture of a curved, you know, not flat page.
+
+18:41.857 --> 18:45.563
+You take a picture, you open the book 45 degrees and take a picture of it and then you have
+
+18:46.100 --> 18:49.868
+a kind of computational device that flattens that image.
+
+18:51.551 --> 18:52.613
+Can I jump around a little bit?
+
+18:52.633 --> 18:52.854
+Sure.
+
+18:53.094 --> 18:59.548
+Do you have any thoughts at all on this whole concept of hypertext?
+
+18:59.568 --> 19:02.213
+Okay, let me just drop something in there and then get that out of the way.
+
+19:02.534 --> 19:06.943
+So the point is that the digitization of books, I mean, those 500 million books is probably too many.
+
+19:07.818 --> 19:12.503
+in the libraries of the United States in the sense that... This is the world, by the way.
+
+19:12.744 --> 19:13.925
+Yeah, libraries of the world, okay.
+
+19:13.965 --> 19:20.913
+That's probably too many, particularly if you take not just those, but if you take all the research libraries in America.
+
+19:21.874 --> 19:25.879
+There are probably more books than... How do I put this?
+
+19:25.899 --> 19:30.484
+There are a lot of books you could probably get rid of just in the sense that
+
+19:31.223 --> 19:39.938
+I mean, there's a book, for instance, published in 1935 by Sterling Leonard called The Doctrine of Correctness in English Usage that I have often consulted, right?
+
+19:40.579 --> 19:44.746
+I went to the University of Pennsylvania once, and I was there, and I went to the library to take it out, and there it was.
+
+19:45.207 --> 19:52.700
+It had been last taken out in 1948 by Albert C. Baugh, B-A-U-G-H, who was a famous philologist.
+
+19:52.740 --> 19:56.286
+And then about three years later, I was out at UCLA, and I went to the library.
+
+19:56.789 --> 20:03.280
+And I took out another copy of that book, and they had that book, and it had last been taken out by Albert C. Ball in 1952.
+
+20:03.560 --> 20:13.397
+And I had the image that I would go around the country in Ball's footsteps, and at every library would have a copy of this book, just so that every 50, 30, or 40 years...
+
+20:13.917 --> 20:20.124
+Albert C. Ball or me or whoever was going to succeed me in 30 years would have it available.
+
+20:20.384 --> 20:21.345
+But you know what?
+
+20:21.406 --> 20:23.188
+That person's going to need it 30 years from now.
+
+20:23.208 --> 20:23.768
+Well, that's right.
+
+20:24.229 --> 20:36.803
+The question of whether a copy of that book has to exist in every one of the research libraries or whether it would make sense simply to say, well, look, we need to have a couple of copies of that book.
+
+20:37.357 --> 20:40.220
+And this is a book of no artifactual value, as I say.
+
+20:40.440 --> 20:42.141
+I see.
+
+20:42.261 --> 20:44.003
+It's a scholarly work published in the 1930s.
+
+20:44.023 --> 20:47.086
+Of course, somebody's making that decision, though.
+
+20:47.326 --> 21:04.341
+But the point is that if you have a library, for example, I mean, in theory, how many books could you eliminate from each of the... I mean, if you take a book that's accessed only once every 20 years at each library, the question is how many of these libraries and how many books do you have in the library like that?
+
+21:04.361 --> 21:07.144
+If you could reduce your collection by 20 or 30 percent,
+
+21:07.664 --> 21:09.926
+But you don't even have to get rid of them, put them in storage somewhere.
+
+21:09.946 --> 21:13.249
+You know, well, Harvard, you've heard of their depository.
+
+21:13.269 --> 21:14.210
+Right, they've got a depository.
+
+21:14.230 --> 21:19.575
+The Bibliothèque de France has a couple of million books in a depository out in the Marne.
+
+21:20.175 --> 21:20.616
+Is that right?
+
+21:21.016 --> 21:22.998
+And why not?
+
+21:23.078 --> 21:24.079
+I mean, just put them out there.
+
+21:24.619 --> 21:34.568
+If they're digitally accessible, and if you can, and we'll come to this in a second, if you can print them locally, what I really want is to be able to have that text if I need it, right?
+
+21:35.489 --> 21:35.629
+Mm-hmm.
+
+21:36.385 --> 21:53.964
+Suppose, you know, it doesn't save a lot of money for one library to put that book away, but if every library puts its copy of that book away, and this is replicated for a couple hundred thousand books in the collection, depending on the size of the collection, then libraries, you know, they need less space, they can devote their resources to other things, and so on.
+
+21:54.364 --> 22:02.393
+And at the same time, that book, for instance, let's say it's a 19th century math text, that's a good example, because I take it not many people actually are interested in those books.
+
+22:02.778 --> 22:03.539
+that they have at Cornell.
+
+22:03.559 --> 22:05.301
+And who could argue with that?
+
+22:05.321 --> 22:08.926
+I mean, it's, you know, so just let Cornell digitize them, right?
+
+22:08.986 --> 22:11.409
+Let them save the, you know, let's have copies by all means.
+
+22:11.429 --> 22:21.061
+I mean, these are books that are only historians of mathematics or something, which is not to say that they absolutely preserve the books, preserve the, you know, I'm not saying get rid of the books.
+
+22:21.081 --> 22:27.469
+I'm saying once they're digitized, if I'm doing history of mathematics at the University of Arizona, I don't have to have all these books there.
+
+22:27.905 --> 22:31.613
+All I have to do is be able to access them via the web.
+
+22:32.014 --> 22:39.148
+And if I want a copy in a print version for reading, and of course these are not the kinds of texts, they're not novels that you sit and take to the beach and so on.
+
+22:39.168 --> 22:45.762
+If I want a copy for reading, I can simply send it to a local printer, a digital printer in the basement of the library.
+
+22:46.315 --> 22:48.841
+And have a fair copy made at 400 DPI.
+
+22:48.881 --> 22:50.966
+You've seen the Cornell process, how they do the printing.
+
+22:51.347 --> 22:52.730
+Have a 400 DPI copy made.
+
+22:52.750 --> 22:53.773
+It's very impressive, actually.
+
+22:53.793 --> 22:55.437
+It's perfect bound, and I can take it wherever I want.
+
+22:55.457 --> 23:02.113
+And whenever I want that book, the ball book or whatever, it's accessible to me wherever there's a digital printer, at a university bookstore, at a...
+
+23:02.667 --> 23:05.490
+a university library, at a commercial printers, whatever.
+
+23:06.230 --> 23:09.673
+You know, there's a question, and it's... I'm sorry.
+
+23:09.693 --> 23:10.554
+I'll shut up.
+
+23:10.574 --> 23:13.037
+I just thought I heard a period.
+
+23:13.097 --> 23:16.139
+And this is a model of publishing, too.
+
+23:16.199 --> 23:21.945
+I mean, the largest of the commercial bookstores, the biggest Barnes and Nobles.
+
+23:21.965 --> 23:22.345
+Where are you?
+
+23:22.425 --> 23:23.806
+You're out in Western Mass?
+
+23:23.826 --> 23:24.147
+Central.
+
+23:24.547 --> 23:24.987
+Central Mass.
+
+23:25.007 --> 23:32.134
+There's a Barnes and Noble, I think one of the biggest ones that just opened out there in Holyoke, that has maybe...
+
+23:32.857 --> 23:33.879
+Probably has 80 to 100,000.
+
+23:33.919 --> 23:38.045
+They opened a huge one down at Framingham, which is huge.
+
+23:38.366 --> 23:39.307
+These huge bookstores.
+
+23:39.347 --> 23:46.559
+And I've argued, I've said in that book, that the emergence of these is one of the most interesting applications of digital technology in the practice of reading.
+
+23:46.579 --> 23:48.402
+But at the same time, 100,000 titles isn't a lot.
+
+23:48.542 --> 23:50.345
+Amazon.com on the web has a million.
+
+23:50.665 --> 23:51.086
+That's right.
+
+23:51.106 --> 23:52.468
+And that's probably the new way of...
+
+23:52.448 --> 24:11.616
+That's probably, but the problem is that on the one hand, you can, you know, over the web, you can get access, you can get huge numbers of these, particularly what's not represented in the Barnes and Nobles are the university press books, the small press books, the poetry books, all of the books at the margins of print practice and the same margins, the economic margins, not the cultural margins.
+
+24:11.636 --> 24:15.942
+And those are the books that we can now, again, I mean, those books have never been able to make it onto the bookshelves.
+
+24:16.529 --> 24:21.395
+But that we can either sell via the web or we can just distribute them.
+
+24:22.156 --> 24:23.577
+You should be able to walk into a Barnes & Noble.
+
+24:23.597 --> 24:26.681
+There should be a digital printer sitting in the middle of it or in a university bookstore.
+
+24:27.182 --> 24:35.071
+And again, you should be able to order a copy of any book in the University of California Press or a backlist, which should be infinite.
+
+24:35.091 --> 24:39.416
+I mean, there should be no reason for a book ever to come off backlist if it's just a digital representation.
+
+24:39.436 --> 24:43.701
+And just download it and print it and have it for...
+
+24:43.900 --> 24:52.369
+Probably we said $0.20 a page to digitize, but if you sell, you know, you can justify, that figure doesn't matter here.
+
+24:52.389 --> 24:53.931
+I mean, you should be able to have it for $20 or $30.
+
+24:54.031 --> 24:55.452
+Well, that's not bad.
+
+24:55.713 --> 25:00.317
+And that's, no, you won't have, you know, the paper won't be determined by the publisher.
+
+25:00.337 --> 25:08.406
+There'll be various shortcomings in the system, but as opposed to a system where these books can't make it onto, can't be advertised except by the very inefficient means of direct mail.
+
+25:08.740 --> 25:16.329
+which is terribly inefficient both in the sense that you don't reach most of your audience and that all of us receive dozens of these.
+
+25:16.349 --> 25:18.671
+I'm sure you receive many more than I do from every publisher.
+
+25:18.691 --> 25:19.692
+You receive these catalogs.
+
+25:19.712 --> 25:21.014
+They pile up in your bathroom.
+
+25:21.134 --> 25:23.497
+Just the catalogs are intimidating.
+
+25:24.758 --> 25:26.340
+Well, I write a weekly column.
+
+25:26.360 --> 25:27.922
+Right, okay.
+
+25:28.042 --> 25:30.765
+I do the language column at Fresh Air.
+
+25:31.133 --> 25:31.714
+Oh, really?
+
+25:32.034 --> 25:35.199
+So, you know, they send me all the language books.
+
+25:35.219 --> 25:39.987
+I mean, you go in their offices down there, you know, and Terry Gross gets these, you know, hundreds of these things a week.
+
+25:40.007 --> 25:46.517
+It's fun, but I mean, when you're a book nut, when you're a book nut like I am, it's like Christmas every day.
+
+25:46.717 --> 25:46.837
+Right.
+
+25:47.078 --> 25:52.927
+But, you know, the catalogs that you receive, for me, it's very inefficient as a means of buying books.
+
+25:52.947 --> 25:55.531
+First of all, because I don't get around to reading them.
+
+25:55.551 --> 25:58.255
+Second of all, because I don't get enough information about the books.
+
+25:58.876 --> 26:00.880
+to be able to make purchase decisions.
+
+26:00.920 --> 26:10.319
+If it isn't by a writer I know or whatever, you know, there's just a paragraph of prose you can't describe a book well enough to tell somebody if they want to buy it or not.
+
+26:10.339 --> 26:18.235
+Where by the web, as a friend of mine pointed out, you know, you give somebody a sample of, you go to Baskin-Robbins, you ask for a sample, they give you a tiny little plastic paper cup
+
+26:18.991 --> 26:24.218
+because if they give you half an ice cream cone, they're going to reduce your time for the other half.
+
+26:24.398 --> 26:27.622
+Places with informational products like books and records, they give them everything.
+
+26:28.243 --> 26:37.755
+I just called Microsoft the other day, and I asked if they have a demo on this new Word 97, because I've been a Word perfect guy, you know, and they said, well, no, just buy it, and if you don't like it, return it.
+
+26:38.236 --> 26:39.538
+That's a hell of a way to work.
+
+26:39.558 --> 26:48.289
+Or you can just, I mean, there are all these demos that expire, demos that miss, you know, here's our game missing all but the level five, you know, and up, and so on and so forth, or...
+
+26:48.455 --> 27:16.875
+uh here's here's my new novel you know here's my new murder mystery but i left out the last chapter right um there's lots of ways or you know here's here here my here's my new record but in a degenerated uh you know not quite stereo quality audio you know high audio quality now when i was out in san francisco i guess this was september uh this nicholson baker thing was going right yeah do you have any any any comments on that i think i mean my understanding is that you know as as well-meaning as he is um
+
+27:16.973 --> 27:30.137
+And I don't know whether there's any particular reason for getting rid of these catalogs if they cost money to maintain, but the cost of putting a book into circulation is just astounding if you look at what the library does.
+
+27:30.598 --> 27:33.784
+Even if somebody else is making the electronic catalog record,
+
+27:34.237 --> 27:45.603
+The cost of, you know, once the book comes in, of just getting it, getting things stamped in the back and, you know, the book stamped and so on and put on the shelves and the catalog entry made and so on, is something like $40 or $50 a book.
+
+27:45.884 --> 27:52.279
+This is an essay from somebody at the UC Press at the University of California office, the president.
+
+27:52.698 --> 27:54.401
+And it's just an astounding expenditure.
+
+27:54.741 --> 28:02.995
+And that's money that nobody wants to spend in the sense that it's not, it doesn't, you know, you would far rather reduce that cost and spend the money on books.
+
+28:03.015 --> 28:04.298
+That's the card catalog thing.
+
+28:04.318 --> 28:08.685
+But also he was talking about the books that were being, that were being quietly discarded.
+
+28:08.705 --> 28:09.466
+There's a lot of that.
+
+28:09.486 --> 28:09.987
+I mean, a lot.
+
+28:10.208 --> 28:10.969
+It may be true.
+
+28:11.009 --> 28:11.951
+There was just a survey.
+
+28:11.971 --> 28:13.373
+There was a study yesterday.
+
+28:14.078 --> 28:18.225
+That showed that an astoundingly... This was published yesterday?
+
+28:18.425 --> 28:20.328
+Yeah, this was just published in yesterday's Chrome.
+
+28:20.348 --> 28:22.191
+Oh, I'll go punch it up.
+
+28:22.652 --> 28:29.143
+And it showed that an astounding... How many of you found the book you were looking for?
+
+28:29.684 --> 28:31.407
+And that figure is usually around 70%.
+
+28:31.707 --> 28:33.590
+I can't remember the numbers now, so I'm guessing.
+
+28:33.610 --> 28:37.937
+But that figure is usually around 70% of people of the library patrons who find what they want.
+
+28:37.957 --> 28:39.580
+It was down like around 35%.
+
+28:40.437 --> 28:42.960
+It was an extraordinary reduction.
+
+28:43.381 --> 28:48.868
+Because books have been lost in transit or people can't find their way around the new library or whatever, I don't know.
+
+28:48.888 --> 28:52.873
+I do a lot of my research at the Athenaeum in Boston.
+
+28:53.374 --> 28:55.056
+It's extraordinary what they have.
+
+28:55.076 --> 28:59.501
+In principle, I don't think there's anything wrong with it.
+
+28:59.521 --> 29:01.183
+I don't think you should mask them.
+
+29:01.224 --> 29:02.745
+I don't know what you do with them.
+
+29:02.786 --> 29:06.310
+But as I say, I don't think there's anything wrong with getting rid of
+
+29:06.712 --> 29:11.178
+the sorts of books that are very rarely accessed.
+
+29:11.198 --> 29:18.909
+Because, you know, probably if half the... And also the San Francisco Public Library is not a research library.
+
+29:18.929 --> 29:20.471
+It's got a million volumes, a million and a half volumes.
+
+29:20.491 --> 29:22.614
+It's too small to be a first-rate research library.
+
+29:23.596 --> 29:26.500
+I don't even think it pretends to be a research library.
+
+29:26.520 --> 29:28.583
+I don't think it pretends to be a research library.
+
+29:28.603 --> 29:31.487
+No, but most of the books that he was talking about were books...
+
+29:32.176 --> 29:35.420
+You know, I mean, they were travel guides from the 30s or whatever.
+
+29:35.440 --> 29:39.524
+I mean, they were books that you don't want to destroy, but on the other hand... Well, they had some antiquarian interest, I think.
+
+29:39.744 --> 29:40.185
+No, probably.
+
+29:40.205 --> 29:44.750
+I mean, any one of them does have antiquarian interest, but a collection of a library like that is going to be very spying.
+
+29:44.770 --> 29:48.073
+I mean, my sense is that... I don't know if they could get them over to Berkeley.
+
+29:48.153 --> 29:49.575
+I understand... Well, what was their question?
+
+29:49.655 --> 29:54.080
+They were resources to maintaining that part of their collections.
+
+29:54.100 --> 29:56.803
+They made themselves sitting ducks by dumping them.
+
+29:57.123 --> 30:01.828
+I mean, for one reason or another... What's his name, Kenneth?
+
+30:02.213 --> 30:04.276
+I don't know who you mean.
+
+30:04.296 --> 30:04.636
+Dowling?
+
+30:04.676 --> 30:05.037
+Dowling?
+
+30:05.077 --> 30:07.019
+Dowling, yeah, has made an idiot.
+
+30:07.200 --> 30:08.622
+I mean, there's also a budget crisis out here.
+
+30:08.642 --> 30:09.443
+He's gone.
+
+30:10.344 --> 30:13.648
+I mean, it's clear that in the spring he's going to be replaced.
+
+30:13.708 --> 30:14.169
+Is that right?
+
+30:14.469 --> 30:21.098
+Yeah, well, there's also, there was a budget shortfall, and then there was another budget shortfall, and the story about the catalogs and so on.
+
+30:21.118 --> 30:21.899
+I mean, there's a lot.
+
+30:21.919 --> 30:23.601
+There are reasons for getting rid of the catalogs.
+
+30:23.742 --> 30:25.424
+I understand why they want to get rid of the catalogs.
+
+30:25.444 --> 30:26.866
+Everybody's getting rid of the catalogs.
+
+30:26.886 --> 30:28.528
+I mean, it's just not a very efficient way.
+
+30:28.548 --> 30:29.630
+You lose the cards.
+
+30:29.870 --> 30:30.010
+Mm-hmm.
+
+30:30.530 --> 30:31.291
+And they're terrible.
+
+30:31.311 --> 30:34.836
+I mean, you know, you can fetishize them all you want, but they're terrible.
+
+30:34.976 --> 30:35.797
+I mean, I hate cattle.
+
+30:35.817 --> 30:36.478
+I mean, they're gone.
+
+30:36.498 --> 30:37.419
+They're gone at Harvard.
+
+30:37.640 --> 30:41.044
+They're pulling out those damn boxes and going through the things and writing down little slips.
+
+30:41.064 --> 30:43.007
+What an awful way to spend your time.
+
+30:43.027 --> 30:48.354
+I think we're taking our eye off the ball if we get mired in that regular aspect of the thing.
+
+30:48.795 --> 30:51.118
+And I do at some point, let me know when you have to run.
+
+30:52.119 --> 30:58.528
+So the point I was making about the web sale of books is that the technologies...
+
+30:59.757 --> 31:04.262
+and this is a point I made in that article in this book, the technologies really enhance the role of the printed book.
+
+31:04.282 --> 31:20.901
+They enhance the role of the printed book, first of all, by making publicity in the 18th century sense much easier and much more efficient, particularly for the kinds of books that have always had trouble getting onto bookstore shelves and into bestseller lists and book reviews and so on.
+
+31:21.883 --> 31:28.330
+And on the other hand, they make the distribution of these books much more efficient by permitting...
+
