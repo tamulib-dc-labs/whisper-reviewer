@@ -5398,5 +5398,30 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/e12e3581-cdbc-43db-ba23-e416ce48b1d0/outputs/basbanes_04_001a_access-medium.mp4/index.m3u8",
         "url": "./transcripts/basbanes_04_001a_access-medium.json",
         "name": "Nick Gage, Side A"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/b2f7d13b-a3ff-4097-b9b1-3b5cbb048418/outputs/basbanes_03_024b_access-medium.mp4/index.m3u8",
+        "url": "./transcripts/basbanes_03_024b_access-medium.json",
+        "name": "John Ryden, Side B"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/04c1035f-d572-4330-8f49-ffa1ea68f334/outputs/basbanes_03_032a_access-medium.mp4/index.m3u8",
+        "url": "./transcripts/basbanes_03_032a_access-medium.json",
+        "name": "Chip Kidd, Side A"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/3f7dd4ea-ba0f-4a88-a5fc-85c9bb269dae/outputs/basbanes_05_002b_access-medium.mp4/index.m3u8",
+        "url": "./transcripts/basbanes_05_002b_access-medium.json",
+        "name": "Harry Petrakis, Side B"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/90869a4f-f94c-4a24-a85c-85e0b276bd66/outputs/basbanes_04_012a_access-medium.mp4/index.m3u8",
+        "url": "./transcripts/basbanes_04_012a_access-medium.json",
+        "name": "Robert Stone, Side A"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/c3d6c9f7-7ad1-4c35-b706-a0e042102ea9/outputs/basbanes_03_014b_access-medium.mp4/index.m3u8",
+        "url": "./transcripts/basbanes_03_014b_access-medium.json",
+        "name": "Wright State University, Side B"
     }
 ]
