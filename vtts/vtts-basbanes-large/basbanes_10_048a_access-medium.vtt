@@ -1,0 +1,2168 @@
+WEBVTT
+
+00:02.613 --> 00:20.233
+from the program in creative writing.
+
+00:21.655 --> 00:30.004
+What you've been looking at besides a lot of sort of mad tech recovery
+
+00:30.423 --> 00:38.474
+And then when we've been up and running, some of the pieces done by former students here at Brown University.
+
+00:39.295 --> 00:43.562
+It works completely, quite marvelous works, like hundreds of them.
+
+00:43.662 --> 00:47.727
+We've been showing just a handful.
+
+00:47.747 --> 00:52.554
+We had Sean Sullivan's and Dr. Rezina up there with those links.
+
+00:52.594 --> 00:58.843
+We had Mary Kim Marnell's Lustup and Alvin Luce, Bobby Doubleday, and
+
+00:59.937 --> 01:06.363
+The thing that brought the machine down was a beautiful director-driven poem, Spy Versus Five.
+
+01:06.383 --> 01:12.969
+His and Alex Gore is completed in a workshop in the Multimedia Lab.
+
+01:13.489 --> 01:28.543
+And the piece by Mary Kim, of course, was published by Eastgate, as was another piece we had up, which was Shelley Jackson's Patchwork Girl, a lovely work which plays with the Frankenstein theme.
+
+01:30.548 --> 01:43.624
+And what we're hoping to hear at any moment is Mark, America's Grammatron, which was completed as his MFA thesis here.
+
+01:44.405 --> 01:49.852
+He'd hoped to be with us tonight, but he's on tour with other electronic artists in Australia.
+
+01:50.373 --> 01:57.581
+But in email I just got yesterday, he writes, the Wednesday night program looks simple.
+
+01:58.022 --> 01:59.644
+Thanks for showing Grammatron.
+
+02:00.097 --> 02:08.928
+Had it not been for the Creative Writing Fellowship, it would never have materialized, and I'm ever grateful for having had the support of Brown to finish.
+
+02:08.948 --> 02:13.514
+It's great for staging this in the best of all possible venues.
+
+02:14.015 --> 02:22.746
+Anyway, now here to welcome us to this best of all possible venues is the Brown University Provost and himself, our Brown alumnus, William Simmons.
+
+02:33.003 --> 02:35.445
+Welcome to the beautiful Brown campus.
+
+02:35.565 --> 02:46.675
+We timed it so that all of our trees and flowers would be budding and all the snow would be melting and the sun would be shining for your arrival.
+
+02:46.695 --> 03:02.149
+And just as a kind of a quick tribute to the Brown campus that I have to take this opportunity to mention, I'm somewhat struck by the symmetry where if you go in that direction 150 yards,
+
+03:02.922 --> 03:27.378
+you come to the largest, I think the largest repository in all of North America, the oldest North American literature in the John Carter-run library, and then you go from there 150 yards in this direction, and you've got the absolutely state-of-the-art throwing a grappling hook to the future discussion of where literature is going in North America.
+
+03:28.039 --> 03:29.922
+So we've got 150 yards of each other.
+
+03:29.942 --> 03:32.085
+We have them both here in the Brown campus.
+
+03:33.027 --> 03:38.252
+So welcome to Technology, Platforms, and 21st Century Literature.
+
+03:39.734 --> 03:45.680
+I've done some homework in preparing for this introduction, so I hope you will Bible me as I read.
+
+03:50.284 --> 04:02.376
+Tonight's show, which opens the three-day conference, will present an exciting display of the newest hypermedia literary works featuring nearly a dozen of the nation's most important electronic fiction writers and poets.
+
+04:02.930 --> 04:05.973
+of this decade, which is to say of all time.
+
+04:06.193 --> 04:08.316
+It's that new and that powerful.
+
+04:08.616 --> 04:12.480
+It's the medium of the moment and surely of the next decades to come.
+
+04:14.302 --> 04:21.410
+But it is also a restlessly developing and still unstable medium, which until now has paid scant attention to literature.
+
+04:22.431 --> 04:27.757
+Also present, therefore, are some of the most gifted and innovative technical developers in the country.
+
+04:28.658 --> 04:32.802
+The purpose of this week's conference being to bring together writers and technologists
+
+04:33.406 --> 04:43.238
+in a search for ways to make the computer as conducive to serious literature, whatever it might look like in the future, as the print medium has been in the past.
+
+04:45.541 --> 04:56.494
+The poet Stephanie Strickland, present and performing this evening, offered a paragraph that summed up so eloquently what we are hoping to achieve here at this conference, and here I quote,
+
+04:57.014 --> 05:06.823
+My goal is to find what combination of modalities will really support text in the new environment so that text does not get reduced to caption.
+
+05:08.365 --> 05:24.540
+Text important enough to hold its own on a multimedia world, text presented effectively enough that someone in the midst of the present web speed culture actually finds an individualized, meditated space of the kind that supports mental doodling, rest,
+
+05:24.942 --> 05:28.647
+quiet exploration in a safe space as book school wanted to do.
+
+05:30.289 --> 05:38.160
+This encounter could only happen at Brown University, a world leader in developing humanistic uses of the computer for over three decades.
+
+05:39.282 --> 05:50.697
+This conference is sponsored by the Brown University Scholarly Technology Group and Multimedia Lab, the Hyperfiction Workshops of the Program in Creative Writing,
+
+05:51.166 --> 05:51.947
+and by U.S.
+
+05:52.027 --> 05:56.113
+Web, SoftBank, Ziff Davis, and the Internet Capital Group.
+
+05:56.133 --> 06:07.067
+Scores of other institutions, businesses, publishing houses, and computer companies have sent representatives as well, and all are welcome to join in the dialogue of the next two days.
+
+06:15.859 --> 06:19.924
+I would like to say a word of tribute to our conference planner,
+
+06:20.360 --> 06:28.190
+hyperfiction workshop teacher, and Brown faculty member, Robert Cooper, of whom we are all proud.
+
+06:28.670 --> 06:38.482
+And here I quote a passage.
+
+06:38.502 --> 06:42.267
+Here I quote a passage from his own fingers.
+
+06:43.548 --> 06:49.776
+Until now, the attention of software developers has been on making things faster and flashier for the commercial world
+
+06:50.465 --> 06:54.932
+And in the process, text, and particularly literary text, has taken something of a beating.
+
+06:55.993 --> 06:59.619
+We want to focus that attention for a moment on the needs of creative writers.
+
+07:00.320 --> 07:05.407
+As the world moves from book to screen, we don't want to leave serious literature in the backwaters.
+
+07:11.256 --> 07:15.763
+Robert Nadellano, English Fellow here at Brown University, wrote,
+
+07:21.498 --> 07:34.815
+wrote a professor Cooper since the publication three decades ago of his first collection of stories, Robert Cooper's prose has consistently demonstrated a marked skepticism toward linear narrative conventions in fiction.
+
+07:35.896 --> 07:42.144
+Beginning with early mainframe experiments processing chapters on punch cards, do you remember those?
+
+07:42.825 --> 07:51.235
+I just came from the University of California at Berkeley to Brown five months ago and I would say that one out of every ten rooms at Berkeley has boxes of punch cards
+
+07:52.328 --> 08:00.681
+Beginning with early mainframe experiments processing chapters on punch cards, Cougar's computer literature projects tampering with the tyranny of the line.
+
+08:02.464 --> 08:10.877
+Cougar's computer projects tampering with the tyranny of the line continue through his development of Brown's groundbreaking hypertext fiction workshop.
+
+08:15.544 --> 08:18.268
+I would also like in closing to draw your attention
+
+08:18.738 --> 08:34.601
+to a wonderful interview with Professor Kuber by Rebecca Doerr in this week's edition of the Providence Phoenix, a little local newspaper that you can find in newsstands almost anywhere here around the east side.
+
+08:35.182 --> 08:38.547
+Words off the page, Robert Kuber is reading Literary Revolution.
+
+08:39.007 --> 08:41.631
+Let us use pen and paper for keyboard and mouse.
+
+08:42.372 --> 08:44.175
+And I'll just read one brief paragraph.
+
+08:44.876 --> 08:48.441
+The interaction between computers and literature is only 30 years old.
+
+08:48.843 --> 08:54.329
+and it is still unclear exactly how the interaction might affect the way that we read stories.
+
+08:55.210 --> 09:14.973
+With Robert Cooper at the helm, Brown University will reaffirm its place as a leader in electronic writing by hosting TP21CL, technology platforms for 20th century literature, a monumental exchange between techies and writers happening from April 7th to 9th.
+
+09:15.994 --> 09:16.875
+So here we are,
+
+09:17.311 --> 09:26.584
+Thanks to Bob Coover, and welcome all of you to Brown.
+
+09:28.746 --> 09:29.027
+Thanks.
+
+09:29.868 --> 09:31.430
+Thanks, Rebecca.
+
+09:31.470 --> 09:34.975
+I was a student and a current student of Hypertext Writers.
+
+09:35.075 --> 09:37.899
+He's in the Advanced Electronic Composition course.
+
+09:38.580 --> 09:46.170
+This conference is about writers and about serious literature and its survival and its enhancement in this powerful
+
+09:46.437 --> 09:47.558
+new medium of the computer.
+
+09:47.578 --> 09:52.305
+So it seemed essential that we begin the whole three-day event with the writers themselves.
+
+09:53.246 --> 10:01.837
+So I want to show you what's happening right now in the world of electronic fiction, writing, and poetry.
+
+10:01.857 --> 10:08.125
+I'm assisted by our own Bobby Arellano, also known on the net as Bobby Rabbit.
+
+10:09.134 --> 10:16.722
+He was the first writer to graduate from our MFA program with an all-electronic thesis and is now a valuable teacher in our hypertext and workshops.
+
+10:17.242 --> 10:22.248
+You just had a glimpse there of his online interactive novel, Sunshine 69.
+
+10:23.009 --> 10:32.198
+The first, if it's kind, we hope to get a chance to see more of it before the evening's done, though we've begun a bit late with all of the technical.
+
+10:32.218 --> 10:36.863
+One thing that's just been happening has been online hypertext contrast.
+
+10:37.248 --> 10:40.112
+run by Mark America's Altex site.
+
+10:40.212 --> 10:43.796
+We visited earlier to get a glimpse of his Grammatron in collaboration with me.
+
+10:44.277 --> 10:53.148
+This contest is in collaboration with a trace group at a university in Nottingham, England, with a first prize of a thousand pounds or something just under $1,700.
+
+10:54.009 --> 11:06.225
+The winners and finalists announced just this week several of the finalists are in fact here, including Rob Whittig, whose project marks the you're now looking at on the screen.
+
+11:07.808 --> 11:16.317
+And also, I think, both Mary Kim Arnold and Matt Derby, I believe, are here.
+
+11:16.337 --> 11:22.924
+They collaborated on Kokura, the moving and eloquent hyperfiction, centering quite literally on the atom bomb.
+
+11:23.505 --> 11:34.557
+There are three hypertexts running concurrently, one from the viewpoint of the woman, one from the atom man, and one about the making of the bomb.
+
+11:35.038 --> 11:37.360
+This one on the making of the bomb.
+
+11:37.880 --> 11:45.051
+with a frame at the top that automatically refreshes every five seconds, ticking off the actual bomb tests.
+
+11:45.652 --> 11:54.465
+Mary Kim is teaching at Brown this semester as an adjunct lecturer in fiction, and Matt is graduating the MFA program with a partially electronic thesis.
+
+11:55.467 --> 11:57.149
+There were two co-winners of the contest.
+
+11:57.910 --> 12:06.283
+One of them, an Australian poet named Jenny Waite, whose hyper-poem Rice we hoped to show, but we weren't able to bring shockwaves
+
+12:06.652 --> 12:08.034
+on this system.
+
+12:08.174 --> 12:15.082
+It's a beautiful hypertext with, we should be now listening to music playing on top of this.
+
+12:15.543 --> 12:30.280
+Each of these links to another kind of hypertext document in which much of what's happening is in fact run on Shockwave, which needs a computer a little bit more upgraded than this one.
+
+12:31.390 --> 12:36.975
+It's very fancy, very beautiful, because you get lots of media flagged at once.
+
+12:36.995 --> 12:46.925
+You can have music playing, and you can have hypertext links at the same time you have information going, and in general, in the text itself can be animated.
+
+12:47.565 --> 12:51.749
+So the potential of it is enormous.
+
+12:52.570 --> 12:59.777
+In fact, in this case, she uses all of those things, music, voiceover, variety of software applications
+
+13:00.297 --> 13:08.064
+as part of a, so to speak, hypertextual grammar to invoke the scenes, past and present.
+
+13:08.084 --> 13:19.494
+But beautiful as it is as an electronic poetry project, Rice's use of hypertext is actually quite minimal, being employed mainly as a back and forth link between whole objects.
+
+13:20.275 --> 13:28.903
+And this move, encouraged by the way the internet and the HTML presently work, is troubling some hypertextures.
+
+13:29.373 --> 13:35.361
+In the discussion on our website leading up to this conference, I've detected, are you ready for this?
+
+13:36.643 --> 13:44.913
+A kind of lament for the golden age of hypertext, which perhaps has already passed us by.
+
+13:47.977 --> 13:55.988
+But classic hypertext is still alive and well, as evidenced by the Altex trace co-winner, the unknown.
+
+13:56.491 --> 14:05.019
+a collaborative fiction about the imagined adventures of three supposedly rich and famous writers on a mock book tour all over the world.
+
+14:05.519 --> 14:12.445
+Genuinely multi-sequential and massively rich in story material, written by three friends, all of whom are here with us tonight.
+
+14:12.966 --> 14:24.456
+And so, that book tour of Ayers continues, for here to launch our night of readings with a multi-vocal as well as multimedia performance are its authors William Gillespie, Scott Redbird, and Dirk Stratton.
+
+14:40.147 --> 14:47.415
+All right, here's the clicker.
+
+14:47.455 --> 14:48.857
+Thank you very much.
+
+14:49.378 --> 14:52.641
+Especially thanks to Robert Cooper for bringing us here tonight.
+
+14:53.783 --> 15:00.290
+This is really a silly dream come true for us.
+
+15:01.652 --> 15:04.635
+The Unknown is a collaborative hypertext novel.
+
+15:05.189 --> 15:13.638
+For us as writers, this project began as a conscious exploration of two modes of writing which we didn't understand, hypertext and collaboration.
+
+15:14.699 --> 15:32.817
+Our initial intention was to promote a print anthology of what we consider our best fiction, prose, poetry, and drama by telling the story of a book tour we would go on in support of the then non-existent manuscript.
+
+15:33.218 --> 15:35.943
+From motion before dignity.
+
+15:37.926 --> 15:41.872
+Content preceded structure, which initially evolved organically.
+
+15:42.493 --> 15:45.538
+As we created text, however, we realized two things.
+
+15:45.559 --> 15:50.467
+A, that hypertext is necessarily phonetic, a story that the reader thrives.
+
+15:50.487 --> 15:59.682
+And B, that we were generating different kinds of material and that some taxonomy was necessary to help readers navigate through our hypertext novel.
+
+16:00.640 --> 16:09.871
+To this end, we adopted a metaphor from the Chicago Transit Authority subway map and placed the material on differently colored lines.
+
+16:10.312 --> 16:16.760
+The red line is a sickeningly decadent publicity-driven hypertext novel that describes the aforementioned book tour.
+
+16:20.705 --> 16:24.049
+The purple line is metafictional bullshit.
+
+16:24.383 --> 16:27.727
+which hypertext almost inevitably engenders.
+
+16:28.207 --> 16:34.054
+The blue line is a collection of documentary materials about our real life adventures.
+
+16:34.895 --> 16:41.703
+The orange line is a collection of correspondence between the unknown and others written over a long period of time.
+
+16:42.644 --> 16:49.412
+The brown line is a collection of related image equal text projects, including Katie Gilligan's watercolor diary.
+
+16:50.337 --> 17:00.428
+The green line is a place where readers can find interactive live readings of the unknown in real audio, including this one after we're done with it.
+
+17:01.369 --> 17:13.663
+Because the essence of hypertext is a collaboration between the reader navigator and the authors, in addition to the in-text hyperlinks and the just described lines, we elected to include three other modes of navigation.
+
+17:14.704 --> 17:19.129
+An image map of locations in the United States we visited on our
+
+17:19.396 --> 17:30.913
+alleged book tour, a list of independent bookstores where we gave readings on our book tour, and a list of people who appear as characters in The Unknown.
+
+17:34.959 --> 17:36.641
+We're going to do a short reading.
+
+17:36.702 --> 17:37.903
+We only have time for two pages.
+
+17:38.384 --> 17:41.409
+And if there are any publishers in the audience, we've got a manuscript to show you.
+
+17:43.311 --> 17:49.200
+We're loading the first page that we wrote.
+
+17:49.400 --> 17:52.583
+one evening in Cincinnati, The Unknown.
+
+17:54.004 --> 17:56.306
+Everybody gets told to write about what they know.
+
+17:56.947 --> 18:01.952
+The trouble with many of us is that at the earlier stages of life, we think we know everything.
+
+18:02.432 --> 18:08.017
+Or to put it more usefully, we are often unaware of the scope and structure of our ignorance.
+
+18:08.037 --> 18:11.280
+Ignorance is not just a blank space on a person's mental map.
+
+18:11.721 --> 18:13.422
+It has contours and coherence.
+
+18:13.823 --> 18:16.165
+And for all I know, rules of operation as well.
+
+18:16.665 --> 18:17.466
+Thomas Pynchon.
+
+18:17.834 --> 18:20.236
+When you get right down to it, it's all sublime.
+
+18:20.577 --> 18:21.958
+That is indescribable.
+
+18:22.398 --> 18:23.419
+You don't stop, though.
+
+18:23.439 --> 18:24.660
+You keep trying to describe it.
+
+18:25.201 --> 18:27.563
+Language games become a form of breathing.
+
+18:28.544 --> 18:37.192
+What you don't know can and will hurt you, but not as much as will what you already know, which already has and will continue to bring you pain.
+
+18:37.953 --> 18:40.375
+This is also the ultimate cause of joy.
+
+18:40.916 --> 18:45.580
+To what extent is the unknown a function of memory, and to what extent fate?
+
+18:46.724 --> 18:49.128
+We are frontier obsessive creatures.
+
+18:49.829 --> 18:51.852
+From America, could we be otherwise?
+
+18:52.653 --> 18:56.319
+This is not all the stuff of domination, one would hope.
+
+18:56.899 --> 18:58.582
+To know what is not known.
+
+18:59.083 --> 19:03.730
+That is the limit and the expanse and the infinite undoing of all horizons.
+
+19:04.731 --> 19:09.859
+But how can we explore the spaces between understandings of things?
+
+19:09.879 --> 19:13.845
+How can we begin to question how we remember, not what we remember?
+
+19:14.821 --> 19:18.047
+How can we know the totality of what we do not think?
+
+19:18.929 --> 19:20.512
+There is a problem of scale.
+
+19:20.973 --> 19:21.895
+To discuss U.S.
+
+19:21.915 --> 19:25.923
+foreign policy is to avoid discussion of the fact that we are sitting at a table.
+
+19:26.324 --> 19:27.747
+There is a problem of etiquette.
+
+19:27.767 --> 19:31.054
+That is, in addition to the unknown, there is the undiscussed.
+
+19:31.074 --> 19:36.745
+And we are sitting at a table, but that fact is not very interesting to us right now.
+
+19:39.880 --> 19:54.300
+Brown was paying us $10,000 and giving us a very large auditorium with a state-of-the-art overhead projector mac with a T1 internet connection so we could read our hypertext live from the net.
+
+19:54.801 --> 19:58.987
+They were stocking their bookstores with our books and large color posters of us.
+
+19:59.608 --> 20:07.339
+Cooper was making the reading required for his students in hypertext 301, spaces in practice.
+
+20:07.910 --> 20:23.488
+When we got to Providence, though, extraordinarily exhausted from three days of solid 70-plus MPH, a call from Marla on the cellular informed us that the gig at Brown had been canceled because the auditorium had been requested at the last minute by the Kronos Quartet.
+
+20:23.468 --> 20:37.006
+Congress have been delighting and outraging their fans this tour by performing the album Red Zeppelin Tune straight through as arranged for string quartet, therapy, water drums, and a variety of original microtonal instruments built by Harry Clark.
+
+20:37.947 --> 20:40.270
+But Brown was paying us anyway.
+
+20:40.290 --> 20:46.759
+So after our under-attended, even for us, reading at Books on the Square, there was nobody from Brown to greet the unknown in Providence.
+
+20:47.077 --> 20:53.146
+sleep deprived, our discouragement tainted with relief, we had nothing to do for the rest of the day but drink.
+
+20:53.266 --> 21:07.648
+So we went from the bookstore to the bar across the street, the Leary Dale House, and the four of us, me, Scott, Frank, and William, settled in at the table by the jukebox, which played only gay with music, with an ash tray of pretzels and four pints of a frothy Welsh beer named Schluz.
+
+21:10.252 --> 21:16.341
+There was an old man at the bar and a man in a suit playing darts alone in a cozy sense that if time passed here,
+
+21:16.642 --> 21:17.983
+It passed by outside.
+
+21:18.784 --> 21:23.149
+We each began reading a scene for the unknown hypertext 2, the time machine.
+
+21:23.770 --> 21:28.414
+The next day we would have an argument which would lead us to rejecting the time machine idea.
+
+21:29.876 --> 21:41.248
+Scott, on the snappy laptop Marla had bought him for his 30th birthday, began typing his proposal, none of us ever knew if he was serious, for a cable station called WTV, Writer Television.
+
+21:41.684 --> 21:52.059
+WTV would feature lavishly produced text videos in which young poets lip sync their writing in solid, image-processed dramas involving sexy models and sports cars.
+
+21:52.720 --> 21:58.908
+WTV also featured closet case classics, videos of old writing, like readings by Allen Ginsberg.
+
+21:59.730 --> 22:02.173
+WTV also featured feature-length movies.
+
+22:02.390 --> 22:12.279
+such as the powerful biography of Gertrude Stein, Oliver Stone's Stein, or Gus Van Tenen's Infinite Jest.
+
+22:12.299 --> 22:15.482
+Videos would be introduced by charming young people in designer clothing.
+
+22:15.622 --> 22:27.854
+There would be concert movies, and literature would be reconciled with the mainstream in a way that would keep the mainstream fond of literature while literature continued to be alienated from and wary of the mainstream.
+
+22:28.855 --> 22:32.278
+William continued working on the unknown crossword puzzle
+
+22:32.782 --> 22:38.969
+It was a poetry project based on a list of 100 constraints which operated simultaneously across two languages.
+
+22:38.989 --> 22:45.155
+He had to learn French and C++ to search the OED online to find the word.
+
+22:45.796 --> 22:47.317
+He had been working on it for a year.
+
+22:48.058 --> 22:51.762
+Nobody else really approved of the project, but they knew better than to criticize it.
+
+22:52.102 --> 22:53.484
+And the moon in O'Leary's was good.
+
+22:54.004 --> 23:01.152
+In that dank warmth, the idea of a crossword puzzle written in Alexandrine's without the letter E or five letter words made sense.
+
+23:01.638 --> 23:03.361
+It was even worthy of a toast or three.
+
+23:04.683 --> 23:11.175
+Frank wrote a scene about how, around the year 2010, The Unknown had a reunion concert at Carnegie Hall.
+
+23:11.716 --> 23:17.266
+A lot of our old fans and friends had paid a hundred bucks a ticket, and there was a certain tension.
+
+23:18.207 --> 23:20.531
+Our old fans weren't crazy about our newer stuff.
+
+23:20.852 --> 23:25.941
+We were reading our latest hypertext novel, Suburb of the Young Young.
+
+23:26.208 --> 23:32.714
+about how four writers named Scott, Frank, Dirk, and William all got married and moved into a gated community together.
+
+23:33.515 --> 23:36.017
+Half the crowd was trying to boo us off the stage.
+
+23:36.658 --> 23:49.490
+They didn't properly appreciate the depth of the scene with Frank in AA, nor the scene with Scott borrowing Dirk's lawnmower, nor the scene with William pushing his daughter on the swing set, telling her about belt insurance.
+
+23:51.152 --> 23:55.776
+I was writing about Unknown Palooza, the Unknown's outdoor rock concert,
+
+23:56.009 --> 23:58.994
+We gave seven readings and between them different bands would play.
+
+23:59.515 --> 24:03.783
+It was weird because we were the oldest people there and we had never heard of any of the bands.
+
+24:04.283 --> 24:09.613
+But the kids loved us and by the end of the concert I had dreadlocks and Scott had a nose ring and a pierced lip.
+
+24:10.234 --> 24:21.173
+William wanted to get a tattoo of William Gaddis on his back but the tattoo artist, who claimed to be able to do any tattoo, had never heard of William Gaddis and was apologetic but ultimately uninterested.
+
+24:21.457 --> 24:27.404
+We were all writing and chuckling and drinking and eating pretzels when a man in the suit stopped playing darts and pulled up a chair at our table.
+
+24:27.804 --> 24:29.486
+He had recognized us.
+
+24:29.506 --> 24:32.269
+He introduced himself as John Tormade III.
+
+24:32.730 --> 24:41.299
+He was an entertainment, art, and media lawyer who handled transactional matters as well as certain claims and litigation matters as they pertained to the entertainment business.
+
+24:41.319 --> 24:47.987
+He told us about his Martindale Hubbard lawyers rating as well as his timely and responsive representation of his clients.
+
+24:48.372 --> 24:51.762
+He has studied at Harvard and the UCLA School of Law.
+
+24:52.684 --> 24:54.169
+We were all very impressed.
+
+24:54.189 --> 25:00.507
+We had a certain detached admiration for those who had gone to college in order to obtain marketable skills.
+
+25:00.527 --> 25:03.816
+There ensued much back slapping and handshaking and round buying.
+
+25:04.049 --> 25:07.854
+Torvey told us stories about U2, Negative Land, and Casey Kasem.
+
+25:08.315 --> 25:09.937
+We told them about Krass Mueller.
+
+25:10.578 --> 25:15.325
+Just by way of fucking with the man, Frank posed an interesting hypothetical legal case.
+
+25:15.525 --> 25:22.294
+Say a man has been, using email, helping to write a hypertext novel, and has been given little in the way of editorial power.
+
+25:22.314 --> 25:33.870
+Say that the man no longer wants to write the hypertext novel, and wants all his writing excised for the novel so that he might publish these themes elsewhere, or incorporate them into different print novels composed by himself alone.
+
+25:34.272 --> 25:40.138
+Then there ensues disagreement between the four or more collaborating authors as to which of the various parties actually wrote what?
+
+25:40.559 --> 25:46.585
+Because many of the scenes were written together, or written by one person and edited by another, and proofread by someone else.
+
+25:47.446 --> 25:49.749
+Some were written under the influence, or over telnet.
+
+25:50.049 --> 25:52.291
+The disagreements are very complicated indeed.
+
+25:52.632 --> 26:01.281
+Say, for example, that there is a very heated argument over whose property is the soft-core porn art poem, still life with my pecker, or someone's always fucking with my mirror.
+
+26:01.762 --> 26:02.963
+Say the man hires you.
+
+26:03.314 --> 26:04.476
+How do you proceed?
+
+26:05.357 --> 26:12.828
+But we never got to hear his opinion, because at that point, Robert Cooper, the Kronos Quartet, and the gaggle of ground faculty entered the bar.
+
+26:13.489 --> 26:15.452
+Carol Mesa was buying everyone drinks.
+
+26:16.134 --> 26:19.579
+Gail Nelson winked at us and put a $5 bill into the jukebox.
+
+26:20.120 --> 26:23.064
+William ran over and hugged his friend, Rishi, who came to sit with us.
+
+26:24.186 --> 26:32.258
+It looked like we might get to have fun in Providence after all.
+
+26:36.372 --> 26:48.905
+Tomorrow night when there's a sort of informal thing, we're going to try and do an interactive reading of the unknown where we'll ring a bell and everyone in the audience can choose where to go next.
+
+26:49.406 --> 26:54.611
+A little abbreviated here, but if you like it, come back for more tomorrow night.
+
+26:54.631 --> 26:55.693
+Thanks a lot.
+
+26:55.713 --> 27:02.700
+And we also have copies of our anthology for anyone who still likes books.
+
+27:06.713 --> 27:34.527
+The proliferation of online magazines and contests, that one is stimulating an explosion really of creative electronic compositions.
+
+27:35.468 --> 27:41.817
+But behind all this hyperactivity lies the work of a few early pioneers, not least our next writer, Michael Joyce.
+
+27:42.538 --> 28:01.305
+Michael's groundbreaking hyperfiction, Afternoon, written in Story Space, which he himself helped to create, has in one short decade moved from being a radical underground experiment known only to a coterie of hypertext adepts to the status of a classic.
+
+28:02.227 --> 28:03.248
+Its famous line,
+
+28:04.173 --> 28:26.991
+there is no simple way to say this has become the title of our writer's symposium tomorrow morning in the piano lounge since afternoon's publication a mere decade ago Michael has gone on to write a variety of multimedia hyper fictions including Twilight a Symphony and the online 12 blue which you're looking at now
+
+28:28.692 --> 28:35.284
+Not to mention a new work in progress, an island piece demoed last fall at the University of South Carolina's Hyper Halloween.
+
+28:35.304 --> 28:51.635
+Tonight, he'll be reading from his newest completed work on the birthday of The Stranger, which has just been published this past month by the new online version of Evergreen Review, that great Vanguard print magazine of the 1960s and 1970s.
+
+28:51.715 --> 28:52.236
+Michael Jones.
+
+29:04.450 --> 29:07.934
+Thank you.
+
+29:09.056 --> 29:30.002
+This work is dedicated to the memory of John Hawkes, and this gives me an opportunity for those of you in the Brown community, or indeed any of you in the Northeast who have been driving distance, to suggest that you think about coming next week on the 13th and 14th, when this university will celebrate the memory of the passion of the great artist John Hawkes.
+
+29:30.809 --> 29:50.141
+I have less called John Huck's memory than almost anyone on earth, but I can say that at a certain time in my life, when I came to the University of Iowa, he told me that my writing was energized language, and that the way would be difficult, that I'd have to hold on, that he saved my writing life, and thus my life.
+
+29:51.804 --> 29:53.507
+And I honor his memory.
+
+29:55.010 --> 29:57.053
+Internet-wise, I want to take a minute also to say
+
+29:58.771 --> 30:00.934
+Thomas Simmons talked about symmetries.
+
+30:01.435 --> 30:10.548
+And I have this little sheet of paper here, much smaller because I use computers, that says, only Brown, only Cougar, energetic language.
+
+30:11.770 --> 30:23.126
+I do want to add my voice, and say that it takes a magnificent artist, a very brave person, to do what Robert Cougar has done.
+
+30:23.707 --> 30:26.871
+But Bob is championed and moves forward a literature
+
+30:27.104 --> 30:48.153
+I was fortunate enough to be in this room eight years ago at the Second Unspeakable Practices meeting conference.
+
+30:48.193 --> 30:49.855
+When Bob Cougar stood here
+
+30:50.375 --> 30:56.984
+and said to basically assembled avant-garde writers in America, it's time to look at electronic writing.
+
+30:57.004 --> 30:58.326
+It's time to join our voices.
+
+30:59.007 --> 31:05.496
+Only Bob Duber can convene that kind of joined minds, the kind of minds that we're joining this week.
+
+31:06.197 --> 31:17.412
+Only Brown is the center, and I say this as a University of Iowa workshop graduate, and I have somebody who apparently loves the work that I do at Vassar, but only Brown can convene us
+
+31:17.830 --> 31:21.075
+around this new culture, and I'm pleased to be here.
+
+31:21.095 --> 31:23.718
+And I do want to say that it's not avant-garde writing.
+
+31:23.738 --> 31:25.080
+It's not experimental writing.
+
+31:25.141 --> 31:26.823
+It is, indeed, energized language.
+
+31:27.143 --> 31:30.308
+And the computer is literally energized, energized by the computer.
+
+31:30.328 --> 31:35.435
+But it is at one piece, and we join ourselves with the memory of a number of artists going forth.
+
+31:35.636 --> 31:37.979
+I'll shut up and read a little bit.
+
+31:38.099 --> 31:47.753
+I bet Fabioreano, who played the part of the reader, will say briefly that in On the Birth Table of Strangers, only
+
+31:48.053 --> 31:50.836
+The words at the bottom of the page have links from them.
+
+31:51.436 --> 31:57.262
+He set up, thinking there would be a slow disappearance of the things he considered overwhelming.
+
+31:57.882 --> 32:04.208
+But by the time evening arrived, everyone had forgotten what the music meant.
+
+32:07.291 --> 32:08.052
+Second interview.
+
+32:08.812 --> 32:13.217
+Later she appears without the camera crew, holding only a wire-bound spiral center book.
+
+32:13.877 --> 32:15.178
+Do you have a twin, he asks.
+
+32:15.639 --> 32:16.980
+Don't be absurd, she laughs.
+
+32:17.332 --> 32:18.473
+This is a small country.
+
+32:19.455 --> 32:21.217
+Do you take shorthand, he asks.
+
+32:21.237 --> 32:22.659
+I have my own system, she says.
+
+32:22.679 --> 32:25.683
+May a person get a question in edgewise?
+
+32:25.703 --> 32:27.044
+Should I answer that question?
+
+32:27.165 --> 32:38.519
+Cat creeping through the melting snow and mulch where, lower on the slope, beyond the fence, hidden in the backyard of the convent, secret snowdrops are in full bloom.
+
+32:42.004 --> 32:43.085
+Midnight.
+
+32:43.105 --> 32:46.950
+It was his habit to treat the last hour of any birthday as an oracular occasion.
+
+32:47.285 --> 32:53.592
+his belief being that his mood or activities at that time augured the prevailing mood or unfolding of events for the coming year.
+
+32:53.652 --> 32:55.895
+Thus, as best he could, he would record.
+
+32:55.935 --> 33:05.766
+There is a poem of Walt Whitman's in which a woman watches bathers at a distance from a window of her house, young men in the waves.
+
+33:07.008 --> 33:13.495
+Whitman turns the thing into a hollowed mirror as the unseen woman's gaze lingers over the limbs and shoulders of the young men.
+
+33:13.745 --> 33:20.535
+but it is this most homoerotic and manly of poets who tells us this, whose own eyes linger and gaze.
+
+33:21.136 --> 33:27.606
+Distant eros is what language is, and it resists fixation, whether in gender, location, voice, or embodiment.
+
+33:27.927 --> 33:34.076
+We are left only with a passing sense, notching occasions like a calendar kept on a stick.
+
+33:34.096 --> 33:40.326
+I remember once at a municipal auditorium seeing young boys bob and gamble in the crowded pool.
+
+33:40.559 --> 33:49.212
+They look like a jar of mixed pickles, a festive potpourri of cauliflower, cucumber, peppers, carrots, ripe as a circus poster or confetti.
+
+33:49.253 --> 34:05.638
+In my memory, the whole scene turns as unreal as a game in a video arcade, all the colors a little off in the way cheap artificial flowers blink with the vaguely metallic residue lingering in the dye, suspicious of closed perfections.
+
+34:05.922 --> 34:14.655
+preferring instead the full of days through which we see ourselves and so see ourselves through, though perhaps not where we thought we were going.
+
+34:16.838 --> 34:17.279
+History.
+
+34:19.482 --> 34:25.872
+Founded in such and such century long a trading center and then a rising merchant class in the first confederation civil war and the occupation
+
+34:26.155 --> 34:40.970
+by foreign powers, burnt and rebuilt, burnt again, rebuilt, moving from monarchy to representative assembly, then after it grew briefly governed by a central committee, long a strong hope of realism, then in this or that year took on romantic qualities in reaction to a new austerity, led to an experimental richness and ultimately an aleatory quality.
+
+34:41.370 --> 34:42.952
+A new life is an ironic realism.
+
+34:43.613 --> 34:44.954
+Can you imagine how boring it is?
+
+34:44.974 --> 34:51.561
+The interpreter put herself in other brandy and offered the containers to decline, to decline, pressing his fingers against his temples and rubbing them.
+
+34:52.161 --> 34:53.503
+At least you have a history.
+
+34:53.523 --> 34:54.964
+Things go back centuries here.
+
+34:55.838 --> 35:01.847
+Not so fast, my friend, the guide said, you Americans can no longer take refuge in your historical adolescence.
+
+35:01.867 --> 35:07.296
+The fortress of West Point is as much a castle as anything along the Rhine, and goes back centuries.
+
+35:07.656 --> 35:12.924
+The University of Virginia and Harvard College themselves now also partake of the centuries.
+
+35:13.926 --> 35:24.462
+The language inevitably running off the rails at some point, not quite vernacular despite his facility, with the branding his accent likewise coming back, there was no escaping history.
+
+35:25.319 --> 35:35.832
+In the face of an intimacy which rises like the waves of heat off the river under rain, the world seems given to us alone, liquid and insistent and constant.
+
+35:35.852 --> 35:36.393
+Interpretive.
+
+35:38.375 --> 35:41.199
+It wasn't clear to the man what he wished from him exactly.
+
+35:41.659 --> 35:46.005
+It was the case that almost everyone, even the toothless lunatics on the street, spoke English.
+
+35:46.025 --> 35:47.466
+The whole world now spoke English.
+
+35:47.527 --> 35:48.368
+It was the internet.
+
+35:48.628 --> 35:50.150
+The guy himself had a website.
+
+35:51.251 --> 35:53.554
+There are certain colorations, the client explained.
+
+35:53.770 --> 35:55.732
+Colorations was a good word, though, but flying.
+
+35:56.933 --> 35:57.254
+Flying.
+
+35:59.736 --> 36:00.778
+I love flying kites.
+
+36:01.198 --> 36:05.703
+We'd take the trolley to the beach, the thing bundled on our lap like a parachute or a holiday roast.
+
+36:06.183 --> 36:10.488
+Before long, there would be the first hang of salt and the changing light.
+
+36:10.668 --> 36:19.778
+Some new passengers, almost naked, a t-shirt, shorts, and a towel in this green bag, their bright swimsuit softly bulging and faded by the sea.
+
+36:20.011 --> 36:26.099
+He would squeeze my hand and I figured the packaged kite and the way lovers' hands bust over a belly or a shoulder.
+
+36:26.820 --> 36:35.732
+On the beach, I would unwrap the thing and hold it against the sand while he fitted the struts and tightened the strings until the shape of the thing emerged from the flattened sprawl of paper.
+
+36:35.952 --> 36:42.441
+Still holding it, although now like a wounded pup, I'd watch as he walked back along the line and pulled it taut, ready to run.
+
+36:43.079 --> 36:49.108
+He'd single and I'd let go and the thing would rise in an instant, spread back against the short breeze, splayed and flapping.
+
+36:49.388 --> 36:50.429
+It was like an orgasm.
+
+36:50.930 --> 37:03.468
+Before long I would take the cord into my hands and fly the thing, feeling the weight of it in my arms, doing so for hours, letting go only when he peeled my fingers from the reel and took the distance back up, dragging the sky down with the flapping creature.
+
+37:04.730 --> 37:12.040
+In the novel, a character imagined setting soap back upon the rubber nubs, thus struck by the ordinariness of certain objects which,
+
+37:12.290 --> 37:14.173
+could stand for the reality we share.
+
+37:16.536 --> 37:19.341
+Flowers.
+
+37:19.361 --> 37:28.294
+Flowers from a special type of apparatus, he supposed, outbought with non-ingenial usage and appropriation, really, sapping the natural world of its mystery.
+
+37:28.695 --> 37:32.621
+Still, it was no different, really, to represent them genetically, not generically.
+
+37:33.762 --> 37:38.770
+As bad to call them spring flowers and leave it at death, one ought to know local names for flowers of any region,
+
+37:39.104 --> 37:44.452
+Soapthroat and heart's nipple, butternut, the angel's tongue, rhodia ivory, umber rose.
+
+37:45.573 --> 37:52.763
+The flower that he situated in the buttonhole of his iron tweed suit was called Sweet Sicily, a favorite of the sheep of Al-Quran.
+
+37:54.145 --> 37:58.732
+My eye, the hand's other measure of surface and contour of meaning reflected upon you.
+
+37:59.433 --> 38:04.420
+You are standing near the garden watching the river waiting for someone, perhaps for me.
+
+38:21.443 --> 38:31.761
+Michael mentioned next week's event in honor of John Hawkes, and the posters will be up soon, and Sire's out for details about that, hoping they'll come.
+
+38:32.242 --> 38:40.977
+Of course, Jack himself would have been somewhat appalled, no doubt that he's so intimately linked to an electronic writing conference.
+
+38:40.997 --> 38:42.540
+He loathed even to my brother.
+
+38:43.263 --> 38:47.709
+Oh, Bob, your crying stuff means the end of literature.
+
+38:50.794 --> 38:58.565
+Michael was one of many early experimenters and experimenters over the past entire decade that created potential hypertext, of course.
+
+38:59.486 --> 39:06.216
+I'll cover up here with us at this symposium, including John McDade, who was the author of Uncle Buddy's Funhouse for a period of his thesis.
+
+39:07.023 --> 39:18.897
+There's Kathy Marshalls here, an innovative researcher at Poogee Xerox Palo Alto Laboratory and co-author with pioneer hyperfictionist Judy Malloy of Forward Anywhere.
+
+39:18.917 --> 39:22.922
+And we just, is that in the right order?
+
+39:22.942 --> 39:24.123
+We just set aside one way up too.
+
+39:25.585 --> 39:31.292
+We found the basements and no basements playing with us earlier as a division of voices.
+
+39:31.762 --> 39:40.511
+whose cyborg engineering the body electric is a landmark work of creative hyper non-fiction, another genre that's part of this conference.
+
+39:41.011 --> 39:45.335
+Both Kathy and Diane will be panelists at tomorrow morning's symposium.
+
+39:46.136 --> 39:50.660
+We'll hear from other early innovators tonight, not least from Stuart Molder.
+
+39:50.681 --> 39:57.347
+We'll conclude the program with exciting new work that is only he has seen as far as I know.
+
+39:57.985 --> 40:15.180
+But among those other early pioneers, the next reader will be Dean O'Lorsley, who not only has been writing creative hypertext for a decade now, but is also a major theorist and networker whose contributions to this gathering have already been substantial.
+
+40:15.240 --> 40:21.726
+She'll be reading from her newest work, Ferris Wheels, which helped kick off the brand new Iowa Review website.
+
+40:21.746 --> 40:27.351
+Now, we know this stuff is mainstream, but even the Iowa Review goes online.
+
+40:28.192 --> 40:48.641
+Paris Wheels and a lot of these works could not have happened without the help of all the writers and all of the ideas that have gotten through five or six or seven hypertext conferences.
+
+40:48.721 --> 40:52.146
+In fact, if we can turn the wheel.
+
+40:57.233 --> 40:58.114
+This wheel
+
+40:59.174 --> 41:07.385
+was based on something that Jim Rosenberg said, which was, if you could have a three-dimensional poem on one thing, how could you do that?
+
+41:07.605 --> 41:07.906
+Let's see.
+
+41:08.687 --> 41:11.010
+And what this is, is actually a poem.
+
+41:12.432 --> 41:14.194
+I would like some help with the technology.
+
+41:14.995 --> 41:18.820
+It goes too fast on the T1 line and too slow on 56K.
+
+41:19.201 --> 41:25.349
+Also, I don't know how to do an image map off an animated chip, so, you know, help me.
+
+41:25.369 --> 41:25.890
+But anyway,
+
+41:26.225 --> 41:33.754
+Ferris wheels, reach forever, reach falsehood, reach against tides, reach each other, and so forth we would think.
+
+41:34.995 --> 41:41.683
+The other thing with this is that each word in the poem is also the name of the nose in the story.
+
+41:42.684 --> 41:50.153
+So if we can enter the text, we will see the first part of the story and then I'll show you the nose.
+
+41:52.075 --> 41:55.219
+Ferris wheels, actually, what are we talking about?
+
+41:57.730 --> 42:00.577
+It's the taste of Colorado, and I have dragged you here.
+
+42:01.219 --> 42:02.181
+My yearly ritual.
+
+42:03.144 --> 42:11.666
+Denver opened summer with the proudest rock drumming craft booths of the People's Fair, and ended with these sticky, asphalt, cotton candy, carny crowds.
+
+42:12.267 --> 42:13.731
+We have escaped the notice.
+
+42:14.909 --> 42:22.639
+We had escaped the noise on the KBPI radio booth on Colfax, set up on the courthouse steps where I got my divorce about two years ago.
+
+42:22.659 --> 42:29.828
+A booth advertising bakalochi rose and green pepper salsa, purposely stepped where I stood and cried for four and a half hours.
+
+42:30.689 --> 42:41.423
+We wander around the raucous, overpriced food booths that are trampling the time and marvel that the intricate flower gardens between the courthouse and the capital are still intact.
+
+42:41.622 --> 42:46.129
+We passed in front of the shallow pool where I ran into you a little less than a year ago.
+
+42:46.489 --> 42:54.341
+I was watching the kids try to ride the blue grass dolphins, and you were biking wildly, trying to get out of the thrush of downtown cars and people.
+
+42:54.942 --> 43:00.791
+You thought you could take a shortcut to sort of park onto the flat sideways, but you missed the road as we collided.
+
+43:01.171 --> 43:03.735
+I knocked out your glass and recognized you from college.
+
+43:04.316 --> 43:09.604
+We forgot our other plans and went off to the Walnut Cafe for coffee and talked all night.
+
+43:10.293 --> 43:12.256
+Now, we've had too many days to count.
+
+43:13.499 --> 43:18.988
+You hold my hand and whisper in my ear, deftly avoiding the kid in the baggy pants and the skull-capped skateboard.
+
+43:19.850 --> 43:23.576
+You want the commitment, you say, your hand nuzzling under my hair.
+
+43:23.636 --> 43:26.441
+I shiver under the warmth of your fingers.
+
+43:27.122 --> 43:29.066
+Look, a Ferris wheel, I say.
+
+43:29.707 --> 43:30.108
+Let's go.
+
+43:31.290 --> 43:35.457
+And at this point, we can continue with the default line,
+
+43:35.977 --> 43:41.647
+or go up to still intact or cotton candy, or click anywhere on the Ferris wheel itself.
+
+43:42.328 --> 43:43.971
+Suggestions?
+
+43:44.792 --> 43:49.641
+Cotton candy, not candy.
+
+43:50.482 --> 43:52.866
+This is inter, which is again a part of the call.
+
+43:54.409 --> 43:58.356
+Ten dollars, which one's ticket, says the lady in her red page of Colorado t-shirt.
+
+43:58.893 --> 44:08.922
+A long drawing of the half-eaten watermelon slice on the front of her shirt almost matches the cotton candy she has in one hand, which is leaving spider strands of sugar all over the ticket.
+
+44:09.663 --> 44:17.830
+She is looking over at a bare-chested guy about six feet away, who is lovingly handling a thick boa, letting it flay over his squash boy buffaloes.
+
+44:18.371 --> 44:20.172
+She cranes her neck for a better view.
+
+44:20.973 --> 44:26.258
+We did not know how much the Ferris wheel cost, and asked her, God, buy tickets, she said.
+
+44:26.278 --> 44:28.680
+$10 for 20 tickets.
+
+44:28.947 --> 44:34.233
+We tell her we know this, but we just want to ride the Ferris wheel and want to know how many tickets we need.
+
+44:34.814 --> 44:39.600
+She shrugs her shoulder and brushes her neck as if she could feel the snake wriggling across her shoulders.
+
+44:40.561 --> 44:44.726
+I can't tell you what you need, she says, yet have to figure it out for yourselves.
+
+44:46.047 --> 44:47.409
+We decide to buy 20 tickets.
+
+44:47.869 --> 44:51.093
+If we don't need this many, you say, I will find a kid who wants them.
+
+44:51.554 --> 44:58.482
+A girl with tight ponytails and white shorts turned up at this pronouncement and looks like she is ready to follow us anywhere.
+
+44:58.850 --> 45:04.539
+I turn my head up to look at her, and she nods away, as though I had only seen her at the edges of my eyes.
+
+45:05.200 --> 45:06.482
+I hold your hand tightly.
+
+45:07.123 --> 45:11.330
+I always wanted tickets to ride when I was a kid, I say, and I reach for my money.
+
+45:12.111 --> 45:13.033
+My idea, I tell you.
+
+45:13.674 --> 45:14.495
+You pay anyway.
+
+45:14.875 --> 45:15.557
+You always do.
+
+45:16.057 --> 45:17.179
+It's the man's job, you say.
+
+45:17.780 --> 45:19.283
+I snuggle into your shoulder.
+
+45:19.883 --> 45:20.625
+We wait our turn.
+
+45:21.626 --> 45:23.389
+And we can go forwards, backwards.
+
+45:24.247 --> 45:36.482
+There are not that many people in the Ferris wheel line.
+
+45:37.022 --> 45:39.025
+You start counting the couples in the empty cars.
+
+45:39.505 --> 45:41.007
+We won't have very long to wait, you say.
+
+45:41.447 --> 45:43.610
+How do you know people will stay in couples, I ask?
+
+45:44.491 --> 45:45.292
+It's easy to say.
+
+45:45.472 --> 45:46.153
+Just watch them.
+
+45:46.606 --> 45:48.891
+The Ferris wheel has begun to shudder to a stop.
+
+45:49.433 --> 45:57.872
+A boy about two with a sticky lollipop gets off and starts running through the crowd before his mother can extricate the remaining child, a large girl with back to his eyes.
+
+45:58.694 --> 46:01.982
+She yells at the crowd to stop him, but they do nothing.
+
+46:02.452 --> 46:04.995
+You squeeze my hand and lead me to run after the kid.
+
+46:05.596 --> 46:10.462
+I watch as you part the crowd, your hands spreading the people away like shallow waves to the Red Sea.
+
+46:10.962 --> 46:14.647
+The child stumbles and starts to cry, not very far from the Pharisee line.
+
+46:14.947 --> 46:18.111
+You offer in your hands, and I think I can see your flaws in here.
+
+46:18.611 --> 46:20.714
+He cries louder and points to his shoe.
+
+46:21.175 --> 46:24.038
+You kneel like the Lord and Chesse tied the shoe up.
+
+46:24.018 --> 46:29.865
+The mother arrives, restless, carrying the girl half in, half out of an oversized door.
+
+46:30.266 --> 46:32.429
+You talk with her, stroking the boy's hair.
+
+46:33.109 --> 46:37.515
+Her back's lost my view, so I cannot see your smile now, but I imagine it.
+
+46:38.036 --> 46:40.639
+I imagine she smiles back at me.
+
+46:40.659 --> 46:43.022
+I nod to myself, smiling, like you are joining me.
+
+46:43.923 --> 46:44.604
+Thanks, I say.
+
+46:45.565 --> 46:47.207
+You would have done the same, you say.
+
+46:47.440 --> 46:48.341
+No, okay.
+
+46:48.722 --> 46:50.024
+I would have been too afraid to care.
+
+46:50.885 --> 46:51.746
+Are you sure, you ask?
+
+46:52.647 --> 46:54.470
+I just knocked my shoulders.
+
+46:54.490 --> 46:55.071
+Okay, one more.
+
+46:55.091 --> 46:56.573
+We can go to turn.
+
+46:56.593 --> 47:00.879
+They do nothing, people will say, or we can hit it.
+
+47:01.359 --> 47:01.620
+Okay.
+
+47:02.241 --> 47:05.064
+As you can see, we've been going through the poem.
+
+47:05.084 --> 47:08.389
+This was enter, deny, reach, forever.
+
+47:09.350 --> 47:11.173
+As the wheel goes around.
+
+47:13.156 --> 47:14.157
+Oh, okay.
+
+47:15.014 --> 47:21.001
+But each time we could go around in circles, and we're getting close to the end of it.
+
+47:21.021 --> 47:21.481
+Friendships.
+
+47:23.183 --> 47:24.985
+The ride left slow, letting people off.
+
+47:25.546 --> 47:28.689
+Teenagers beg for another ride, refusing to move.
+
+47:28.709 --> 47:33.414
+Unfazed, the attendant pulls one of the girls out of the car, and the rest of the girls follow.
+
+47:33.975 --> 47:38.260
+We can hear their laughter as they get out, watch them enter another line, another light.
+
+47:39.141 --> 47:40.482
+The blue car is now around.
+
+47:41.069 --> 47:47.458
+As if in a black and white style of movie, this scrawny gentleman shows the wiser lady off, bowing first and offering her hand.
+
+47:50.262 --> 47:53.266
+She takes it, raises it in a Vigon waltz, and finds out.
+
+47:53.726 --> 48:01.197
+Their expressions are too far away for us to see, and they are poor Simon actors, for they do not dip and kiss.
+
+48:01.217 --> 48:05.422
+Rather, they must be talking of common places, of nothing in particular.
+
+48:06.344 --> 48:07.405
+No one else watches them.
+
+48:08.567 --> 48:10.249
+They hug slightly, comfortably,
+
+48:10.415 --> 48:11.056
+walk off.
+
+48:11.656 --> 48:15.540
+We have been friends for a long time now, but nowhere near as long as those two have.
+
+48:15.980 --> 48:16.741
+This is obvious.
+
+48:17.502 --> 48:21.626
+Suddenly, I no longer want the asphalt to become a piece of black oblivion.
+
+48:22.126 --> 48:26.811
+I want it to be a long road under us, supporting us.
+
+48:26.831 --> 48:28.893
+I want to be friends with it, too.
+
+48:31.075 --> 48:36.019
+Before I just show you the site map, I'll show you how this wheel works again.
+
+48:36.119 --> 48:39.983
+But this is a marriage between a poetry and
+
+48:40.418 --> 48:47.729
+a short story so that she can see the poem again and again each of the links goes into another short story.
+
+48:50.814 --> 49:00.909
+Thank you.
+
+49:01.009 --> 49:07.759
+Architecture and design have become key components in the building of Hypertext.
+
+49:08.093 --> 49:12.579
+And the wheel has been a frequent and useful model.
+
+49:14.061 --> 49:30.123
+Here in the 1994 MFA thesis by our colleague at the keyboard, Bobby Rabbit, having just discovered his, actually I should have said Robert Arellano, because at this moment in this thesis he had just discovered this online alter ego of Bobby Rabbit.
+
+49:30.704 --> 49:35.991
+He rebuilt the bicycle, researching the mechanical ingenuity
+
+49:36.140 --> 49:53.595
+In the words Wright and Derardieu, Bobby devised a structure of interlocking, yet independent, wheels, whereby the reader could crank the pedals toggling between parallel stories, or sit back in the saddle and coast through one narrative at a time.
+
+49:56.118 --> 50:00.802
+Poetry has, I say this, before I leave circles behind, I'm going to have it go.
+
+50:00.822 --> 50:01.762
+We almost scratched this.
+
+50:02.003 --> 50:04.645
+Hope it doesn't crash our system in troubled director before.
+
+50:05.333 --> 50:13.202
+But in this semester's Advanced Electronic Composition Workshop, first year graduate fiction writer and poet, John Morrissey, is also working with wheels.
+
+50:14.323 --> 50:16.426
+His poem is called My Name is Captain Captain.
+
+50:17.126 --> 50:34.326
+And these are based on the dead reckoning navigational techniques of early airline pilots.
+
+50:34.366 --> 50:35.307
+Cross your fingers.
+
+50:43.488 --> 50:47.313
+Are you frozen out?
+
+50:49.096 --> 50:49.917
+There we are.
+
+50:49.977 --> 50:59.791
+Click on that.
+
+50:59.932 --> 51:08.584
+It's a very visual poem, and we're using something here called rollovers, which just by passing the cursor over changes the screen.
+
+51:10.454 --> 51:18.462
+And here he's bringing up words, slowly if he's working to find all the different pieces.
+
+51:23.187 --> 51:34.077
+There you go.
+
+51:34.097 --> 51:37.000
+It's running a little slow because it's off a zip drive.
+
+51:37.020 --> 51:37.761
+Because it's off a zip drive, right.
+
+51:40.880 --> 51:49.188
+It's a way of kind of locating the bits and pieces of all of them.
+
+51:49.208 --> 51:49.729
+There we go.
+
+51:55.135 --> 52:02.942
+I think you can click on that.
+
+52:02.963 --> 52:04.064
+You can pull the words out.
+
+52:04.084 --> 52:05.745
+Click on them and pull them out, I think.
+
+52:05.765 --> 52:05.865
+Yeah.
+
+52:05.885 --> 52:06.086
+Oops.
+
+52:08.588 --> 52:10.330
+The fast button.
+
+52:11.474 --> 52:14.057
+Who's that?
+
+52:17.020 --> 52:18.622
+Okay, well, it's a glimmering.
+
+52:18.822 --> 52:22.306
+We need to judge the demo, and I suspect.
+
+52:22.567 --> 52:29.435
+But in any case, I would say that poetry itself has prospered in this new medium, perhaps more even than fiction has.
+
+52:29.695 --> 52:41.008
+Narrative, as a literary form, moves typically from A to B, something confident, and is driven by the question, what happens next?
+
+52:41.512 --> 52:50.366
+So it's had to cope with the paradoxically contrary nature of the multi-directional web works of hyperfiction.
+
+52:50.386 --> 52:59.440
+But poetry, especially miracle poetry, in which typically a single subject becomes the center of many peripheral meditations, has often found those web works most congenial.
+
+52:59.460 --> 53:06.270
+One of the most spectacular, committed, and highly skilled technologically at these new hyperpoets is Jim Rosenberg.
+
+53:06.706 --> 53:15.414
+who's intensely active and immensely helpful contributions to our discussion page these past few weeks have helped us set the agenda for everything that follows.
+
+53:15.834 --> 53:27.365
+Here's Jim to read for this work.
+
+53:27.385 --> 53:29.687
+Thank you.
+
+53:30.407 --> 53:31.949
+I'm really delighted to be here.
+
+53:32.569 --> 53:35.532
+This is an amazing gathering of people.
+
+53:36.575 --> 53:38.477
+and hopefully historic.
+
+53:41.179 --> 53:49.166
+I thought I would do something a little bit different with my time and take you a bit behind the scenes of one of my pieces.
+
+53:53.711 --> 54:05.181
+I'm dead serious about the issue of the call for this conference, and I'd like to show you a little bit about what I feel that I have at stake here
+
+54:05.920 --> 54:07.042
+from the tool designers.
+
+54:11.288 --> 54:32.400
+We've had several references, Michael talked about it and Dean talked about it, about how even though it may seem that this is brand new work, we really are going on the basis of a long period of experimentation by a lot of people in a lot of arts
+
+54:33.562 --> 55:02.539
+and i want to echo that a person who was the most influential in my life artistically was the composer john cage when i was an undergraduate i used to hang out with the music people and i found that the composers were all talking about something called tone clusters and i heard that and i said wow that is the neatest thing i ever heard i want to do that with words and i've been trying to figure out that ever since
+
+55:04.662 --> 55:15.891
+Now, this is a single piece from a piece called the Barrier Frames, Finality, Crystal, Shunt, Curl, Chant, Quickening, Giveaway, Stare.
+
+55:17.733 --> 55:20.776
+There are nine, and this is one cluster.
+
+55:21.316 --> 55:30.584
+And the way that this works is that as you approach the cluster, then a random one of these frames pops up.
+
+55:33.286 --> 55:34.467
+And then there are
+
+55:35.054 --> 55:37.358
+There are clusters inside of clusters.
+
+55:39.983 --> 55:46.394
+And this is all done with what in JavaScript would be called on mouse over, but this isn't done in JavaScript.
+
+55:46.434 --> 55:55.491
+So as you move along, then a different one of these layers can be read.
+
+55:55.511 --> 55:57.635
+Now, I couldn't get a reading.
+
+55:57.655 --> 55:57.855
+Beautiful.
+
+56:00.147 --> 56:17.329
+I couldn't give a reading of this work, and I do do that, but time is very short, and I thought it would be fun to actually take you behind the scenes of this and to explain to you, despite the appearances, why I am in deep trouble with this work.
+
+56:19.051 --> 56:19.411
+Okay.
+
+56:19.972 --> 56:24.538
+So, I can't do this with the mouse, because if I do this with the mouse, it will change.
+
+56:24.558 --> 56:28.703
+But...
+
+56:28.885 --> 56:49.287
+I think of this as an object.
+
+56:49.307 --> 56:52.470
+This is a cluster of words on top of one another.
+
+56:52.490 --> 56:55.213
+And that object is plugged into
+
+56:55.463 --> 56:59.649
+this larger object, which is basically behind this phrase here.
+
+57:00.830 --> 57:05.476
+And then that object is a layer in another object.
+
+57:05.556 --> 57:09.121
+Oops, I think I got the wrong one.
+
+57:10.503 --> 57:12.285
+So that's how I think of these things.
+
+57:14.108 --> 57:15.790
+Now let me show you the reality.
+
+57:15.990 --> 57:16.711
+It's gruesome.
+
+57:21.878 --> 57:23.580
+Now this is hypercharged.
+
+57:24.809 --> 57:30.756
+And I'm really starting to feel like a geezer talking about HyperCard.
+
+57:30.776 --> 57:31.517
+It's very strange.
+
+57:33.059 --> 57:33.480
+What's that?
+
+57:34.280 --> 57:48.758
+HyperCard is a very, very generable tool, but it allowed me to do a lot of this kind of work many years ago when things like OnMouseOver and JavaScript didn't exist.
+
+57:50.088 --> 58:03.652
+One of the things that's kind of amazing about this is that when we talk about text and the word and so on, there is no text here in the technical sense.
+
+58:04.614 --> 58:11.326
+So if you went into hypercar and did a find on parade clay, you wouldn't find it.
+
+58:12.989 --> 58:14.391
+This is all done with graphics.
+
+58:15.063 --> 58:18.828
+And the reason that it's done with graphics is that that way I can control it.
+
+58:18.848 --> 58:21.551
+I don't have to worry about fonts and all that stuff.
+
+58:21.571 --> 58:24.835
+So how does all the other stuff happen?
+
+58:25.296 --> 58:31.784
+Well, this is a button which I put in place by hand.
+
+58:35.028 --> 58:38.252
+And I have to put the mic down.
+
+58:44.999 --> 58:49.905
+Okay, all you programmers out there, I want you to take notes.
+
+58:49.925 --> 58:51.487
+This is a really stunning algorithm.
+
+58:56.613 --> 58:59.155
+This is about as tough as my algorithms get.
+
+59:03.280 --> 59:09.067
+Well, I lied.
+
+59:09.087 --> 59:12.151
+Wow, there's some real code in there.
+
+59:12.751 --> 59:14.213
+This is as tough as they get.
+
+59:15.982 --> 59:26.777
+Actually, we can make jokes about this, but the question of what is the aesthetic role of the algorithm is a very interesting question.
+
+59:27.858 --> 59:33.526
+One poet who's not here, whose name I would like to mention, is John Haley.
+
+59:34.327 --> 59:42.698
+John is living in Kingville and has probably done the most daring work that I know of with that whole issue of making the algorithm into an aesthetic object.
+
+59:44.365 --> 59:54.275
+What I want to emphasize to you here is that I have to assemble all this stuff by hand, and that is extremely laborious.
+
+59:56.177 --> 01:00:06.468
+I have a sort of rule of thumb that I like to spend roughly 85% of my time with the words and the rest with the structure, and to assemble this piece was excruciating.
+
+01:00:07.749 --> 01:00:13.275
+So, what I would really like to be able to do is to take a cluster like this and actually
+
+01:00:13.880 --> 01:00:16.623
+You know, throw me a bag.
+
+01:00:16.963 --> 01:00:37.587
+I had this wonderful pickle jar at home that dates back to the 70s where I lettered words each on its own space and did word environments and I would throw the words into phrases in the pickle jar and when people would ask me how much work I had, I'd say about a gallon.
+
+01:00:40.690 --> 01:00:43.093
+That's what I want to do.
+
+01:00:43.580 --> 01:00:46.063
+That is currently extremely difficult.
+
+01:00:46.423 --> 01:00:50.148
+So you'll notice that this work is really visual.
+
+01:00:50.468 --> 01:00:53.652
+I use drawing tools to prototype all of this.
+
+01:00:53.752 --> 01:00:57.156
+I don't really work in hypercardinative to get this visual effect.
+
+01:00:59.278 --> 01:01:06.266
+And I drastically need something that will carry all these buttons with the object.
+
+01:01:06.286 --> 01:01:13.114
+So if I change my mind about where something really is supposed to be,
+
+01:01:14.562 --> 01:01:39.374
+If I change my mind about how this works visually, that affects all of the layers that are on top of this, and I have to do all that by hand, I should be able to pick this stuff up and move it.
+
+01:01:39.394 --> 01:01:42.779
+And all the buttons should come with it.
+
+01:01:42.859 --> 01:01:43.860
+That seems simple,
+
+01:01:46.135 --> 01:01:48.779
+At any rate, I think I've spoken long enough.
+
+01:01:48.879 --> 01:01:50.581
+I would just like to say one more thing.
+
+01:01:52.283 --> 01:01:56.228
+You will notice as I've been operating this, there are no links here.
+
+01:01:58.892 --> 01:02:02.337
+This is entirely spatial association.
+
+01:02:04.159 --> 01:02:06.362
+I'm tickled to death that Kathy Marshall is here.
+
+01:02:06.502 --> 01:02:10.267
+Kathy and her colleagues have practically invented spatial hypertext.
+
+01:02:12.851 --> 01:02:16.075
+If you look over the proceedings at the last hypertext conference,
+
+01:02:16.628 --> 01:02:21.935
+A truly astonishing number of papers are now referencing spatial hypertext.
+
+01:02:23.257 --> 01:02:28.284
+Please, when you think about hypertext, keep an open mind about what structures we need.
+
+01:02:29.886 --> 01:02:35.013
+The short answer to what structures we writers need is all of them.
+
+01:02:35.053 --> 01:02:46.568
+Thank you.
+
+01:02:47.206 --> 01:02:51.871
+pieces available via Eastgate's publishing.
+
+01:02:52.212 --> 01:02:55.155
+You might like to look around a gorgeous piece.
+
+01:02:56.516 --> 01:03:03.004
+The first question is being raised to maybe no longer even need poets.
+
+01:03:04.045 --> 01:03:15.778
+In this semester's advanced workshop, undergraduate student Rylan Wharton has contrived a spectacular poet regenerator based on semantic and syntactic structures
+
+01:03:16.113 --> 01:03:17.655
+randomly accessed.
+
+01:03:25.846 --> 01:03:28.650
+I and Tom Sawyer lie painfully.
+
+01:03:29.612 --> 01:03:35.820
+California believes gravestones hate snowflakes hesitantly.
+
+01:03:36.040 --> 01:03:40.146
+Saratoga Springs seeks the only elegant cadaver.
+
+01:03:43.113 --> 01:03:57.269
+There would probably be an infinite number of, the bottom went, oh, Microsoft wrote my heart.
+
+01:04:02.455 --> 01:04:09.703
+We had thought perhaps, if we could just bring up Todd Berman's piece if you can just for a moment to get a glimpse of something else that's happening.
+
+01:04:09.723 --> 01:04:12.006
+We were wanting to look at other student work, we were going to rush on.
+
+01:04:12.560 --> 01:04:32.847
+I was going to mention two or three things, such as Matt Derby's current project, which is about a person who has to erase characters, black characters, and actually uses in his hypertext, you watch frames of famous movies being altered.
+
+01:04:33.552 --> 01:04:39.181
+Laura Lee, who has a very large architects built around the map of Los Angeles.
+
+01:04:39.221 --> 01:04:43.247
+You have to move through the whole map to understand the architects being built there.
+
+01:04:43.888 --> 01:04:52.240
+Or Adam Tobin's quite beautiful sequence of the fox.
+
+01:04:52.260 --> 01:04:54.243
+Say it for me.
+
+01:04:55.966 --> 01:04:59.391
+Quick brown fox jumped over the lazy brown dog.
+
+01:04:59.624 --> 01:05:07.572
+So he's built across the ground, all of those words, and you trace them down through a sense of beautiful things to see.
+
+01:05:07.612 --> 01:05:28.753
+The one we were just flashing up was from some time back when Todd Berman was working, another undergraduate here, on trying to keep text from being stable, and developed several pieces in which, this is a good example, once it starts to, you're not going to be able to reach the start mechanism.
+
+01:05:32.885 --> 01:05:35.689
+It's a screen.
+
+01:05:35.769 --> 01:05:38.353
+Can't do much about it.
+
+01:05:38.734 --> 01:05:58.644
+It was a piece about revelation, and the idea was that each time this character in the novel, in the hyper-novel, was moving about trying to understand revelatory experiences, he would actually encompass them in a language of his experience would begin to change.
+
+01:05:58.785 --> 01:06:00.968
+So as you're starting to read a text, there we go.
+
+01:06:01.690 --> 01:06:07.397
+The text, actually, before you finish it, begins to alter and change itself.
+
+01:06:09.760 --> 01:06:10.120
+Cool.
+
+01:06:10.541 --> 01:06:10.701
+OK.
+
+01:06:12.923 --> 01:06:18.390
+Our next reader, this one is, after all these fancy stuff, it's a quick time thing.
+
+01:06:18.710 --> 01:06:29.183
+I want to get back to one of our classic software systems that we've used here at Brown very successfully, and especially we've been talking about it in our workshops lately as we move to HTML and the web.
+
+01:06:29.348 --> 01:06:55.207
+the great advantages of story space, developed by Eastgate, and in fact, partially developed by at least two persons here tonight, J. David Boulter and Michael Joyce, and a great proponent of that is the fiction writer Bill Watt.
+
+01:06:55.427 --> 01:06:56.048
+I'm just going to read it.
+
+01:07:04.550 --> 01:07:08.835
+of my life.
+
+01:07:08.855 --> 01:07:22.970
+We Descend is provided with a default path or tour, which will let first-time readers just sort of hit the return or ride away with returns through about a third of the writing spaces.
+
+01:07:23.590 --> 01:07:34.422
+And I'm going to read a couple of passages that are off the default path so you can see how you have to navigate otherwise.
+
+01:07:47.227 --> 01:07:48.329
+scholars farewell.
+
+01:07:55.259 --> 01:07:58.284
+These circumstances which occasioned it have not been recorded elsewhere.
+
+01:07:58.985 --> 01:08:02.530
+One hardly knows what else to say about this poignant communication.
+
+01:08:06.376 --> 01:08:07.398
+I wish there were more times.
+
+01:08:08.199 --> 01:08:12.846
+I feel I've only just begun the actual work and suddenly I must give over to another.
+
+01:08:13.349 --> 01:08:19.415
+to you, whose care of the archives will naturally be dictated by your own preoccupations.
+
+01:08:19.435 --> 01:08:21.057
+My curacy is over now.
+
+01:08:24.000 --> 01:08:30.646
+I have decided not to withhold anything, but instead to offer up the entire story and let you decide how to proceed.
+
+01:08:31.687 --> 01:08:42.158
+Since I am to have no say with what is done with or to the archives, nor any access to them after the handing over, I have resolved not to serve badly my precious charge,
+
+01:08:42.425 --> 01:08:49.034
+in these last days by making it difficult for my supplanter to come to the same appreciation of its worth.
+
+01:08:50.677 --> 01:08:53.100
+This may be made difficult for you by others.
+
+01:08:53.921 --> 01:08:57.466
+As the remnant said, beware the giver with nothing to gain.
+
+01:09:00.570 --> 01:09:10.204
+I urge you not to depend upon the benignity of your sponsors, not to give offense, but the conference members surely regard this as minor research.
+
+01:09:10.724 --> 01:09:12.386
+or it wouldn't have been interrupted to you.
+
+01:09:13.347 --> 01:09:21.618
+Be you never so promising, you are hardly in their class, at least in their minds, and have any of your betters regard this project as really important.
+
+01:09:21.638 --> 01:09:24.362
+You may be sure he would have seized upon it himself.
+
+01:09:26.765 --> 01:09:31.351
+On the other hand, they clearly believed the archives important enough to take them away from me.
+
+01:09:32.473 --> 01:09:36.478
+What they most likely told you is that this would be a good project for their golden protégé.
+
+01:09:37.117 --> 01:09:41.301
+thus trivializing not only all my labor, but the archives themselves.
+
+01:09:42.803 --> 01:09:49.290
+Well, I put myself under their power, more than full me, so I mustn't complain of maltreatment.
+
+01:09:50.071 --> 01:09:53.835
+But I will never forgive their light regard for the object of my life's work.
+
+01:09:54.656 --> 01:09:59.541
+And if you are wise, you will realize that you too have been trivialized in this maneuver.
+
+01:10:02.104 --> 01:10:06.128
+I'm also, for the sake of time, going to do a little on-the-fly editing.
+
+01:10:07.525 --> 01:10:12.530
+I have every confidence that you've been told I'm a crackbomb.
+
+01:10:12.550 --> 01:10:25.924
+That as may be, I only ask that you come to that conclusion on your own, on the basis of the work I've done, not on the superficial pronouncements of self-important men who have no idea of the value of this treasure.
+
+01:10:25.944 --> 01:10:28.687
+Think of what's most important to them, reputation.
+
+01:10:29.507 --> 01:10:33.892
+Then read the archives.
+
+01:10:33.912 --> 01:10:34.953
+Now to the matter at hand.
+
+01:10:36.054 --> 01:10:36.975
+Included herein
+
+01:10:37.242 --> 01:10:44.454
+in addition to the archives themselves, are all my notes, abstracts, conjectures, drafts, and diagrams.
+
+01:10:45.416 --> 01:10:52.728
+I apologize for their disarray, but I was given only enough time to put the archives themselves into some kind of arrangement.
+
+01:10:52.748 --> 01:11:00.522
+No doubt you will find this arrangement unsatisfactory and will wish to assemble the writings according to your own sense of their proper presentation.
+
+01:11:00.542 --> 01:11:01.343
+I cannot stop you.
+
+01:11:01.677 --> 01:11:12.653
+but would plead that I had good reason for putting things in the order I did, even if I was not allowed legion to write out in detail the rationale for that order.
+
+01:11:12.673 --> 01:11:26.913
+At some later date, when I have had time to regain my composure, I will send you any final thoughts I may have on the archives, either advice based on my experience with them or further meditations upon their significance.
+
+01:11:26.933 --> 01:11:29.777
+You will, of course, be entirely free to ignore these messages
+
+01:11:30.196 --> 01:11:32.180
+if they are permitted to reach you at all.
+
+01:11:33.402 --> 01:11:39.633
+But please know that I hereby freely renounce any right I may have imagined I had to control their destiny.
+
+01:11:40.394 --> 01:11:47.968
+Having made their way through millennia to me and now to you, their capacity to survive can hardly be in doubt.
+
+01:11:59.778 --> 01:12:02.121
+Ecderis and the Historian.
+
+01:12:06.508 --> 01:12:13.458
+This small section, incomplete though it is, contains information vital to understanding Ecderis' subsequent actions.
+
+01:12:14.399 --> 01:12:28.840
+It is edifying, despite these inconsistencies, to read it in conjunction with the material allegedly written by the historian, especially the last few pages of the notebook, which tragically blew out of time for.
+
+01:12:29.933 --> 01:12:40.827
+Little Marquito found him, sitting inside the old guard tower, his back propped against the door frame so that he could see the cliff opposite.
+
+01:12:40.847 --> 01:12:48.236
+Marquito had told me he was dead, but when we entered the enclosure, my leg buckled and I fell against him, nearly knocking him off the stool.
+
+01:12:49.518 --> 01:12:54.584
+Marquito grabbed for him, but the man's hand went out and he steadied himself.
+
+01:12:54.604 --> 01:12:55.906
+I hadn't yet seen his face.
+
+01:12:56.867 --> 01:12:59.130
+When I did, I nearly fell over myself.
+
+01:12:59.887 --> 01:13:02.429
+It was the historian, my old darling.
+
+01:13:06.933 --> 01:13:09.456
+I see you have adopted the methods of your former master.
+
+01:13:09.796 --> 01:13:11.277
+Why should he be known as the good doctor?
+
+01:13:12.138 --> 01:13:13.639
+What is your little scribe's name?
+
+01:13:14.420 --> 01:13:15.021
+Markito?
+
+01:13:15.681 --> 01:13:22.487
+He's prettier than you, dearest Pharaoh, but not as pretty as you were then, the last time I saw you, when we almost had time.
+
+01:13:23.708 --> 01:13:28.813
+Oh, my dear, how often I've thought of you, your sweet mouth, your fierce eyes,
+
+01:13:29.283 --> 01:13:31.946
+How the tears rolled down your face when you drove me away.
+
+01:13:31.966 --> 01:13:38.132
+I loved you for saving me, of course, but had things been different, I would have loved you a better way.
+
+01:13:40.094 --> 01:13:41.115
+Pain.
+
+01:13:41.135 --> 01:13:41.815
+Cannot speak.
+
+01:13:44.078 --> 01:13:48.162
+Now I am more lame than you, little Agderas, and only because I was careless.
+
+01:13:49.002 --> 01:13:54.047
+They tried to teach me not to be careless, but I was never a good student, except on my own projects.
+
+01:13:55.129 --> 01:13:58.632
+It was the same carelessness that brought me into the good doctor's clutches.
+
+01:13:59.135 --> 01:14:02.158
+But that was also what brought me to you, did it not?
+
+01:14:02.999 --> 01:14:05.241
+So yesterday's evil blesses me today.
+
+01:14:06.723 --> 01:14:12.148
+And perhaps my demise will meet a great victory for you in some way that neither of us can foresee.
+
+01:14:12.989 --> 01:14:18.194
+As a historian, which many people believe me to be, I saw that such things happen all the time.
+
+01:14:19.315 --> 01:14:25.041
+And as a man who can no longer walk, I perceive the abyss beneath the feet of everyone who can.
+
+01:14:25.763 --> 01:14:29.227
+though they do not see it, and would be unable to move if they could.
+
+01:14:29.267 --> 01:14:35.314
+Perhaps you've known this all along, and can only wonder why it took me so long to find it out.
+
+01:14:39.799 --> 01:14:43.003
+I've dreamed of this day, little brother, and now there is no time.
+
+01:14:43.944 --> 01:14:48.269
+At the bottom of this cliff, perhaps in the water, though I hope not, is a satchel.
+
+01:14:49.110 --> 01:14:50.552
+It went over the edge when I fell.
+
+01:14:51.513 --> 01:14:55.618
+In it were the most precious, priceless artifacts that one can find in this world.
+
+01:14:56.071 --> 01:14:57.773
+because they do not come from this world.
+
+01:14:59.715 --> 01:15:07.244
+That other world was so magnificent as to make the Golios, in all his splendor, look like a farmer dressed up for a neighbor's wedding.
+
+01:15:08.505 --> 01:15:09.947
+In fact, I have stolen these things.
+
+01:15:10.628 --> 01:15:12.169
+I don't believe they will be missed soon.
+
+01:15:12.810 --> 01:15:15.013
+But when they are, there may be some trouble for you.
+
+01:15:15.073 --> 01:15:16.635
+I'm sorry for that.
+
+01:15:18.637 --> 01:15:22.281
+Who they are is explained in my notebook in the stachel.
+
+01:15:27.982 --> 01:15:42.576
+Other than the description the historian gives in the notebook, which vids, of the appearance and dress of his benefactors, no further explanation of their identity has survived, though naturally speculation abounds.
+
+01:15:42.596 --> 01:15:44.478
+Maybe Marquito here could go fetch it.
+
+01:15:45.219 --> 01:15:48.842
+I believe it's important that they be kept dry and not be permitted to freeze.
+
+01:15:50.524 --> 01:15:51.044
+Cries out.
+
+01:15:51.845 --> 01:15:52.426
+Pain longer.
+
+01:15:53.066 --> 01:15:53.387
+Deeper.
+
+01:15:54.147 --> 01:15:55.188
+Eve examines him.
+
+01:15:55.889 --> 01:15:57.010
+Blood on his chin now.
+
+01:15:58.863 --> 01:16:02.066
+mumbles, nonsense sounds.
+
+01:16:02.086 --> 01:16:10.516
+I was drunk, giving a speech, telling funny stories, making things up, in some drinking place surrounded by my friends.
+
+01:16:11.356 --> 01:16:13.299
+Well, I thought they were my friends.
+
+01:16:13.339 --> 01:16:14.340
+They laughed at my jokes.
+
+01:16:15.201 --> 01:16:16.262
+I was brilliant that night.
+
+01:16:16.602 --> 01:16:18.324
+My tongue seemed to sing by itself.
+
+01:16:18.704 --> 01:16:20.506
+The witty phrases just tumbled out.
+
+01:16:21.107 --> 01:16:24.130
+They were all looking at me, their eyes shining.
+
+01:16:25.572 --> 01:16:28.515
+Maybe, stops breathing.
+
+01:16:33.929 --> 01:16:55.467
+Lying on the earth, gazing at stars through the haze, through a nexus of branches, at peace, filled with peace, nothing but peace, peace and stillness, the end of life, its purpose, its terminus, its dearest hope, the last moment, the end of time.
+
+01:16:57.929 --> 01:17:03.514
+The stars at last are kind, the moon no longer a face after death blow.
+
+01:17:04.557 --> 01:17:07.621
+The earth opens, one pore at a time.
+
+01:17:09.763 --> 01:17:10.945
+Go thy ways, little one.
+
+01:17:13.088 --> 01:17:16.592
+Time rises through you, a shoot through a fallen leaf.
+
+01:17:18.134 --> 01:17:33.433
+You sink into its past, your past, the past of everything that bore you up when you skimmed across the earth, a stone skipping on the lake, sinking now at last, the lake only again.
+
+01:17:34.628 --> 01:17:47.907
+at last.
+
+01:17:47.927 --> 01:17:56.439
+There are four more pieces, four more readers, and all some of the more exciting work of what's coming, including some virtual reality.
+
+01:17:58.623 --> 01:18:01.767
+Meanwhile, there's a switch to platforms involved on the job here.
+
+01:18:04.193 --> 01:18:08.162
+And in this moment of down time,
+
