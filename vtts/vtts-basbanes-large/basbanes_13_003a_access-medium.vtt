@@ -1,0 +1,1517 @@
+WEBVTT
+
+00:03.575 --> 00:14.527
+But I'm not a prophet or a visionary, and I think that deserves a little discussion.
+
+00:14.547 --> 00:16.369
+These are possibilities for the future.
+
+00:16.970 --> 00:30.004
+Now, I won't... ...the key figures, which happen to be the neo-socialists and other negativist charmers, such as Jeremy Ritter, whose track records are, of course, no better than those of George Gilder and Faith Pothmark.
+
+00:30.544 --> 00:32.907
+But they happen to be wrong on the side of this author paper.
+
+00:33.258 --> 00:34.039
+such as life.
+
+00:35.100 --> 00:40.626
+I came away from that book thinking that I'm right to disclaim specific visions of the future.
+
+00:40.646 --> 00:50.196
+This speech will focus on aspects of the future I would prefer to see, which naturally means that I think those trends are probable, not inevitable, to be sure.
+
+00:51.357 --> 00:55.421
+My belief is that life tends toward more choices rather than fewer.
+
+00:56.462 --> 01:02.809
+I believe that technological change is neither smooth nor inevitable nor fully predictable.
+
+01:03.363 --> 01:09.909
+I also believe that people don't change as rapidly as a technology and that it's people who count.
+
+01:09.929 --> 01:12.232
+The technologists tell us how.
+
+01:12.252 --> 01:13.833
+It's people who have to decide why.
+
+01:14.314 --> 01:22.041
+I began using the slogan and not or as a general tendency of the future more than a decade ago.
+
+01:22.642 --> 01:29.809
+I now couple it with the claim that the best answer to most multiple choice questions is yes.
+
+01:30.346 --> 01:35.135
+Some of you may already assume that I'm a Luddite who just doesn't understand technology or the web.
+
+01:35.456 --> 01:37.840
+Others of you will probably conclude that during the speech.
+
+01:38.341 --> 01:39.984
+You are, of course, free to do so.
+
+01:40.345 --> 01:45.094
+I do note that the Luddites were right, although in losing cause.
+
+01:45.114 --> 01:53.350
+I would also note that I make my living as an information architect at the research libraries group, and that's a job title that really didn't exist prior to the web.
+
+01:53.583 --> 02:02.496
+My primary goals are as service manager for Eureka, which is a web-based and user search service, and as lead designer and analyst for its user interface.
+
+02:02.516 --> 02:06.502
+My entire adult life has been spent using computers to improve the library services.
+
+02:07.143 --> 02:13.733
+And although we still have a non-web version of Eureka, we're doing our best to get rid of it, which turns out to be surprisingly difficult.
+
+02:13.753 --> 02:21.565
+We're down to about 15% talent usage, and driving that down to the 0% we want has proven to be remarkably difficult.
+
+02:22.658 --> 02:26.422
+I think it's worth noting our own experience with predictability and change.
+
+02:26.442 --> 02:33.909
+Toward the end of the 1980s, a new standard emerged that seemed destined to establish the future of end-user searching interfaces.
+
+02:33.929 --> 02:36.872
+Z39.50 was adopted in 1988.
+
+02:37.333 --> 02:44.420
+The standard made it feasible for computers to query other computers in a standardized way, retrieving data in flexible standardized form.
+
+02:45.341 --> 02:51.687
+By the mid-1990s, the general assumption was that most bibliographic access would rely on Z39.50.
+
+02:52.038 --> 02:57.608
+Each campus would build its own ideal user interface as part of its own C3950 client.
+
+02:58.249 --> 03:08.287
+Using that client for its online catalog and for all bibliographic searches, it was incumbent on non-profit and commercial search systems to build robust C3950 servers.
+
+03:08.888 --> 03:11.233
+Otherwise, we'd be out of business.
+
+03:11.313 --> 03:13.056
+Okay, we were there early on.
+
+03:13.076 --> 03:16.442
+The organization at RLG has always been the leader for Stanford Stanford.
+
+03:16.895 --> 03:24.004
+Zephyr, our own Z3950 stamp from server, was probably the earliest robust production quality server in the United States.
+
+03:24.645 --> 03:31.895
+We know from server logs that most Z3950 clients, including most online catalog vendors, use Zephyr as a reliable test bed.
+
+03:32.716 --> 03:38.664
+The expected dominance of Z3950 had odd effects on RLG's development of search systems.
+
+03:38.764 --> 03:41.788
+We developed Eureka in 1992, and it was, of course, a talent-based service.
+
+03:42.764 --> 03:47.872
+It would have been hard to do a web-based search system in 1992 and have that much impact.
+
+03:48.373 --> 03:52.039
+It was developed as an internal C3950 client talking to Zephyr.
+
+03:52.580 --> 03:58.850
+The assumption was that most users would eventually migrate to their own C3950 clients and Eureka would just fade away.
+
+03:59.872 --> 04:06.602
+Well, as the web emerged and the Eureka team realized the use of a web version, it was difficult to get any attention internally.
+
+04:06.622 --> 04:08.265
+Wasn't everyone using Zephyr?
+
+04:08.954 --> 04:13.461
+We managed to get it built anyway by sneaking bits of resources here and there.
+
+04:14.462 --> 04:19.349
+The last few years have seen a significant change, and it's a change that came about for complex reasons.
+
+04:19.850 --> 04:28.983
+First, web access has made users and librarians comfortable with having widely varied interfaces within the overall browser environment.
+
+04:29.003 --> 04:33.429
+If the browser becomes a universal interface, what happens within it can vary.
+
+04:34.151 --> 04:38.657
+Second, very few academic libraries still do much in-house user interface development.
+
+04:39.498 --> 04:44.624
+Most colleges and universities now use commercial online catalogs and do limited customization.
+
+04:45.525 --> 04:52.834
+Those two trends combine to override the earlier trend that libraries wanted one uniform interface for all resources.
+
+04:52.854 --> 04:57.760
+Now they want the best interface for any given resource, and they generally don't want to build it themselves.
+
+04:58.440 --> 05:02.025
+They generally don't have the resources to build it themselves anymore.
+
+05:02.045 --> 05:07.311
+As a result, we can demonstrate that most end-user searching now takes place through web-based Eureka.
+
+05:07.578 --> 05:15.668
+which is also a Z3950 server client, not Z3950 to other clients, which makes it important to keep improving Eureka on the web.
+
+05:17.090 --> 05:17.691
+Well, here's the thing.
+
+05:17.731 --> 05:27.223
+Based on the common knowledge of a decade ago, Eureka would be starting to disappear, along with the web-made version of First Search and other national web interfaces.
+
+05:27.243 --> 05:32.229
+Local Z3950 clients would have taken over, but times have changed.
+
+05:32.249 --> 05:35.593
+Well-designed external web versions are back and forth.
+
+05:36.468 --> 05:40.252
+The moral to this story has a little to do with the web.
+
+05:40.272 --> 05:45.858
+It mostly has to do with the fact that times change in unpredictable ways.
+
+05:45.878 --> 05:49.022
+Academic libraries need to track change and deal with it.
+
+05:49.802 --> 05:56.189
+Dealing with it does not mean making long-range plans and sticking blindly to them, no matter what happens.
+
+05:56.209 --> 06:01.395
+It means accepting complexity, appreciating change, and maintaining creative flexibility.
+
+06:02.776 --> 06:07.764
+Well, now that I ask you to talk about the future impact of the World Wide Web on libraries and archives.
+
+06:07.784 --> 06:10.348
+I'll address that by offering three different broad scenarios.
+
+06:11.069 --> 06:12.291
+First, the web as light.
+
+06:13.132 --> 06:15.816
+Second, the web as CB radio.
+
+06:15.836 --> 06:18.380
+And third, the web as one piece of a complex whole.
+
+06:19.161 --> 06:29.577
+You could also call it the dystopian or being digital scenario, the pseudo-Luddite scenario, and the future that I consider both most probable and most worth pursuing.
+
+06:30.333 --> 06:38.322
+The third future, of course, is the one that calls for us to appreciate what we have now and build on it, rather than casting it away in favor of some wondrous new beginning.
+
+06:39.424 --> 06:44.189
+Now, of course, it's important to note that the answer to most multiple choice questions is yes.
+
+06:44.730 --> 06:51.638
+All three of these scenarios will be part of it, particularly because each person builds his or her own reality.
+
+06:52.559 --> 06:56.904
+Some people are already intent on living life for keyboards and displays.
+
+06:56.924 --> 07:00.188
+People wanting their wearable computers, wearing their little
+
+07:00.607 --> 07:05.693
+Things here, getting computer implants in their arms to be recognized as they go through doorways.
+
+07:06.654 --> 07:13.201
+Some people really only wish to cope with physical life through a set of wireless devices to keep them always connected.
+
+07:13.221 --> 07:17.846
+I spent an hour yesterday pleasantly at the Boston Commons in the Boston Garden.
+
+07:18.207 --> 07:25.374
+I can pretty well predict that these people were not there, slowing down, actually enjoying the lake and enjoying the presence of other people.
+
+07:26.396 --> 07:27.677
+I feel sorry for these people.
+
+07:28.012 --> 07:31.759
+I'm sure they feel nothing but disdain for folks like me.
+
+07:31.779 --> 07:38.812
+There are also many people who ignore the web entirely, just as many people neither have nor particularly want phone computers.
+
+07:38.832 --> 07:41.257
+I do not feel sorry for these people.
+
+07:41.277 --> 07:44.603
+Many of them are living life to its fullest and getting by just fine.
+
+07:45.410 --> 07:52.317
+I don't think that the answer to this problem comes through internet appliances, set-top boxes, or other devices.
+
+07:53.038 --> 07:56.802
+Some people aren't wired because they neither need to be nor want to be.
+
+07:57.162 --> 07:57.983
+There's nothing wrong with that.
+
+07:59.425 --> 08:08.594
+Most of us, of course, work with a complex combination of digital and analog tools, virtual and physical media, web connections, and life beyond the computer.
+
+08:08.614 --> 08:14.320
+That mix keeps changing, and the changes are by no means always toward more extensive use of computers.
+
+08:15.717 --> 08:24.851
+In a recent column in the Industry Standard, Hal Varian discussed a study done at UC Berkeley's replacement for a library school.
+
+08:24.871 --> 08:28.877
+Look, they didn't ask for accreditation so I can actually call it a replacement for a library school.
+
+08:29.638 --> 08:39.193
+That study suggests that most people won't pay much for full-time high-speed digital access in their homes because most people don't see much need for such access.
+
+08:39.595 --> 08:51.613
+Now, if Varian is right, and there was another article in the Industry Standard last week that seconds this notion through some other forecasting, then a lot of business models are going to be crumbling over the next decade.
+
+08:52.053 --> 08:56.099
+And based on my own home life, I tend to think Varian is on to something.
+
+08:56.119 --> 09:00.726
+I mean, my wife and I can certainly afford 30 bucks more a month for ADSL or cable internet access.
+
+09:01.246 --> 09:04.070
+And we can probably get either or both anytime we want.
+
+09:04.370 --> 09:08.737
+We have AT&T cable, we're served by Paxbell, we can probably get either one.
+
+09:09.177 --> 09:10.759
+We have two computers at home.
+
+09:10.779 --> 09:16.347
+If I didn't have a home computer, I would never have written 15 books, 200 articles, or 80 speeches on my own time.
+
+09:17.649 --> 09:21.374
+We don't see why we thought there was high speed full time access.
+
+09:21.394 --> 09:22.296
+Are we typical?
+
+09:22.977 --> 09:23.778
+Nobody's typical.
+
+09:24.539 --> 09:26.622
+I don't know that we're obviously behind the curve either.
+
+09:27.283 --> 09:29.165
+But let's go on to the three scenarios.
+
+09:29.185 --> 09:31.168
+I'm already running late and I just got started.
+
+09:31.655 --> 09:35.841
+Okay, first, the dystopian future for the web.
+
+09:36.022 --> 09:40.489
+Least likely the universal future is the all-digital, all-the-time future.
+
+09:40.509 --> 09:51.666
+We hide in our houses and apartments, telecommuting, ordering our groceries from Webman and everything else from Cosmo for home delivery, getting all our entertainment and information over the one big wire.
+
+09:52.287 --> 09:58.236
+Television, magazines, radio, books, movies, ballet, opera sports, and presumably painting a sculpture,
+
+09:58.638 --> 10:01.663
+All media are swept away by the great prevailing web.
+
+10:02.544 --> 10:07.391
+Call it convergence, call it inevitability, whatever you call it, I find it horrendous.
+
+10:07.652 --> 10:10.997
+I also find it highly improbable.
+
+10:11.017 --> 10:14.602
+Now, in fact, there's very little in Tim's speech that I disagree with.
+
+10:15.284 --> 10:16.626
+On the other hand, I did read his book.
+
+10:17.807 --> 10:21.473
+I'm hit upon the semantic web notion they also referred to in his speech.
+
+10:23.663 --> 10:31.153
+Friend, I don't want all the data in the world to look like one huge database with artificial intelligences calling that database.
+
+10:31.253 --> 10:35.779
+Partly, of course, you know, I worked in libraries in the late 60s and early 70s.
+
+10:35.799 --> 10:42.148
+I worked at UC Berkeley, and I remember the FBI coming to visit and saying, we'd like to know who took out such and such.
+
+10:43.069 --> 10:48.616
+And we managed to stall them long enough to get rid of all of our past circulation stuff and make sure we never saved anything like that.
+
+10:49.578 --> 10:51.420
+Now, you know, you say privacy isn't right.
+
+10:51.460 --> 10:52.742
+Of course, I come from California.
+
+10:53.431 --> 11:00.861
+And the only thing is privacy is in the California Constitution, one of the areas in which California is a little ahead of most of the country.
+
+11:01.662 --> 11:06.108
+Of course, we also have Scott McNeely in California saying that we don't have any privacy anyway.
+
+11:07.390 --> 11:14.259
+I think there are good reasons not to want everything on the web... Well, okay, I'll stop with that.
+
+11:14.520 --> 11:16.963
+I think there are good reasons not to want everything on the web.
+
+11:17.984 --> 11:22.290
+I also think there are good reasons not to want everything on the web to be...
+
+11:23.755 --> 11:29.382
+mutually accessible from database perspectives.
+
+11:31.024 --> 11:37.671
+I see virtues in being able to cross over various lines, but I see strong virtues in being able to keep some things separate.
+
+11:38.973 --> 11:41.095
+And I don't want to go into a lot more about that.
+
+11:42.477 --> 11:47.603
+I will say, I've had one experience lately, you know, the idea is if you do anything you should put it on the web because it's accessible.
+
+11:48.022 --> 11:53.369
+Well, I will tell you that in the future I will not be putting rough drafts of potential articles on my own website.
+
+11:54.570 --> 12:09.348
+Now that I have the experience of putting a 9,000-word rough version of a 2,000-word potential article on my website and having the article rejected in part because the 9,000-word draft had been on the website and said, oh well, people have already read it.
+
+12:09.789 --> 12:15.075
+Well, based on what I can figure out, this means that about 150 people have read it instead of 60,000 people.
+
+12:15.477 --> 12:40.776
+this is the way it goes but i'll now be you know much more cautious about what goes on my website and when there are other cases where of course i put things up there because i don't want to you know i don't expect them to be used anywhere else or because it's the right thing i put guiding america's local libraries on my website partly because there is no way that i would want that to be published in print form and partly because it was the obvious thing to do
+
+12:41.043 --> 12:48.729
+The reason I think that Google returns my home site is because conferences where I've spoken have tended to link to that home site.
+
+12:49.110 --> 12:52.943
+And Google's technology, which I find refreshing,
+
+12:53.227 --> 12:55.591
+also refresh you because they tell you how it works.
+
+12:55.771 --> 12:58.916
+I would that other search engines would tell you how they rank things.
+
+12:58.936 --> 12:59.898
+Google actually does.
+
+13:00.439 --> 13:12.619
+You know, while there can't be more than half a dozen sites that point to my website, those all have to be respectable sites that are pointed to by other people, and therefore, you know, you can't even find my website on most search engines.
+
+13:12.939 --> 13:16.585
+It comes up, number one, Google, which is, hey, this is good.
+
+13:17.611 --> 13:23.441
+But you may be able to figure out now I'm not actually entirely opposed to web.
+
+13:24.042 --> 13:28.870
+I rely on a lot as a part of life.
+
+13:28.890 --> 13:32.556
+Although very rarely at home, which is sort of interesting.
+
+13:32.576 --> 13:35.761
+The all digital future I don't think is even worth discussing very long.
+
+13:35.841 --> 13:40.088
+It has little room for public libraries or for libraries and archives in the future.
+
+13:40.108 --> 13:42.532
+I don't think it has much room for meaning or contemplation.
+
+13:42.953 --> 13:44.175
+That may be my own problem.
+
+13:45.117 --> 13:56.557
+In the all-digital future, anything that hasn't been digitized is abandoned as useless, and I find that some proponents of an all-digital future are all too willing to dismiss anything more than five years old as being worthless in any case.
+
+13:57.800 --> 14:08.138
+I've been accused of raising straw men, and I like to think that's true if I keep hearing these simplistic all-digital futures projected, not today.
+
+14:08.540 --> 14:13.929
+Just last month, I read the following in a library paragraph, which I will quote word for word.
+
+14:13.949 --> 14:23.565
+Librarian selectors in some of our subject fields have already said that they would like to receive only e-books and do not feel the need for any printed books.
+
+14:23.585 --> 14:34.463
+In other words, some librarians at one major university library are suggesting anything worth collecting in a modern university library must be digital because there are no reasons to prefer printed books for any resources.
+
+14:35.185 --> 14:40.696
+I find it horrifying, all the more so because the librarian who was writing about it didn't see anything wrong with this all digital stance.
+
+14:41.597 --> 14:45.886
+The Chronicle of Higher Education, last week I think.
+
+14:46.407 --> 14:53.160
+An article about trying to shut down a library as they rebuild one building.
+
+14:53.427 --> 15:02.717
+And it's an argument between two faculty who share the library, one of which is a management faculty and the other of which is agricultural economics.
+
+15:02.737 --> 15:10.945
+And the agricultural economics people want to keep a physical library because the people go back through the books from the beginning of agricultural economics.
+
+15:11.466 --> 15:13.728
+And here's one of the management professors' response.
+
+15:14.129 --> 15:19.114
+Professors and students in agricultural economics soon may never have been to hold a printed book again.
+
+15:19.094 --> 15:23.298
+They're going to have access sooner or later to all the books that have ever been written.
+
+15:23.318 --> 15:24.639
+This is the library of the future.
+
+15:25.960 --> 15:34.328
+Now, of course, also he's saying that because this is the library of the future, we can shut down, because eventually they'll have access to all this stuff, we can shut down the physical library now.
+
+15:36.250 --> 15:37.651
+I find that pretty horrifying, too.
+
+15:38.172 --> 15:43.457
+So, you know, the reason I keep talking about these strong men is because they keep popping up in print and at conferences.
+
+15:45.259 --> 15:46.840
+But I do think they're an aberration.
+
+15:47.461 --> 15:52.385
+I mean, I think there's abundant evidence that traditional media will not disappear, and they should not.
+
+15:53.366 --> 16:03.955
+Digital resources will complement physical resources, replacing them where web-based resources do the job better, and there are a lot of areas where web-based resources do the job better.
+
+16:03.975 --> 16:06.057
+Physical resources will continue to be critical.
+
+16:06.678 --> 16:16.506
+Apprented books will continue to be a core medium for libraries, just as physical archives will continue to offer the raw material for remembering and rethinking who we were and who we are.
+
+16:17.684 --> 16:21.790
+If we look at old and new media, we can generally see that addition is the rule not replaceable.
+
+16:24.173 --> 16:44.383
+You know, email is still the heaviest use of the internet and has actually become an intriguing new medium, one that I don't think libraries are doing much about or can do much about, except when you move beyond email to listservs, which predate the internet, Usenet, which is
+
+16:44.566 --> 16:47.717
+I've never been sure what the status of using it is.
+
+16:47.798 --> 16:51.109
+And the many different bulletin board systems, you have a complex picture.
+
+16:51.210 --> 16:52.253
+Are these media?
+
+16:52.294 --> 16:53.317
+Yes, I believe they are.
+
+16:53.919 --> 16:55.365
+Are they worthy of library attention?
+
+16:55.485 --> 16:56.348
+I'm not sure.
+
+16:56.986 --> 17:10.798
+I would note in preparing an article on the first 10 years of PaxL, one of the earliest major library listers, I was helped enormously by the fact that it's always been archived.
+
+17:10.818 --> 17:19.206
+And even more, of course, by the fact that that archive is now web accessible instead of sending off searches through telnet and having them come through email and having them come back.
+
+17:19.486 --> 17:24.350
+So the way that these things work together can be enormously useful.
+
+17:24.370 --> 17:26.352
+And it's just a piece of the real complexity.
+
+17:29.369 --> 17:33.414
+If all you want is data, digital is probably the way to go.
+
+17:34.054 --> 17:40.021
+Assuming you can cope with authentication and reliability and either solve or ignore the preservation problem.
+
+17:40.041 --> 17:45.447
+Authentication and reliability are things that can be dealt with, aren't doing very well, but it can be.
+
+17:45.487 --> 17:49.372
+Data really isn't very useful for most of us most of the time.
+
+17:50.313 --> 17:54.798
+You know, we may get data and information, but what we want and need are stories.
+
+17:55.559 --> 17:59.123
+Narratives that convey meaning, helping us to build knowledge and understanding.
+
+18:01.904 --> 18:07.371
+And I'm not sure that stories translate as well in general to the digital world.
+
+18:08.292 --> 18:11.415
+Some of them do, some of them don't.
+
+18:11.435 --> 18:15.500
+I will add one more note before I get off to the all-digital future and get into it.
+
+18:16.181 --> 18:23.490
+The World Wide Web has been around for less than a decade, less than one-third as long as the Mark Hornets.
+
+18:23.909 --> 18:34.281
+If this conference had been held in 1992, people might have been speaking about the future of Gopher and the future impact of Gopher space on libraries and archives.
+
+18:34.301 --> 18:53.123
+If it had been held in 1990, the topics might have been the future of open systems interconnection, how soon the internet would move from TCP IP to OSI compliant protocols, which sensible people believe should and would happen in 1990, and what OSI-based systems would mean for libraries and archives.
+
+18:53.997 --> 18:59.883
+At a matter of age, many so-called business journalists and observers would look at this conference and say, what's the point?
+
+18:59.903 --> 19:02.305
+The internet is about business.
+
+19:02.325 --> 19:03.066
+End of story.
+
+19:03.086 --> 19:05.328
+The web is about selling stuff.
+
+19:05.348 --> 19:09.472
+The whole point is to find more ways to sell things to people.
+
+19:09.492 --> 19:11.114
+Libraries and archives don't sell stuff.
+
+19:11.354 --> 19:12.856
+They're irrelevant and doomed anyway.
+
+19:13.637 --> 19:18.081
+Why use a library when Amazon is on the web?
+
+19:18.101 --> 19:19.823
+You don't think there are people who believe that.
+
+19:20.363 --> 19:22.165
+You haven't been reading the right publications.
+
+19:22.685 --> 19:30.518
+Is there some reason to believe that HTTP is the end of Internet innovation, that the web is the basis for all future scenarios?
+
+19:31.419 --> 19:34.123
+If so, I can't imagine what that reason might be.
+
+19:35.105 --> 19:40.193
+But there's a reason that it's got a very good group that's helping to define the future, but that isn't always enough.
+
+19:41.135 --> 19:48.186
+Truth to tell, TCPIP is an inefficient and aggravating set of protocols, which we all use nonetheless.
+
+19:48.453 --> 20:05.177
+And the stateless nature of the web is a source of continuing grief for system developers and users alike, and as the manager of a fee-based service that relies on session states, I can tell you that that's an ongoing problem.
+
+20:05.197 --> 20:17.295
+The most grandiose projections of all digital futures, with data walls responding to our presence, rooms all consist of these data walls, and you walk in and you say, hello, Mr. Crawford, what you need to know today is
+
+20:17.900 --> 20:21.386
+I think they all assume something far beyond today's worldwide web.
+
+20:21.406 --> 20:31.902
+I think it's likely that if such futures made any sense, the tools at their basis would have as little in common with the web as the web does with Telnet or Lister technology.
+
+20:31.923 --> 20:33.545
+Okay, enough of that future.
+
+20:34.386 --> 20:38.473
+There are elements of that future that I think will be part of the future for some people, for all of us.
+
+20:39.128 --> 20:44.055
+The second scenario, of course, I'm including for completeness and because there's a little bit of truth.
+
+20:44.355 --> 20:48.381
+A few years ago, some skeptics suggested that the web was like CB radio.
+
+20:48.701 --> 20:54.168
+It was a fad that would, in time, move from general use to be the home for a set of fairly specialized uses.
+
+20:54.188 --> 20:57.733
+In that scenario, the web becomes less the head pin as time goes on.
+
+20:58.134 --> 21:00.597
+And in a few years, we wonder what all the fuss was about.
+
+21:00.813 --> 21:09.045
+Libraries and archives might use the web as another way of providing access to catalog, but you'd find less and less need to offer in-house web access or think about new uses.
+
+21:09.806 --> 21:17.478
+I think that future is at least as improbable as the all-digital future, but there are elements that seem worth noting.
+
+21:17.498 --> 21:24.348
+They particularly seem worth noting when librarians are considering the survival of physical media against the overpowering steamroller of the web.
+
+21:25.109 --> 21:27.833
+Ken Lane, writing the online journalism review,
+
+21:28.066 --> 21:39.482
+which I will note is actually an online medium that has no print equivalent as far as I know, recently noted that there haven't been any bright new examples of web-based magazines in the last year or so.
+
+21:39.502 --> 21:49.156
+Go beyond Slate, Salon, Nerd, if you're up to Nerd, Edge Feed, what's left of it, all of which have been around for several years, and what do you find?
+
+21:49.596 --> 21:50.638
+Surprisingly little.
+
+21:50.698 --> 21:53.061
+Meanwhile, Nerd has started a print magazine.
+
+21:53.733 --> 22:18.711
+salon feet are trying to become bizarre forms of literary portals and slate has become a well-edited magazine of political views for people with very short attention spans it's on my bookmark list i'm not sure why but it is meanwhile new print magazines continue to appear more now than in the past there were more print magazines introduced in 1999 than there were in 1990 and some of them flourish
+
+22:19.332 --> 22:27.705
+Now, some are dying, including some of the bizarre group of print magazines about the internet.
+
+22:27.865 --> 22:33.114
+The explosions of magazines about the web, I mean, I hope it'll decline, partly because they just don't make a lot of sense.
+
+22:34.015 --> 22:39.183
+And partly because we have an awful lot of magazines about plumbing these days.
+
+22:40.465 --> 22:40.866
+You know?
+
+22:41.767 --> 22:44.091
+I mean, fundamentally, the web at its best
+
+22:44.662 --> 22:46.664
+is the internet is as fast as plumbing.
+
+22:47.445 --> 22:48.986
+It's a means to an end.
+
+22:49.006 --> 22:50.307
+It's a means to many ends.
+
+22:50.988 --> 22:53.130
+And what are interesting are the things you can do with it.
+
+22:54.671 --> 22:59.135
+URLs are fundamentally not designed to be particularly instant.
+
+22:59.155 --> 23:00.256
+They're designed to get a job.
+
+23:03.319 --> 23:08.864
+For most of us, actually, I think, particularly in the library field, the web has gone from fascination to tools.
+
+23:09.745 --> 23:13.268
+Not necessarily more interesting than light bulbs or wall-to-wall carpeting.
+
+23:13.484 --> 23:17.971
+We use it, but it's less important in some ways than it used to be.
+
+23:17.991 --> 23:20.635
+I know that my own set of bookmarks is shrinking, not growing.
+
+23:21.416 --> 23:27.044
+Partly, in fact, because there are search engines that I feel can substitute bookmarks.
+
+23:27.245 --> 23:30.109
+One in particular that I've already mentioned.
+
+23:30.832 --> 23:35.136
+And if I cared to take the time, I'd shrink my bookmarked list in half from its current size.
+
+23:35.497 --> 23:42.744
+And it used to take me two long coffee breaks and another quarter to a half hour at home each day to check out the sites I thought deserved daily business.
+
+23:42.764 --> 23:49.371
+That's now down to about 15 minutes total per day, except for sites that are particularly part of my work, which are a personal number.
+
+23:50.352 --> 23:55.037
+The overpowering concentration on the web as business comes with a sobering side effect.
+
+23:55.858 --> 23:59.742
+For most of us, most in time, business isn't all that interesting.
+
+24:00.177 --> 24:08.006
+We may have gotten a little too involved during the internet stock mania, but that mania may be subsiding, and some of us are getting back to life itself.
+
+24:08.046 --> 24:12.311
+If the web is just about business, which I don't believe it is, then it's fundamentally boring.
+
+24:13.192 --> 24:17.436
+And if there's one constant with regard to height, it's that height doesn't last.
+
+24:17.997 --> 24:24.384
+As the web moves beyond height, it's likely to lose some of its luster, and maybe gain some, you know, gain more validity.
+
+24:24.965 --> 24:27.207
+Well, not validity, it already has validity.
+
+24:27.247 --> 24:29.610
+I don't believe the web will dwindle into insignificance.
+
+24:30.063 --> 24:37.477
+I will think that most of us will find that we really don't need or want to spend hours on the web every day on our own.
+
+24:38.419 --> 24:41.505
+I believe we'll see retrenchment, particularly in the web business.
+
+24:41.705 --> 24:42.587
+That's happening already.
+
+24:43.148 --> 24:44.912
+Boo.com is pretty much gone.
+
+24:44.972 --> 24:47.276
+DrCoop.com is going.
+
+24:47.296 --> 24:51.885
+Probably at least half of the business website will be gone within another two or three years.
+
+24:52.405 --> 24:55.010
+I hope that Google isn't one of the losers.
+
+24:55.451 --> 25:01.401
+That's one of the rare cases where I would really like to see banner ads on the site because I don't see where they're getting their money from.
+
+25:02.664 --> 25:04.767
+But that's enough about the web becoming passe.
+
+25:04.888 --> 25:07.893
+Don't think it's going to happen.
+
+25:07.913 --> 25:16.168
+Quickly into the future I regard as most probable and most desirable is growing out of the press and becoming more complex rather than less.
+
+25:16.385 --> 25:33.212
+The web will serve libraries and archives in a multiplicity of ways, not as a replacement for buildings, physical circulated collections, and carefully conserved archives, but as a set of tools to improve current services, provide new services, create new kinds of publications.
+
+25:33.817 --> 25:35.680
+that maybe could only work on the web.
+
+25:35.740 --> 25:36.722
+And this is happening now.
+
+25:36.762 --> 25:42.272
+New England Digital Library is, I think, a fine example of the things RLG is working on now.
+
+25:42.312 --> 25:51.047
+Examples of things that actually could only be bought together through this set of tools, and gain accesses to resources beyond local pleasure.
+
+25:51.588 --> 25:53.672
+I've been talking and writing about these futures for years.
+
+25:53.892 --> 25:58.761
+Every library conference, every library of theoreticals includes discussions of ways the web is being used
+
+25:59.112 --> 26:06.001
+will be used as a service of libraries and archives, so I'm not going to go through a laundry list of current and future examples.
+
+26:06.021 --> 26:08.464
+I could spend all day, and I don't think you want me to.
+
+26:09.825 --> 26:10.506
+A few examples.
+
+26:10.687 --> 26:18.016
+Most good libraries and archives now use the web as an entree for the library, a way to inform the world what you're about, where you are, your hours, and so on.
+
+26:18.036 --> 26:26.166
+Many institutions now offer their catalogs on the web, frequently with access to circulation information if you're a user, bullets and renewals for web
+
+26:26.315 --> 26:27.277
+registered patrons.
+
+26:27.297 --> 26:30.502
+Some good online catalogs are now entirely web-based.
+
+26:30.522 --> 26:35.209
+Unfortunately, so are some not so good online catalogs.
+
+26:35.229 --> 26:44.204
+Many institutions band together to go beyond their own catalogs, offering regional and other unique catalogs, either within the libraries or on the general web or both.
+
+26:44.224 --> 26:53.098
+Some archives are mounting detailed findings to aids on your own websites, either using SGML via EAD or through less standardized web methods.
+
+26:53.500 --> 27:00.377
+We offer a service that now combines something like 14,000 of these, as was the last run, which is astonishing.
+
+27:00.478 --> 27:07.375
+I mean, being able to put together 14,000 detailed finding aids in a searchable manner is just astonishing.
+
+27:07.658 --> 27:16.426
+Notably, to do that, we had to back off from our pure standards-based reliance on EAD, because about a third of those are not EAD encoded.
+
+27:16.526 --> 27:20.189
+They're HTML sites that we just bring in as websites.
+
+27:20.209 --> 27:30.959
+And of course, we don't present SGML directly over the web, because it turns out the tools we're using are neither reliable nor readily available.
+
+27:31.059 --> 27:37.665
+So in fact, when you call up an SGML finding aid, you're actually getting HTML because we pay for and improve
+
+27:37.645 --> 27:41.190
+a converter that happens on our side.
+
+27:41.210 --> 27:48.380
+So yeah, in fact, when feasible, I'm tending to agree that email has enormous virtues as a way to present data, as in, it works.
+
+27:49.221 --> 27:54.969
+And boy, going beyond the game is difficult.
+
+27:55.850 --> 27:59.115
+Many museums and archives are promoting locally digitized surrogates.
+
+28:00.016 --> 28:06.285
+Our cultural materials alliance aims to develop new ways to combine digital surrogates in order to improve access to existing resources
+
+28:06.586 --> 28:08.629
+and to support new forms of scholarship.
+
+28:08.649 --> 28:10.851
+This is part that excites me.
+
+28:10.891 --> 28:18.621
+This is the part of the future of the web and libraries that I find really exciting, is putting old things together in new ways.
+
+28:18.641 --> 28:22.345
+But boy, this has taken a lot.
+
+28:22.365 --> 28:32.678
+And the key thing here is that you use the web to develop new resources rather than spending all your energy saying, gee, if you put all the books on the web then, well, of course, one, you can.
+
+28:33.046 --> 28:40.217
+post-1918 materials, you want to put them on the web, you better find out whether you legally can do so.
+
+28:40.838 --> 28:41.780
+And then why?
+
+28:43.443 --> 28:47.709
+Okay, a few minutes remain.
+
+28:48.551 --> 28:52.958
+Realizer, I want to talk about realizers very briefly.
+
+28:52.978 --> 28:54.480
+But then Tim already made my point.
+
+28:56.317 --> 29:00.061
+Real libraries combine resources, services, and places.
+
+29:00.081 --> 29:06.449
+Places are important, all the more so as some of yesterday's most fiscal predictions are turning out false.
+
+29:06.909 --> 29:14.798
+This was a set of projections that had us all fleeing from one another, cocooning, hiding in our houses and doing everything virtually.
+
+29:14.838 --> 29:18.763
+Meanwhile, our cities and towns would shrivel as we turned away from civic involvement.
+
+29:19.148 --> 29:30.461
+It required universal telecommuting, and it seemed to be inevitable by now, as a future that didn't hold much hope for public libraries as places, particularly public libraries in central cities.
+
+29:30.481 --> 29:33.865
+As you may have gathered, I have a particular love for public libraries.
+
+29:33.885 --> 29:38.510
+Fortunately, the future of universal flight was this most simplistic future.
+
+29:38.530 --> 29:40.853
+Problems of white flight have not finally gone away.
+
+29:41.173 --> 29:43.055
+Suburban enemy hasn't disappeared.
+
+29:43.536 --> 29:45.558
+Not at all cities are now urban wonderlands.
+
+29:46.039 --> 29:47.080
+Nothing is ever that simple.
+
+29:47.330 --> 29:55.296
+But I will claim that people are returning to cities in many cases, and that people are turning suburbs into cities, which is really interesting to watch.
+
+29:55.837 --> 29:57.643
+Real communities are coming back.
+
+29:58.501 --> 30:04.331
+The town where I work and now live had a dying Main Street that emptied out at 5 o'clock.
+
+30:04.351 --> 30:14.668
+That Main Street has been transformed to the heart of the thriving city center with performing arts, restaurants that do dinner business as well as lunch business, and oh yes, a new public library.
+
+30:14.688 --> 30:17.893
+I see it in Oakland where a hard-hit city is coming back to life.
+
+30:18.214 --> 30:20.037
+There are signs all over the country.
+
+30:20.303 --> 30:25.149
+In many cities and towns, public libraries have been the most resilient of the public spaces.
+
+30:25.529 --> 30:33.659
+Even if people abandoned the park, moved parks, moved their shop into the malls, and headed for restaurants in the suburbs, public libraries survived.
+
+30:33.679 --> 30:39.706
+With the resurgence of community experience, we've seen the resurgence of new and expanded public libraries.
+
+30:39.726 --> 30:40.727
+Libraries work.
+
+30:41.508 --> 30:42.889
+People gather at libraries.
+
+30:43.570 --> 30:45.653
+Towns and cities are actually building on a success.
+
+30:45.713 --> 30:49.517
+Building city centers now around the library will work.
+
+30:50.341 --> 31:00.070
+Libraries need to provide the cultural record and provide a range of information, enlightenment, and entertainment to those who wouldn't have ready access to it otherwise.
+
+31:00.090 --> 31:07.476
+Libraries typically deal more in digested data, information that someone has organized with some thought, than in late-breaking news and broad data.
+
+31:07.496 --> 31:11.220
+It's always been their primary role that should continue to be.
+
+31:11.240 --> 31:13.822
+Not the most glamorous role, it's important and realistic.
+
+31:14.543 --> 31:17.365
+And libraries have many roles that require play.
+
+31:17.385 --> 31:19.487
+But again, this is, I would make an argument here.
+
+31:21.121 --> 31:23.505
+I'd love to talk about preservation.
+
+31:23.625 --> 31:24.827
+It's an interest of mine.
+
+31:24.907 --> 31:26.049
+It's a real concern.
+
+31:26.350 --> 31:30.016
+On the other hand, we've got a whole afternoon full of experts.
+
+31:30.036 --> 31:31.218
+People like to know something.
+
+31:32.239 --> 31:35.785
+And three of the four speakers are from RLG member institutions.
+
+31:36.286 --> 31:40.092
+So the better perspective in this case is for me to leave it to them.
+
+31:41.118 --> 31:46.548
+I had a wonderful extended anecdote, but that would push the speech way over time, so I may skip it.
+
+31:46.568 --> 31:48.351
+Some of you may have already heard it, actually.
+
+31:48.812 --> 31:59.150
+It's about one suggestion for solving the issue of long-term access by scattering CD-ROMs across the landscape.
+
+31:59.170 --> 32:02.957
+And I go through the number of reasons why that wouldn't work.
+
+32:03.950 --> 32:07.015
+But I'm not going to go through it today.
+
+32:07.035 --> 32:12.785
+It will be the version of this talk that shows up on the website eventually.
+
+32:12.805 --> 32:18.033
+Because, of course, once I've given the speech, we're going to have no objection at all for being on our website somewhere.
+
+32:18.394 --> 32:24.103
+In this case, it would be on Nelenet's website, as opposed to being on my website.
+
+32:24.684 --> 32:26.788
+But it's an interesting anecdote.
+
+32:26.848 --> 32:28.250
+We'll go through it.
+
+32:28.370 --> 32:30.514
+And now I come to the conclusion.
+
+32:31.405 --> 32:35.610
+Anyone who's ever heard me speak must know that I have problems with conclusions.
+
+32:35.630 --> 32:40.617
+You could think of me as Stephen King of speaking, but without his gifts for plot-language storytelling money.
+
+32:42.038 --> 32:44.361
+And this speech is no exception.
+
+32:44.381 --> 32:50.409
+I don't have a good way of pulling all this together into a neat little package or, as a no-name magazine's colleague, a takeaway.
+
+32:51.290 --> 32:55.095
+I think that am not or is a good basis for thinking about the future.
+
+32:55.736 --> 32:58.459
+Adding new forms of information needed to present ones.
+
+32:58.810 --> 33:02.274
+only replacing present ones where that makes sense.
+
+33:02.294 --> 33:09.784
+I believe libraries and archives are making effective use of the web already to extend their services and to gain access to new resources.
+
+33:09.804 --> 33:17.914
+I believe that we will develop new and more innovative ways to use the web in the service of libraries, archives, their collections, and their users.
+
+33:17.934 --> 33:20.216
+I don't expect to see an all-digital future.
+
+33:20.236 --> 33:22.700
+I don't expect to see the internet become cast saved.
+
+33:23.100 --> 33:25.543
+And I don't expect the web to become next year's Gopher.
+
+33:26.198 --> 33:29.844
+Given my current and future job expectations, I would hardly wish to see that happen.
+
+33:30.685 --> 33:41.923
+I do expect and hope for a future in which we make effective use of physical and digital resources, provide the record of our culture to tell new stories and find better ways to tell old stories.
+
+33:41.943 --> 33:50.096
+And I look forward to hearing this afternoon's presentations on ways that we can preserve the new stories that can only be told through digital access.
+
+33:50.116 --> 33:50.316
+Thank you.
+
+34:02.800 --> 34:04.423
+Now we have some time.
+
+34:04.443 --> 34:09.671
+If Tim would like to join us on stage, we can ask Tim and Walt questions.
+
+34:09.691 --> 34:12.075
+There are microphones.
+
+34:12.095 --> 34:17.784
+Diane Baden is wandering through the center of the hall, including Mike.
+
+34:17.804 --> 34:21.389
+There's one to your left, and there's one to your right.
+
+34:21.409 --> 34:23.673
+Or did I do that backwards?
+
+34:24.134 --> 34:24.855
+But they're there.
+
+34:26.297 --> 34:27.559
+Do we have any questions?
+
+34:31.117 --> 34:39.753
+Well, let's see.
+
+34:40.214 --> 34:45.784
+Yes, this one's on.
+
+34:46.456 --> 35:03.100
+I don't think there is such a public perception.
+
+35:03.120 --> 35:09.409
+There is a perception among certain people among the public, among some students,
+
+35:09.727 --> 35:20.804
+Among some leaders, Paul Conway showed me two things from yesterday's New York Times, which I thought were fascinating, and I would say they're both wrong, but then that's fairly typical.
+
+35:21.506 --> 35:23.969
+The answer to multiple choice questions could also be no.
+
+35:25.572 --> 35:37.050
+One of them was saying, this is the future, the rocket e-book is the way everything should be, and one of them can't be bothered with computers at all, and is sort of, eh.
+
+35:38.701 --> 35:42.107
+Well, you know, the fact is adult book sales were up 3% last year.
+
+35:43.509 --> 35:47.917
+The largest retailer on the internet, it primarily sells physical books.
+
+35:48.959 --> 35:52.685
+So, you know, magazine circulation has never been higher.
+
+35:53.967 --> 35:56.331
+So I'm not sure that that perception actually exists.
+
+35:56.772 --> 36:00.979
+And I guess, I mean, university provosts
+
+36:02.326 --> 36:05.310
+You know, future libraries is still usable as a weapon.
+
+36:06.352 --> 36:08.375
+Being analog is still usable as a weapon.
+
+36:08.435 --> 36:14.443
+And yes, I am aware of a professor over in Cambridge when I used that title.
+
+36:15.084 --> 36:17.507
+And you do your best.
+
+36:17.608 --> 36:23.836
+It's going to be an ongoing battle because they really think they can save loads of money by believing that everything is digital.
+
+36:24.157 --> 36:26.460
+And belief is a really tough thing to fight.
+
+36:26.710 --> 36:40.591
+Can I ask an impression, a comment that Paul made, that this is really worrying that the way you say everything which is important should be on the web.
+
+36:40.631 --> 36:48.162
+That is the corporate culture that we have in the consortium which is based on the fact that people are all around the world and many of the people in fact who come to work in it.
+
+36:48.142 --> 36:57.757
+The MIT office have since, for family reasons, decided that other management family need to be other places in the world, and have moved to different states, to different countries, and we've kept them on the team.
+
+36:57.777 --> 37:07.753
+So, practically for us, within the discourse of our daily work, it is very impolite to discuss something unless you can give a point to it, because you exclude all the people who aren't physically in the room.
+
+37:07.733 --> 37:09.154
+who can't physically get to the coffee.
+
+37:09.475 --> 37:16.162
+I think this does not apply to all the archives that you have on physical objects or things in the museum, which are really important.
+
+37:16.182 --> 37:21.628
+It doesn't imply that if you can't get them onto the web instantly, they're not valuable, of course.
+
+37:22.228 --> 37:24.571
+So it's an interesting way of running a team to say this.
+
+37:24.671 --> 37:28.975
+In other words, I think this doesn't apply to everything else.
+
+37:28.995 --> 37:33.160
+I'd just like to put my weight behind physical things, too.
+
+37:33.180 --> 37:34.061
+Question from Bob.
+
+37:34.882 --> 37:36.323
+This is to Tim.
+
+37:36.843 --> 37:43.251
+We've seen recently that the internet is very vulnerable to all these viruses, the love bug viruses.
+
+37:43.271 --> 37:49.238
+And it seems that there are certain software that the love bug seems to love a lot.
+
+37:50.760 --> 37:56.366
+But my concern is that it points out the very fragile nature of the internet.
+
+37:56.506 --> 38:03.475
+And the World Wide Web is still linked to it because when your email is down or your internet is down, everything is down.
+
+38:03.835 --> 38:05.517
+Is there any way we can
+
+38:06.121 --> 38:14.646
+protect the whole system or are we at the mercy of Microsoft internet browsers or other browsers?
+
+38:15.098 --> 38:20.086
+I'd rather been a neutral consortium, so I don't make statements about particular companies.
+
+38:20.106 --> 38:25.134
+But I would say what you point out is not anything to do with fragility specifically of email.
+
+38:25.955 --> 38:31.544
+What you're looking at is the fragility of a system which is not fractal, which does not have structure at every level.
+
+38:31.664 --> 38:34.328
+The fractal system has many different sorts of software.
+
+38:34.348 --> 38:38.495
+It has a mixture, a good balance between homogeneity and diversity.
+
+38:38.595 --> 38:43.182
+We really need, in our society and in our software, diversity to survive.
+
+38:43.162 --> 38:49.448
+And what happens when you have a gene pool, or you have a very large population with a very small gene pool, is that a virus wipes it out.
+
+38:49.468 --> 38:56.314
+And guess what happens when you have a very large amount of software, which all comes out from the same, is cut from a copy of the same CD-roll, and a virus wipes it out.
+
+38:56.734 --> 39:05.362
+And you can make audio about how a particular manufacturer writes software, and you can, you know, put it up, basically, the effect would have been quite easily avoided with a little bit of thought.
+
+39:06.062 --> 39:09.846
+But the more fundamental point, I think, is about the structure, is about diversity.
+
+39:09.966 --> 39:12.628
+So I think you've made a point for diversity.
+
+39:12.608 --> 39:17.492
+It didn't affect anybody around the team at all.
+
+39:17.532 --> 39:23.858
+In fact, hardly anybody but you was taken out by it, although I understand that the United Nations went down its lanes.
+
+39:28.683 --> 39:30.044
+Yes, email went out.
+
+39:30.704 --> 39:33.847
+But it didn't take out from the web access.
+
+39:33.867 --> 39:35.289
+Generally, the internet was still there.
+
+39:35.309 --> 39:37.150
+It was people's mail.
+
+39:37.551 --> 39:40.253
+So the email was still there.
+
+39:41.498 --> 39:42.421
+Yeah, diversity.
+
+39:43.063 --> 39:45.391
+We need diversity in all things.
+
+39:45.491 --> 39:53.719
+And I think that whether it's analog or digital, if it's completely uniform, then it's a weakness.
+
+39:53.969 --> 39:59.418
+Some of you don't count that enough.
+
+39:59.998 --> 40:09.433
+Well, part of it, what happens is that because the software is connected, that it's a whole human company to get down on the system.
+
+40:09.453 --> 40:16.544
+So we're denied access at all to the internet.
+
+40:17.626 --> 40:19.889
+Now you're a serious problem.
+
+40:20.130 --> 40:20.230
+Sure.
+
+40:20.800 --> 40:27.240
+agreeing with everything he said actually, and of course I'm free to make nasty comments, which in this case I won't.
+
+40:29.928 --> 40:34.843
+That is a problem, I hate to say it, but needs to be solved in your own corporate culture.
+
+40:35.245 --> 40:51.708
+Now, we didn't shut down because, as it happens, we used two email systems, neither of which has ever heard of Microsoft Outlook, partly because one of them is 22 years old, and the other one is from a company I have very little respect for but happened to turn out good resuming software.
+
+40:52.269 --> 41:03.345
+The other part of this, the attacks on the internet itself, denial of service attacks, there was a wonderful, lengthy article in the Industry Standard about two weeks ago
+
+41:04.321 --> 41:13.858
+that shed some light on the reality of the extent to which denial of services standards were really threatening the internet, which is the threat has been enormously overblown.
+
+41:14.459 --> 41:22.072
+Unfortunately, partly because there are commercial concerns that want to make the internet safer for business by making it less useful for everybody else.
+
+41:22.853 --> 41:29.164
+And it was interesting that it was a business magazine that did a remarkable job of pointing out the extent to which this was true.
+
+41:29.144 --> 41:32.871
+And the virus is, you know, yeah, it's lack of diversity.
+
+41:33.051 --> 41:39.383
+You know, if we all marry our cousins, eventually we're going to have a lot more problem with diseases.
+
+41:39.563 --> 41:42.469
+And I think we're seeing that, and diversity is the answer.
+
+41:43.811 --> 41:45.955
+We have a question from the floating mic.
+
+41:46.559 --> 41:52.548
+My name is Bishop Carter, I'm an editor of the Los Angeles Times, although I'm not here as a journalist.
+
+41:52.568 --> 41:56.094
+I have a question that follows on the diversity issue.
+
+41:56.114 --> 42:03.285
+I work in the Macintosh world, and so I know what the pressures are like to get those things out of there and get some PCs on everybody's desk.
+
+42:03.886 --> 42:07.251
+But the question I have, something that Tim said earlier about
+
+42:07.788 --> 42:10.952
+Library seating to discourage proprietary formats.
+
+42:10.972 --> 42:20.686
+It's one thing that I do within my world are a dozen different file types at all times that are constantly migrating and constantly upgrading.
+
+42:21.166 --> 42:23.850
+And after a couple years go by, they don't work on the new hardware.
+
+42:23.990 --> 42:27.054
+And so to me, that's a diversity issue.
+
+42:27.094 --> 42:29.678
+And I wonder how you address things like that.
+
+42:32.273 --> 42:42.125
+Well, that, I suppose, is my life, is dealing with the tensions between the needs of diversity and the advantages of homogeneity.
+
+42:42.305 --> 42:59.665
+The history of HTML was that, before the consortium was founded to be a place where people could meet to bring these together, every browser you'd ever heard of had a set of extra features, and it was sold on the basis of these extra features in which you would use an X version of HTML.
+
+42:59.830 --> 43:15.360
+And it was, in fact, the irony was that because HTML was the universe that was invented, anybody could use it, anybody could think about the next possible, anybody could write software for it, anybody could develop it in a particular direction.
+
+43:15.380 --> 43:17.283
+So it was a very broad basis of development.
+
+43:17.404 --> 43:21.872
+So it advanced very, very quickly, but also advanced towards its frequency very, very quickly.
+
+43:21.852 --> 43:28.921
+And in fact, it was a very short cycle of people producing new slope tag that is in, that diagonal tag is in.
+
+43:28.941 --> 43:35.469
+So coming back towards, for a few weeks, one browser would do slope and the other one would do diagonal.
+
+43:35.489 --> 43:39.114
+And then both engineering teams would be told to support slope and diagonal.
+
+43:39.614 --> 43:43.980
+And they'd find that this was a waste of time when it comes to consortium saying we want to do rotating text.
+
+43:45.021 --> 43:47.184
+This is a fictitious example for each other.
+
+43:47.244 --> 43:50.408
+And we just want to discuss whether the parameters should be degrees or radians.
+
+43:50.675 --> 43:54.681
+And that cycle would just be a few weeks.
+
+43:55.282 --> 43:58.987
+So that is my criticism of the big question.
+
+43:59.007 --> 44:02.612
+But yes, every time you have a very big standard, it holds the world back.
+
+44:02.632 --> 44:05.637
+It means that you can't use the latest techniques in your document.
+
+44:06.338 --> 44:16.512
+And having a very wide number of different, interesting, exciting new programs out there is what's bringing technology forward.
+
+44:16.532 --> 44:20.378
+And you can do more and more exciting multimedia displays for your virtual museum.
+
+44:20.999 --> 44:25.144
+But a lot of these things flow very quickly.
+
+44:26.225 --> 44:40.803
+The marquee tag, which allows you to put crashing lights around something, still exists in some browsers, but is no longer a selling point, either for websites or for browsers, and the bling tank is now sort of embarrassing for everybody to be involved in it.
+
+44:40.823 --> 44:42.805
+I think that it is worth
+
+44:43.443 --> 44:51.119
+pointing out that web pages are out for so much longer than people imagine, than people make them for.
+
+44:51.139 --> 45:00.760
+So it is so that if you go and look at a website design and the choice there is whether to use the latest
+
+45:00.976 --> 45:07.415
+Flash doing splash, you know, or explode.com's their latest offering in multi-media things.
+
+45:08.137 --> 45:14.496
+Autocon, you think something which looks incredibly boring by today's standards, but will be so visible at the end of the day of time.
+
+45:15.320 --> 45:20.369
+It's worth explaining people how, in fact, you could do quite a lot with HTML.
+
+45:21.611 --> 45:24.957
+There are a lot of things you can point out as well.
+
+45:25.839 --> 45:34.715
+But if they use HTML, they're doing a potential thing with the HTML page.
+
+45:34.735 --> 45:39.724
+One of the mantras is separating the content from the presentation.
+
+45:39.704 --> 45:45.195
+And that used to be something which the STML community was very, very keen about.
+
+45:45.817 --> 45:56.278
+Everybody can try and keep the basic confidence standard.
+
+45:56.984 --> 46:00.413
+And it just didn't sell until the conversions happened.
+
+46:00.433 --> 46:04.723
+This conversions to people who have been writing about the years have become boring.
+
+46:04.743 --> 46:09.515
+And suddenly, in fact, it's happening now that you can browse the web on your cell phone.
+
+46:09.876 --> 46:12.763
+Well, I had a communications that was in Japan, picked up one of these stock emotes.
+
+46:12.964 --> 46:14.588
+It'll web-browse the listing.
+
+46:14.568 --> 46:21.177
+and went to the WTO website and was pleased to find that she could actually browse our website.
+
+46:21.277 --> 46:26.824
+It's partly because we didn't use any JavaScript, which the people of Gadget would not use.
+
+46:27.465 --> 46:34.534
+But also, we have a web accessibility initiative, which looks into a Halloween website, which people can browse if they're
+
+46:35.020 --> 46:52.120
+visually impaired, or they can't use a keyboard, or they can't use a mouse, and you end up getting some rules of design that are very much involved separating the context from the way you're presenting it, because a lot of the people you're interested in are getting some sort of disability, and we design it according to the disability guidelines.
+
+46:52.140 --> 46:59.188
+And that, in fact, has helped us to be independent of a particular browser, and hence independent of the device, which you use of.
+
+46:59.168 --> 47:13.189
+If you use these to see that when your websites follow these rules also, you can browse all kinds of little gadgets that you take out of your pocket, or you find a little wall, or you find a 20 billion pixel data wall, perhaps in the future.
+
+47:13.950 --> 47:21.602
+So this rule of actually using a pretty good content in the presentation is a very good one.
+
+47:21.622 --> 47:25.227
+I encourage people to stick with and liquid standards, of course.
+
+47:26.337 --> 47:27.059
+Thank you.
+
+47:27.561 --> 47:30.590
+I think we have an opportunity to get back on schedule.
+
+47:30.610 --> 47:38.473
+I know you have many more questions, but thank our two questions.
+
+47:49.287 --> 47:57.680
+Lunch will be picked up in the hallway in case you forgot what you ordered in your envelope.
+
+47:57.700 --> 47:59.888
+Feel free to come back and eat at your table.
+

@@ -1,0 +1,1694 @@
+WEBVTT
+
+00:02.309 --> 00:05.973
+I'm with Charles Fleishauer.
+
+00:06.674 --> 00:07.175
+I'm sorry.
+
+00:07.235 --> 00:09.238
+I need new glasses, by the way.
+
+00:09.718 --> 00:11.040
+I have an appointment.
+
+00:11.360 --> 00:11.620
+Don't worry.
+
+00:11.681 --> 00:13.963
+It's Carl Fleishauer, I'm sorry.
+
+00:14.864 --> 00:18.769
+And you are the technical coordinator for the National Digital Library Program.
+
+00:19.230 --> 00:22.434
+So can you just tell me a little bit about what that involves?
+
+00:24.136 --> 00:28.401
+Maybe act as if I know nothing about the National Digital Library Program.
+
+00:29.039 --> 00:49.242
+The digital library program at the Library of Congress is focused on the reproduction of historical collections, the reproduction of historical materials, and we want to provide access for people to
+
+00:50.605 --> 00:54.410
+materials especially from our Special Collections Division.
+
+00:54.510 --> 01:03.782
+So there's been a considerable emphasis on photographic collections and manuscript collections and collections from the Music Division.
+
+01:04.904 --> 01:10.070
+Recently we've added to what we've put online materials from the American Folklife Center.
+
+01:10.111 --> 01:13.275
+There's a folk music collection and there's also a math collection.
+
+01:13.916 --> 01:16.579
+Now in that mix of things,
+
+01:17.099 --> 01:22.707
+Of course, we have an interest in printed matter and books.
+
+01:23.208 --> 01:37.608
+And the printed matter collections that have been prepared thus far include broadsides, pamphlets, and some books.
+
+01:38.930 --> 01:46.701
+The point, I think, is to suggest that books are part of a mix of different types of materials that we reproduce,
+
+01:47.153 --> 02:01.749
+And I would say our emphasis so far has been as much or more on materials other than books and rather less on books, but we have done some and we're coming along on that.
+
+02:02.570 --> 02:11.220
+The principal reason for the Digital Library Project at the Library of Congress is...
+
+02:12.095 --> 02:19.722
+the provision of access, that is the creation of a resource that would be useful especially to the field of education.
+
+02:20.343 --> 02:39.520
+We have traditionally served scholars and higher education people, both teachers and students, and have not traditionally provided much service to the lower levels of education, K-12 education,
+
+02:39.955 --> 02:48.604
+And the Librarian of Congress clearly sees the movement of selected materials onto the Internet as a way of broadening our audience.
+
+02:48.724 --> 02:58.093
+That is, that we can provide service to the field of education in a way from top to bottom, whereas we've only really been doing it from the middle to the top.
+
+02:59.274 --> 03:07.903
+And that means that the selection of materials and the way in which the materials are presented
+
+03:08.727 --> 03:29.298
+is intended to serve this function of providing a resource for education and also providing a resource to, you know, the lifelong learner, as the buzzword goes, you know, meaning citizens who are not in formal education at this point.
+
+03:29.318 --> 03:32.423
+The reason that's
+
+03:32.707 --> 04:01.701
+interesting in the arena of digitizing materials including the digitization of books is that it tends to influence the technical approaches that are taken for example there are other projects at universities part of what's going on at Cornell and part of what goes on at Yale where the impetus has come
+
+04:02.407 --> 04:10.316
+And the human energies involved have come from people that have been traditionally in preservation work.
+
+04:10.336 --> 04:13.841
+They have the same people, actually, wearing two hats, which is amazing.
+
+04:14.481 --> 04:16.824
+Well, I think, and that's highly appropriate.
+
+04:16.884 --> 04:17.966
+It's an excellent thing.
+
+04:18.026 --> 04:30.000
+And it means, though, that their frame of reference tends to be a continuation or an expansion of preservation programs
+
+04:30.419 --> 04:36.928
+And it's especially important, of course, with brittle books and the risk of loss of brittle books and damaged books.
+
+04:37.669 --> 04:41.795
+And in a way, you could read their question in the early stages.
+
+04:41.895 --> 04:45.500
+I think they've all gotten more sophisticated and complicated about it lately.
+
+04:45.540 --> 04:58.198
+But in the early movement, one detected there the question, when can we stop microfilming and start making digital copies for the books that have to be discarded?
+
+04:58.904 --> 05:03.890
+And the Cornell Project has been an absolute national model on that.
+
+05:03.930 --> 05:10.439
+Everybody's really grateful for it, and they've set a number of technical standards and so on that are very helpful.
+
+05:11.200 --> 05:23.275
+But I'm contrasting that approach with where we have found ourselves, for example, in which the motive from the Librarian of Congress has been more
+
+05:24.638 --> 05:29.684
+to think about provision of access and to think about the broad provision of access.
+
+05:29.864 --> 05:44.742
+And interestingly, one of the impacts of that is that when we select materials of all kinds, including books, the selection is not based on judgments about condition.
+
+05:46.064 --> 05:53.413
+Now, sometimes the condition in which a book is or something else, you know, then has certain ramifications about what we do technically.
+
+05:53.647 --> 06:09.946
+but the selection is done for the sake of the either known or hoped for or presumed value of the material to people in the field of education.
+
+06:09.966 --> 06:11.007
+How about if I do that?
+
+06:11.127 --> 06:12.509
+You sure?
+
+06:12.569 --> 06:21.139
+Okay, so we're selecting for, well...
+
+06:21.372 --> 06:27.681
+In the first years, of course, we selected against a presumption of value because it was really hard to see what there is.
+
+06:27.701 --> 06:37.995
+I think more and more we now have users in the education community and will be able to replace the presumption of value with, you know, some clear sense of value.
+
+06:38.075 --> 06:41.980
+Could you just, for the record, tell me when you began, when the project began?
+
+06:42.981 --> 06:47.127
+The activity here...
+
+06:47.697 --> 07:02.553
+started as a pilot project that was nicknamed American Memory, and in fact John Cole and James Billington, the Librarian of Congress, I think, cooked up the idea and the name between the two of them at dinner one night or something.
+
+07:02.573 --> 07:07.539
+This would have been back in 1988 or 1989, I think probably 1988.
+
+07:07.619 --> 07:16.168
+And there were some others of us who then...
+
+07:16.705 --> 07:21.794
+were told of the idea and ultimately enlisted in the effort.
+
+07:22.255 --> 07:40.907
+And I had previously worked on some technical projects, so beginning in about 1989, I found myself helping plan what this American memory thing might be, since it sort of was a notion at a fairly high level and hadn't gotten to the practicalities.
+
+07:41.765 --> 07:52.897
+Then beginning in 1990, where we had a formal congressional authorization, you know, we go to Congress to make sure that we have an idea that meets their interests.
+
+07:53.078 --> 08:07.614
+And so we got funding from Congress for a five-year pilot, 1990 through 1994, and it was on a fairly small scale and used CD-ROM technology and so on.
+
+08:07.674 --> 08:09.696
+And when we came to the end of the pilot,
+
+08:10.030 --> 08:12.254
+It was clear that there was high interest.
+
+08:12.474 --> 08:17.282
+There was especially high interest in the K-12 community.
+
+08:17.702 --> 08:24.253
+High schools, especially, were seeing, having stuff in computerized form was useful.
+
+08:25.415 --> 08:32.146
+In fact, one teacher, who may have been a school librarian, I can't remember, sort of had an interesting aphorism.
+
+08:32.166 --> 08:32.967
+She said...
+
+08:34.853 --> 08:38.398
+I'm using history to teach about the computer.
+
+08:38.578 --> 08:39.940
+I think that's how she put it.
+
+08:40.480 --> 08:52.215
+That is, having historical materials helped her get students in the school library to think through how to use the computer and how to search and research for things.
+
+08:52.336 --> 08:55.920
+I mean, it was sort of a complete reversal of what most people would have said.
+
+08:55.940 --> 09:03.510
+And what's also accurate is that the computer draws some young people to the use of these materials.
+
+09:04.283 --> 09:14.061
+But she was interested in sort of sharpening their skills with research method and searching, which can be complicated, as you know, in the computer environment.
+
+09:14.081 --> 09:26.865
+Anyway, in 1994, it was clear that we should go on, but it was also clear that congressional support would be limited or certainly wouldn't grow.
+
+09:27.352 --> 09:31.678
+And so Dr. Billington faced the problem of, well, what do we do next?
+
+09:31.758 --> 09:32.840
+How do we proceed?
+
+09:32.860 --> 09:45.998
+And in 1994 and 1995, there was this big effort to define the project in a broader way for the next five years, and a fundraising effort ensued.
+
+09:46.399 --> 09:55.131
+And with a leadership gift from the Packard Foundation, this is the David and Lucille Packard Foundation,
+
+09:55.718 --> 10:07.922
+They gave $5 million, shortly followed by an additional gift of $5 million from John Kluge, and that really launched us, and then additional funds have been raised since.
+
+10:07.942 --> 10:18.402
+So we now have a project that is, once all the fundraising gets done, if we meet the goals, would be two-thirds donated funds.
+
+10:18.668 --> 10:23.454
+gift funds of one sort or another, and one-third congressional support.
+
+10:23.674 --> 10:26.317
+And there's no problem with the Congress on that?
+
+10:27.198 --> 10:45.239
+I think our sense of it is that Congress is very supportive, and, you know, everybody likes, I think everyone likes the idea of using appropriated funds, the taxpayers' money, as a kind of leverage to encourage private donations, you know, to match it.
+
+10:46.741 --> 10:47.882
+My, I mean,
+
+10:48.790 --> 10:54.016
+I'm not the right person to sort of say what that is.
+
+10:54.096 --> 11:03.127
+You know, we have folks who are officers in charge of congressional relations and so on, you know, but my sense is that it's all extremely warmly supported.
+
+11:03.247 --> 11:18.105
+Newt Gingrich himself is keen on future technologies, and when he arrived with the, was that the 104th Congress, the Congress that he was the speaker for the first time, he was enthusiastic, and, uh,
+
+11:18.878 --> 11:36.296
+Vice President Gore has been enthusiastic about the national information infrastructure, so I think it's really one of these cases where you have some bipartisan support, and I believe that what the library has been doing has seemed beneficial and useful, so it's been well supported.
+
+11:36.817 --> 11:48.109
+Anyway, the point was that we had this five-year pilot, and now we have kind of a five-year program that's defined for the digital library, and we're in the middle of that.
+
+11:48.983 --> 11:50.365
+And so you have a website.
+
+11:50.946 --> 11:51.246
+Right.
+
+11:51.366 --> 12:04.265
+Actually, the other thing I could say is that 1994 marked the point where the World Wide Web became visible, obvious, and widely used.
+
+12:04.726 --> 12:07.310
+It had invention some years earlier.
+
+12:07.370 --> 12:10.955
+It's the creature of some physicists in Switzerland, I think.
+
+12:11.716 --> 12:15.902
+But it burst forth in a way...
+
+12:16.152 --> 12:18.935
+just about the moment when we finished our pilot.
+
+12:18.995 --> 12:30.630
+So it also was a very convenient moment for us to begin to wean ourselves from CD-ROM discs, which I think are awkward for this kind of material at the extent that we have.
+
+12:31.431 --> 12:35.496
+It's not awkward for little batches of stuff, but it's really awkward for big batches of stuff.
+
+12:36.377 --> 12:45.568
+And to move into the World Wide Web environment, which we did, and I think October of 1994, if I'm remembering right, marks our debut...
+
+12:45.970 --> 12:49.255
+with historical collections on the World Wide Web.
+
+12:49.275 --> 12:50.397
+And your website is?
+
+12:51.699 --> 13:03.939
+The www.loc.gov is the Library of Congress homepage, and very, very prominent on the homepage is the place to click to get to American memory.
+
+13:03.999 --> 13:09.227
+We've kept the American memory name for the current period as a...
+
+13:09.848 --> 13:12.070
+sort of a trademark almost.
+
+13:12.131 --> 13:19.078
+It's not legally a trademark, but it's a series name or a mark for the collections, although the pilot program is over.
+
+13:20.340 --> 13:25.065
+And anyone can go in and access any of these?
+
+13:25.145 --> 13:25.365
+Right.
+
+13:25.385 --> 13:27.007
+Is this research step material?
+
+13:27.848 --> 13:31.832
+Well, the collections that we have up, I'll give you some examples.
+
+13:31.993 --> 13:33.274
+I think they are
+
+13:35.245 --> 13:38.209
+I think the depth is there more than the breadth, in a way.
+
+13:38.229 --> 13:41.393
+You know, we have about 20 collections.
+
+13:41.413 --> 13:43.996
+The Library of Congress has thousands of collections.
+
+13:44.036 --> 13:52.087
+And for the breadth, for serious research, you need literally hundreds of collections because a researcher will need to move from one collection to another.
+
+13:52.748 --> 13:56.072
+So I think as we move forward,
+
+13:56.744 --> 13:59.828
+Gosh, it's like publishing an encyclopedia.
+
+13:59.848 --> 14:06.636
+You know, we've got volumes A, B, and C up there, and until we get all the way to volume Z, it won't have the breadth one needs.
+
+14:07.598 --> 14:11.062
+But the collections are varying in their depth.
+
+14:11.482 --> 14:19.933
+We put up, for example, the entire batch of life histories from the federal writers' projects
+
+14:20.302 --> 14:22.406
+what they call their folklore project.
+
+14:22.446 --> 14:27.515
+The Federal Writers Project had a number of different things that they did, and one was called the Folklore Project.
+
+14:28.096 --> 14:33.606
+So that is those life histories number about 2,900.
+
+14:33.866 --> 14:44.605
+It covers about 22,000 pages of typescript because the life histories were typed rather than tape-recorded.
+
+14:45.243 --> 14:50.569
+And it covers, I think, 24 states of the United States.
+
+14:50.669 --> 14:52.952
+We don't have things from every state.
+
+14:53.312 --> 14:56.016
+And it's a rich and varied collection.
+
+14:56.076 --> 14:57.798
+I think there's been a lot of use of it.
+
+14:58.038 --> 15:03.625
+And I think there's some, you know, it's got good depth.
+
+15:04.886 --> 15:08.330
+Another collection with... And it's all text, by the way.
+
+15:08.410 --> 15:08.710
+Correct.
+
+15:08.730 --> 15:10.052
+There's no visual stuff.
+
+15:10.471 --> 15:19.365
+That's text collection, and the federal writers were out-of-work writers who were hiring.
+
+15:19.465 --> 15:23.050
+I know the history of the project, but I'm thinking in terms of what you put up on the website.
+
+15:23.491 --> 15:30.842
+The Internet really is remarkable for things that it can give you that you can never get in text.
+
+15:31.160 --> 15:34.927
+Well, I'll get to those in a minute.
+
+15:34.948 --> 15:36.631
+We've got glories in the other way.
+
+15:36.691 --> 15:39.196
+I'm sorry, am I belaboring this too much?
+
+15:39.296 --> 15:40.438
+No, no, no, no.
+
+15:41.420 --> 15:51.801
+Yes, that's a text collection, and I think what has really made it useful to a broader audience is the fact that the texts were transcribed and made searchable.
+
+15:52.473 --> 16:05.014
+So that one can look at these 22,000 pages and, you know, if you're curious about jazz music or Armenian immigrants or whatever it is, you can search.
+
+16:05.034 --> 16:08.119
+Well, you're searching the actual full text of the documents.
+
+16:08.707 --> 16:10.390
+And they lend themselves to that.
+
+16:10.410 --> 16:18.262
+To get to your own interest in a book, I would say, well, they are narrative in quality, but they are very short narratives.
+
+16:18.523 --> 16:28.279
+And it's in fact quite convenient to find an eight or ten page block of stuff by finding keywords in it, and then that makes sense to read.
+
+16:29.260 --> 16:30.462
+Another...
+
+16:30.779 --> 16:44.777
+I think deep collection for a person who's interested in a certain kind of iconography is a pictorial one, and that is the complete negative holdings that we have from the Detroit Publishing Company.
+
+16:44.817 --> 16:47.581
+The Detroit Publishing Company was in the postcard business.
+
+16:48.382 --> 16:52.307
+We have their negative file for what they had east of the United States.
+
+16:52.467 --> 16:57.934
+The stuff west of the United States went to the Colorado Historical Society
+
+16:59.095 --> 17:02.799
+and someday they'll digitize those and they'll unite them.
+
+17:03.059 --> 17:09.645
+Isn't that beautiful where you can actually get a very synergistic kind of a collection out of... Well, I think so.
+
+17:09.966 --> 17:21.637
+But our negatives, there were 25,000 in number, glass plates, for the most part glass plates, 8 by 10 inches, and there was really no access to them.
+
+17:21.937 --> 17:27.803
+It was not affordable to make a print of each one, so in effect the collection was...
+
+17:28.559 --> 17:29.661
+You know, unusable.
+
+17:30.843 --> 17:44.103
+And we had a project to, you know, with a contractor first made motion picture film, and then the motion picture film was scanned, and the 25,000 pictures were cataloged, and they're up there now.
+
+17:45.505 --> 17:55.461
+And I think most people use them to, you know, find illustrative materials that get at hometowns,
+
+17:55.677 --> 17:59.060
+If they're curious about that, certain towns are very well covered.
+
+17:59.100 --> 18:00.582
+It's turn of the century, I should say.
+
+18:00.622 --> 18:04.145
+The date range is about 1880 to 1920.
+
+18:04.226 --> 18:06.768
+And some states are very well represented.
+
+18:06.828 --> 18:08.190
+Some are poorly represented.
+
+18:08.290 --> 18:09.811
+So it's kind of a luck of the draw.
+
+18:09.851 --> 18:12.554
+But where it's well represented is very good stuff.
+
+18:12.654 --> 18:17.018
+Now, what would be interesting, you know, this is a question of research depth.
+
+18:19.301 --> 18:20.622
+We had a...
+
+18:21.125 --> 18:29.359
+We had an evaluation period, and one of our evaluation sites was an elementary school in Indianapolis, Indiana.
+
+18:29.519 --> 18:34.788
+As luck would have it, Indianapolis is well represented in this collection.
+
+18:34.808 --> 18:43.082
+So we had one of our staff folks went over to visit the site and try to gauge how it was used, and she went along on a bus trip through town.
+
+18:44.108 --> 18:57.420
+where the kids had printed out pictures of different places in Indianapolis from this collection at the turn of the century, and where they went to look at the buildings or those places today, you know, and snapped their own snapshots.
+
+18:58.882 --> 19:05.988
+And so you can see how, you know, in that case, literally at the elementary school level, that collection works.
+
+19:06.008 --> 19:13.255
+What I haven't seen, which I think is potentially there, and I used the word iconography before, I think there's
+
+19:13.724 --> 19:27.067
+enough in that collection that would wrestle with the question of how a commercial picture enterprise portrays the cityscape or how it portrays public buildings.
+
+19:27.728 --> 19:31.935
+I mean, one might be curious about is there something that is done to make
+
+19:34.160 --> 19:36.083
+capitals look more heroic.
+
+19:36.103 --> 19:37.806
+I mean, I don't know what it is.
+
+19:37.826 --> 19:39.709
+There's an angle you can see.
+
+19:39.869 --> 19:52.229
+And so it wouldn't be hard to imagine a devoted graduate student in American Studies somewhere mining this collection because it's so large to get at some of those things.
+
+19:52.669 --> 19:58.058
+If you're a professional writer like myself, however, and you wanted to write something...
+
+19:58.814 --> 20:06.703
+and you wanted to see the correspondence and the records and the stuff like that, well, then this is a first step.
+
+20:06.743 --> 20:11.228
+Then maybe I have to call someone here and say, well, what kind of documentation do you have to do?
+
+20:11.428 --> 20:13.310
+What kinds of artists did they hire?
+
+20:13.390 --> 20:15.252
+What was the conversation for this?
+
+20:16.093 --> 20:16.974
+You know, that kind of stuff.
+
+20:17.154 --> 20:21.298
+I think, in fact, in this case, the collection really is dispersed somewhat.
+
+20:21.339 --> 20:27.285
+My understanding of the history of it was that it was first, and the company was located in Detroit, Michigan,
+
+20:27.890 --> 20:36.601
+when they went out of business, or at some point after they went out of business, all of their holdings went to the Henry Ford Museum in Dearborn.
+
+20:37.502 --> 20:48.615
+And the Henry Ford Museum wanted, I think in the 1940s or 1950s, they didn't feel that they could properly take care of the glass negatives.
+
+20:48.635 --> 20:54.943
+And the glass negatives at that point were shifted half to the Library of Congress and half to the
+
+20:55.312 --> 20:57.096
+Colorado Historical Society.
+
+20:57.176 --> 20:58.498
+I think we got them in the 50s.
+
+20:58.518 --> 21:01.384
+I wonder why they did a division like that.
+
+21:01.524 --> 21:03.668
+I don't know the details.
+
+21:03.709 --> 21:13.969
+My impression, although I'm not certain of this, is that it may be that the Henry Ford Museum retained whatever company files there may have been.
+
+21:13.989 --> 21:15.632
+So...
+
+21:15.899 --> 21:45.889
+the point is that indeed you may need to go look for some more information if you really wanted to delve and in this case the Library of Congress might not be able to provide it we have other collections we're working on again that have that same depth we are in the middle of working on the Farm Security Administration Office of War Information collection and of course the Farm Security Administration photos are world famous in that case we do have
+
+21:46.291 --> 21:50.958
+one significant block of written documentation that accompanies them.
+
+21:51.419 --> 22:02.957
+There's an additional significant block in Louisville, I think it's at the University of Louisville, which were donated by Roy Stryker, who ran the project.
+
+22:03.037 --> 22:05.200
+I think it was like his personal papers went there.
+
+22:05.441 --> 22:09.647
+And the National Archives has the official records of the Department of Agriculture.
+
+22:10.829 --> 22:14.695
+So here again, you get a sort of division on the different categories.
+
+22:15.046 --> 22:20.294
+Do you have the equipment here, or do you outsource the scanning, or do you do it here?
+
+22:21.296 --> 22:30.010
+Most of the time we contract out, and we've had a specialist contractor for pictures.
+
+22:31.051 --> 22:41.087
+I think we had a specialist contractor for the Federal Writers Project manuscripts, which were scanned in 1991 or 1992, something like that.
+
+22:41.371 --> 22:45.837
+We have a different contractor now that's scanning manuscript and book materials.
+
+22:45.937 --> 22:54.108
+We have another specialty outfit, actually two, for motion pictures, because we're doing early motion pictures.
+
+22:54.128 --> 22:56.591
+You're not limited by the equipment that you have in the building.
+
+22:56.672 --> 22:59.676
+I mean, you're limited really by the plants that you have available.
+
+22:59.876 --> 23:00.316
+Right.
+
+23:00.497 --> 23:08.948
+Well, each one of these collections poses a unique set of technical headaches, and
+
+23:09.502 --> 23:20.114
+it has been, I think, effective for us to have separate procurements, you know, over the years, you know, trying to find the best way to do these things.
+
+23:20.134 --> 23:25.941
+Well, to do glass negatives must present a particular... Well, you get handling problems.
+
+23:26.321 --> 23:27.863
+Well, it's really just handling.
+
+23:27.903 --> 23:30.366
+Now, those were done at a very early point.
+
+23:30.686 --> 23:34.551
+We actually inherited the movie film from a project that was done in the 1980s.
+
+23:34.811 --> 23:36.673
+The company that did it
+
+23:37.177 --> 23:47.027
+built something that looked like a huge lampshade with translucent glass that rotated around the central light source.
+
+23:47.047 --> 24:02.543
+And they had a work crew where one person took out the glass negative, set it on a panel of the lampshade, it rotated in front of the camera, and exposure was made, and it rotated, and then another person removed it from this lampshade and put it back in the envelope for storage.
+
+24:03.113 --> 24:08.021
+So they had a bit of a production line with this specially built rotating device.
+
+24:08.061 --> 24:09.544
+How was the resolution quality?
+
+24:09.564 --> 24:26.252
+Well, the Detroit pictures are a bit of a disappointment, and I think it has not to do with anything except the decision, because we were working in a video disc environment when we first did it, to use motion picture...
+
+24:27.093 --> 24:32.279
+negative size, which is what you would call a half frame for a still camera.
+
+24:32.819 --> 24:41.049
+And the film itself is not, shall we say, optimal for that.
+
+24:41.129 --> 24:49.058
+If you look at some other collections we've got up, we've used different approaches and larger intermediate film, and in some cases direct digital capture.
+
+24:49.118 --> 24:50.699
+So there's sort of been an evolution.
+
+24:51.480 --> 24:52.982
+The collection we just put up
+
+24:53.300 --> 24:59.773
+which we're proudest of for picture image quality, is a set of 4,000 panoramic photos.
+
+25:00.535 --> 25:03.541
+Again, these are quite interesting for some of the same reasons.
+
+25:04.062 --> 25:09.513
+There's a lot of documentation of Main Street USA, if you will.
+
+25:09.533 --> 25:10.855
+What was it called, this particular?
+
+25:11.336 --> 25:12.659
+Panoramic photograph.
+
+25:13.300 --> 25:14.262
+So every set of...
+
+25:15.338 --> 25:17.780
+Is that a particular collection or anything?
+
+25:17.880 --> 25:21.224
+It could be the Grand Canyon or Manhattan or whatever.
+
+25:21.244 --> 25:21.604
+Right.
+
+25:21.704 --> 25:27.170
+And there are natural scenes, although I think a very, very high proportion tend to be streetscapes.
+
+25:27.330 --> 25:34.637
+They date from about 1860 or 1864, and there's one or two that are Civil War period.
+
+25:34.857 --> 25:36.439
+I mean, I think there is actually a picture.
+
+25:37.580 --> 25:40.042
+It might be Atlanta after it was destroyed.
+
+25:40.142 --> 25:41.063
+I mean, I can't remember.
+
+25:41.103 --> 25:44.046
+Anybody can go on and copy these, too, right?
+
+25:44.515 --> 25:44.936
+Right.
+
+25:45.016 --> 25:59.835
+In this case, we made... Well, we made a... The story of the panoramic photos is that most of them, the largest number of them, were sent in with copyright registrations over the years.
+
+26:01.057 --> 26:06.404
+The photographers planned to market them and did market them locally, and they would register them.
+
+26:07.305 --> 26:11.771
+And I think we checked... I don't know.
+
+26:11.791 --> 26:13.273
+Out of the 4,000...
+
+26:13.861 --> 26:20.708
+about half of them were so far back in history that even if the copyright had been renewed, it would have expired.
+
+26:21.288 --> 26:39.767
+Then there was another thousand or so that could perhaps have been renewed, and we exhaustively checked the copyright records here and determined that the photographers had not renewed the copyright, and then I can't remember, there was a big miscellaneous category we had to
+
+26:40.186 --> 26:57.158
+do triage of one sort or another but we determined I think with a half a dozen exceptions or so that the pictures were now in the public domain and that we had harvested this copyright deposit category just as we do our books of course most of them come in that way the U.S.
+
+26:57.218 --> 27:00.945
+imprint that they were in the public domain so we were
+
+27:02.005 --> 27:13.981
+able to put them online and make them available to people as we have the Detroit collection, which also is not protected, we judge not protected by copyright, to the best of our ability to determine.
+
+27:14.762 --> 27:19.429
+And, you know, so we can share them.
+
+27:19.449 --> 27:29.042
+We will run into more challenges with providing access to material where there's greater ambiguity or in which
+
+27:29.562 --> 27:31.764
+there may be protection of copyright.
+
+27:32.105 --> 27:39.692
+We have before us the problem of making those available without injury to the owners.
+
+27:40.513 --> 27:42.335
+In some cases, we can get permission.
+
+27:42.455 --> 27:44.657
+In other cases, we'll do something else.
+
+27:45.118 --> 27:49.462
+Do you have an idea of how many images you've put up?
+
+27:49.482 --> 27:49.822
+How much?
+
+27:51.164 --> 27:57.510
+Well, it seems to me the pictorial stuff available to the public at this time
+
+27:57.743 --> 28:01.526
+must be on the order of 70,000 to 80,000 pictures.
+
+28:03.929 --> 28:15.719
+And then the various other things we have probably bring us to counting the source items, the things we started with, probably on the order of 100,000.
+
+28:15.779 --> 28:25.708
+The digital files we make, because we have to create multiple versions of some of these things, are probably more like
+
+28:26.313 --> 28:28.456
+400,000 or something like that.
+
+28:28.516 --> 28:39.754
+There are often three or four versions of a photo in different sizes, and with text materials, you know, there may be two versions.
+
+28:40.215 --> 28:49.890
+In fact, to go back to the Federal Writers Project, what we have online is both a facsimile of the page and also the searchable text.
+
+28:50.292 --> 28:52.774
+So there's sort of a dual presentation there.
+
+28:52.794 --> 28:56.157
+So what's the immediate goal of the National Digital Library?
+
+28:56.177 --> 29:08.288
+I mean, do you have numbers that— The target that the Librarian of Congress has set for us is that we're to have five million items by the year 2000.
+
+29:09.169 --> 29:18.257
+And that would be materials from the Library of Congress and, in addition, materials that are done by sister institutions,
+
+29:19.722 --> 29:27.894
+and become, how shall we say it, you'd have a common gateway or a common searching system.
+
+29:28.455 --> 29:30.137
+So you think that's achievable?
+
+29:31.078 --> 29:32.981
+You have the fact that you only have 80,000 by now?
+
+29:33.923 --> 29:35.885
+Well, we have a lot more in the pipeline.
+
+29:37.347 --> 29:43.516
+What I'm telling you there is, and that was pictures only, it's more like 100,000 things that are up right now.
+
+29:43.717 --> 29:46.601
+I would say over the next year we'll double or triple that.
+
+29:46.661 --> 29:48.784
+So there's an awful lot of stuff in the pipeline.
+
+29:49.490 --> 29:58.978
+And in addition, we're just now beginning, I think, to forge the connections with other institutions that will bring those materials in.
+
+29:59.019 --> 30:03.322
+We've had a special program to give awards.
+
+30:04.383 --> 30:11.029
+A donor gave us money specifically to re-donate it, as it were, to support digitizing in other institutions.
+
+30:11.510 --> 30:14.953
+That company was Ameritech in the first round of grants.
+
+30:15.733 --> 30:17.455
+I'm sorry, they're awards.
+
+30:18.177 --> 30:37.847
+We're not a grant-giving institution, but we have a program we call an award program there, where ten institutions were selected in the first year of the competition, ranging from small pieces from, in one case, North Dakota.
+
+30:37.867 --> 30:41.152
+I think it's North Dakota State University or North Dakota.
+
+30:41.453 --> 30:44.117
+Anyway, I'm not remembering exactly.
+
+30:44.823 --> 30:50.672
+There was also an award made to Harvard and one made to New York Public.
+
+30:51.233 --> 31:03.973
+And that begins to get us, you know, and what we'll do there is what we're hoping to do is, generally speaking, not have to sort of take on all of their content, but the cataloging.
+
+31:05.375 --> 31:09.902
+So we would build an integrated catalog that an end user could search,
+
+31:10.355 --> 31:19.124
+that the content could be distributed around all of these places, and, you know, in effect, invisible to the end user, you know, they could reach out and get it.
+
+31:19.785 --> 31:30.315
+There are to be three years of that awards program, and at the same time, there are some activities in other institutions like Cornell and the University of Michigan.
+
+31:30.596 --> 31:32.678
+Both of which I visited for this question.
+
+31:32.698 --> 31:35.721
+Right, and we're hoping that we can...
+
+31:36.157 --> 31:54.688
+find mutually agreeable and mutually beneficial ways, again, to pull, in effect, a catalog into common, perhaps both at their end and at our end, but certainly at our end, and the way in which
+
+31:55.293 --> 32:06.690
+you know, we'll really be able to talk about five million items in what will truly be a national digital library will be if you begin to have these... It will, in fact, be a national library.
+
+32:06.710 --> 32:07.372
+Right.
+
+32:07.392 --> 32:16.225
+And I think everyone who works here thinks that's proper and, you know, eagerly hopes for it and tries to achieve it.
+
+32:16.646 --> 32:23.376
+Now, as technical coordinator, you coordinate... Well, what happens...
+
+32:25.313 --> 32:54.510
+there's in a sense there's a number of technical coordinators it's a tough thing coming up with titles and government work sometimes the digital library is organized with the largest section or group within it is a group that has to do with production or the conversion of material into digital form and you know I'm a member of that group and uh
+
+32:55.402 --> 33:03.554
+maybe I'm a senior member, but there's another woman who works with me who's really more of a supervisor in the boss sense.
+
+33:04.255 --> 33:15.350
+And that group, which is maybe 12 or 15 people, something like that, collectively coordinates LC production of digital content.
+
+33:15.831 --> 33:22.320
+Then there's another part of the digital library, which is called user services, which is the part that has been
+
+33:23.583 --> 33:40.282
+trying to be sure that we're doing the best job we can with making things comprehensible and usable to the field of education, especially K-12 education.
+
+33:40.322 --> 33:47.970
+And they've cooked up a whole part of our website called the Learning Page, which is really aimed at educators,
+
+33:48.727 --> 33:52.152
+and is intended to help guide them into these collections.
+
+33:52.172 --> 34:04.812
+I mean, one of the things we learned during the pilot was that although school systems today are extremely eager to get primary source documents,
+
+34:05.399 --> 34:19.612
+and that there's a real movement in education to reduce the reliance on textbooks and increase the use of primary source materials in an attempt to get critical thinking skills built up.
+
+34:20.753 --> 34:32.284
+Still yet, the teachers are not always as sophisticated as one might need to be to make good use of fairly raw primary source collections.
+
+34:32.652 --> 34:49.630
+So the user services group, you know, is doing what it can to make our collections more comprehensible and to aid teachers in their ability to find things in some of them.
+
+34:50.732 --> 35:01.123
+Do you deal at all with what you mentioned briefly, you know, the area of the question of using digital...
+
+35:01.677 --> 35:05.983
+technology as a preservation tool.
+
+35:06.003 --> 35:07.145
+That's quite a hot subject.
+
+35:07.626 --> 35:13.875
+Well, the Library of Congress is moving in that direction, actually.
+
+35:13.895 --> 35:19.483
+I would say that, again, the digital activities at L.C.,
+
+35:20.307 --> 35:36.030
+launched in 1989 and 1990, really have been access-driven and have been there because the Librarian of Congress really insisted that we find ways to make our materials more available.
+
+35:36.451 --> 35:49.470
+His famous phrase was, get the champagne out of the bottle, and I think he saw that the Internet or the computer or whatever was going to get some champagne out of a bottle to where people could drink it.
+
+35:50.277 --> 36:09.418
+Now, over the five-year pilot, and especially now as we get into the digital library activities, there has increased interest in the preservation office in how digital fits in their realm.
+
+36:11.000 --> 36:15.745
+I'm certain that during the next year or two, we will...
+
+36:16.383 --> 36:34.345
+work actively with Cornell, for example, to try to adopt their approach to reproducing brittle books or damaged books using their concepts and approaches and will seek their help in doing so.
+
+36:34.365 --> 36:37.969
+And as we do more of that,
+
+36:38.422 --> 36:48.135
+then the books that are done in that way could also be made accessible, copyright permitting, by making derivative files or something.
+
+36:48.977 --> 36:54.144
+The interesting thing actually has been in the area of sound recordings.
+
+36:54.784 --> 37:06.100
+I wasn't really aware of this, but I've learned in the last few months that the 3M company and other American manufacturers have ceased, or have virtually ceased,
+
+37:06.468 --> 37:09.593
+to manufacture recording tape, analog recording tape.
+
+37:11.396 --> 37:14.221
+It's a thing of the past, I guess.
+
+37:15.182 --> 37:29.185
+And the preservation approach that had been used by our motion picture recording sound, recorded sound, and broadcasting division had been to make...
+
+37:29.637 --> 37:33.663
+tape copies of materials as preservation copies.
+
+37:33.783 --> 37:39.992
+For example, in some cases they had very old tapes that were falling apart and they made newer tapes of them.
+
+37:40.012 --> 37:54.953
+In other cases we have, again from WPA projects, transcriptions or what are called instantaneous disc recordings from the 1930s that are
+
+37:55.355 --> 38:24.433
+shellac on metal or shellac on glass or acetate on glass it isn't shellac acetate on aluminum or other aluminum materials and some of those are delaminating and coming apart so they make tape copies well they've gotten to the point now where no more tape and so they begin wrestling with the problem of what to do and some of us have seen I've certainly been in this
+
+38:25.375 --> 38:45.582
+state of mind that if the audio can be gotten into a computer file, then you have the capability of maintaining that computer file with the usual methods that are available for the preservation of computerized information, which is really this migration strategy.
+
+38:46.243 --> 38:53.813
+Diane told me that she'd given you that report by Don Waters, and I forget the other chap's name, but the
+
+38:54.232 --> 39:08.119
+I mean, the way digital information is preserved is by copying it through the many generations of equipment that come along, and in some cases by reformatting it as needed.
+
+39:08.159 --> 39:16.054
+And we are in our computer center down here trying to
+
+39:16.793 --> 39:27.807
+construct what we call a digital repository, you know, which will be so constructed as to permit the migration of information in a reliable way.
+
+39:27.827 --> 39:31.011
+But it's one thing to permit it, but who makes sure that it's done?
+
+39:31.031 --> 39:35.676
+Well, this is, you know, I used to smile on this one myself.
+
+39:37.679 --> 39:45.889
+The history of preservation has been, in a way, a history of finding the best medium of
+
+39:46.443 --> 39:48.706
+in putting one's faith in the medium.
+
+39:49.587 --> 40:10.071
+For example, a tremendous effort was put out to make sure that microfilm was reckoned out properly, that the right sort of base material was used for microfilm, and that the processing of the silver halide emulsion was such as to keep that silver image alive, and people reckon there's a
+
+40:10.287 --> 40:18.177
+you know, a 200-year lifespan to a microfilm or a microfilm master, and indeed it may be longer if properly stored.
+
+40:18.197 --> 40:32.915
+But we don't know anything about zeros and ones in various... And in other cases in the area of preservation historically, you also get the acid-free paper and some of those approaches, non-destructive.
+
+40:33.415 --> 40:35.738
+So you have a medium-centric...
+
+40:36.275 --> 40:57.675
+tradition there you know where people are looking at the medium there's to be fashionable in the jargon I think there's a real paradigm shift and the paradigm shift for digital information well I'm afraid it's an embarrassing one I should find a better way to put it but there really is in effect there's a different model
+
+40:58.094 --> 40:59.497
+for digital information.
+
+40:59.577 --> 41:08.754
+You cannot put your faith in media because the longevity of the equipment and the media, I mean, even if the media lasts, the readability of it can be a problem one way or another.
+
+41:08.794 --> 41:11.599
+How do you define a paradigm shift?
+
+41:11.619 --> 41:12.180
+Oh, cripe.
+
+41:12.200 --> 41:14.745
+Somebody wrote a book on it, you know.
+
+41:15.626 --> 41:16.448
+How do you visualize it?
+
+41:16.468 --> 41:20.355
+You don't have to define it, but in the context that you just used it.
+
+41:21.955 --> 41:24.517
+Well, it's a model in a way.
+
+41:24.557 --> 41:35.128
+There was a model of how one goes about this business of preserving things, and the model was you find media that has a very long life, and then you use it.
+
+41:36.249 --> 41:41.834
+The model for the preservation of digital information is forget the media.
+
+41:42.935 --> 41:49.161
+You've got to have a system that migrates, but you asked the right question, which is, well,
+
+41:49.512 --> 41:51.274
+then where are you putting your faith?
+
+41:51.455 --> 41:54.539
+And the answer is you're putting your faith in human administration.
+
+41:55.700 --> 42:03.291
+Now, you could argue that, in fact, even if you're putting your faith in media, you're also putting your faith in human administration.
+
+42:03.351 --> 42:11.282
+I mean, obviously, the microfilm masters need to be stored in vaults that are safe from fire and safe from atom bombs.
+
+42:11.342 --> 42:14.406
+I mean, it's not without its human administration.
+
+42:15.044 --> 42:31.815
+But shall we say the reliance on human administration and strategies for mustering human administration are critical to the preservation of digital information.
+
+42:32.757 --> 42:38.487
+Those of us who work at the Library of Congress, I think at least some of us, take some comfort from the fact that
+
+42:39.057 --> 42:44.363
+In the 1970s, we constructed a very large catalog of our holdings.
+
+42:44.623 --> 42:47.306
+That's digital information, the computer catalog.
+
+42:48.227 --> 42:55.995
+And I don't know how many generations of the mainframe computer we've been through, but we still have our catalog.
+
+42:56.876 --> 43:04.425
+It's migrated now for 20 years, and I don't think anybody doubts that the catalog will continue to be migrated through the future.
+
+43:05.045 --> 43:08.389
+So there is a certain amount of...
+
+43:09.179 --> 43:11.202
+comfort that someone might get.
+
+43:11.262 --> 43:16.809
+But again, the dependency is there for human administration.
+
+43:16.829 --> 43:20.493
+The catalog has migrated for 20 years because that's an essential document.
+
+43:21.054 --> 43:21.515
+Right.
+
+43:21.875 --> 43:24.859
+Nobody's about to forget to do the catalog.
+
+43:25.019 --> 43:25.300
+Right.
+
+43:27.002 --> 43:34.071
+But, you know, you're talking about millions of items at some point.
+
+43:34.972 --> 43:35.052
+Yep.
+
+43:35.977 --> 43:37.259
+You know, it's impossible.
+
+43:37.299 --> 43:41.846
+You know, somebody owns a library of 50,000 books, and somebody foolishly asks, have you read them all?
+
+43:41.866 --> 43:44.310
+Well, that's, you know, it's humanly impossible.
+
+43:44.330 --> 43:48.035
+I don't know anyone who's ever read 50,000 books.
+
+43:48.536 --> 43:58.491
+How do you ensure, you know, through human administration, that everything is migrated, not just the, you know, the catalog, which we know is going to be migrated?
+
+43:58.707 --> 44:06.423
+Well... You know, a little report on ticks, you know, out from the Rocky Mountains that nobody's asked to say in 23 years.
+
+44:06.523 --> 44:11.172
+I guess... I don't know, and there's other people who would be better to answer this.
+
+44:13.357 --> 44:17.425
+My sense of it is that there's a certain...
+
+44:18.907 --> 44:22.150
+that making things digital is an equalizer in this sense.
+
+44:22.250 --> 44:27.254
+That is, they are all ones and ohs, as you say, and they are all computer files.
+
+44:27.535 --> 44:32.879
+And at some level, they're not differentiated by their value one way or another.
+
+44:33.019 --> 44:47.412
+So what you have is you have a huge pool of digital information, and the type of human beings, in fact, that would be charged with the responsibility of sort of day-to-day maintenance...
+
+44:49.096 --> 44:52.600
+I think, don't distinguish between elements in the pool.
+
+44:52.620 --> 44:55.062
+Their job is to keep the pool alive.
+
+44:56.264 --> 45:00.929
+And, I mean, believe me, everybody worries about it, and we should worry about it.
+
+45:01.309 --> 45:04.693
+And citizens in our society, like yourself, should worry about it.
+
+45:04.713 --> 45:08.877
+I'm not saying that we oughtn't to worry about it, and I don't mean to be glib about the solution.
+
+45:08.937 --> 45:13.382
+I'm only saying that there's a shift in the model here where
+
+45:14.071 --> 45:15.734
+There is digital information.
+
+45:15.974 --> 45:22.284
+Some of it is the reproduction of historical stuff, but some of it is new material that is created in digital form.
+
+45:22.684 --> 45:24.146
+And exists in other forms.
+
+45:24.247 --> 45:24.527
+Right.
+
+45:24.587 --> 45:32.439
+And the society has an obligation to preserve that, just as it has an obligation to preserve things that are not in digital form.
+
+45:32.960 --> 45:42.795
+And the mechanism for that preservation, I think, will be the creation of computerized systems that are...
+
+45:43.940 --> 46:02.477
+capable of doing the right sorts of backups, keeping the backups in the right places, telling their operators when something's wrong, migrating things through generations of equipment, and migrating things through generations of formats.
+
+46:02.517 --> 46:03.998
+So who's working on that?
+
+46:04.939 --> 46:07.922
+Well, there's a variety, I think, of folks that work on that.
+
+46:09.383 --> 46:10.885
+Who could I talk to, for instance?
+
+46:10.945 --> 46:13.407
+Who would you suggest I talk to?
+
+46:13.910 --> 46:14.591
+I mean, I agree.
+
+46:15.332 --> 46:19.957
+You're a total substance with what you say, but is somebody, in fact, working on that?
+
+46:19.977 --> 46:31.270
+The people who are in our orbit include some folks that are working in our computer center.
+
+46:33.092 --> 46:33.813
+That's okay.
+
+46:35.495 --> 46:43.444
+Caroline Arms, A-R-M-S, is, I think, very knowledgeable about this and has been...
+
+46:43.795 --> 46:49.384
+in touch with the so-called Digital Library Federation, which also has an interest in it.
+
+46:49.404 --> 47:02.023
+Well, it's a consortium of institutions, including Cornell in Michigan and others, and they're kind of headquartered here in Washington at the
+
+47:03.691 --> 47:10.718
+It's CLIR, the Council for Library and Information Resources, or something like that.
+
+47:10.738 --> 47:13.101
+Did they put out the online magazine, Do Live?
+
+47:14.602 --> 47:15.984
+No, that's another outfit.
+
+47:16.124 --> 47:21.009
+That is the Coalition for National Research Initiatives.
+
+47:21.029 --> 47:22.310
+That's a very interesting site.
+
+47:22.671 --> 47:22.951
+Right.
+
+47:23.111 --> 47:29.698
+Well, Caroline Arms has been an author for them, and in fact her husband works at CNRI, so they have...
+
+47:30.151 --> 47:38.080
+They're a husband and wife on two sides of the fence, and CNRI is actually a consulting organization to the library.
+
+47:38.100 --> 47:51.636
+They were first brought in by the Copyright Office because the Copyright Office wanted to work on how to receive new registered materials in electronic form that safeguard them.
+
+47:51.920 --> 48:06.557
+keep them in a repository so they stay alive, but also have them in a repository that had sufficient access protection so the copyright owners would be willing to leave them there, if you see what I mean, without fear of theft or unauthorized use.
+
+48:07.258 --> 48:14.447
+And CNRI has been the organization that has done some design consultation on that for us.
+
+48:14.527 --> 48:18.872
+But Caroline, who works here, is knowledgeable about it.
+
+48:19.257 --> 48:34.448
+The other people in the computer center include a woman named Virginia Vitucci, Virginia Vitucci, V-I-T, Vitucci U-C-C-I, and Jim Stevens.
+
+48:34.765 --> 48:39.730
+Jim Stevens is 9688, that is 707-9688.
+
+48:40.291 --> 48:47.578
+Caroline Arms is 707-0105.
+
+48:47.638 --> 48:57.728
+And I may or may not have Virginia's phone number.
+
+48:57.768 --> 49:01.752
+Virginia's phone number is 707-9616.
+
+49:02.592 --> 49:05.395
+And they were all working in the computerized... Right.
+
+49:05.415 --> 49:11.022
+It's called Information Technology Services, or ITS for short.
+
+49:11.042 --> 49:12.924
+And that's the name of our computer center.
+
+49:14.526 --> 49:22.935
+And she, in particular, could speak to... Well, what are the elements that are needed to build a repository?
+
+49:23.135 --> 49:25.218
+You know, what are the design features?
+
+49:25.718 --> 49:28.161
+And how do those design features...
+
+49:29.879 --> 49:37.815
+Will those design features reassure worried citizens about, you know, the preservation of digital information?
+
+49:40.941 --> 49:41.181
+Good.
+
+49:42.404 --> 49:46.572
+I'll have to give him the call back today.
+
+49:46.923 --> 49:49.306
+That's fascinating stuff.
+
+49:49.327 --> 49:53.593
+Well, it's quite interesting, and I would say, well, sure, it's in its infancy.
+
+49:53.653 --> 50:07.052
+I mean, we're not talking about a dumb deal where everybody's got it figured out, but I think, you know, again, the challenge is to reckon out, you know, how one does deal with these materials.
+
+50:07.653 --> 50:12.340
+Now, I would say this, to go back to our historical collections program earlier,
+
+50:14.378 --> 50:19.445
+we have not discarded the originals, you know, when we reproduce them.
+
+50:20.105 --> 50:22.448
+Well, again, our approach has been different.
+
+50:22.468 --> 50:27.795
+We're not really tied to the preservation activities right now, and we're not doing brittle books.
+
+50:27.815 --> 50:34.484
+So, you know, all the glass plate negatives in the Detroit collection are still on the premises.
+
+50:34.844 --> 50:39.350
+All of the original sheets of paper from the Federal Writers Project are still in the files.
+
+50:39.771 --> 50:40.752
+Thank goodness.
+
+50:40.772 --> 50:42.394
+And, in fact,
+
+50:42.998 --> 51:05.698
+go to your topic in a way we try not to hurt the books when we scan them because we want to keep the book it's an important artifact so they've got to be scanned while they're bound so it's not a perfect image then you got it we got it you can choose you know you can either have a perfect image and wreck the book
+
+51:06.455 --> 51:09.720
+Or you can not wreck the book and have an imperfect image.
+
+51:09.740 --> 51:10.541
+Here's the problem.
+
+51:10.882 --> 51:15.489
+And we voted for imperfect images, again, because we're saying, well, this is an access project.
+
+51:16.510 --> 51:21.278
+And what we're trying to do is help people get access to some of this information.
+
+51:21.318 --> 51:26.185
+It's more important to us to preserve that cultural artifact.
+
+51:26.435 --> 51:27.997
+Now, there may be a few exceptions.
+
+51:28.017 --> 51:29.839
+I'm giving you a generalization, you know.
+
+51:29.859 --> 51:34.944
+But, I mean, it's more important for us to preserve the cultural artifact than to have perfection in reproduction.
+
+51:35.245 --> 51:39.069
+Well, Diane showed me a book yesterday that she's pulled in out of the selection room.
+
+51:39.089 --> 51:43.474
+I mean, this thing may stand one more pass through the fingers.
+
+51:44.114 --> 51:46.377
+There's no way this book's ever going to be preserved.
+
+51:46.777 --> 51:51.863
+And, in fact, it's doubtful that you could even get a good scanned copy of it.
+
+51:51.883 --> 51:52.003
+Right.
+
+51:52.270 --> 51:56.374
+something like this, fine.
+
+51:56.434 --> 51:58.496
+You might guillotine this thing and scoop it up.
+
+51:59.277 --> 52:02.159
+I don't even see how you could possibly copy it any other way.
+
+52:02.340 --> 52:04.642
+No, no, I agree.
+
+52:04.662 --> 52:09.627
+So there are going to be exceptions to this, but this is a policy is what you're telling me.
+
+52:09.647 --> 52:10.267
+Right.
+
+52:10.708 --> 52:17.094
+Yeah, what we would do is, and actually to go back to books, let me tell you something about the books as books that we've done.
+
+52:17.974 --> 52:20.657
+I think in the pilot, again...
+
+52:21.700 --> 52:30.310
+This is presumptions, you know, working on our presumptions, because it was rather hard to get feedback of the right sort quickly enough.
+
+52:30.831 --> 52:44.307
+The presumption was that computers are not the most graceful way to read a longer narrative work, you know, that it's probably not a good way to read narrative work.
+
+52:44.327 --> 52:47.050
+Do you know anyone who's ever read a book through on a computer?
+
+52:47.789 --> 52:48.330
+I don't.
+
+52:48.470 --> 52:48.991
+No, I don't.
+
+52:49.291 --> 52:50.112
+I don't.
+
+52:50.473 --> 52:54.498
+I've asked a lot of people that question, and they've all answered the same way.
+
+52:54.679 --> 53:02.510
+So we found ourselves wondering, well, if we get into book collections here at the Library of Congress, then which sort of books would it be that make the best fit?
+
+53:02.770 --> 53:06.856
+You know, it's the medium and the form and content, in effect, question.
+
+53:07.617 --> 53:13.805
+And we thought, well, there's a lot of interest in genealogy and there's a lot of interest in local history.
+
+53:14.606 --> 53:16.429
+If we gravitated...
+
+53:16.780 --> 53:36.919
+in a way, as we did with that WPA manuscript project, towards local history books or county histories or things that would be rich in words and terms and vignettes, you know, that would be rewarding to people with that curiosity.
+
+53:37.459 --> 53:43.665
+And we could see how, in a school situation, you know, a school teacher could really make some good use of this.
+
+53:44.118 --> 53:46.781
+But you begin to treat, and so that's what we did.
+
+53:46.821 --> 53:50.967
+So we had our first book collection, which has finally gotten online.
+
+53:53.190 --> 53:56.134
+It goes back several years and has many shortcomings.
+
+53:56.214 --> 54:08.950
+But I mean, it's sort of what we've been able to do is books about the state of California or from the movement of people into the state of California between the gold rush and the turn of the century.
+
+54:08.970 --> 54:12.775
+There's close to 200 books there, and they're fully searchable.
+
+54:13.447 --> 54:20.393
+So it means that if you have a curiosity about a place name or something like that, you know, you can find it.
+
+54:20.493 --> 54:27.259
+And our presumption, which again still is a presumption, is that people are going to isolate chapters or sections.
+
+54:27.359 --> 54:30.442
+In other words, they're going to treat it like a reference shelf in a way.
+
+54:31.242 --> 54:42.492
+And like a reference shelf, it would be, you know, it would probably be used in slices, you know, rather more than it's used in continuous narratives.
+
+54:43.484 --> 54:44.685
+The texts are there.
+
+54:45.406 --> 54:47.528
+It is possible to download the text.
+
+54:48.909 --> 54:56.637
+In theory, a person could print out a whole chapter on their laser printer and might find it more convenient to read it on paper.
+
+54:58.359 --> 55:03.504
+And I'd love to know what people are doing with it, and I think we'll find out over time.
+
+55:04.225 --> 55:11.652
+The next collections we're going to do continue in this vein with the states of Michigan, Wisconsin, and Minnesota.
+
+55:12.256 --> 55:25.491
+And we see if we can sort of keep plugging away at this, over a few years, we could give you local history resources and genealogical resources, kind of a big searchable bookshelf for the nation.
+
+55:26.853 --> 55:31.959
+The other place we've got books really do press more in the area of narrative.
+
+55:32.539 --> 55:34.922
+It's a small number.
+
+55:35.965 --> 55:36.626
+I don't know.
+
+55:36.686 --> 55:39.489
+I think the jury's still out on how useful they are.
+
+55:39.529 --> 55:50.181
+We put together a collection on the evolution of the conservation movement, and in fact it was supported by a gift from Lawrence Rockefeller, who does have high interest in conservation.
+
+55:50.201 --> 55:58.750
+And the person who compiled that collection for us took a slice of legal materials that reflect
+
+55:59.472 --> 56:01.995
+The period is 1850 to 1920.
+
+56:02.236 --> 56:09.745
+It's really focusing on late 19th century growth of this sense of a conservation movement and conservation of natural resources.
+
+56:11.207 --> 56:16.954
+Well before Teddy Roosevelt, but getting up towards Teddy Roosevelt's time and a little beyond.
+
+56:18.997 --> 56:26.226
+And the compiler went to the law library and got a lot of documents that had to do with U.S.
+
+56:26.246 --> 56:28.669
+government actions to establish...
+
+56:29.273 --> 56:34.599
+national forests and national parks or protected places in that period.
+
+56:35.139 --> 56:47.233
+She went to the photo division and got sort of a cross-section of pictorial materials that reflect the popular view and the popular imagination about beautiful places, especially in the West.
+
+56:47.273 --> 56:58.285
+You know, the movement into the Rockies after the Civil War, you know, the esthetification of the Rockies after the Civil War, you know, fed this sense of conservation.
+
+56:58.687 --> 57:10.260
+And she went to the bookshelves, as it were, and got, I think, I don't know, 40-some-odd books that include works by John Muir, which you'd expect.
+
+57:11.381 --> 57:13.403
+I think we've snuck Thoreau in there.
+
+57:13.583 --> 57:16.146
+No, he's the guru.
+
+57:16.166 --> 57:17.888
+And I can't remember.
+
+57:17.908 --> 57:22.433
+And then, you know, a number of rather more obscure books...
+
+57:23.408 --> 57:30.443
+including actually one or two by George Perkins Marsh, who was a particular favorite of Lawrence Rockefeller.
+
+57:32.747 --> 57:38.539
+And those books are, I don't know how sliceable they are.
+
+57:38.740 --> 57:42.227
+You know, they're findable because the full text is searchable.
+
+57:43.186 --> 57:48.196
+But, I don't know, I think we're just really interested to see what use is made of.
+
+57:48.216 --> 57:49.058
+Do you track that?
+
+57:49.359 --> 57:51.343
+Do you record hits and stuff like that?
+
+57:51.363 --> 57:52.866
+Well, we record hits.
+
+57:53.487 --> 57:57.535
+That's a crude instrument for determining real use.
+
+57:57.736 --> 58:03.287
+I mentioned that we have a user services group, and they've been—
+
+58:03.875 --> 58:15.607
+in some dialogue with a selected set of teachers, and they're, I believe, now planning to put a kind of an online questionnaire up, which would be voluntary, to try to get at it.
+
+58:16.087 --> 58:21.913
+I just got a thing from the New York Times, which I love their website.
+
+58:22.594 --> 58:26.758
+But, you know, how do they know who's reading it, how long they're reading it?
+
+58:26.778 --> 58:31.823
+So they just said they'll pay you if you'll come to a focus group.
+
+58:32.056 --> 58:38.566
+They really want to know who the hell is reading it and what they, you know, what's your time constraint?
+
+58:38.806 --> 58:40.028
+Oh, I've got about 15 minutes.
+
+58:40.108 --> 58:42.472
+I can go to 11 here and we'll go back.
+
+58:42.512 --> 58:44.194
+You're supposed to meet Steve Herman at 11.
+
+58:44.214 --> 58:45.476
+Yeah, that's good.
+
+58:46.097 --> 58:48.621
+But we're covering just about everything that I wanted to.
+
+58:50.264 --> 58:51.746
+Tell me a little bit about your background.
+
+58:52.026 --> 58:54.851
+Do you come out of the computer field?
+
+58:55.592 --> 59:01.000
+Well, I guess the most...
+
+59:01.469 --> 59:31.358
+sort of salient starting point is when I was a graduate student I went to fine arts school and ended up studying photography and motion pictures and where Ohio University has an MFA program in photography and film and I was hired then at a public television station in West Virginia and worked there for a while and through that whole period had interest in
+
+59:32.333 --> 59:34.996
+you know, folk music and bluegrass music.
+
+59:35.657 --> 59:40.983
+Like a lot of college students of my generation, you know, we remember the Hootenanny period and so on.
+
+59:41.664 --> 59:45.588
+But it got me into documenting folk culture.
+
+59:45.928 --> 59:52.516
+And after a half a dozen years in West Virginia, I was hired here at the Library of Congress to go to work for the American Folklife Center.
+
+59:53.297 --> 01:00:00.585
+And we worked on media documentation, or I was sort of the media documentation specialist with a bunch of field projects that we did.
+
+01:00:01.139 --> 01:00:12.052
+And in the course of that, it was, you know, the work included both archiving and organizing the archiving of multimedia materials.
+
+01:00:12.132 --> 01:00:17.458
+And at one point, we published a video disc that was kind of a multimedia package.
+
+01:00:18.339 --> 01:00:19.020
+No, it's still going.
+
+01:00:19.040 --> 01:00:20.041
+I thought I heard my beep.
+
+01:00:20.061 --> 01:00:20.902
+There's a beep there.
+
+01:00:20.922 --> 01:00:21.363
+All right.
+
+01:00:21.783 --> 01:00:24.186
+A multimedia package about a cattle ranch.
+
+01:00:24.527 --> 01:00:29.172
+And that got me...
+
+01:00:30.586 --> 01:00:39.354
+in touch with other people here at the library who were working on a computer optical disk project in the 80s.
+
+01:00:39.494 --> 01:00:48.582
+So I was sort of drawn in through media documentation and working at the Folklife Center at the library into the circle of people who were doing digital work here.
+
+01:00:48.602 --> 01:00:59.732
+And ultimately, you know, it got me in a position to be helpful with this pilot project.
+
+01:01:00.100 --> 01:01:14.982
+So I think my background is more in media and the use of media and an interest in the archiving of media documents in a sort of multimedia setting.
+
+01:01:15.382 --> 01:01:24.015
+I like that, and I know people I've talked to in France, for instance, these guys coming out of philosophy, you know, philosophers and historians.
+
+01:01:24.434 --> 01:01:29.021
+as opposed to turning it over to the techies, you know, which is... You've got a broker.
+
+01:01:29.221 --> 01:01:33.688
+You've got a broker between the content and the technology somehow.
+
+01:01:33.768 --> 01:01:37.934
+And I think, you know, mediation and a writer does the same thing.
+
+01:01:37.994 --> 01:01:42.621
+I think a photographer, I mean, I've always worked as a still photographer, at least until recently.
+
+01:01:43.883 --> 01:01:49.311
+Now, again, you're at some nexus between content knowledge and...
+
+01:01:50.033 --> 01:01:54.058
+presentation or reporting or organizing, whatever it is.
+
+01:01:54.238 --> 01:02:03.349
+And I think part of the reason the digital projects here at the library succeed as well as they do is because it isn't just the computer guys that work on them.
+
+01:02:03.429 --> 01:02:08.915
+You've got to involve the content guys as well as the computer guys.
+
+01:02:08.995 --> 01:02:10.958
+And I think we've done that fairly well.
+
+01:02:11.318 --> 01:02:13.501
+That's a good one to quit on, if you want.
+
+01:02:13.681 --> 01:02:15.383
+Let me just ask you a question.
+

@@ -1,0 +1,1652 @@
+WEBVTT
+
+00:02.191 --> 00:06.275
+talking to Barkley Ogden, and you were just telling me the hats that you wear.
+
+00:06.335 --> 00:29.498
+Yeah, the head of the conservation department for the library at Berkeley, the head of the digital library R&D department, again, for the projects that the library has, that in digital library development, and then, sorry, and then there, that for the nine campuses of the university, I serve as director of the
+
+00:29.849 --> 00:34.453
+Well, both of these are of interest to me, as it turns out.
+
+00:35.754 --> 00:40.238
+Mr. Ogden are involved in the present.
+
+00:40.759 --> 00:43.521
+Well, in the present and the future, I guess.
+
+00:43.762 --> 00:44.863
+Is that a fair assessment?
+
+00:44.883 --> 00:49.727
+Well, we certainly are trying to anticipate the future.
+
+00:49.747 --> 00:54.771
+And in terms of, why don't we start with the digital library hat?
+
+00:55.552 --> 00:59.856
+Tell me what specifically you're doing there.
+
+01:00.106 --> 01:29.623
+it's probably worth providing just a little context so that you have a sense of why I'm doing what I'm doing as well as what I'm doing that the the advent of the availability of information online that has brought with it some promises and prospects and some liabilities that the promise it has is
+
+01:30.025 --> 01:41.561
+to be able to allow information to go from creator to consumer much more rapidly, I think, when it was available through other media.
+
+01:42.222 --> 01:55.780
+The prospects for whole new industries that are involved in information creation and distribution are quite amazing.
+
+01:56.587 --> 02:10.848
+Anytime you pick up a copy of the San Francisco Chronicle and look at the business section, it seems to talk about nothing but Silicon Valley and the various enterprises that are associated with information creation and delivery.
+
+02:11.048 --> 02:25.750
+And then finally, the liabilities that are inherent in all of this, and we're just beginning to see them using the World Wide Web as a prime example, is that there's no organization or filtering of good from bad in this stuff.
+
+02:26.219 --> 02:32.227
+There are a couple of ways, intellectually, that one could approach this particular problem.
+
+02:32.688 --> 02:47.068
+The first of which might be to write a piece of software that you could use as your own personal bibliographic assistant that would be able to, as your research assistant, sort out what you really needed to read from what you really didn't need to read.
+
+02:48.330 --> 02:53.998
+But our luck with the design of those kinds of retrieval mechanisms
+
+02:54.417 --> 02:56.299
+that is pretty slim thus far.
+
+02:59.703 --> 03:10.616
+We just don't do all that well because we're not able to either describe the object as precisely as one would want or to describe our needs as precisely as we would want.
+
+03:11.137 --> 03:23.091
+So you put those two fuzzy sets together and then all of a sudden you really need to have a much more sophisticated interface, if you will, between your information needs and the world of information.
+
+03:23.290 --> 03:24.752
+Where has that been done historically?
+
+03:25.613 --> 03:26.113
+The library.
+
+03:26.654 --> 03:47.660
+That's the value that the library adds, that in addition to having the information itself as a repository, what they provide is the ability to filter that information, to sort out what's good from bad, and to organize it in a way that you can retrieve it with less time than it took somebody to organize it in the first place.
+
+03:48.021 --> 03:52.386
+Which is pretty much what you're up to on the web, that you become your own librarian.
+
+03:52.973 --> 04:17.850
+So the idea of our doing digital library research and development projects is to try to take the expertise that we have developed in research libraries over as much time as you and your research have discovered and has been spent at this kind of activity and bring that to a new medium, which is to say the electronic medium.
+
+04:19.412 --> 04:21.816
+And there are some tremendous similarities.
+
+04:22.336 --> 04:33.170
+between the kind of work we've done for paper and film and other kinds of analog media that also show up in the digital medium.
+
+04:33.671 --> 04:43.163
+Because in many ways, the documents we create in the digital medium are fundamentally no different than the documents we create in the paper.
+
+04:43.583 --> 04:48.850
+We talk about an information revolution, but the information itself has not changed.
+
+04:49.420 --> 04:52.604
+It's still structured the same way in terms of the kinds of documents.
+
+04:52.624 --> 04:53.685
+We still create memos.
+
+04:53.705 --> 04:54.686
+We still create letters.
+
+04:54.746 --> 04:55.788
+We still create books.
+
+04:55.868 --> 04:57.530
+We still do all of those sorts of things.
+
+04:57.910 --> 05:05.319
+We may publish them and distribute them in electronic form, but we don't create a fundamentally different kind of organization of information.
+
+05:06.881 --> 05:16.052
+What is a revolution that is the revolution in communications technology, there's where we're seeing the revolution.
+
+05:16.589 --> 05:24.839
+And I think that, in some ways, the information revolution is a bit of a misnomer, because information is not really fundamentally changing.
+
+05:25.400 --> 05:26.882
+It's not its structure.
+
+05:26.902 --> 05:28.524
+It's the way we deliver it that's changing.
+
+05:29.885 --> 05:44.824
+Now, one could argue, I think, quite effectively, that there probably are examples where the medium has actually changed the message, to borrow that famous phrase.
+
+05:45.260 --> 05:52.969
+I think that if you look at most of what you'll find on the web, you could find exactly the same kind of information structure on paper.
+
+05:54.852 --> 05:57.875
+Even like interactive websites.
+
+05:57.915 --> 06:00.679
+We think they're pretty exciting, and I think they are pretty exciting.
+
+06:01.199 --> 06:08.588
+But the truth of the matter is, all you have to do is take a look at a program learning text, and you've got the same fundamental organization of information.
+
+06:10.971 --> 06:15.216
+You know, it asks you a question at point A, and if you answer with a yes, it takes you down one
+
+06:15.989 --> 06:20.213
+one leg of the why, and if you answer no, it takes you down another one.
+
+06:20.253 --> 06:21.474
+It says jump to page 62.
+
+06:24.097 --> 06:45.878
+So I think that if we focus, at least for the short term, on the impact of the communications revolution, I think we'll understand a little better what libraries have to bring to this new environment, and what they have to bring because the information structure itself hasn't changed.
+
+06:46.280 --> 06:51.046
+that is an ability to sort and to organize, to filter and to organize.
+
+06:51.466 --> 07:02.038
+It is kind of interesting that you, on the surface, this would be an odd juxtaposition for preservation of the existing materials.
+
+07:03.761 --> 07:04.702
+It would seem so.
+
+07:04.722 --> 07:15.274
+The link that is often made is that in the past, in order to do preservation, we have
+
+07:15.558 --> 07:21.125
+extreme difficulties when the service life of the medium is at its end.
+
+07:21.986 --> 07:25.590
+So that when paper becomes brittle, we can't repair it.
+
+07:27.332 --> 07:34.861
+When film starts shedding its image or its emulsion layer off the base, we can't repair that.
+
+07:35.421 --> 07:41.869
+What we have to do is what we call in the trade reformatting that.
+
+07:42.170 --> 07:46.134
+You know, we use photocopying.
+
+07:46.154 --> 07:47.316
+We use microfilming.
+
+07:47.756 --> 07:57.146
+And those are all reformatting techniques that have been used in order to preserve the intellectual content by transferring it from medium to medium.
+
+07:57.166 --> 08:12.042
+Well, one of the initial thoughts, which is what brings these two ideas, these two responsibilities together in at least some people's minds, is that preservation probably could use the electronic medium as another tool in order to preserve.
+
+08:12.359 --> 08:18.125
+We would, again, capture the image, but not in film or on paper.
+
+08:18.225 --> 08:19.306
+We would capture it electronically.
+
+08:19.326 --> 08:20.867
+What we are preserving is the content.
+
+08:21.308 --> 08:21.708
+That's right.
+
+08:21.828 --> 08:23.750
+You're preserving the content, not the artifact.
+
+08:23.770 --> 08:25.892
+And shedding the artifact, so to speak?
+
+08:26.233 --> 08:26.513
+Indeed.
+
+08:26.773 --> 08:27.013
+Indeed.
+
+08:27.053 --> 08:27.994
+That happens every time.
+
+08:28.014 --> 08:34.641
+If you make a photocopy of something because the original is no longer usable, you shed the artifact.
+
+08:34.961 --> 08:35.922
+Same with the microfilm.
+
+08:36.463 --> 08:36.863
+Of course.
+
+08:36.883 --> 08:39.546
+Now, are you involved in digitizing any printed books?
+
+08:40.086 --> 08:41.067
+We are.
+
+08:41.468 --> 08:44.973
+But Clara has a very elaborate program.
+
+08:45.914 --> 08:46.375
+Absolutely.
+
+08:46.395 --> 08:48.838
+They're way out ahead of us on that particular front.
+
+08:49.278 --> 08:54.305
+We are not, at this point, using digitization as a preservation tool.
+
+08:55.126 --> 09:01.735
+And the reason for that is because we are not yet happy with its stability.
+
+09:03.718 --> 09:06.902
+And maybe you could just define the various matters.
+
+09:07.507 --> 09:09.188
+the factors that go into stability.
+
+09:09.208 --> 09:19.958
+We're talking about migration, we're talking about systems, we're talking about doing it, saving it in one format today that five years from now there isn't a machine that can access it.
+
+09:20.378 --> 09:26.263
+They say, you're not using digitization today as a preservation tool.
+
+09:26.683 --> 09:34.870
+But we are certainly working, we certainly are doing projects that are exploring it, and because we feel it will be in time.
+
+09:35.030 --> 09:35.531
+We see that.
+
+09:35.771 --> 09:36.872
+Yeah, absolutely.
+
+09:37.207 --> 09:39.069
+In two senses.
+
+09:39.629 --> 09:44.753
+One is the one I think that we're probably thinking of, though we haven't said so, as a conversion tool.
+
+09:45.214 --> 09:45.574
+Okay.
+
+09:46.255 --> 09:48.737
+But the other is... We were going to get to it.
+
+09:48.757 --> 09:49.417
+Right.
+
+09:49.437 --> 09:56.263
+But the other sense in which one has to use digitization as a preservation tool are for materials created in digital form.
+
+09:58.565 --> 10:00.287
+Explain that just a tad.
+
+10:00.647 --> 10:06.792
+Well, suppose we imagine a website where you have...
+
+10:09.033 --> 10:12.397
+Well, you have kind of a question-and-answer thing, which is interactive.
+
+10:12.417 --> 10:15.219
+You know, it allows you to move here, there, and otherwise on the website.
+
+10:15.240 --> 10:22.527
+Well, how would you capture the essence of that particular document in that medium in any other medium?
+
+10:23.768 --> 10:24.489
+That's right.
+
+10:24.509 --> 10:25.630
+You can't capture it in film.
+
+10:25.650 --> 10:26.812
+You can't capture it in paper.
+
+10:27.312 --> 10:34.540
+So we have to use the electronic medium to preserve what are sometimes called natively digital documents.
+
+10:37.543 --> 10:38.584
+The jargon is endless.
+
+10:39.104 --> 10:41.607
+Natively digital?
+
+10:41.627 --> 10:41.987
+Yes.
+
+10:42.007 --> 10:43.129
+Natively digital documents.
+
+10:43.149 --> 10:44.490
+So it's an adjective, natively.
+
+10:44.590 --> 10:44.911
+Yes.
+
+10:45.371 --> 10:53.380
+And that's to distinguish them from documents that have been converted into digital form from paper or film.
+
+10:53.480 --> 11:01.890
+Specifically in the field of preservation, are you working with special collections and rare materials?
+
+11:04.373 --> 11:04.513
+Mm-hmm.
+
+11:04.533 --> 11:04.673
+Mm-hmm.
+
+11:04.693 --> 11:07.356
+And unique items, obviously, which are manuscripts.
+
+11:07.775 --> 11:24.059
+Do you foresee electronic digitization as a means of, as an ultimate means of also converting these materials and then shedding vent?
+
+11:24.220 --> 11:25.121
+Right, right.
+
+11:25.542 --> 11:36.398
+I think the answer is, well, how to put it, the easiest and safest answer is no, because
+
+11:36.597 --> 11:50.792
+as long as these materials have artifactual value in addition to their surface information, that we would always want to preserve the original because it's carrying information itself that we can't copy.
+
+11:52.253 --> 12:03.465
+I mean, if we could perfectly replicate a document, including all of the possible scholarly information that that could have, which might not
+
+12:04.424 --> 12:10.493
+one might not want to overlook the chemical composition of the paper, which could help you date a particular document.
+
+12:10.513 --> 12:14.959
+You don't want the size, the quality of the paper, the binding, the illustrations.
+
+12:15.560 --> 12:15.780
+Absolutely.
+
+12:15.900 --> 12:17.723
+It's all part of the context.
+
+12:17.743 --> 12:19.165
+There's a book called Paratexts.
+
+12:19.185 --> 12:20.126
+Are you familiar with that?
+
+12:20.186 --> 12:20.667
+No, I'm not.
+
+12:20.687 --> 12:21.909
+Ken Carpenter at Harvard.
+
+12:24.212 --> 12:25.193
+I just got a copy.
+
+12:25.213 --> 12:28.998
+It was published by Cambridge University, of course.
+
+12:29.018 --> 12:31.562
+It's by a French scholar by the name of Gillette.
+
+12:32.234 --> 12:45.931
+And it just defines all these other textual elements, which he says, he said, you know, Ken basically supervises the selection of books that go from Widener into the depository.
+
+12:46.512 --> 12:46.632
+Right.
+
+12:46.652 --> 12:50.477
+And so I said, well, what are the criteria that you, you know, what do you apply?
+
+12:50.537 --> 12:51.598
+What are the standards?
+
+12:51.738 --> 12:56.424
+There were a lot of things, but he said there were also paratextual elements that I apply.
+
+12:56.484 --> 12:57.806
+And he said, read that book.
+
+12:57.926 --> 12:59.488
+So you should take a look at it, too.
+
+12:59.568 --> 13:01.330
+Paratext, one word.
+
+13:01.732 --> 13:04.555
+by Gillette, G-A-L-L-E-T-T.
+
+13:05.036 --> 13:08.741
+And if you want, I'll email you the citation on it, and I'll be able to find it.
+
+13:08.861 --> 13:10.703
+Probably not too many titles by that name.
+
+13:10.723 --> 13:12.565
+Yeah, and it should be available.
+
+13:12.605 --> 13:14.308
+It's 1997 from Cambridge University.
+
+13:14.328 --> 13:26.002
+It was originally published in French in 1987, but if only because Harvard is using it as a resource, you know, there might be a bit of interest.
+
+13:26.022 --> 13:26.863
+I'll have a look at it.
+
+13:26.883 --> 13:27.083
+Yeah.
+
+13:27.103 --> 13:28.325
+Well, it's a fascinating book.
+
+13:28.345 --> 13:30.928
+I was reading it in an airplane coming out.
+
+13:31.347 --> 13:34.432
+So anyway, I'm not sure we completely got through our thoughts on that.
+
+13:34.472 --> 13:36.155
+No, I went off on that.
+
+13:36.255 --> 13:40.061
+We were talking about rare and special collection material.
+
+13:40.562 --> 13:49.677
+And those you might want to image so that a lot of the uses that are made, otherwise of originals, could be transferred to the surrogate.
+
+13:50.137 --> 13:55.566
+And in a sense, that's certainly a form of preservation because it cuts down the wear and tear on the originals.
+
+13:56.153 --> 14:13.776
+But if one is thinking about replacement of the original with an electronic version, then I think that one has to be very clear that there's no artifactual value, i.e., there's nothing in the medium that's part of the message that one would want to preserve.
+
+14:14.637 --> 14:22.868
+You mentioned that Cornell is out ahead of you in terms of... And they're producing hard copies of the books that they scan, too.
+
+14:22.888 --> 14:24.270
+Are you doing the same kind of thing?
+
+14:25.111 --> 14:36.807
+When I was out there last year, just about a year ago, they were up to like 5,500 titles that they made, which doesn't sound like a lot, but it is a lot.
+
+14:36.827 --> 14:37.347
+That's a lot of work.
+
+14:37.367 --> 14:38.189
+It's a lot of work.
+
+14:38.930 --> 14:41.553
+And then they actually do make a hard copy.
+
+14:42.174 --> 14:44.858
+Put the hard copy back on the shelf.
+
+14:44.878 --> 14:49.684
+And then the original goes off to wherever it goes.
+
+14:49.883 --> 14:51.765
+So you're doing the same kind of thing?
+
+14:52.406 --> 14:55.029
+No, we have not gone into production with that at all.
+
+14:56.690 --> 15:03.237
+Our conversion efforts have been focused primarily on imaging.
+
+15:04.439 --> 15:06.881
+Sorry, I should have said that a different way.
+
+15:06.921 --> 15:17.933
+Well, most of our energies have been focused on archival collections for which there's a guide, which is known as a finding aid.
+
+15:18.368 --> 15:21.812
+A finding aid?
+
+15:22.132 --> 15:23.754
+That's something that you put out?
+
+15:24.175 --> 15:24.856
+We write them.
+
+15:26.257 --> 15:35.288
+Part of the work that a curator does of a collection is to organize it, sort it, and prepare what's known as a finding aid.
+
+15:36.509 --> 15:48.223
+What we've been doing is converting those finding aids to electronic forms so they can be searched by machines.
+
+15:49.402 --> 15:52.305
+for any word string you're interested in.
+
+15:52.325 --> 16:14.309
+And then secondly, attaching images of either letters or photographs or whatever in those archival collections to the finding aid so that you can online discover what subjects we have finding aids for or what subjects we have archival collections that pertain to them.
+
+16:14.809 --> 16:16.371
+Look at the finding aid itself
+
+16:16.807 --> 16:26.316
+have a sense of what's in the collection and click appropriate places in the finding aid and jump to the image of the original materials that are in the collection.
+
+16:27.016 --> 16:39.207
+And then, jumping quickly to your other hat, how do you decide what books are going to be deacidified and repaired and preserved?
+
+16:40.008 --> 16:46.594
+Is this something that's done systematically, or is it really a matter of books that are brought to you potentially?
+
+16:47.047 --> 16:48.869
+a couple of systems that are in place.
+
+16:49.129 --> 16:57.938
+The one is the system that most people don't think of as a system, and that is what we call our use-driven approach.
+
+16:58.960 --> 17:02.623
+And we believe there is a very strong argument to be made for that.
+
+17:02.723 --> 17:06.868
+Those are the materials that are in need to provide library service right now.
+
+17:08.129 --> 17:16.598
+Those are also the materials that if we don't attend to their needs, we're not going to be able to provide library service, because there's
+
+17:17.371 --> 17:23.540
+a known higher probability of materials that have been used once being used again.
+
+17:25.564 --> 17:34.718
+And so, we feel that our first priority in terms of preservation programming is to keep the parts of the collection that are in demand in serviceable condition.
+
+17:35.539 --> 17:39.565
+Parts of the collection that are not in demand, we can buy time with.
+
+17:40.000 --> 17:44.706
+Isn't there a point of no return where if you don't enter the conclusion?
+
+17:44.726 --> 17:49.533
+Absolutely, and that's the second systematic approach we take.
+
+17:50.394 --> 18:09.400
+Often with federal funding as part of national programs to preserve the corpus, that we have gone through subject by subject and pulled out the materials that were brittle, that even if they weren't in demand, and made copies of them in order
+
+18:09.802 --> 18:12.786
+to be sure that those materials will survive.
+
+18:13.908 --> 18:15.831
+And this is a systematic effort?
+
+18:15.851 --> 18:18.475
+Are you doing this on a regular basis?
+
+18:18.535 --> 18:26.487
+We have been for many years, Matt, and at the moment our systematic effort is with newspapers that are not commercially available.
+
+18:26.907 --> 18:36.582
+And we're going through our entire collection worldwide, set of newspapers, and anything that's not commercially available and is brittle, we are filming.
+
+18:36.722 --> 18:38.104
+What do you mean commercially available?
+
+18:38.371 --> 18:42.796
+It's often possible to buy microfilm copies of newspapers.
+
+18:43.376 --> 18:43.717
+I see.
+
+18:44.097 --> 18:54.808
+And if it's on the market, we're not going to bother making a film of it ourselves, because it costs about five times as much to make the original film as it does to buy a copy.
+
+18:54.828 --> 19:04.378
+So you're probably just talking about some early California newspapers, but not necessarily the— And India, and Pakistan, and all kinds of places.
+
+19:05.000 --> 19:20.255
+One factoid that's worth knowing, in terms of thinking about preservation of a collection and how that relates to worldwide information, is that libraries like ours, and this one in particular, that fifty percent of its materials are foreign.
+
+19:21.737 --> 19:30.105
+And foreign countries outside of Western Europe are nowhere near as likely to be systematically preserving their published output.
+
+19:30.125 --> 19:33.949
+So, you are preserving that stuff?
+
+19:33.969 --> 19:34.129
+Yeah.
+
+19:34.514 --> 19:38.638
+Are you familiar with a phrase called phase deterioration?
+
+19:38.658 --> 19:39.819
+Have you ever heard that phrase?
+
+19:39.839 --> 19:41.901
+Phase deterioration?
+
+19:41.941 --> 19:42.742
+No, I've not heard that.
+
+19:42.782 --> 19:44.283
+That's what I ran into at Cornell.
+
+19:46.105 --> 19:48.507
+It's basically a matter of policy there.
+
+19:51.670 --> 20:02.901
+What they're saying essentially is that a decision has been made, a decision has been made, and they've set up a procedure by which you evaluate a book, and they've given me a copy of this thing.
+
+20:03.539 --> 20:16.651
+And the decision is, well, okay, this isn't worth scanning, and it isn't really worth preserving, just, you know, committing the money and the labor, blah, blah, blah, to do it.
+
+20:17.672 --> 20:18.953
+But, of course, we're not going to dump it.
+
+20:19.173 --> 20:21.395
+But what we're going to do is put it on the shelf.
+
+20:22.896 --> 20:28.301
+We've decided not to undertake any heroic efforts, you know, no life support.
+
+20:28.321 --> 20:31.504
+It's going to be allowed to die with...
+
+20:32.159 --> 20:34.062
+not any invasive procedures.
+
+20:34.522 --> 20:36.505
+Do you do anything similar to that here?
+
+20:37.006 --> 20:43.815
+I suppose the answer is yes, because you remember the second systematic approach I told you about, which is that we go through subject by subject.
+
+20:44.216 --> 20:59.938
+We don't literally film everything in the collection in that subject that's brittle, because we have a curator review each of the titles, and they will decide at that particular time whether every title must be preserved.
+
+21:00.914 --> 21:10.443
+And, of course, they appreciate that even when we have large grants, those grants are small relative to the cost of preserving the entire collection.
+
+21:10.543 --> 21:22.594
+So, they are focusing on what they regard to be materials important enough to be sure that their survival—well, I didn't say that sentence right, but you know what I mean?
+
+21:24.695 --> 21:30.921
+So, where would you say most of your personal efforts are directed, or is it really a
+
+21:31.340 --> 21:37.606
+It wanders back and forth between the two responsibilities.
+
+21:38.567 --> 21:50.157
+And because there's overlap between the two, I find that's an area where I can get more work done because both are interested.
+
+21:50.177 --> 22:00.587
+There's quite a bit of interest in the conversion of some parts of the retrospective collections into digital form.
+
+22:01.107 --> 22:11.137
+in order to populate the digital environment and make it possible to do serious research, because there's enough stuff there.
+
+22:12.959 --> 22:30.878
+That part of my work would be the digitization work, and it would allow us to at least, at a minimum, reduce the wear and tear on the hard copy, and perhaps someday allow us to
+
+22:31.533 --> 22:35.719
+succeed the hard copy with the digital version.
+
+22:36.800 --> 22:46.133
+The other overlap point between those two sets of responsibilities is in archiving, as we call it, which is essentially digital preservation.
+
+22:47.314 --> 22:53.142
+How do we preserve this stuff which is in digital form, either converted to it or created in it originally?
+
+22:54.464 --> 23:00.392
+And that's an immensely complicated set of concerns for which
+
+23:00.760 --> 23:04.744
+We do not have any good management models thus far.
+
+23:05.625 --> 23:07.307
+Man, the field's changing too fast.
+
+23:07.327 --> 23:07.427
+Yeah.
+
+23:07.947 --> 23:19.479
+How about, you know, the integrity of the—I mean, it's known, and you see some gorgeous fifteenth-century books that, you know, they've lasted quite well over five hundred years.
+
+23:19.499 --> 23:26.886
+We know really, basically, how long paper lasts, and if you control the environment, it'll last longer.
+
+23:27.288 --> 23:28.349
+Sure.
+
+23:29.130 --> 23:33.455
+But we really don't know these things about digital.
+
+23:33.495 --> 23:42.364
+You mentioned photographs, how they degrade in a known way.
+
+23:42.905 --> 23:46.008
+But you can't say the same thing about digital.
+
+23:46.028 --> 23:46.288
+No.
+
+23:46.629 --> 23:49.912
+Well, I mean, it's such an interesting new medium in that regard.
+
+23:49.932 --> 23:57.160
+I mean, if you take both paper and film, you could anticipate a lifespan in centuries.
+
+23:57.663 --> 24:09.797
+that if you maintain decent environmental conditions, well, we could say, we could take a floppy disk, then we could say, now if we maintain this in decent environmental conditions, how much time can we get out of it?
+
+24:10.839 --> 24:12.841
+Well, people have actually done that.
+
+24:13.121 --> 24:14.443
+They've tried to figure that stuff out.
+
+24:15.464 --> 24:17.887
+And then we step back and say, well, now, wait a minute.
+
+24:19.429 --> 24:20.090
+Do we really care?
+
+24:21.231 --> 24:26.978
+Because the technology for reading the information on those disks is going to change
+
+24:27.582 --> 24:34.188
+more rapidly than the rate of deterioration of the medium itself.
+
+24:34.208 --> 24:53.364
+So that in the case of the digital environment, it's technological obsolescence that plays a much larger role in the so-called preservation problem, if you allow me to put it that way, than does the deterioration of the medium, the storage medium.
+
+24:55.646 --> 24:56.307
+Doesn't this
+
+24:57.586 --> 25:16.863
+I guess I'm, you know, I'm doing interviews all week, and I'm starting to stumble here, but doesn't it concern you that we really don't know whether or not the material, how long you can .
+
+25:17.164 --> 25:25.551
+And if once you digitize it, and you get rid of the original document or whatever,
+
+25:26.324 --> 25:29.748
+you know, there are no guarantees that you're going to— Absolutely.
+
+25:29.868 --> 25:33.111
+And that's why we do not use it as a preservation medium at this time.
+
+25:34.573 --> 25:38.697
+We do not throw anything away that we've digitized.
+
+25:38.937 --> 25:41.440
+It goes back in the collection.
+
+25:41.460 --> 25:44.523
+What we hope for is reduced wear and tear on that original.
+
+25:44.863 --> 25:46.285
+Sure.
+
+25:46.305 --> 25:53.192
+You know, like Roger started at Harvard, just bought some Black Panther, you know,
+
+25:53.797 --> 25:56.721
+mimeographed news lines from the 60s.
+
+25:56.741 --> 25:58.784
+He said, really, they're literally falling.
+
+25:59.205 --> 26:01.969
+They can absolutely, in his view, stand one read.
+
+26:03.251 --> 26:12.224
+And if I'm a scholar going in wanting to see this stuff, either he's not going to let me see it, or he's going to work something out with me.
+
+26:12.244 --> 26:18.994
+Maybe we can get a grant, and maybe if together we can stand this or microfilm it.
+
+26:19.244 --> 26:22.308
+Make a good copy, and then we'll put that archival.
+
+26:22.328 --> 26:24.411
+Maybe that's how you're going to get access to that.
+
+26:24.431 --> 26:28.136
+But this quite literally has one read, in his view.
+
+26:29.237 --> 26:33.543
+You know, these kinds of things face you all the time, I would think.
+
+26:33.583 --> 26:37.428
+You know, that does face destruction.
+
+26:37.448 --> 26:44.037
+But then he also said, but you know, can they guarantee me, you know, that this material, once it's scanned,
+
+26:44.658 --> 26:46.680
+they don't have any idea how long that will last.
+
+26:46.700 --> 26:57.213
+I mean, it is zeros and ones, I guess, but it's the migration of the material constantly from one... Right.
+
+26:57.233 --> 27:06.083
+Have you come across the pair of concepts that are usually used to address this thus far in your research, which is called refreshment and migration?
+
+27:08.205 --> 27:10.869
+Maybe you could refresh me with that.
+
+27:10.909 --> 27:13.011
+The concept of refreshment
+
+27:13.582 --> 27:17.408
+is when you make another copy of exactly the same thing.
+
+27:18.429 --> 27:25.820
+And you're just copying it from one magnetic medium, in our case, or one optical medium to another.
+
+27:27.082 --> 27:29.886
+So you had it on one floppy disk, you copy it to another floppy disk.
+
+27:29.906 --> 27:33.731
+You had it on one hard drive, you copy it to another hard drive.
+
+27:33.892 --> 27:35.314
+And that's refreshment.
+
+27:35.394 --> 27:38.679
+And that's done to address the problem of deterioration of the medium.
+
+27:39.900 --> 27:43.065
+Because all these media have lifespans.
+
+27:43.298 --> 27:45.060
+And it's a relatively short one, as we know.
+
+27:46.701 --> 27:57.251
+But the great promise of the digital medium is that you can refresh infinitely without changing a single one or zero.
+
+27:58.332 --> 28:04.218
+You can make copy after copy after copy after copy, which is, as you well know, in the analog environment, you can't do.
+
+28:05.259 --> 28:06.720
+Each generation has losses.
+
+28:07.641 --> 28:08.162
+That's right.
+
+28:08.182 --> 28:10.504
+Well, that's basically what you were saying about these
+
+28:11.463 --> 28:13.046
+There's one reed left.
+
+28:13.226 --> 28:15.089
+And that's it.
+
+28:15.129 --> 28:16.992
+So that's the concept of refreshment.
+
+28:17.553 --> 28:31.878
+And that's in many ways the basis upon which people originally tried to, the early adopters, if you will, of digitization tried to adopt it as a preservation medium.
+
+28:33.781 --> 28:36.846
+But there's this other nagging little problem called migration.
+
+28:37.197 --> 28:38.539
+for which the answer is migration.
+
+28:38.599 --> 28:42.744
+And migration is the answer to the obsolescence of the technology.
+
+28:43.145 --> 28:49.233
+In the first case, refreshment was the answer to the deterioration of the medium.
+
+28:50.275 --> 28:53.419
+Migration is the answer to obsolescence of the technology.
+
+28:55.622 --> 29:02.872
+And at the moment, we're seeing a situation where the technology is obsolescing more rapidly than the medium is deteriorating.
+
+29:02.992 --> 29:06.917
+Because every six months, you've got a new generation of PCs, that kind of thing.
+
+29:07.319 --> 29:13.226
+So somebody has to be alert enough to ensure— To never win.
+
+29:13.246 --> 29:15.729
+Yeah, and so there is the possibility there.
+
+29:15.749 --> 29:16.390
+Right, right.
+
+29:16.410 --> 29:24.380
+You're down now to the question of building the archiving model, the management model that keeps this data moving forward so you continue to have access to it.
+
+29:24.400 --> 29:25.080
+So what do we call it?
+
+29:25.100 --> 29:29.366
+You said building— Building the archiving model, you know.
+
+29:29.446 --> 29:30.627
+Are you involved in that?
+
+29:31.168 --> 29:37.275
+There is a very large organization of—oh, not a large organization, an important organization called the National
+
+29:38.183 --> 29:46.673
+Digital Library Federation that just got itself a new director whose name is Don Waters.
+
+29:47.654 --> 30:01.670
+And one of the three main objectives of that organization is to design and build a successful archiving model for digital information.
+
+30:03.292 --> 30:03.932
+Where are they at?
+
+30:04.613 --> 30:05.053
+Washington.
+
+30:05.074 --> 30:07.296
+Do you have a phone number for them?
+
+30:07.316 --> 30:08.157
+You know, I do not.
+
+30:08.423 --> 30:10.806
+But I might be able to call somebody and get you one.
+
+30:10.966 --> 30:18.896
+I don't know who's ... But the fellow who's now head of it, who you'd want to talk to, is probably still at Yale, because he just got appointed.
+
+30:18.956 --> 30:19.697
+And his name is?
+
+30:19.857 --> 30:21.019
+Don Waters.
+
+30:21.039 --> 30:23.462
+Don Waters is going to Yale?
+
+30:23.482 --> 30:27.787
+He is going to NDLF from Yale.
+
+30:28.128 --> 30:30.891
+NDLF, I'm sure I can find it, 202 area.
+
+30:30.991 --> 30:33.434
+NDLF is National Digital Library Federation.
+
+30:33.575 --> 30:35.477
+Okay, and they must have a website, too.
+
+30:35.744 --> 30:37.427
+They probably do.
+
+30:37.747 --> 30:42.033
+As a matter of fact, I'm sure they do, but I don't know if you'd find it under NDLS.
+
+30:42.053 --> 30:44.437
+But you might with the regular webcrawler.
+
+30:44.597 --> 30:46.420
+I'll find you.
+
+30:46.440 --> 30:52.369
+But if you don't, also just call the Yale Library, because he's the associate director at Yale.
+
+30:54.072 --> 30:57.717
+And he's going from Yale to this organization.
+
+30:57.857 --> 30:58.358
+Interesting.
+
+30:58.759 --> 31:02.124
+Is he a print person, going to a digital?
+
+31:02.484 --> 31:05.008
+No, he's more a systems person.
+
+31:05.545 --> 31:09.992
+computer person.
+
+31:10.152 --> 31:14.799
+But not, I don't think that by any means all of his background, just he's had an interest in that for years.
+
+31:14.840 --> 31:17.023
+So, let's look at yourself, your background.
+
+31:17.243 --> 31:24.314
+Well, let me finish up this thing on migration, so you have this particular distinction, because it's incredibly important in this field.
+
+31:25.076 --> 31:30.404
+With the concept of refreshment, as I said, I made an endless number of generations of exact copies.
+
+31:31.285 --> 31:33.088
+Migration is when you
+
+31:34.604 --> 31:49.109
+when you move the digital file from one platform to another, platform being the combination of hardware and software that enables you to manipulate and view whatever it is that the file contains.
+
+31:50.752 --> 31:57.143
+In the migration concept, you change the code.
+
+31:57.163 --> 31:58.806
+So the document
+
+31:59.309 --> 32:01.492
+is not necessarily going to be the same.
+
+32:01.632 --> 32:03.515
+As a matter of fact, I shouldn't put it that way.
+
+32:03.595 --> 32:04.877
+It's definitely not the same.
+
+32:07.180 --> 32:12.768
+The document, not in terms of content, but in terms of— It could be just one-digit difference.
+
+32:14.430 --> 32:27.949
+It could be absolutely inconsequential, but if you had a file check program running, you would see that what was your file
+
+32:28.267 --> 32:33.856
+called Document A, when migrated to another platform is not exactly the same document.
+
+32:33.936 --> 32:34.497
+Why is that?
+
+32:35.158 --> 32:48.538
+Because different hardware and software makes different requirements of the file itself in order to manipulate it and manage it.
+
+32:48.618 --> 32:52.083
+It's like taking a WordPerfect document and opening it up to Microsoft Word.
+
+32:53.165 --> 32:55.168
+You don't get exactly the same thing.
+
+32:56.718 --> 32:57.879
+Well, that's a concern, isn't it?
+
+32:58.159 --> 32:58.780
+It sure is.
+
+33:00.161 --> 33:00.682
+It sure is.
+
+33:00.862 --> 33:01.863
+That's a major concern.
+
+33:01.923 --> 33:02.964
+It's not a new concern.
+
+33:04.025 --> 33:14.416
+And I'll give you an example that just kind of really makes me smile, because people think we're talking about something brand new in the world.
+
+33:15.297 --> 33:17.479
+Well, you have an original document.
+
+33:17.499 --> 33:18.580
+You're writing one right there.
+
+33:19.020 --> 33:20.362
+I'll go out and make a photocopy.
+
+33:21.002 --> 33:21.943
+Is it the same document?
+
+33:23.204 --> 33:23.805
+It contains
+
+33:24.123 --> 33:25.124
+the same information.
+
+33:25.444 --> 33:26.926
+Depends on the quality of my photocopy.
+
+33:27.367 --> 33:31.651
+I may not capture it exactly, but there's possible change.
+
+33:32.352 --> 33:41.202
+Yeah, but if your photocopy maybe for some reason has a blind spot here and NDLS falls off, then there's a significant difference.
+
+33:41.222 --> 33:42.724
+Then there's a significant difference, right.
+
+33:42.804 --> 33:45.247
+And so what you're suggesting is something similar to that.
+
+33:45.287 --> 33:47.329
+Maybe it only will be one or two
+
+33:47.815 --> 33:48.836
+the zeros and ones.
+
+33:48.856 --> 33:50.218
+The ones that are changed.
+
+33:50.238 --> 33:52.561
+But it might just be the ones that affect the NDLF.
+
+33:52.781 --> 33:53.342
+Absolutely.
+
+33:53.482 --> 33:54.503
+Exactly.
+
+33:54.763 --> 33:55.164
+Exactly.
+
+33:55.184 --> 33:56.926
+You've got the point.
+
+33:56.946 --> 33:57.066
+Right.
+
+33:57.086 --> 33:57.327
+Right.
+
+33:57.347 --> 33:58.168
+And that's a concern.
+
+33:58.468 --> 33:58.728
+Sure.
+
+33:58.788 --> 33:59.429
+Sure.
+
+33:59.449 --> 34:00.911
+But it's not a new concern.
+
+34:01.492 --> 34:02.433
+People thought it was new.
+
+34:02.893 --> 34:04.395
+We have the same thing with photocopying.
+
+34:04.435 --> 34:07.379
+We have the same thing with microfilming.
+
+34:08.000 --> 34:13.847
+All it takes is just a little bit of a loss, which might seem insignificant otherwise, to be at the right point in the right letter.
+
+34:14.728 --> 34:16.590
+Or if you have a formula,
+
+34:17.144 --> 34:27.980
+You know, and what begins as a division sign looks like in your copy a minus sign, because you don't see those little dots.
+
+34:30.043 --> 34:31.725
+We've got migration problems.
+
+34:32.146 --> 34:33.989
+Okay, but at least we've kept the original.
+
+34:34.690 --> 34:35.691
+That's right, that's right.
+
+34:36.693 --> 34:37.974
+We have the archival copy.
+
+34:38.035 --> 34:39.437
+If you've kept the original, right.
+
+34:40.318 --> 34:43.843
+But there are, you probably have come across them, there are great
+
+34:44.870 --> 34:48.114
+I don't know if they're apocryphal or, in fact, they are real.
+
+34:48.715 --> 35:01.871
+Stories of scholars who have done research on surrogates of originals, published on them, never gone back to take a look at the original, and made mistakes in their conclusions because they were operating off of copies.
+
+35:04.755 --> 35:06.817
+I haven't heard any specific instances of that.
+
+35:06.837 --> 35:08.980
+Nor have I, which is why I think it might be apocryphal.
+
+35:09.000 --> 35:14.607
+However, I've interviewed Stephen Jay Gould for this book, who's a book person.
+
+35:15.616 --> 35:23.363
+He's also a great scientist and a writer, and he says he will not do research with facsimiles.
+
+35:25.546 --> 35:27.748
+Sounds like he must have been burned at some point.
+
+35:27.768 --> 35:31.431
+Well, he just has a feeling, and he says, I can't explain it, but I get something from the original.
+
+35:31.451 --> 35:31.771
+Ah, yeah.
+
+35:31.792 --> 35:32.953
+Well, he goes beyond that.
+
+35:33.393 --> 35:38.558
+It's also a ... But there were things, you know.
+
+35:38.618 --> 35:43.783
+I mean, when I was at Cornell, I don't know if it was a group.
+
+35:45.502 --> 35:48.186
+It's an example of information capture.
+
+35:49.007 --> 35:53.213
+And to come back to our point is, what does one have to do with the other?
+
+35:55.476 --> 36:02.306
+Among all of the library specializations, the specialists in information capture are in the preservation departments.
+
+36:03.308 --> 36:04.209
+They're the folks who know.
+
+36:04.229 --> 36:11.239
+They're the folks who have to know, because they're the ones who are doing treatments that risk loss of information.
+
+36:12.232 --> 36:13.553
+Even when you're conserving.
+
+36:13.573 --> 36:15.715
+Even when you know the consequences.
+
+36:16.095 --> 36:17.376
+Absolutely, absolutely.
+
+36:17.436 --> 36:41.597
+So whether it's our photographic folks who have great eyes when it comes to actually spotting things to see whether or not they got captured, or whether it comes to our conservators who might do deacidification, but then again they might not if they see there are depressions in the paper that actually carry information that if that paper was gotten wet, it would lift it out.
+
+36:41.948 --> 36:42.609
+They would be gone.
+
+36:44.111 --> 36:45.953
+Those kinds of things are what these folks are about.
+
+36:45.973 --> 36:48.196
+That's what these people are doing for you.
+
+36:48.456 --> 36:48.617
+Yeah.
+
+36:48.637 --> 36:53.503
+I mean, that's the sort of work that they are specialists in, is to not lose information.
+
+36:54.484 --> 36:57.088
+And tell me a little bit about your own background.
+
+36:57.248 --> 37:00.973
+Is it in computers, or is it— No, my background is in preservation.
+
+37:00.993 --> 37:01.814
+In preservation.
+
+37:01.974 --> 37:05.078
+I started off at a library called the Newberry Library in Chicago.
+
+37:05.098 --> 37:09.143
+Well, it's in my previous book, but in great detail.
+
+37:09.604 --> 37:10.605
+Right.
+
+37:11.058 --> 37:15.384
+country's first in-house conservation department.
+
+37:15.404 --> 37:16.446
+Okay.
+
+37:16.466 --> 37:16.566
+Yeah.
+
+37:16.586 --> 37:17.427
+I didn't know that.
+
+37:17.447 --> 37:17.848
+I didn't know.
+
+37:18.589 --> 37:38.938
+Yeah, and that when I finished my undergraduate degree in philosophy, I thought that I would really like to do something in this field, and I cast about looking for places I could study, and it boiled down to either I could go to Italy, or I could go to a program in England, or I
+
+37:39.087 --> 37:45.315
+would have had an offer to come to Chicago and apprentice myself in that program for a couple of years, which is what I did.
+
+37:45.715 --> 37:46.456
+And where did you go?
+
+37:46.636 --> 37:47.758
+Where did you study philosophy?
+
+37:48.739 --> 37:49.780
+At Bucknell University.
+
+37:49.800 --> 37:50.121
+I see.
+
+37:50.281 --> 37:51.362
+So, you're from the East?
+
+37:51.643 --> 37:54.666
+Yeah, from Pennsylvania.
+
+37:54.687 --> 38:05.500
+And then while I'm in Chicago, I went to the University of Chicago and took a master's in the library work and specialized in administration and conservation.
+
+38:05.733 --> 38:06.634
+and the history of the book.
+
+38:06.974 --> 38:09.377
+Do you know Alice Schreier from the University of Chicago?
+
+38:09.617 --> 38:10.158
+I knew of her.
+
+38:10.178 --> 38:11.359
+I never took one of her classes.
+
+38:11.379 --> 38:13.601
+Yeah, she's excellent.
+
+38:14.302 --> 38:18.347
+So, you've got your masters in library science, is that what it is?
+
+38:18.367 --> 38:18.547
+Uh-huh.
+
+38:18.567 --> 38:21.390
+It's actually called Librarianship at the University of Chicago.
+
+38:21.410 --> 38:22.451
+Do they still teach it there?
+
+38:22.471 --> 38:23.012
+No, no.
+
+38:23.032 --> 38:24.033
+It's a program that's gone.
+
+38:24.353 --> 38:25.694
+And as it is here?
+
+38:26.435 --> 38:32.642
+Yes, now our school has been reborn as the School of Information Management and Systems.
+
+38:32.662 --> 38:35.605
+And as it is at Columbia, which was the—
+
+38:36.344 --> 38:38.427
+How do you feel about that?
+
+38:39.669 --> 38:54.232
+Well, I think that it's in some ways very akin to the comment I made earlier, and that is that in the electronic environment there's the perception that everything is brand new and it's all different.
+
+38:54.973 --> 39:04.208
+But what I see is that the fundamental structure of information, how it's delivered and how it's preserved, it all carries forward from one medium to the next.
+
+39:05.116 --> 39:08.541
+And there's a lot more that's the same than is different.
+
+39:09.903 --> 39:32.338
+And that I think that maybe because so much of online information provision was born of computer science interests in finding an application for these new tools that they built, that we haven't
+
+39:32.791 --> 39:42.466
+spent adequate time recognizing what kinds of institutions are already in our society that manage information intelligently.
+
+39:42.786 --> 40:01.515
+And I think that because there's this perception that somehow that information management and provision is all brand new and it's all going to happen digitally, and it's all part of a new science, that the
+
+40:02.761 --> 40:07.146
+concept of librarianship seems old-fashioned and possibly obsolete.
+
+40:07.787 --> 40:08.508
+Do you agree with that?
+
+40:08.568 --> 40:10.230
+No, I completely disagree.
+
+40:11.471 --> 40:18.279
+Does it help that—not only that you have this training as a librarian, I guess—would you consider yourself a librarian?
+
+40:18.900 --> 40:19.120
+Yes.
+
+40:19.340 --> 40:22.945
+Yes, I have the traditional library training.
+
+40:23.646 --> 40:24.887
+Okay.
+
+40:25.207 --> 40:28.191
+And also you have the training as a philosopher.
+
+40:28.251 --> 40:31.755
+Does it help that you have this
+
+40:32.933 --> 40:34.415
+worldview, I guess?
+
+40:34.975 --> 40:35.816
+I think it does.
+
+40:35.896 --> 40:39.700
+In this particular position that you have here.
+
+40:39.900 --> 40:54.135
+I find that what I'm able to bring to my work is not only a sense of—let's see how to put this.
+
+40:54.155 --> 40:57.579
+Hang on just a second.
+
+40:57.599 --> 40:58.840
+What's up?
+
+41:04.861 --> 41:12.007
+I feel that one of the toughest challenges that we have to make is deciding what information survives.
+
+41:12.968 --> 41:15.430
+No library collects everything.
+
+41:17.112 --> 41:22.276
+No organization collects everything and saves it in perpetuity.
+
+41:22.296 --> 41:26.820
+The challenge is how to identify what's most important to be saved.
+
+41:30.043 --> 41:33.906
+And I don't mean saving in the narrow sense of what a preservation program does.
+
+41:34.122 --> 41:42.331
+in order to optimize the life of the medium, or when the medium is at the end of its use life, convert it into another medium.
+
+41:43.392 --> 41:48.558
+I'm talking about the much more difficult problem of deciding what should be in the library in the first place.
+
+41:49.539 --> 41:53.183
+And then once it's here and it's reached the end of its service life, what should continue?
+
+41:55.566 --> 42:02.053
+And I think that's the essence of what we do.
+
+42:03.772 --> 42:10.961
+society's most responsible agents for preservation of the human record.
+
+42:11.461 --> 42:12.963
+That's a great quote.
+
+42:13.924 --> 42:16.327
+I think this is the philosophy we're talking about.
+
+42:16.888 --> 42:19.791
+Well, that's what I get excited about in this work.
+
+42:19.811 --> 42:21.213
+That's what I get excited about.
+
+42:21.233 --> 42:23.816
+That's great.
+
+42:24.197 --> 42:25.378
+Excellent.
+
+42:26.319 --> 42:28.982
+Do you mind if I feel free to call you at some point?
+
+42:29.002 --> 42:31.045
+Fine.
+
+42:31.065 --> 42:32.867
+I'll work it through.
+
+42:33.995 --> 42:38.200
+Right, right.
+
+42:38.220 --> 42:42.025
+And now that you like email, do you mind email?
+
+42:42.085 --> 42:43.346
+I prefer it, as a matter of fact.
+
+42:43.366 --> 42:43.907
+I like it, too.
+
+42:43.927 --> 42:44.608
+Easier for me.
+
+42:47.271 --> 42:47.792
+Right.
+
+42:47.952 --> 42:50.715
+One more bit of jargon.
+
+42:51.777 --> 42:55.882
+Under the digital library hat, we call that asynchronous communication.
+
+42:56.823 --> 42:58.244
+I just love it.
+
+42:58.705 --> 42:59.646
+Asynchronous?
+
+42:59.666 --> 43:00.407
+Right.
+
+43:01.180 --> 43:03.383
+Meaning that we can do it out of time with each other.
+
+43:03.403 --> 43:04.123
+Isn't it amazing?
+
+43:04.404 --> 43:10.271
+I've carried my little computer with me, and I'm setting up as an excuse of what a conversation could go.
+
+43:10.591 --> 43:12.353
+You're a young man.
+
+43:12.373 --> 43:13.795
+Do you mind me asking your age?
+
+43:14.195 --> 43:14.776
+49.
+
+43:14.876 --> 43:16.738
+It is interesting.
+
+43:17.139 --> 43:18.981
+I went to the MIT media lab.
+
+43:19.341 --> 43:26.509
+If you haven't done it already, it might be fun for you, because it certainly was for me, to read some of Neil Stevenson's stuff.
+
+43:26.530 --> 43:27.771
+You don't know him.
+
+43:28.051 --> 43:30.394
+A fiction writer.
+
+43:30.796 --> 43:33.780
+Neil Stephenson, S-T-E-P-H-E-N-S-O-N.
+
+43:35.542 --> 43:38.486
+Now I'm going to try to remember the titles.
+
+43:39.206 --> 43:53.825
+One of them was The Diamond Age, and that's a story about a little girl who is given a book that learns from her and teaches her what she needs to know.
+
+43:55.186 --> 43:59.031
+And the way that's played out is actually less interesting.
+
+43:59.467 --> 44:10.006
+Because the idea of the book that presents her the information she needs, as she needs it, and learns from her that— Well, is the book going to become an entity?
+
+44:10.326 --> 44:22.909
+Well, I mean, what it is is a communications medium with what they call RACTORS, R-A-C-T-O-R-S, which is, I think, a combination
+
+44:23.227 --> 44:25.230
+between reaction and actor.
+
+44:25.491 --> 44:26.933
+This is his word or this is the word?
+
+44:26.953 --> 44:28.014
+It's his word in the book.
+
+44:28.455 --> 44:29.096
+You'll come across it.
+
+44:29.116 --> 44:29.998
+Is he a contemporary?
+
+44:30.038 --> 44:30.759
+Is he around now?
+
+44:30.819 --> 44:31.620
+Yes, he's writing now.
+
+44:31.780 --> 44:34.685
+He's written other things?
+
+44:34.725 --> 44:39.212
+Yes, the one that I most enjoyed and I just remembered is called Snow Crash.
+
+44:40.013 --> 44:40.895
+Is this science fiction?
+
+44:40.915 --> 44:41.155
+It is.
+
+44:41.896 --> 44:42.537
+Cyber fiction.
+
+44:43.018 --> 44:43.919
+Cyber fiction?
+
+44:43.939 --> 44:44.941
+Right.
+
+44:44.961 --> 44:46.944
+Is it published in Hightower or paperback?
+
+44:47.004 --> 44:47.785
+Paperback.
+
+44:47.845 --> 44:51.411
+You'll pick it up at the airport and you get back on the plane.
+
+44:51.931 --> 45:10.335
+And Snow Crash is a story of how people are going to use the digital environment and cyberspace as the next entertainment medium.
+
+45:10.916 --> 45:12.277
+Now, you read this stuff a lot?
+
+45:12.638 --> 45:13.959
+No, I hardly ever read it.
+
+45:14.260 --> 45:16.383
+I only read it because— Why do you read these?
+
+45:16.603 --> 45:18.646
+Because it has so much to do with information.
+
+45:18.906 --> 45:20.588
+How did you find out about it?
+
+45:21.412 --> 45:21.915
+I don't know.
+
+45:22.519 --> 45:23.848
+I don't know where I found out about that.
+
+45:23.868 --> 45:24.733
+I'm going to write about it.
+
+45:24.753 --> 45:26.283
+I'm going to record the fiction.
+
+45:26.303 --> 45:27.068
+I'm reading that.
+

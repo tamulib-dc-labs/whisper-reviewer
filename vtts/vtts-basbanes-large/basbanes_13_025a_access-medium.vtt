@@ -1,0 +1,2363 @@
+WEBVTT
+
+00:03.085 --> 00:09.150
+The Innovation Department at Yale, since 1992, is well known to many of you.
+
+00:10.872 --> 00:14.395
+Preservation microphone frames to digital images.
+
+00:15.896 --> 00:30.809
+Prior to Yale, Paul conducted research projects for three years at the National Archives, including a study of research using archives and a review of how government agencies implement digital imaging and optical technology.
+
+00:30.829 --> 00:32.991
+During 1988-89,
+
+00:33.308 --> 00:46.459
+He served as the Preservation Program Officer of the Office for the Society of American Archivists in Chicago, where he carried out a nationwide survey of archival preservation programs.
+
+00:46.479 --> 00:52.925
+He began his professional career as an archivist on the staff of the Gerald Ford Library in Ann Arbor, Michigan.
+
+00:53.625 --> 01:00.511
+He has a master's degree and a PhD in information and library studies both from the University of Michigan.
+
+01:00.531 --> 01:02.573
+Paul is widely published.
+
+01:02.857 --> 01:05.581
+on both preservation and archival management topics.
+
+01:06.382 --> 01:11.830
+Most recently, his writing has focused on the challenges of preserving library resources in a digital format.
+
+01:13.773 --> 01:21.664
+Paul also wanted me to note to you that his talk will be on the Nellahan website.
+
+01:23.207 --> 01:28.915
+And he also has a handout within the packet of websites you can go to.
+
+01:41.753 --> 01:45.883
+Thank you.
+
+01:45.903 --> 01:51.577
+I have the good fortune of being the only person on the program today who is also with a digital reality one.
+
+01:51.597 --> 01:53.502
+So I have the two years ago.
+
+01:54.055 --> 02:02.068
+So I have the advantage of the opportunity to connect some dots that wouldn't necessarily be able to be connected otherwise.
+
+02:02.148 --> 02:03.851
+A lot has happened in two years.
+
+02:03.871 --> 02:06.536
+Digital reality one was only two years ago.
+
+02:06.556 --> 02:16.092
+It feels like all of a sudden there's a lot of renewed interest or new interest in preserving a born digital material that is reborn in digital form.
+
+02:16.292 --> 02:19.978
+I also have a few other challenges.
+
+02:20.397 --> 02:25.342
+One is to keep you awake after lunch.
+
+02:25.542 --> 02:34.451
+And the third obligation that I have is, I think, is a mixed obligation.
+
+02:34.591 --> 02:45.882
+One is, the simple part is to set up the issues so that the following two speakers have a context within which to build their comments about stimulation and migration.
+
+02:46.250 --> 03:06.908
+i think that at a larger level what i'm trying to get at is is kind of get you to walk out of the room and say yes yes this is something i need to think about yes this is something i need to do and yes this is something that is doable by in this particular case the idea that preservation has a role to play in the building
+
+03:07.090 --> 03:07.931
+So I'd like to start.
+
+03:08.472 --> 03:10.936
+So in essence, my topic is really three parts.
+
+03:10.956 --> 03:17.646
+I want to provide the context, talk about the debates on digital preservation and points to some issues.
+
+03:17.666 --> 03:20.050
+We'll start with the context of today.
+
+03:21.091 --> 03:22.674
+We're living in a digital world.
+
+03:22.694 --> 03:23.215
+We know this.
+
+03:23.455 --> 03:25.078
+The evidence is everywhere.
+
+03:25.098 --> 03:29.825
+But I'd like to give you, at least for starters, the five top reasons I think we're living in the digital world.
+
+03:31.087 --> 03:35.173
+Archive has become a verb.
+
+03:35.440 --> 03:38.404
+The archivist in me still cringes.
+
+03:38.584 --> 03:41.427
+I can't seem to get away from it.
+
+03:41.588 --> 03:45.472
+Keyboard's now a number of office workers.
+
+03:45.793 --> 03:46.494
+I think it's almost two to one now.
+
+03:46.514 --> 03:47.915
+There are more keywords than there are people who do the work.
+
+03:48.716 --> 03:55.184
+I read last week in the New York Times that there's now a hyperlink for every man, woman, and child in the face of the earth.
+
+03:55.204 --> 03:58.208
+Seven billion plus links.
+
+03:59.167 --> 04:01.771
+Nobody carries cash.
+
+04:02.031 --> 04:05.456
+And the final reason.
+
+04:06.157 --> 04:09.141
+Profit is accepted.
+
+04:09.161 --> 04:13.588
+We know we're in a digital world when they have to get money.
+
+04:13.608 --> 04:14.869
+Okay.
+
+04:14.890 --> 04:24.083
+We also know we're in a digital world because the digital world is changed by a way of thinking about how we relate to each other.
+
+04:24.103 --> 04:24.563
+Can you read that?
+
+04:24.583 --> 04:26.406
+Go ask your search engine.
+
+04:27.297 --> 04:42.437
+Okay, what I'm going to do is lay the context in terms of both time and space for digital preservation to talk about the issues that there seems to be a genuine debate about whether digital preservation is
+
+04:42.603 --> 04:45.966
+appropriate or not, whether the work we do is only access.
+
+04:46.647 --> 04:54.195
+And in the process of doing so, there are some definitions that I hope will help us through the rest of the day.
+
+04:54.235 --> 05:03.144
+And then point out the definition of digital preservation is only one of the issues that we want to look at down the road.
+
+05:03.164 --> 05:08.610
+The first question on the table for us is whether digital preservation is real or not, or simply a metaphor.
+
+05:09.198 --> 05:12.889
+There's a lot of talk about that, of course.
+
+05:13.149 --> 05:20.832
+And I think I hope that I'll convince you that we're actually reading.
+
+05:20.852 --> 05:20.912
+OK.
+
+05:21.382 --> 05:24.586
+The place to start is way back in time.
+
+05:24.766 --> 05:42.245
+This is a chart that I put in a book I published, a report I published in 1996, Preservation of the Digital World, which basically shows the history of recorded media and the relationship between our ability to store information, and the fragility of the media that we're dealing with.
+
+05:42.526 --> 05:49.093
+You'll notice all the way there, media in order when they were popular as recording media, starting with playing tablets and moving all the way up
+
+05:49.073 --> 05:55.445
+disks and optical disks through Moby Dick, the beginning of the Brittle Books period, and newspapers, Microdillo and Fiche.
+
+05:55.845 --> 06:09.951
+The point here is that as our ability to store material compactly has increased from 50, 60, 40, 100 characters per square inch up to the present 51 million disks and holes twice, three times that now.
+
+06:10.522 --> 06:15.369
+The life expectancy of these media has declined equivalently.
+
+06:15.389 --> 06:18.293
+And we're looking at a 10,000-year life expectancy here.
+
+06:18.313 --> 06:20.316
+A lot more trained and recorded history.
+
+06:20.837 --> 06:27.827
+For libraries, archives, and museums, of course, we know that we have the challenge of preserving all of these materials in some form.
+
+06:27.887 --> 06:30.851
+Not every library has clay tablets, but there are quite a few out there.
+
+06:31.512 --> 06:35.117
+Not every library has illuminated manuscripts, but there are quite a few out there.
+
+06:35.137 --> 06:37.761
+And everybody has a brittle book or two floating around.
+
+06:38.956 --> 06:46.507
+OK, so where we are now is, as the science fiction writer Bruce Sterling has said, we're in this golden age of dead media.
+
+06:47.047 --> 06:50.512
+Most of them are working lives.
+
+06:50.532 --> 06:53.977
+And that's kind of where we are now from 10,000 years.
+
+06:53.997 --> 06:55.119
+Now we can call that progress.
+
+06:55.780 --> 07:00.567
+And I think there is a lot to be said for the progress that we've made in terms of being able to develop new media.
+
+07:00.627 --> 07:04.332
+But there's an issue here with the media itself.
+
+07:04.352 --> 07:08.558
+Now let's look the other direction.
+
+07:09.365 --> 07:10.386
+Do you recognize this?
+
+07:11.787 --> 07:18.453
+This is Danny Ilse's Millennium Clock that was unveiled on New Year's Day, the year 2000.
+
+07:19.955 --> 07:22.056
+It ticks off the air, long slumps a century.
+
+07:22.937 --> 07:28.202
+This item is being built.
+
+07:28.302 --> 07:29.243
+It's nine feet tall.
+
+07:29.263 --> 07:30.504
+I'll back up.
+
+07:30.524 --> 07:32.466
+It's nine feet tall, made out of brass and steel.
+
+07:33.327 --> 07:37.070
+And it's being built in the deserts of Utah.
+
+07:37.170 --> 07:39.372
+A prototype is being built.
+
+07:39.605 --> 07:44.031
+is this little item calibrates automatically.
+
+07:44.051 --> 07:44.912
+This is the dial.
+
+07:44.932 --> 07:46.214
+It's about two feet in diameter.
+
+07:46.274 --> 07:57.229
+It calibrates automatically because we can count on the sun coming up and going down forever, at least until it doesn't come up anymore.
+
+07:57.409 --> 08:00.854
+And so it automatically calibrates, but it needs to be wound by human beings.
+
+08:01.635 --> 08:07.823
+And in Danny Ellis' design for the Millennium Clock, he was determined that this metaphor of maintenance
+
+08:08.022 --> 08:16.691
+the metaphor of human beings' involvement with their technology be preserved in even something that was designed to last 10,000 years.
+
+08:17.052 --> 08:18.833
+So now we have a 20,000-year time frame.
+
+08:19.114 --> 08:24.179
+Now we've been talking about Twinkies, a pack of Twinkies, where we are in terms of being here today.
+
+08:25.060 --> 08:27.282
+Now let's go back a little bit further in time.
+
+08:27.523 --> 08:34.050
+The point that I want to make in the next couple of slides is that the digital technology as we know it has been around for a very long time.
+
+08:34.590 --> 08:37.253
+The idea of phase two, big sixth grade math,
+
+08:37.621 --> 08:58.159
+was full blown from the brilliant mind of Godfrey Wilhelm von Leibniz, who invented the idea of base two and conceived of a mathematical system in which all very life's experience could be coded in ones and zeros some 350 years ago.
+
+08:58.179 --> 09:05.586
+And he designed a machine that wasn't built for another 200 years, but the prototype for it was in his notebooks.
+
+09:05.870 --> 09:13.500
+for a calculating machine that was based on base two, way before Charles Babbage was born, much less designed his calculating machine, his differential engine.
+
+09:14.071 --> 09:23.222
+The other piece of the digital technology that's been around a long time is the idea that what digital is all about is communication, sending information from one space to another.
+
+09:23.242 --> 09:26.385
+Now, we've had two centers this morning who've made this point as well.
+
+09:26.466 --> 09:27.547
+It's not about the media.
+
+09:27.627 --> 09:32.393
+It's not necessarily about necessarily conversion of something.
+
+09:32.413 --> 09:36.197
+It's about how we work and live together.
+
+09:36.802 --> 09:54.744
+of about a fifth copy of image of what was called the visual telegraph that ran from London to the old 200 years ago, in which a six or seven foot high platform, a person stood on top of that platform and looked to the horizon and waited for the six disks to change pattern.
+
+09:54.764 --> 10:04.817
+And when this person saw those disks turn from black to white, he or she replicated, it's probably a he.
+
+10:05.185 --> 10:08.050
+turned the blacks from blacks to white.
+
+10:08.070 --> 10:11.476
+And a person looking on the horizon in the other direction watched for that to change.
+
+10:11.496 --> 10:19.751
+And it was possible to send a digital signal from one coast to another in a matter of 40 or 50 seconds once you got trained.
+
+10:20.272 --> 10:24.460
+But of course, there was a tremendous administrative overhead to this kind of thing.
+
+10:25.604 --> 10:33.837
+The point here is that we've been concerned as humans about efficient communication and coded communication for a very, very long time.
+
+10:34.318 --> 10:43.613
+And even the infrastructure of networks and input-output streams and storage media and digital communication has been a part of our life, many parts of our lives, since World War II.
+
+10:44.116 --> 10:47.141
+So this is not a brave new world necessarily.
+
+10:47.342 --> 10:50.507
+We have a tremendous amount of stability in the midst of change.
+
+10:50.608 --> 10:54.655
+As I've mentioned, we've got digital mathematics theory that's been around for 350 years.
+
+10:54.775 --> 10:58.101
+It gives us the tools to do what Tim Berners-Lee described.
+
+10:58.121 --> 11:00.485
+He talked about coding the world in mathematical forms.
+
+11:01.687 --> 11:02.108
+We're there.
+
+11:02.990 --> 11:08.740
+The basic technology infrastructure is solid and well supported.
+
+11:08.720 --> 11:17.309
+But what's changing so rapidly, the feeling of a revolution is how we actually use this technology in our lives.
+
+11:19.011 --> 11:27.460
+In Wired Magazine a couple years ago, Steve Steinberg wrote an essay about what's changed and what's happened in the last five years with digital technologies.
+
+11:27.680 --> 11:33.867
+And his conclusion, which he was wistful and regretful about, was that nothing much has happened.
+
+11:34.184 --> 11:36.387
+and felt that that was a cause for concern.
+
+11:37.589 --> 11:44.077
+But for those of us in libraries, archives, and museums, some sense of stability in this technology is a cause for optimism.
+
+11:44.097 --> 11:50.406
+And I think that Tim and others, even Walt, were talking about, we can count on certain things.
+
+11:50.426 --> 11:53.670
+Now, three years ago, we couldn't make that conversation.
+
+11:53.730 --> 11:59.398
+We were all worried about the ephemera of digital technology, but we have a certain room for optimism here now.
+
+12:00.813 --> 12:11.633
+okay now i need to begin looking ahead with preservation in some senses is about prediction and about lowering our risk george gilder who
+
+12:12.203 --> 12:37.266
+walt mentioned this morning uh we i could describe who george gilter is and i won't i won't do that but he he did write a nice essay in last week's new yorker or that he was described in last week's new york new yorker as being critical of most projectors most most prognosticators as being focused on catastrophe anybody that looks forward tends to see the worst and what the doomsmeers don't understand is that is that the reason humans revels creativity
+
+12:37.617 --> 12:40.170
+where that creativity always comes as a surprise.
+
+12:40.190 --> 12:45.838
+Now, we know that the World Wide Web has come over us as a surprise, even though it took 10, 15 years
+
+12:46.223 --> 12:58.860
+to think about it, figure it out, convince many people that he wasn't crazy, and build a base for a revolution that comes to us as a surprise.
+
+12:58.880 --> 13:10.115
+And I think that as we're looking forward to digital preservation, we have to remember that we're constantly surprising ourselves with our ability to deal with complicated issues.
+
+13:10.195 --> 13:15.302
+The second point, which should be obvious after half a morning of talking about this, is that the web is not a library.
+
+13:15.991 --> 13:22.485
+The web is not a library because the information is not all there, and I think we clarified that this morning.
+
+13:23.066 --> 13:27.856
+It's lacking standards and validation to name two of the things that are wrong with the World Wide Web.
+
+13:28.477 --> 13:29.720
+And there's minimal cataloging.
+
+13:29.740 --> 13:33.207
+We know that for a fact, or any kind of descriptive standards.
+
+13:33.440 --> 13:36.003
+And retrieval is still, for now, ineffective.
+
+13:36.023 --> 13:39.006
+I mean, with Google up there, only through Wall's web page is number one.
+
+13:39.026 --> 13:40.848
+It's still not quite there.
+
+13:40.868 --> 13:44.432
+And so my contention is that preservation is the job for libraries.
+
+13:44.452 --> 13:46.634
+And it's the job for archives, the job for museums.
+
+13:47.135 --> 13:58.047
+It's the job for organizations whose mission is to keep them for the good of somebody, the organization itself, or their reader, or their users, or society.
+
+13:58.499 --> 14:03.344
+And so we have a special job with preservation, and that job has always been a part of libraries.
+
+14:03.504 --> 14:06.827
+And Tim confirmed that this morning.
+
+14:06.847 --> 14:11.152
+He said, I'm hoping that you librarians out there will tell us all what to do.
+
+14:11.953 --> 14:13.434
+And I put a smile on my face.
+
+14:13.454 --> 14:21.482
+I don't know about you when he said that, because that's a validating power over what we have to do, which is figure out how to do this preservation thing.
+
+14:23.164 --> 14:23.224
+OK.
+
+14:23.609 --> 14:31.140
+So the question is, what's the place of preservation theory and practice in a world dominated by information created in the digital world?
+
+14:31.160 --> 14:32.943
+Big deal here.
+
+14:33.043 --> 14:35.987
+And the risk here is unbelievable investment.
+
+14:36.007 --> 14:45.341
+Anybody who's doing any budget work for your libraries, archives, or museums now know what the toll is for digital resources right now.
+
+14:45.361 --> 14:47.263
+There's still a pretty high risk loss.
+
+14:48.565 --> 14:51.169
+We haven't yet had, I'm waiting for the Florence plug.
+
+14:52.229 --> 14:54.512
+of the digital world.
+
+14:54.532 --> 15:04.827
+If you know anything about conservation, the Florence flood galvanized the conservation community to deal effectively with catastrophe among resources.
+
+15:04.987 --> 15:08.472
+We haven't had a Florence flood yet.
+
+15:08.573 --> 15:13.039
+And this world of constant product development, which makes us feel like we're in the midst of a chaotic world.
+
+15:14.285 --> 15:20.875
+Instead, what we're looking at is not the World Wide Web as something to preserve, but as digital libraries as something to build.
+
+15:21.136 --> 15:25.402
+And I'm using the word library broadly as an organization.
+
+15:25.503 --> 15:28.026
+This is Don Waters' definition.
+
+15:28.087 --> 15:32.734
+This sounds a lot like the definition of a regular library with a couple of exceptions.
+
+15:32.754 --> 15:41.187
+It's an organization that has resources, including specialized assets, does all these things, select, structure, offer intellectual access, interpret,
+
+15:42.618 --> 15:54.150
+resources, distribute, preserve the integrity of collections for digital works so that they're readily available and economically available for use by a defined community.
+
+15:54.430 --> 15:59.516
+Defined, it suggests choices we make about what our audience is.
+
+15:59.536 --> 16:09.406
+So what we're really looking at is building a product, and that's my point of departure for digital preservation.
+
+16:09.426 --> 16:09.486
+OK.
+
+16:09.938 --> 16:12.462
+Now, I probably have convinced you already.
+
+16:12.502 --> 16:13.483
+Oh, this is logical.
+
+16:13.503 --> 16:14.164
+Of course.
+
+16:15.386 --> 16:17.969
+That's what I'm here to do, is to make you say yes.
+
+16:18.850 --> 16:20.653
+But there's a debate out there.
+
+16:20.673 --> 16:28.464
+And what's that debate going on here?
+
+16:28.484 --> 16:30.707
+Maybe this is professional jealousy or something.
+
+16:31.348 --> 16:35.153
+Some people have had a few grandchildren.
+
+16:35.791 --> 16:37.793
+associated with digital preservation.
+
+16:37.833 --> 16:41.176
+And I want to tell you about a few of that in a few minutes here.
+
+16:41.236 --> 16:42.917
+First, some precedence.
+
+16:43.858 --> 16:52.486
+The idea of digital preservation, I think, has largely emerged not out of the library preservation community, but out of the archives community.
+
+16:52.506 --> 17:04.937
+Anybody who's thought or worried or taken a workshop in the 1980s about the problem of electronic records immediately understands what the basic problem is of digital material.
+
+17:05.170 --> 17:24.973
+And in the pre-1980s and up through the 1980s, there was a lot of work going on, a lot of angst, mostly, in the archives community about electronic records, which then became codified as a research agenda, prompted by people like Margaret Hedstrom, who's now at the University of Michigan, and then originally she was at the New York State Archives Program.
+
+17:25.633 --> 17:31.380
+Richard Cox, way preceding many of us, and thinking constructively about this, the National Archives,
+
+17:31.613 --> 17:35.978
+working off and on, in and out, all around the bush to get focused.
+
+17:36.558 --> 17:44.707
+Contracted with a number of people to do studies, including the National Association of Public Administrators, a major study for the National Archives.
+
+17:44.747 --> 17:54.237
+But it was pretty much under the light, was under the bushel until the ROG Commission on Preservation and Access Task Force on Archiving.
+
+17:54.817 --> 17:58.161
+The digital record came along in 1996, chaired by Don Waters,
+
+17:58.613 --> 18:00.925
+And John Garrett, who put a report together.
+
+18:01.046 --> 18:02.674
+It's listed in your handout.
+
+18:02.694 --> 18:03.197
+It's on the web.
+
+18:03.398 --> 18:06.092
+It'll be .
+
+18:06.325 --> 18:10.372
+And it clarified, it defined for us this idea of migration.
+
+18:10.752 --> 18:14.939
+It gave a vow to emulation without really giving it much due.
+
+18:14.960 --> 18:31.928
+And it focused on the need to focus on born digital materials primarily, perhaps at the expense of, in a limited world of limited resources, reborn digital, which I'm thinking of as all the stuff that we're sitting on in our institutions now.
+
+18:32.043 --> 18:55.418
+conversion of legacy collections into digital form and if tim you know we he we went back and forth over the grave whether he says anything important is going to be on the web maybe that's true in terms of managing our organizations but it's not true in terms of scholarship communication learning teaching and all the things that are bread and butter there's still a lot of work to do my focus when i
+
+18:55.634 --> 19:02.959
+I had the good fortune of reading a draft of the RLG CPA Task Force and realized that the reborn digital piece wasn't being discussed.
+
+19:02.979 --> 19:07.956
+I had the opportunity to write the preservation in the digital world, which I'm going to summarize in the next.
+
+19:08.408 --> 19:15.178
+And now we're seeing, all of a sudden, what I'm calling, you know, what we could think of is the new cottage industry on digital preservation.
+
+19:15.258 --> 19:27.515
+Everywhere you turn in the world of higher education, you have people, task forces groups, some talking to each other and some not, worrying about what we're going to do about digital preservation.
+
+19:27.615 --> 19:34.365
+And I think this is a wonderful thing, in fact, that we've got a high level of anxiety happening.
+
+19:35.607 --> 19:37.369
+Now, I had a 20,000-year time frame.
+
+19:37.822 --> 20:03.441
+preservation 10 000 in the past and 10 000 in the future here we have four orders of magnitude less 10 10 years we've had a tremendous amount of progress we should pat ourselves on that that we that the idea that we might want to have a preservation sensibility built into this digital arena was a new idea 10 years ago and it's virtually a clear concept now we can't do it yet but it's a clear concept
+
+20:03.725 --> 20:11.234
+We have a tremendous amount of research and development, both nationally and internationally, in all kinds of arenas, shared and unshared results.
+
+20:11.595 --> 20:13.858
+Best practices emerging for most kinds of materials.
+
+20:13.918 --> 20:15.340
+We know how to do text.
+
+20:15.920 --> 20:19.165
+We are pretty close to knowing how to do black and white photographs.
+
+20:19.185 --> 20:20.166
+We're getting there on color.
+
+20:20.466 --> 20:22.028
+We're getting there on oversized materials.
+
+20:22.048 --> 20:24.832
+We're not there on newspapers, yada, yada.
+
+20:24.852 --> 20:29.057
+There's a lot of people working on how to create digital resources.
+
+20:29.493 --> 20:36.984
+There's a tremendous amount of work going on, at least in the last couple years, on information architectures, which is all the underlying database structures that help ties all together.
+
+20:37.745 --> 20:41.049
+It's the nodes on the internet, and what happens when you land on one of those?
+
+20:41.069 --> 20:42.311
+What do you get?
+
+20:42.371 --> 20:48.980
+The architectures for these digital libraries are emerging with amazing speed in the last couple of years.
+
+20:49.501 --> 20:55.049
+Models for transformative digital products, we have wonderful resources out there that we can point to as successes so far.
+
+20:55.069 --> 20:57.272
+Ones that look like they will persist, JSTOR.
+
+20:58.484 --> 21:08.069
+the documenting the American Self Project at the University of North Carolina, Chapel Hill, LC's American Memory Program.
+
+21:08.089 --> 21:09.854
+Not all of it is your tax dollars at work either.
+
+21:09.874 --> 21:14.586
+A lot of it is your former vacancy that went away to pay for a digital product.
+
+21:15.005 --> 21:17.588
+national leadership in the infrastructure.
+
+21:17.608 --> 21:18.609
+We have a voice.
+
+21:18.649 --> 21:25.137
+It's in the Council on Library and Information Resources and it's in the National Digital Library Federation voice.
+
+21:25.197 --> 21:32.205
+Now how effective that voice is and how stable that voice is is my next slide.
+
+21:32.245 --> 21:38.633
+The Council on Library and Information Resources is a co-joining of the old Council on Library Resources and the Commission on Reservation and Access.
+
+21:39.305 --> 21:48.980
+It became an entity in 1987, I believe, and has been a vocal advocate for preservation, both traditionally and in digital forms.
+
+21:49.000 --> 21:54.709
+But the message is morphing on us, and that's what I want to show you here.
+
+21:54.809 --> 22:01.600
+In 1997, the annual report for the first annual report for CLEAR said the digital surrogates are for access only.
+
+22:02.086 --> 22:06.392
+followed up by a report that said digitization addresses no serious preservation issues.
+
+22:06.692 --> 22:08.234
+And I am quoting out of context.
+
+22:08.915 --> 22:17.367
+And if Don and Waters and Abby Smith and Deanna Markham were sitting here, we would be having a dialogue.
+
+22:17.768 --> 22:28.943
+Don Waters was the one that quality is a metaphor, which I then turned around three weeks later and put that slide up that says, you know, the good news follows it.
+
+22:28.963 --> 22:30.405
+The doctor says it's only a metaphor.
+
+22:30.385 --> 22:33.510
+Permanence and authenticity are a good length.
+
+22:33.650 --> 22:42.544
+The focus on that line is that you can't possibly have preservation because the media isn't permanent and you can sneak in in the dead of night and change that digital file.
+
+22:42.564 --> 22:46.710
+I could remove myself from this presentation if I wanted to.
+
+22:47.632 --> 22:53.541
+But we have a new director of the Digital Library Federation, Dan Greenstein.
+
+22:53.707 --> 23:02.235
+who didn't come out of the United States world of digital politics, but came out of the English world of digital politics, which is probably no better or no worse than the American one.
+
+23:02.255 --> 23:03.436
+But he has a different perspective.
+
+23:03.456 --> 23:10.442
+He said the digital preservation thing is something we have to do, and the whole, it's so complex, but let's start close to home.
+
+23:10.482 --> 23:14.526
+Let's start with trying to preserve our own assets, the ones we created.
+
+23:14.766 --> 23:17.548
+Let's begin with preserving digital surrogates that we have created.
+
+23:18.489 --> 23:21.672
+And so in the course of only three years, we've gone full circle.
+
+23:22.327 --> 23:24.329
+And that's only three years.
+
+23:26.292 --> 23:32.139
+So, I'm back to... What is preservation?
+
+23:32.359 --> 23:35.583
+No, the manual is 99.
+
+23:35.764 --> 23:44.394
+I first hatched this idea in 96 and it became fully fleshed out in the latest edition of the NEDCC preservation manual.
+
+23:44.414 --> 23:47.338
+Preservation is the creation of digital products worth maintaining over time.
+
+23:47.673 --> 23:55.721
+And if you remember something from my presentation, take that sentence away, because it's loaded with assumptions, and it's loaded with requirements.
+
+23:56.141 --> 23:56.942
+It's not a metaphor.
+
+23:56.962 --> 23:57.703
+It's something we do.
+
+23:58.103 --> 23:58.563
+It's is.
+
+23:58.603 --> 23:59.584
+It's not is-like.
+
+23:59.644 --> 24:11.516
+The creation, all of a sudden, libraries, archives, and museums, we know this, but we have to face up to the fact that we're in the product creation business.
+
+24:11.536 --> 24:13.037
+Product creation business.
+
+24:13.057 --> 24:15.299
+Digital products worth maintaining over time.
+
+24:15.319 --> 24:17.241
+Value, if we don't add value,
+
+24:17.558 --> 24:21.143
+then we're not creating something worth maintaining over time.
+
+24:21.223 --> 24:29.335
+I'll mention, I'll go on a little bit about this in a minute, but the point here is that this creates a fairly high bar for us.
+
+24:29.355 --> 24:34.943
+That we're not simply copying material into another medium and calling it done and walking right away.
+
+24:34.963 --> 24:41.533
+We have to first transform our perspective on preservation in order to tackle the digital preservation issues.
+
+24:42.074 --> 24:46.941
+Our way of looking at traditional preservation must change from
+
+24:49.216 --> 24:59.493
+From locally to collaboration, so much of what we do is based on what's good for General Motors and Yale is good for General Motors and Yale, and the rest of us can follow.
+
+25:00.315 --> 25:04.161
+From standards to best practices and back again, and I rushed at lunch.
+
+25:04.181 --> 25:12.355
+I rushed upstairs and put the NBAC again in there in response to Tim Berners-Lee's comments about the place of standards.
+
+25:12.807 --> 25:35.902
+Those of us in the preservation and library and archives community have tended to walk away from standards because of the cumbersome standards process that takes 10 to 15 years to get something, a meta-standard, some big thing that's 400 page thick standards, whether it's archives records management in Australia or whatever, it's an impossible process.
+
+25:36.202 --> 25:41.430
+And we said the best that we can do is consensus on the way to do the job, which is what best practice is.
+
+25:41.680 --> 25:49.370
+What Tim has reminded us is that underneath that best practice are some basic things that we need to agree that we have to call standards.
+
+25:49.550 --> 25:51.653
+We wouldn't have the world wide world if there wasn't.
+
+25:52.153 --> 25:55.778
+Some minimal level of standardization is really what it's all about.
+
+25:55.798 --> 26:00.184
+So it's this combination of perhaps abandoning the broad-based standards process.
+
+26:00.204 --> 26:09.055
+It's not abandoning it, at least putting it on the backseat, emphasizing best practices for getting the job done, but recognizing that those best practices won't be best
+
+26:09.727 --> 26:14.333
+unless there's an underlying technology standard that backs them up.
+
+26:14.634 --> 26:18.660
+It's open systems standards, open software, etc.
+
+26:18.680 --> 26:20.983
+From product to product, I've belabored this one already.
+
+26:22.325 --> 26:25.649
+Most of our traditional preservation work has been fairly linear.
+
+26:26.110 --> 26:28.594
+We're looking at something more complex now.
+
+26:28.614 --> 26:30.016
+And we have rescued ownership.
+
+26:31.337 --> 26:37.506
+The preservation ethic embedded in the copyright laws of the United States and other countries allows preservation of anything.
+
+26:38.498 --> 26:41.782
+even whether it's owned by copyright or not, in the interest of preservation.
+
+26:42.023 --> 26:52.397
+But we now know with the Digital Millennium Copyright Act that we can preserve something, but we can't make it available because we don't own it.
+
+26:52.417 --> 26:58.224
+For moral right to business plan, preservation was built on the fact that it was the right thing to do.
+
+26:58.244 --> 27:02.811
+But we're in an environment where business plans are going to make a difference, and so we have to have that.
+
+27:02.831 --> 27:04.853
+The product itself has to be transformed.
+
+27:04.873 --> 27:08.438
+Thinking of what we are doing with creating a digital product has to change.
+
+27:09.464 --> 27:16.412
+And what we've got is a set of relationships that starts with the reason we're doing this in the first place.
+
+27:16.632 --> 27:22.539
+Are we just trying to protect our materials from further damage by putting them online and putting the derivatives online?
+
+27:22.939 --> 27:28.185
+Are we trying to facilitate research interpretation by representing the information in those sources?
+
+27:28.385 --> 27:36.214
+Or, as I would suggest we really need to focus on, create applications that take maximum advantage by the technology itself, transcendent,
+
+27:36.768 --> 27:42.335
+applications that transform our way of doing business, that transform our way of learning and teaching.
+
+27:43.557 --> 27:47.942
+Once you've got that one down, then you worry about what stuff you're going to convert to.
+
+27:47.962 --> 27:50.426
+We've had some conversations about selection and choice.
+
+27:51.787 --> 27:58.396
+We tend to look first at content and then form and format genre, then the structure and how we put that together.
+
+27:58.997 --> 28:02.421
+All the pieces relate to each other and then what we're representing in digital form.
+
+28:02.924 --> 28:12.175
+If I had more time, the whole issue of representation in digital form is worth a 45-minute talk in itself, this transformative process in what we actually do.
+
+28:12.215 --> 28:19.364
+For instance, when you digitize a photograph, do you leave the border of the photograph on or off?
+
+28:19.384 --> 28:20.566
+Do you enhance the photograph?
+
+28:20.926 --> 28:24.190
+If it's a glass plate negative, do you take the crack out?
+
+28:24.608 --> 28:25.309
+We'll leave it in.
+
+28:26.171 --> 28:33.303
+This sounds like trivia, but it has to do with what we're trying to tell ourselves and others when we do our digital representation.
+
+28:33.683 --> 28:41.056
+There are tremendously complicated issues about representation in digital form that we have to work on collectively.
+
+28:41.216 --> 28:43.139
+But they go for these transcendent applications.
+
+28:43.159 --> 28:47.426
+And then finally, and only finally, do we get to the technology capabilities.
+
+28:47.807 --> 28:50.211
+All too often, the process goes in the other direction.
+
+28:51.288 --> 28:57.898
+We start with technology, sometimes because we're given a gift of technology, and say, okay, now what are we going to do?
+
+28:57.918 --> 29:00.923
+And then we sit down and say, what could we digitize and get on the web?
+
+29:01.384 --> 29:04.950
+And then you're already two years into the process, and you say, why are we doing this anyway?
+
+29:07.974 --> 29:17.329
+These relationships define quality and cost, and that they also influence selection, integrity, accessibility, which are the issues that I think that we're dealing with in preservation.
+
+29:17.900 --> 29:22.488
+Five basic core preservation factors have to inform the creation of our digital products.
+
+29:26.175 --> 29:27.277
+Concern about longevity.
+
+29:27.438 --> 29:29.742
+It's not about media, but it is about media.
+
+29:29.982 --> 29:34.170
+You have to store it someplace, in some file format, somewhere.
+
+29:35.045 --> 29:39.129
+So digital technology, in essence, is not media.
+
+29:39.710 --> 29:40.811
+But it is about media.
+
+29:40.951 --> 29:43.114
+And longevity storage systems are a major issue.
+
+29:43.734 --> 29:51.363
+Quality, which we've been focusing on for 10 years almost exclusively, is on image and text data quality.
+
+29:51.383 --> 30:02.655
+Fortunately, now our attention has shifted away from fretting over quality, because we can do it, to a concern for how we're going to describe this material in digital form.
+
+30:02.973 --> 30:08.325
+selection is always out there, and accessibility, or consistent functionality.
+
+30:08.345 --> 30:14.840
+And that's my setup for, this is the beginning of my setup for the next two talks.
+
+30:14.860 --> 30:15.080
+Okay.
+
+30:16.884 --> 30:20.813
+We're going to have two talks this afternoon.
+
+30:20.995 --> 30:22.657
+Let me go back one step.
+
+30:22.677 --> 30:29.667
+You'll notice that there are five core values that have to inform the building of our digital products.
+
+30:30.008 --> 30:34.294
+Longevity, quality, integrity, selection, and accessibility.
+
+30:34.614 --> 30:39.541
+What we're going to be hearing about this afternoon is largely about accessibility.
+
+30:39.561 --> 30:41.684
+And I think that that's an issue that we're going to want to look at.
+
+30:42.485 --> 30:45.349
+The other four are temporarily off the table.
+
+30:46.848 --> 30:49.251
+We have two alternative scenarios.
+
+30:49.332 --> 30:53.818
+Finette Eaton is going to talk about migration, and Jeff Rothenberg is going to talk about emulation.
+
+30:53.838 --> 31:00.267
+So I thought I'd provide a basic definition for each, and then move on to a bunch of issues that I think we have to think about.
+
+31:00.287 --> 31:05.555
+OK, this is from the Waters and Garrett Report from 1996, which is available online.
+
+31:07.298 --> 31:15.910
+Migration is a set of organized tasks, periodic transfer of digital materials, cross-target software platforms,
+
+31:16.632 --> 31:20.918
+and across technology generations and or across generations.
+
+31:20.938 --> 31:21.739
+It's prediction.
+
+31:24.282 --> 31:30.891
+Full functionality of the original object may or may not be preserved in this process.
+
+31:30.911 --> 31:32.713
+Emulation uses its software.
+
+31:33.254 --> 31:45.930
+It's to build a software package that deeply describes the software package that includes both the hardware, the capabilities of the hardware as well as the software and all the data.
+
+31:46.619 --> 31:47.941
+therein.
+
+31:47.961 --> 31:56.511
+Longevity is conferred, then, because you've made the issue of obsolescence go away.
+
+31:56.531 --> 31:59.254
+The original functionality and content are fixed.
+
+31:59.274 --> 32:02.057
+At least this is my understanding of that.
+
+32:02.077 --> 32:04.380
+I think Jeff might have something to say about that.
+
+32:04.400 --> 32:06.202
+OK, emulation, there's some pros and cons.
+
+32:06.282 --> 32:07.444
+I mean, there's some issues.
+
+32:07.504 --> 32:10.547
+Emulation tends to be a once and for all.
+
+32:10.567 --> 32:13.791
+Do it once and be done with it, which sounds kind of like preservation.
+
+32:15.695 --> 32:26.728
+With migration, there's periodic intervention, five years, seven years, 10 years, 15 years, when emulation fixes functions more or less in time.
+
+32:26.848 --> 32:38.801
+If you decide to emulate a WordStar 1.0 running on a leading edge computer with a 286 Intel chip inside of it, you fix WordStar 1.0.
+
+32:39.282 --> 32:43.727
+All the data that was created on WordStar 1.0, particularly picking an easy mark,
+
+32:44.686 --> 32:53.157
+What about the 1980 census that we want to emulate how the census is organized?
+
+32:53.177 --> 33:01.527
+So that in 300 years, we can read the 1980 census in all of its glory in electronic form.
+
+33:01.708 --> 33:02.989
+That's a harder mark.
+
+33:03.009 --> 33:06.734
+That's not so easy to shoot at.
+
+33:06.794 --> 33:08.897
+And emulation data tends to be fixed.
+
+33:08.917 --> 33:11.520
+There's a great potential that as you migrate, you lose something.
+
+33:12.310 --> 33:14.773
+There's a real possibility.
+
+33:14.793 --> 33:17.096
+Emulation emphasizes certainty.
+
+33:17.136 --> 33:18.077
+We want certainty.
+
+33:18.097 --> 33:19.018
+We want to sleep at night.
+
+33:19.038 --> 33:20.600
+We don't know what we're doing right now.
+
+33:20.620 --> 33:23.042
+Migration is a crack shoot.
+
+33:23.062 --> 33:26.807
+We don't know whether it's going to work.
+
+33:26.827 --> 33:28.429
+Emulation is independent of value and use.
+
+33:28.889 --> 33:33.454
+You don't have to care about what you're emulating because you're just doing it.
+
+33:33.474 --> 33:40.022
+Migration, because we can't save everything all the time forever, is completely dependent upon value and use.
+
+33:41.808 --> 33:46.076
+So my question, my first issue, my first question is, is technology the carbon source?
+
+33:47.679 --> 33:48.520
+Which is it?
+
+33:48.821 --> 33:54.872
+Does technology follow from what we want to do with our organizations?
+
+33:54.892 --> 34:01.505
+Or is it the driving force that helps us figure out what we're going to do with our organizations?
+
+34:03.548 --> 34:03.809
+Not in India.
+
+34:03.829 --> 34:05.031
+Okay, now we're on to some more issues.
+
+34:09.803 --> 34:13.188
+Okay, so this is a dog egg, making a hole.
+
+34:13.328 --> 34:15.592
+So I dig a hole, put the bone in the hole.
+
+34:16.453 --> 34:18.696
+What's my motivation for burying them?
+
+34:18.716 --> 34:20.759
+You can't bury them.
+
+34:21.681 --> 34:25.026
+Dogs just bury bones because they're programmed to bury bones.
+
+34:25.046 --> 34:27.249
+They don't need motivation, but we do.
+
+34:27.269 --> 34:28.892
+We need motivation.
+
+34:28.912 --> 34:37.144
+Okay, I've got a series of little quotes here, but I need my children in order to complete this.
+
+34:42.760 --> 34:47.532
+David Levy was at Xerox Park for the longest time.
+
+34:47.572 --> 34:52.283
+He's not there anymore, but he's got his own company doing consulting.
+
+34:52.303 --> 35:00.583
+But David Levy wrote a classic article that I think is classic, that I quoted in the Blue Bibliography, in which he
+
+35:00.563 --> 35:06.331
+He critiques a kind of techno-centric approach to our concern for preservation.
+
+35:06.551 --> 35:11.978
+It's that we become so fixed on the artifacts that we've lost sight of their users and their use.
+
+35:12.078 --> 35:19.147
+Items that are digital collections that are not used probably will not persist.
+
+35:19.167 --> 35:22.732
+It's an important issue to keep in mind as you go forward.
+
+35:23.513 --> 35:24.915
+There's a political statement here.
+
+35:25.836 --> 35:30.402
+The idea that unused materials will not survive.
+
+35:31.073 --> 35:48.256
+implies, it challenges the foundation of a research library or a research archive that's in the business of collecting materials so that one of these days they hope they'll be used or they will be used or they're discovered by another generation of scholars way down the road.
+
+35:48.557 --> 35:57.469
+So we could fixate on that mission challenging statement or we could just get over it and get on with measuring use.
+
+35:57.955 --> 36:02.541
+We've shied away from systems, building systems that track users in use.
+
+36:02.661 --> 36:04.163
+There's a confidentiality issue.
+
+36:04.503 --> 36:06.405
+There's a lot of things about use.
+
+36:06.425 --> 36:09.169
+And then there's the issue of the quality of use and the quantity of use.
+
+36:09.189 --> 36:10.430
+It's easy to count.
+
+36:10.450 --> 36:12.733
+It's not so easy to measure.
+
+36:12.753 --> 36:14.175
+Does use make a difference?
+
+36:14.195 --> 36:16.318
+Are people writing their seminal articles?
+
+36:16.498 --> 36:25.549
+Are they getting through sixth grade as a result of having the American memory learning page there in front of them?
+
+36:26.018 --> 36:29.486
+So significant use is not necessarily a value judgment.
+
+36:29.587 --> 36:30.750
+It doesn't emphasize Ph.D.
+
+36:30.770 --> 36:32.935
+research over sixth grade term papers.
+
+36:32.955 --> 36:38.168
+It just says, can we understand the fact that there is sixth grade term papers out there and Ph.D.
+
+36:38.388 --> 36:42.458
+programs as well, or is it just eight counts through a website?
+
+36:43.417 --> 36:59.305
+But my assertion is that at least where we stand now, with the shape of digital standards, with the shape of understanding what we do and how we do it, we have to build a product that will be used.
+
+36:59.565 --> 37:02.029
+Because if they aren't, we can't justify their existence.
+
+37:02.049 --> 37:04.193
+And that's a tough one.
+
+37:04.679 --> 37:10.427
+That's a tough message, I think, and you may too disagree in the end, but I haven't understood the alternative myself.
+
+37:11.048 --> 37:15.775
+Okay, the second thing is that certainty is a continuum.
+
+37:18.259 --> 37:25.970
+The longer we go out, let's think a hundred years out, and the latest thinking on digital presentations is let's build systems with a hundred year time frame.
+
+37:26.571 --> 37:30.957
+And the interesting take on this is the idea that
+
+37:32.303 --> 37:38.252
+Preservation used to be into what I used to think of as generational handoff.
+
+37:38.473 --> 37:45.784
+I administer a collection and do the best I can and hand it on to my successors, more or less at the point of my retirement.
+
+37:46.184 --> 37:47.847
+In other words, generational change.
+
+37:48.248 --> 37:56.320
+What we're trying to do is the best we could within a 30, 40, 50 year time frame and then hand it off for our successors who we have trained to come in behind us.
+
+37:56.553 --> 37:57.615
+and pick up where we at.
+
+37:57.695 --> 37:58.957
+It's a generational handle.
+
+37:59.358 --> 38:01.582
+Now the word generation means a five-year computer.
+
+38:02.984 --> 38:07.191
+Generation migration, when we talk about multiple generations, we're talking about five years.
+
+38:07.893 --> 38:12.601
+If I'm around to see it, that means I have to migrate four or five or six or seven or eight times.
+
+38:12.621 --> 38:19.012
+The point of this slide is that we can't necessarily be completely logical about this.
+
+38:19.032 --> 38:20.755
+But we can see out four to five years
+
+38:21.190 --> 38:22.251
+and do the best we can.
+
+38:22.932 --> 38:28.938
+But we have to count on this creativity that Gilder keeps talking about as the solution for things.
+
+38:28.958 --> 38:32.562
+And it's not an excuse to wash your hands and walk away from a problem.
+
+38:32.642 --> 38:39.009
+It's do the best you can within a reasonable time frame and count on human creativity to carry the day.
+
+38:39.029 --> 38:42.733
+Now that's a way overly optimistic view for most of you.
+
+38:42.833 --> 38:45.757
+But that's what we're on.
+
+38:45.857 --> 38:50.742
+But coupled with this is this sense of the inevitability of loss.
+
+38:51.110 --> 38:58.179
+An optical disc is not an organic item, but ashes to ashes and dust to dust, all organic materials.
+
+38:58.739 --> 39:02.004
+And basically everything out there is in a state of deterioration.
+
+39:02.024 --> 39:05.007
+And this goes back to use again.
+
+39:05.027 --> 39:08.872
+The way to do this is exercise.
+
+39:08.892 --> 39:11.655
+Stuart Brandt, he's the father of the Whole Earth Catalog.
+
+39:12.156 --> 39:14.799
+If you're over 40, you probably remember the Whole Earth Catalog.
+
+39:14.819 --> 39:17.042
+If you're under, you don't.
+
+39:17.563 --> 39:19.345
+Stuart has now moved on to the internet.
+
+39:19.578 --> 39:23.528
+and went away from the whole earth catalog.
+
+39:23.548 --> 39:29.242
+And he wrote that the solution for persistent works is .
+
+39:31.708 --> 39:33.132
+But that we have to recognize
+
+39:33.770 --> 39:52.420
+Somewhere in here, I put this upbeat kind of statement from Stuart Brand in this talk, but the real point here is that an awful lot of material isn't going to survive and that the sooner we can kind of set ourselves up to understand how we want to think about loss as we move through these systems, migration processes and emulation processes.
+
+39:52.500 --> 39:56.126
+We can't build an emulator for everything, no more than we can migrate everything.
+
+39:56.146 --> 39:59.271
+So we better kind of figure out how to measure, how to decide
+
+39:59.504 --> 40:03.570
+And it's not selection for preservation, it's selection for loss in a lot of ways.
+
+40:03.590 --> 40:11.500
+That's the harder to say goodbye to someone that you might have your heart into at one point.
+
+40:11.520 --> 40:12.542
+Elaboration is unavoidable.
+
+40:14.384 --> 40:20.753
+Stanley Tudorov, who's a manipulist,
+
+40:21.121 --> 40:28.918
+has written a number of works about the way that scholarship and teaching and learning and libraries worked in the medieval era.
+
+40:29.038 --> 40:41.205
+And his key point, which I pulled just a glimmering one little piece of his argument out of here, is that the idea of the author, the idea of owned intellectual property, is a relatively modern
+
+40:42.839 --> 40:47.946
+And what his point is, is that we may be in an opportunity to move away from that.
+
+40:47.966 --> 40:55.956
+The digital technology gives us a way to go back to the old way, in which it was all about the content and interpretation of that content.
+
+40:56.477 --> 41:03.486
+Monks working in an abbey would take a sacred text, and they would pray about it, and they would study it, and they would write in the margins.
+
+41:03.506 --> 41:08.713
+And 300 years later, by the time that thing had been copied two or three times, the marginality becomes part of the text.
+
+41:10.155 --> 41:11.597
+The interpretation becomes...
+
+41:12.100 --> 41:18.471
+the text, and you build text collaboratively and iteratively over a fairly long period of time.
+
+41:18.551 --> 41:22.497
+It's this annotation function that we've been talking about earlier.
+
+41:22.678 --> 41:33.356
+And the digital world gives us this possibility to refocus ourselves on the text and not on the producers of that text or the writers of that text, but on the text itself.
+
+41:33.376 --> 41:37.703
+And I'm using text generically to talk about any kind of information resource.
+
+41:37.683 --> 41:42.574
+And it's beginning to close again in the Middle Ages.
+
+41:42.594 --> 41:44.498
+And that's another source for optimism.
+
+41:44.618 --> 41:56.063
+As long as we think that we have to fix something in time in order for it to be preserved, we've talked ourselves out of the potential for digital preservation.
+
+41:56.667 --> 42:05.697
+Again, David Levy writes in this article, he said all information sources are fixed and fluid.
+
+42:05.777 --> 42:09.622
+Sometimes they're fixed and sometimes they're undergoing a state of change.
+
+42:10.042 --> 42:14.908
+And the issue for him is a matter of time, not state.
+
+42:14.928 --> 42:17.491
+So everything is undergoing change all the time.
+
+42:17.511 --> 42:21.375
+And the more that we can deal with that and not become fixated on fixation,
+
+42:22.368 --> 42:28.899
+fixing things either on a media or authentication or trustworthiness.
+
+42:28.919 --> 42:42.143
+If we separate ourselves from that and begin looking at this technology for what it can do for us, then we're back again to building digital products that are seductively attractive to the audience that we serve.
+
+42:42.163 --> 42:46.350
+And through that seduction process, we get a resource worth keeping.
+
+42:47.866 --> 42:50.189
+And then it becomes a technical problem.
+
+42:50.950 --> 42:53.293
+I want you to say yes when you walk out the door.
+
+42:53.413 --> 43:01.222
+And so I'm not trying to scare you away with all the complexities and file formats and bit streams and metadata standards.
+
+43:01.242 --> 43:13.958
+Because my thinking is that when you look at the progress that's been made in the last five to 10 years, thinking about what we can do in five years and just put this on our agenda, it's something that we're not going to turn away from and deny is irrelevant.
+
+43:14.225 --> 43:22.477
+Because I don't want to ever hear again, which I hear almost every day, I'm not interested in digitization for preservation.
+
+43:22.497 --> 43:25.501
+I'm only interested in access.
+
+43:25.521 --> 43:31.590
+We don't want our responsibility as cultural heritage preservation.
+
+43:31.610 --> 43:37.859
+And to say that we're only interested in access to me says, well, finally, I have a technology that can get people in the door.
+
+43:38.320 --> 43:41.765
+Because they haven't been visiting me, so at least they can click on me.
+
+43:41.905 --> 43:43.708
+And I can validate myself.
+
+43:44.127 --> 43:44.708
+through you.
+
+43:45.589 --> 43:56.224
+And so promoting yourself as building digital collections to enhance access is really a fundamental denial of what you're really about, which is building collections for time.
+
+43:57.365 --> 44:03.013
+So with that in mind, I'll give you my last little
+
+44:03.567 --> 44:10.951
+Instead of waiting for the next big thing to transform our lives, why don't we give it a shot?
+
+44:10.971 --> 44:11.152
+No?
+
+44:11.794 --> 44:14.202
+Yes?
+
+44:42.211 --> 44:49.061
+who is Director of Technical Services at the Smithsonian Institution Archives.
+
+44:49.081 --> 44:54.408
+She joined the Smithsonian to establish an electronic records program in their archives.
+
+44:54.428 --> 45:09.489
+Previously, she has served as Chief of Technical Service Branch Center for Electronic Records at the National Archives and Records Administration, NARA, where she was responsible for developing a preservation program for electronic records created by federal agencies.
+
+45:10.070 --> 45:11.492
+No mean tests.
+
+45:13.278 --> 45:23.271
+Other works include experiences in archives in the National Archives, including positions in the Office of Presidential Libraries and the Document Standard Staff.
+
+45:23.992 --> 45:29.420
+She has presented papers and is the author of articles on preservation of electronic records in the National Archives.
+
+45:30.141 --> 45:41.496
+She was selected as a fellow at the Society of American Archivists in 1950, 1995, and received... Okay, 1995.
+
+45:41.813 --> 45:50.601
+and received the IAC-IRM Technology Excellence Award in 1996 for designing the Archival Preservation System at NARA.
+
+45:51.402 --> 45:52.283
+She has a B.A.
+
+45:52.323 --> 45:52.963
+and an M.A.
+
+45:52.983 --> 46:03.493
+in History from the University of Maryland and attended the Nagara Advanced Institute for Government Archivist on Archival Administration in the Electronic Information Agency.
+
+46:03.894 --> 46:06.476
+And that was in Pittsburgh, 1992 and 1993.
+
+46:07.917 --> 46:10.740
+And at the National Defense University,
+
+46:11.716 --> 46:21.186
+uh in washington dc and the iron college for advanced management program in 1997. i give you an adeaton on migration as a reservation
+
+46:40.893 --> 46:58.116
+I have a terrible tendency to have my tongue through my mouth.
+
+46:58.136 --> 47:08.470
+I want to thank Nelanet, NEDCC, and the Kennedy Library for inviting me to come and talk to you about the preservation of electronic records.
+
+47:09.648 --> 47:11.650
+This almost feels like a homecoming for me.
+
+47:12.871 --> 47:21.620
+As I was noted in my introduction, I was a member of the Office of Presidential Library staff for more than seven years before becoming involved in electronic records.
+
+47:22.480 --> 47:26.464
+Some of my happiest memories come from my work with residential libraries.
+
+47:29.127 --> 47:37.495
+One of the more striking aspects of electronic records is the importance, almost the imperative,
+
+47:38.032 --> 47:47.646
+of providing clear definitions to words that are used to explain issues associated with electronic records.
+
+47:47.666 --> 47:58.322
+Words that have a variety of meanings are used by different communities with little or no understanding of how differently they are perceived by the other signs.
+
+47:59.724 --> 48:04.090
+As an archivist, and this is where I get to play with,
+
+48:04.964 --> 48:11.713
+As an archivist, one of my favorite misunderstandings is between archive and archiving.
+
+48:12.895 --> 48:26.593
+To most archivists, archive first and foremost is a noun denoting either the records of an organization or the institution responsible for preserving records.
+
+48:26.613 --> 48:34.684
+Charles Dahmer is even more specific when he postulates that archivists use the word archive, I quote, to designate
+
+48:35.238 --> 48:51.660
+a facility or building where specialists trained in archival procedures ensure that inactive records created by an organization are stored and protected from neglect and damage and are made available for research purposes."
+
+48:51.680 --> 49:01.093
+To a technologist, archiving is clearly a verb indicating a process of moving active records to an inactive status.
+
+49:01.529 --> 49:06.274
+without any judgment as to the value of the information being moved.
+
+49:06.294 --> 49:29.578
+As a facilitator in a workshop, working together, developed by the Coalition for Networked Information, which offers the opportunity for archivists and technologists from the same institution to work together to develop projects to deal with electronic record issues, I have directly witnessed the great divide between these two groups and the words archives, archiving.
+
+49:33.085 --> 49:45.800
+What I would like to do in my allotted time this afternoon is discuss the terminology, what is meant when authors use the words copying, refreshing, recopying, and migration in discussing electronic records.
+
+49:45.820 --> 49:59.076
+I will then describe the process that the National Archives and Records Administration has used for making preservation copies of electronic records, including the recopying of files to new media, and NARA's first step
+
+49:59.309 --> 50:07.321
+in dealing with capturing the logical and contextual structure of the more complex records being created by federal agencies today.
+
+50:08.282 --> 50:26.970
+The third portion of my talk will describe an international research project in APARES which is seeking to determine the best way to ensure the preservation of authentic records over time, the research efforts that are underway at San Diego Supercomputer Center to develop
+
+50:27.338 --> 50:30.222
+a collection-based persistent digital art.
+
+50:30.242 --> 50:31.383
+I'm so intrigued.
+
+50:31.583 --> 50:34.447
+Persistent seems to be the word that's now being used.
+
+50:34.507 --> 50:35.849
+It's very interesting.
+
+50:36.590 --> 50:39.433
+I've only heard it for the last six months, but that seems to be the new N word.
+
+50:40.675 --> 50:53.291
+And the open archival information system, which is defining a conceptual framework for archival systems dedicated to preserving and maintaining access to electronic digital records over time.
+
+50:54.993 --> 50:55.894
+Charles Dollar,
+
+50:56.144 --> 51:11.999
+In his groundbreaking paper, Archival Theory and Practices in Informatics, Some Considerations, the University of Maserata in 1990, had interesting ideas about what was meant by permanence.
+
+51:12.059 --> 51:12.760
+I'm gonna quote him.
+
+51:13.601 --> 51:26.033
+The notion of permanence, at least in the United States, is by no means an absolute, as over time the meaning of permanence has ranged between the permanence of the information and documents
+
+51:26.435 --> 51:30.199
+to the permanent of the physical objects themselves."
+
+51:30.939 --> 51:37.045
+In the 18th and 19th century, printing of multiple copies was seen as a method of preserving information.
+
+51:38.006 --> 51:47.315
+In the 20th century, technological development aroused hope that the usable lifetime of documents could be extended indefinitely.
+
+51:47.335 --> 51:56.323
+Accordingly, permanent retention came to mean the physical extension of the usable life of originals for an unlimited period of time.
+
+51:57.265 --> 52:16.666
+The inherent technological obsolescence of electronic media and the high cost of preserving the useful life of archival records undermine the concept of permanent retention, not just for electronic records, but for all special media requiring technology for access.
+
+52:17.347 --> 52:26.277
+About a month ago, I was interviewed by CNN, and what they were really doing was looking at film and video, particularly the home movies.
+
+52:26.527 --> 52:28.370
+And they do in electronic records as well.
+
+52:28.971 --> 52:36.762
+And I think it's interesting that I think there's more concern in the wider community for the home movies rather than electronic.
+
+52:36.802 --> 52:41.409
+And I'm hoping in about five more years, there'll be the electronic information that will be of concern.
+
+52:42.972 --> 52:52.987
+Periodic re-copying of electronic records to ensure migration from old technologies to new technologies mitigates the effects of technology obsolescence.
+
+52:53.928 --> 52:55.150
+But what are the costs
+
+52:55.619 --> 53:00.184
+And how feasible is this process for organizations?
+
+53:00.204 --> 53:12.999
+There has been a growing awareness of the critical danger our society is facing with the loss of electronic information records because of both the fragility of the magnetic media and the obsolescence of the technology.
+
+53:14.001 --> 53:18.906
+A number of important studies have documented the problems of preserving electronic information.
+
+53:20.228 --> 53:23.652
+We have this conference looking at the various options
+
+53:23.952 --> 53:26.875
+preserving digital information for instance, for example.
+
+53:28.317 --> 53:32.982
+Most of my experience has been with the transfer of information from older to newer media.
+
+53:33.983 --> 53:37.567
+According to Margaret Hedstrom, this is usually termed refreshing.
+
+53:38.888 --> 53:53.925
+Peter Lyman and Howard Besser, in their background paper for Time and Bits, Managing Digital Continuity, sponsored by the Getty Institute, acknowledged that refreshing strategies, the practice of moving bits,
+
+53:54.395 --> 54:02.466
+to a new storage, physical storage medium is well understood by those who maintain backup files and large quantities of data.
+
+54:03.788 --> 54:06.912
+Another term that is often used in this context is copying.
+
+54:07.733 --> 54:24.216
+The key objective is to maintain the readability of the information by transferring them from old storage media, such as nine-track tape, to new storage media, CD-ROM, with the same format specifications, number of tracks or ASCII representations,
+
+54:24.618 --> 54:29.523
+without any substantive law in structure, content, and context.
+
+54:30.564 --> 54:38.813
+The difficulty arises with proprietary file formats that may not be readable by future applications.
+
+54:38.833 --> 54:52.387
+My husband, an historian, has written several books ranging from the Baltimore Orioles, to the Italian Socialist Party, to U.S.-Italian foreign relations from 1940 to 1950, to the city of Florence as a living museum.
+
+54:52.868 --> 54:54.169
+That's soon to come out.
+
+54:54.841 --> 55:04.351
+He wrote his first book using a paper computer, and Paul, I'm going to use WordStar too, it's a great example, with WordStar as a word processing software.
+
+55:05.652 --> 55:07.534
+The book was published more than 10 years ago.
+
+55:07.554 --> 55:16.744
+As we moved to new computers, he staunchly maintained that he needed to keep his first computer in case he needed access to one of his chapters.
+
+55:16.764 --> 55:23.751
+Well, last year, he decided he wanted to summarize one of his chapters for a class he was teaching, so he turned
+
+55:23.933 --> 55:24.774
+on the computer.
+
+55:25.374 --> 55:35.023
+It ran, but when he tried to insert, when he inserted the identified disk app, because with Caprush he hadn't had the disk app, he could not access the text.
+
+55:35.704 --> 55:36.705
+Does this sound familiar?
+
+55:37.866 --> 55:44.552
+Fortunately, he had also moved the text to WordPerfect, which had been our second word processing software version.
+
+55:45.293 --> 55:51.999
+Although he had to make some minor changes when he moved the text from WordStar to WordPerfect, he felt it was a good transfer of the file.
+
+55:52.819 --> 55:53.400
+Clearly,
+
+55:53.785 --> 56:02.797
+The issue of what is lost when moving to another software platform will depend upon the type of document one is using.
+
+56:04.600 --> 56:07.824
+Migration is one of those terms that conveys several meanings.
+
+56:08.685 --> 56:23.185
+Margaret Hedstrom and Sheila Montgomery in their December 1998 report, Digital Preservation Needs and Requirements and RLG member institutions, defined migration as the periodic transfer of digital materials
+
+56:23.536 --> 56:31.865
+from one hardware or software configuration to another, or from one generation of computer technology to a subsequent generation.
+
+56:34.849 --> 56:50.927
+Preserving digital information, report of the Task Force on Archiving Digital Information, which Paul just talked about, defined migration as ensuring that present and future users can retrieve, display, and otherwise use electronic materials
+
+56:51.177 --> 56:53.960
+in the face of constantly changing technology.
+
+56:55.622 --> 57:15.883
+Terrell Stoller, in his new book, Authentic Electronic Records, Strategies for Long-Term Access, narrows the definition by focusing on the issue that these records come from legacy information systems that lack export software functionality, which currently requires writing special purpose code or programs.
+
+57:17.605 --> 57:21.049
+I would like to mention one additional term, conversion.
+
+57:21.822 --> 57:38.324
+Charles Beller characterizes conversion as the automatically exporting or importing records from one software environment to another with little or no loss in structure and no loss in content or context, even though the underlying bit stream is altered.
+
+57:40.247 --> 57:51.542
+As should be obvious to you after my brief synopsis of various terms used for describing the issues facing archivists and librarians in preserving electronic records, digital information,
+
+57:52.079 --> 58:05.512
+There are a variety of words to describe the types of activities that need to occur, yet there are very few examples of actual experience in preserving electronic information over time.
+
+58:12.899 --> 58:21.327
+At this point, I'd like to move to my second topic in my presentation, the preservation activities with electronic records that have evolved over time
+
+58:21.728 --> 58:24.111
+at the National Archives.
+
+58:24.131 --> 58:39.170
+NARA has had a program for accessioning, describing, preserving, and providing reference service to the electronic, but they first called machine readable records, created by federal agencies and transferred to NARA for more than 30 years.
+
+58:39.991 --> 58:50.605
+The emphasis in preservation activities was on moving the files, in most cases recorded in ASCII or EBCDEC, that were flat files onto new media, in effect,
+
+58:50.872 --> 58:53.095
+moving the files to standard media.
+
+58:54.817 --> 59:05.409
+During the 1970s, all computer processing required by what was then called the Machine Readable Archives Division was performed at service bureaus.
+
+59:06.090 --> 59:14.680
+The division had an IBM 29 key punch, which the staff used to punch cards for the program to copy or dump tapes.
+
+59:15.521 --> 59:18.124
+The program card deck was wrapped in a rubber band.
+
+59:18.144 --> 59:18.685
+I love this.
+
+59:19.205 --> 59:28.635
+along with the sheet of instructions to the service bureau indicating which tape volumes were to be used for input and output and any other special instructions.
+
+59:28.655 --> 59:35.762
+The card deck, instructions, input tape, and blank output tapes were boxed and sent by courier to the service bureau.
+
+59:36.563 --> 59:47.895
+During this period, the original agency tapes were kept as the master tape and the NARS created tape became the reference copy to be used as input tape to make copies for researchers.
+
+59:49.242 --> 59:57.915
+Beginning in 1981, the Machine Readable Archives Division acquired, on loan, a dumb terminal.
+
+59:58.175 --> 01:00:00.859
+For those of you who are young, most of this is not going to make any sense.
+
+01:00:00.879 --> 01:00:03.322
+For those of us who are over 40, all of this makes sense.
+
+01:00:05.686 --> 01:00:11.634
+They got a dumb terminal so that staff would run some jobs for the FBI appraisal task force.
+
+01:00:12.315 --> 01:00:15.780
+Another court case that severely strained NARA's resources.
+
+01:00:15.901 --> 01:00:18.304
+NARA seems to make the news when it's involved in court cases.
+
+01:00:19.415 --> 01:00:22.500
+And this was connected to the National Institutes of Health.
+
+01:00:23.242 --> 01:00:32.978
+The division took advantage of the access to this computer center to perform some of its normal copy and dump jobs at NIH, rather than at a service bureau.
+
+01:00:33.559 --> 01:00:38.588
+For a period during the 1980s, another office within the National Archives took over functions
+
+01:00:39.310 --> 01:00:42.153
+of preserving during the preservation work.
+
+01:00:42.614 --> 01:00:49.902
+But in 1985, the machine-readable branch assumed full responsibility for preservation copying of a succession file.
+
+01:00:50.643 --> 01:00:55.869
+Within a few months, the branch obtained additional terminals for submitting jobs to the computer center.
+
+01:00:56.570 --> 01:01:02.076
+The computer center served as the computer resource for all of the branch's requirements.
+
+01:01:03.898 --> 01:01:09.064
+This mainframe computer center used IBM machines, so the types of outputs that could be
+
+01:01:09.230 --> 01:01:12.715
+produced were limited to the options that were available at that center.
+
+01:01:13.676 --> 01:01:22.868
+In addition, the file formats that could be accepted for transfer were limited to those formats that could be processed at this site.
+
+01:01:24.010 --> 01:01:34.624
+Knowledge requirements, which were published in the Code of Federal Regulations, stated that agencies were to transfer permanent computer files in a hardware and software independent format.
+
+01:01:34.644 --> 01:01:38.950
+Specifically, the files were to be written on half-inch magnetic tape
+
+01:01:39.132 --> 01:01:56.194
+and Epsi-Jek-Vorasky without internal control characters on seven or nine track open reel magnetic tape, recorded at 800, 1600, or 6250 bytes per inch, or in 3480 tape cartridges, and blocks not higher than 32,000 bytes.
+
+01:01:56.214 --> 01:02:00.841
+Giving you all those technical attributes to show that it was based on a mainframe computer.
+
+01:02:01.642 --> 01:02:07.249
+These requirements clearly reflect the use of a mainframe computer in the creation of preservation copies of those files.
+
+01:02:07.752 --> 01:02:11.897
+And it meant that NARA lost control of this tape by sending them out to the computer center.
+
+01:02:12.698 --> 01:02:25.874
+There had been some requirements over time to this work, including requiring a bite-to-bite comparison of every file that was copied to ensure that an exact duplicate was created in the copying process.
+
+01:02:27.736 --> 01:02:37.067
+One of the first priorities enunciated by the new director, Ken Thibodeau, when he joined what became the Center for Electronic Records in the winter of 1989,
+
+01:02:37.402 --> 01:02:46.355
+was to re-engineer this process by developing an in-house capability for making preservation copies of electronic files sent to the center by agencies.
+
+01:02:47.296 --> 01:02:53.586
+It was clear that the number of files copied using the computer center were far too low.
+
+01:02:53.606 --> 01:02:59.574
+We copied about 200 files a year once the center began its accelerated accessioning program.
+
+01:03:00.616 --> 01:03:06.244
+By examining the processes associated with producing preservation copies of electronic files,
+
+01:03:06.595 --> 01:03:16.328
+The staff developed a statement of work that defined the basic requirements and outlined additional features that would improve the process or the life of the contract.
+
+01:03:16.989 --> 01:03:24.399
+Although in the statement of work we defined what the processes should be, we did not define how they should be accomplished.
+
+01:03:24.419 --> 01:03:27.143
+There were four objectives with this contract.
+
+01:03:27.543 --> 01:03:32.350
+First, NARA wanted to retain control of the media and perform the work in-house.
+
+01:03:32.684 --> 01:03:37.471
+streamlining and saving valuable time and therefore increasing productivity.
+
+01:03:38.533 --> 01:03:46.425
+Second, the staff wanted the ability to handle a wider variety of file formats from agencies and produce standardized output.
+
+01:03:47.426 --> 01:03:59.264
+Third, the agency wanted to capture automatically from the processing of the files the technical attributes of the file such as the logical record length, block size, character code, and media.
+
+01:04:00.125 --> 01:04:00.666
+In effect,
+
+01:04:00.882 --> 01:04:09.233
+Contracts sought to automate the collection of technical description during the processing rather than entering this information into a separate database.
+
+01:04:09.974 --> 01:04:17.504
+Fourth, NARA wanted to increase the types of media that could be accepted from agencies and as well increase the types of output media.
+
+01:04:19.948 --> 01:04:26.316
+Fuller Media, the successful contractor, began developing the software, which was the largest component of the contract.
+
+01:04:26.819 --> 01:04:39.756
+It had been Nora's intention to develop a system operated for a certain period of time and it performed as expected to purchase additional systems as money permitted to increase the efficiency copying files.
+
+01:04:40.517 --> 01:04:47.506
+However, we did not anticipate purchasing additional systems even before the software was developed.
+
+01:04:49.049 --> 01:04:51.131
+Life overtook plans.
+
+01:04:54.636 --> 01:04:56.218
+On January 19th,
+
+01:04:56.637 --> 01:05:17.499
+1989, the last day of the Reagan administration, Scott Armstrong, among others, filed Freedom of Information Act FOIA request for information stored on the computer system in the offices of the president from a state of installation in 1985 until the end of the Reagan administration.
+
+01:05:18.360 --> 01:05:21.463
+They sued the government, including the National Archives,
+
+01:05:21.933 --> 01:05:29.504
+asking for the court to declare many of the materials on the system to be federal and presidential records.
+
+01:05:32.108 --> 01:05:42.803
+Probably for most of you, you don't realize that, I would say even today, many federal agencies, if you say email is a record, they'll look at you blindly.
+
+01:05:43.564 --> 01:05:44.806
+They don't think that.
+
+01:05:44.826 --> 01:05:47.890
+This court decided that, but for most,
+
+01:05:48.578 --> 01:05:55.969
+Particularly at that time, and even today, they do the technology as a tool, but not as a creator of actual records.
+
+01:05:58.132 --> 01:06:11.471
+Until the issues could be resolved, the court ordered the government not to destroy or alter any of the system's backup computer tapes, since they contained the only exact copy of some of the information on the system.
+
+01:06:12.312 --> 01:06:16.037
+The lawsuits carried on throughout the Bush administration.
+
+01:06:17.553 --> 01:06:25.403
+And the reason for the interest in these tapes, I always refer to it as the Iran-Contra controversy.
+
+01:06:26.324 --> 01:06:34.373
+The papers that Oliver North was so proud of tearing up was on the back of tapes, and this is what they were trying to get at.
+
+01:06:35.815 --> 01:06:46.328
+On the day after the reaction, when Bush was defeated, the plaintiffs extended the lawsuit to include materials residing on the computer systems in the Bush White House as well.
+
+01:06:46.983 --> 01:06:59.395
+On January 6, 1993, two weeks before Bush formally left office, the court ruled that some materials on the White House computer system were federal records and presidential records.
+
+01:07:00.076 --> 01:07:14.610
+And the courts directed the government, specifically the archivist of the United States, to take all necessary steps to preserve without erasure all electronic federal records generated by the White House agencies.
+
+01:07:15.535 --> 01:07:22.725
+The archives took physical custody of all the tapes from the White House as the Bush administration was leaving and the Clinton administration took office.
+
+01:07:23.386 --> 01:07:42.214
+In late May, the court ruled that the archives had not complied with this order to preserve the tapes, found the archives in a state of civil contempt, and levied fines which would amount to $2.5 million if the archives did not come into compliance within 30 days.
+
+01:07:43.255 --> 01:07:44.597
+While the fines were lifted,
+
+01:07:44.662 --> 01:07:51.210
+upon appeal, it was apparent that the threat of fines and possible imprisonment was very real.
+
+01:07:52.551 --> 01:08:07.449
+Unfortunately, the Center for Electronic Records became involved in this case when, in March 1993, the then acting archivist, Trudy Huskamp-Peterson, transferred the responsibility for preserving these computer backup tapes to the center.
+
+01:08:09.131 --> 01:08:14.517
+While the archival preservation system had been conceptualized to expedite routine
+
+01:08:15.037 --> 01:08:16.699
+preservation processing.
+
+01:08:16.719 --> 01:08:23.409
+The center had to use it first in the very non-routine processing of materials from the White House.
+
+01:08:24.371 --> 01:08:42.597
+Responding to the crisis situation, the APS contractor, Mueller Media, compiled enough software to staff with the requisite clearances, and I mean security clearances because we were dealing with very highly classified information, were able to make duplicate copies of files in most cases.
+
+01:08:43.403 --> 01:09:11.588
+encountered problems copying some of the files and noted any problems but we complied with the court orders and successfully avoided legal sanctions over the next two years more than 5900 tapes and or cartridges were copied using one or more versions of the article preservation system software the center was able to copy more than 99.998 percent of the media transferred from the white house out of
+
+01:09:11.855 --> 01:09:17.423
+5,906 items, only 29 unique items had a data error.
+
+01:09:18.205 --> 01:09:22.130
+And what makes this even more interesting is we're talking, these were backup tapes.
+
+01:09:22.150 --> 01:09:24.434
+These were not tapes that were used for preservation copy.
+
+01:09:24.474 --> 01:09:27.899
+These are tapes that were rewritten over every two weeks.
+
+01:09:29.722 --> 01:09:41.119
+As I said, the contract was not completed as soon as we anticipated because we had to make adjustments to the ABS system to enable the center to meet requirements of the court order for preserving the backup file.
+
+01:09:41.605 --> 01:10:02.618
+To give you an idea of the problems that had to be overcome in processing these backup tapes from a variety of computer systems at the White House, many cases of tapes had been written over, since they were used for weekly backup, so that when the attempt to copy the files, there was information beyond the tape form, which meant that we did not get a normal end-of-file mark to cease copying operation.
+
+01:10:03.399 --> 01:10:08.828
+We were not able to determine what some of the problems were until we obtained greater functionality with the system.
+
+01:10:09.331 --> 01:10:14.378
+With the Bush cartridges, our greatest problem was the fact the backup utility had also used compression.
+
+01:10:15.039 --> 01:10:19.765
+So the APS system had to be modified so it could make duplicate copies of compressed files.
+
+01:10:20.727 --> 01:10:27.236
+Under our normal operating procedures, data in compressed format did not conform to NARA transfer regulations.
+
+01:10:28.617 --> 01:10:36.368
+Without APS, the National Archives could not possibly have met the requirements set by support duplicating all of the backup tapes
+
+01:10:36.533 --> 01:10:40.557
+That's ensuring preservation of whatever was found on those tapes.
+
+01:10:40.577 --> 01:10:45.783
+The National Archives began processing normal files in APS in the fall of 1994.
+
+01:10:46.403 --> 01:10:54.332
+Through the end of fiscal year 1999, the Centers copied over 87,000 accession files using the system.
+
+01:10:54.352 --> 01:10:59.157
+It enabled NARA to handle a wider variety of file formats.
+
+01:10:59.177 --> 01:11:03.942
+One example is the 1990 Senate Census public use sample files from the Bureau of Assent.
+
+01:11:04.765 --> 01:11:16.196
+Although they are in a format that was hardware and software independent, user labels and the blocking factor used with these records prevents the center from being able to process these at the NIH Computer Center.
+
+01:11:17.598 --> 01:11:25.766
+Perhaps even more importantly, the APS provides the center with a mechanism to accept files on a wider variety of media.
+
+01:11:26.727 --> 01:11:32.292
+Using the NIH mainframe, there were two choices, 9-track tape or 3480 class cartridge.
+
+01:11:32.778 --> 01:11:36.322
+APS has those options, but other types of drives could be added as needed.
+
+01:11:36.902 --> 01:11:40.126
+One of the first was the CD-ROM drive to produce reference copies.
+
+01:11:40.827 --> 01:11:50.377
+For the classified profs files, for example, we had to install both a four millimeter and eight millimeter drive because some of the files we received were reported on that type of media.
+
+01:11:52.239 --> 01:12:02.650
+The archival preservation system provides a mechanism for transferring electronic records from media used by records creators to a media chosen specifically for archival preservation.
+
+01:12:03.760 --> 01:12:26.329
+writing archival copies of physical files in conformance with standard specifications for physical recording and labeling of the physical files, automatically tracking the media volume it writes, and by anticipating the obsolescence of digital media, facilitating the eventual transfer of physical files to a new preservation media.
+
+01:12:26.349 --> 01:12:33.598
+APS provided a foundation for the preservation of electronic records by physically preserving the zeros and ones.
+
+01:12:34.203 --> 01:12:41.753
+To preserve electronic records, it's also necessary to preserve the logical and conceptual structure of records.
+
+01:12:41.773 --> 01:12:44.277
+And this is closer to the definition of migration.
+
+01:12:45.499 --> 01:12:59.117
+Since many, if not most of the electronic records that were being appraised as permanent in the mid-1990s were databases from federal agencies, NARA's staff concentrated on preserving the logical and conceptual structure of databases.
+
+01:12:59.958 --> 01:13:01.881
+NARA designed and implemented
+
+01:13:01.979 --> 01:13:09.528
+Archival Electronic Records Inspection and Control system, which was built on a relational database model.
+
+01:13:10.509 --> 01:13:21.242
+ERIC captured the basic structure of the database, storing all of the formats, codebooks, and other metadata that was entered into the system.
+
+01:13:21.262 --> 01:13:29.792
+Another outcome of the PROS litigation was NARA's more active involvement in the management of electronic records in the Clinton administration.
+
+01:13:30.413 --> 01:13:46.753
+which produced ample evidence of the need to address exponentially expanding quantities of electronic records and deal with more complex types of files, particularly in preserving the logical and conceptual structure of these electronic records.
+
+01:13:47.534 --> 01:13:54.362
+From this knowledge, Hayden the recognition that research would be required to find solutions to these issues.
+
+01:14:00.350 --> 01:14:10.366
+For the third part of my presentation, I would like to focus on three current research projects that are attempting to address issues of interest to the audience.
+
+01:14:11.547 --> 01:14:27.893
+The first project is a major international research initiative in which archival scholars, computer engineering researchers, national archival institutions, and private industry representatives collaborate to develop theoretical and methodological knowledge
+
+01:14:28.160 --> 01:14:34.187
+Required for the Permanent Preservation of Authentic Records in Electronic Systems.
+
+01:14:34.207 --> 01:14:56.192
+Interpari's International Research on Permanent Authentic Records in Electronic Systems, and if you know that, among equals, who spent about three hours working on this name, is seeking to formulate model policies, strategies, and standards that will ensure the permanent preservation of records generated electronically.
+
+01:14:57.151 --> 01:15:15.780
+I am a member of the US team, which is funded by the National Historical Publications and Records Commission, which is examining the issues relating to both the short and long-term durability, accessibility, and usability of electronic record systems, as well as the authentication of their content.
+
+01:15:16.701 --> 01:15:24.593
+The US team is also interdisciplinary, drawing remarkable triumphs, preservation management, library and information science,
+
+01:15:24.758 --> 01:15:27.082
+computer science, and electrical engineering.
+
+01:15:27.963 --> 01:15:36.476
+And we are working together to identify and model the form, function, and structure of digital systems, their content, and their metadata.
+
+01:15:37.958 --> 01:15:48.755
+The broad goal of the Interpares project is to develop the theoretical and methodological knowledge essential for the permanent preservation of records created electronically.
+
+01:15:49.756 --> 01:15:51.559
+And on the basis of this knowledge,
+
+01:15:51.860 --> 01:16:02.292
+to formulate model policies, strategies, and standards capable of ensuring their preservation based on the requirements of various communities involved in this work.
+
+01:16:03.333 --> 01:16:19.892
+One focus of the American team is on systems design implications by translating the theoretical model, templates, and typologies into system design requirements and data and metadata models, and then implementing and evaluating those designs and models
+
+01:16:20.058 --> 01:16:26.065
+from different organizational, social, and national domains and across different types of digital records.
+
+01:16:28.288 --> 01:16:37.980
+The research plan for this international project has been divided into four interrelated domains of investigation, which are being conducted by passports.
+
+01:16:38.961 --> 01:16:47.652
+The first domain focuses on the conceptual requirement for preserving authentic records by identifying the elements of electronic records
+
+01:16:48.020 --> 01:16:52.426
+which are necessary to maintain the authenticity of records over time.
+
+01:16:53.568 --> 01:17:08.489
+The second domain addresses appraisal criteria, and its goal was determined whether the evaluation of electronic records for permanent preservation should be based on theoretical criteria different from those applied to traditional records.
+
+01:17:09.290 --> 01:17:16.761
+This task group will also investigate how digital technologies have affected the methodology of appraisal.
+
+01:17:18.614 --> 01:17:32.569
+The third domain, preservation, is attempting to identify and develop the procedures and resources required for the implementation of the conceptual requirements and criteria identified in the first two domains.
+
+01:17:33.590 --> 01:17:45.803
+The fourth domain is targeting the formulation of principles that will guide the development of international, national, and organizational strategies, policy, and standards
+
+01:17:46.205 --> 01:17:54.553
+with a long-term preservation of electronic records based upon the environment in which each institution is located.
+
+01:17:55.053 --> 01:17:56.695
+Again, looking for best practices.
+
+01:17:59.097 --> 01:18:04.222
+One of the most important aspects of this research is the wide range of record types that are being tested.
+
+01:18:05.083 --> 01:18:14.592
+Members of the American team are focusing on electronic record collections from government and universities, which will include student registration systems and collection information systems.
+
+01:18:15.348 --> 01:18:20.677
+Other countries are looking at automated patent systems, permit systems, and registers of wills.
+
+01:18:21.638 --> 01:18:42.672
+The work performed by the American team will provide approval concept rule for the enterprise, providing feedback which will then be used to reinforce or modify the theoretical model and generate and test systems analysis and design tools and strategies that can be factored in to future systems design
+
+01:18:43.040 --> 01:18:47.344
+as well as policy and standard development in the areas of records.
+
+01:18:47.865 --> 01:18:51.989
+Can you hear me?
+
+01:18:52.049 --> 01:18:54.291
+I guess I'm not hearing these.
+
+01:18:54.491 --> 01:18:55.312
+I'm sorry.
+
+01:18:55.332 --> 01:19:05.382
+As well as the standards developed in the areas of digital records preservation, long-term access, and authentication for both active and legacy digital data.
+
+01:19:07.484 --> 01:19:10.347
+In your handout, there is the website
+
+01:19:10.445 --> 01:19:14.729
+for more information of both the international team and the American team.
+
+01:19:16.691 --> 01:19:27.763
+The second research project, funded by the National Archives and Records Administration, in conjunction with the National Science Foundation, is being conducted by the San Diego Supercomputer Center.
+
+01:19:27.943 --> 01:19:37.853
+Entitled Collection-Based Persistent Digital Archives, the project seeks to bring together and integrate archival storage technology from supercomputer centers.
+
+01:19:38.390 --> 01:19:52.371
+data grid technology from the computer science community, information models from the digital library community, and preservation models from the archival community to test the feasibility of preserving digital information for long periods of time.
+
+01:19:53.273 --> 01:20:07.114
+The supercomputer centers provide the technology required to store immense amounts of digital data currently being created, and the digital library community provides mechanisms to define the context needed to interpret the data.
+
+01:20:09.305 --> 01:20:23.684
+This project defines the challenge as maintaining the ability to discover, access, and display digital objects that are stored within an archive while the technology used to manage the archive evolves.
+
+01:20:24.645 --> 01:20:39.244
+In this project, they attempt to store digital objects in collections and capture the metadata attributes needed to dynamically recreate the data collection, thus ensuring the migration of the context of these records.
+
+01:20:40.321 --> 01:20:49.454
+Thus far, they have produced a prototype using current technology, which they will continue to test and improve.
+
+01:20:50.416 --> 01:21:04.296
+This project is occurring now because the technology has evolved to a point where the goal of managing literally millions of email records and capturing the metadata about these records is now available.
+
+01:21:05.297 --> 01:21:10.024
+In a two-part article that appeared in ELAZ magazine in March and April 2000,
+
+01:21:10.595 --> 01:21:19.022
+the researchers discuss the project and provide a specific example of how to create a persistent collection of one million email messages.
+
+01:21:21.124 --> 01:21:25.368
+The persistent archive system has four major components.
+
+01:21:25.488 --> 01:21:36.717
+Support for ingestion, or what I believe most authors would probably call accessioning, archival storage, information discovery, and the presentation of the collection.
+
+01:21:38.219 --> 01:21:39.640
+In modeling the process,
+
+01:21:40.075 --> 01:21:46.522
+The authors describe the creation of a one million message persistent archive collection.
+
+01:21:47.183 --> 01:21:51.507
+They characterize this persistent archive as two phases.
+
+01:21:53.550 --> 01:21:56.713
+Remember, these are technologists when I use the next term.
+
+01:21:56.873 --> 01:22:03.741
+The archiving of the collection and the retrieval or instantiation of the collection onto new technology.
+
+01:22:04.842 --> 01:22:07.585
+The processes used to adjust the collection
+
+01:22:08.071 --> 01:22:20.968
+transform it into an infrastructure-independent form using XML and store the information in an archive are the persistent storage steps of this persistent archive.
+
+01:22:20.988 --> 01:22:33.924
+Processes used to recreate the collection on new technology, optimize the database, and recreate the user interface are the retrieval or migration steps of this persistent archive.
+
+01:22:33.944 --> 01:22:35.226
+As the authors point out,
+
+01:22:35.645 --> 01:22:42.635
+The technology to support each of these processes is still rapidly evolving, and further research is required.
+
+01:22:43.937 --> 01:22:55.994
+NHPRC has awarded a grant to San Diego Supercomputer Center to develop a toolkit that will enable smaller repositories to accomplish the goals regarding digital data.
+
+01:22:56.835 --> 01:23:02.563
+And again, I have their website and the citation for the article on your handout.
+
+01:23:05.024 --> 01:23:24.251
+A third initiative, which informs the two projects I just discussed and which I think a lot of you are probably familiar with, is the open archival information system, OASIS, which is an initiative by the National Aeronautics Space Agency's consultative committee for space data systems.
+
+01:23:24.271 --> 01:23:32.162
+OASIS serves as a conceptual framework for an archival system dedicated to preserving and maintaining access over time.
+
+01:23:32.986 --> 01:23:59.567
+committee developed this model to increase awareness and understanding of the concepts required preserving digital objects particularly with non-archival institutions elucidate terminology and concepts for describing and comparing data models and archival architectures expand consensus on the elements and processes necessary for digital information preservation and divide a framework
+
+01:23:59.750 --> 01:24:03.135
+guiding the identification and development of standards.
+
+01:24:05.058 --> 01:24:11.148
+The reference model, because of its emphasis on digital objects, has been well received by a diverse community.
+
+01:24:12.089 --> 01:24:25.791
+A number of digital initiatives in the library community, including Cedars, Pandora, and Medlib projects that either adopted the OASIS model as a conceptual framework for their digital preservation efforts or have been influenced by it.
+
+01:24:27.205 --> 01:24:32.753
+Currently, the OASIS reference model is a draft international standards organization, ISO standard.
+
+01:24:35.137 --> 01:24:51.481
+An open archival information system is understood to me, any organization or system that has the task of preserving information over time and making it accessible to a specified class of users, known as the designated community.
+
+01:24:51.521 --> 01:24:56.588
+The term open refers to the fact the model and future recommendations
+
+01:24:56.855 --> 01:24:58.276
+are developed in open form.
+
+01:24:59.057 --> 01:25:06.604
+It does not make the increase of positions concerning the level of accessibility in the archive.
+
+01:25:06.624 --> 01:25:10.227
+There are minimum requirements for an OASIS-type archive.
+
+01:25:11.148 --> 01:25:14.772
+Negotiate and accept appropriate information from information producers.
+
+01:25:15.833 --> 01:25:20.497
+Obtain sufficient control of the information to ensure long-term preservation.
+
+01:25:21.618 --> 01:25:24.921
+Determine the scope of the designated community, your user group.
+
+01:25:26.420 --> 01:25:55.920
+ensure that the information is understood by the designated community without the assistance of the information producers, follow documented policies and procedures to ensure that the information is preserved against reasonable contingency, and in addition, to enable the information to be disseminated as authenticated copies of the original or as traceable to the original, and make the information available to the designated community.
+
+01:26:02.870 --> 01:26:04.292
+I apologize.
+
+01:26:04.432 --> 01:26:05.813
+My hand got too heavy too fast.
+
+01:26:06.514 --> 01:26:15.624
+The OASIS initiative is moving forward with efforts to explore possible areas for standardization within the framework of the reference model.
+
+01:26:16.265 --> 01:26:32.303
+A workshop in College Park, Maryland in October 1999, Archival Workshop on Ingest, Identification, and Certification Standards, established an initial agenda for pursuing standardization in the areas of ingest, interaction between the archive and the data producer,
+
+01:26:32.789 --> 01:26:50.914
+Identification, establishing a system of permanent, unique identifiers for archival digital objects, and certification, development of accreditation policies protocols to establish the authenticity, quality, and usefulness of an archive holding.
+
+01:26:50.934 --> 01:27:01.328
+The workshop also sought to determine who would be interested in participating in working groups dedicated to pursuing standardization in the areas discussed in the workshop.
+
+01:27:01.932 --> 01:27:06.677
+Response was positive and the groups are expected to form and begin meeting in the near future.
+
+01:27:07.598 --> 01:27:23.513
+For additional information about this initiative, including the OACIS reference model, proceedings from the workshop, and other material related to the preservation of digital materials, you should visit the site that's on the frame that you have in front of you.
+
+01:27:25.035 --> 01:27:30.640
+I have spent the last 40 odd minutes talking about the experiences of the National Archives.
+
+01:27:31.075 --> 01:27:33.198
+preserving electronic records over time.
+
+01:27:33.979 --> 01:27:53.504
+From recopying flat files that were the required type of record transferred in the 1970s up through the 1990s, to the development of both APS and ERIC, to begin to address the issues of migration across platforms of the complex files that were beginning to be accessed by the Center for Electronic Records.
+
+01:27:54.606 --> 01:27:55.767
+When I was at the Center,
+
+01:27:56.219 --> 01:28:02.825
+and forced to confront the seemingly impossible task of copying backup tapes from the Reagan and Bush White House computer systems.
+
+01:28:03.726 --> 01:28:08.751
+I was often reminded by my colleagues that I was living in an interesting time.
+
+01:28:09.872 --> 01:28:13.696
+I would use the same expression to you, we're living in an interesting time.
+
+01:28:15.918 --> 01:28:24.707
+But perhaps my experience of finding methods to approach the problem will give you the confidence to participate
+
+01:28:24.991 --> 01:28:35.288
+and the exciting research that is taking place today as these various research initiatives seek to find ways to ensure the preservation of authentic records over time.
+
+01:28:36.350 --> 01:28:40.196
+I do not believe that there is one answer to fit all situations.
+
+01:28:41.198 --> 01:28:51.555
+But I do believe that we are beginning to ask the right questions and the research tools are being provided to give us possible methods for accomplishing our goal.
+
+01:28:52.278 --> 01:28:57.430
+I encourage you to actively monitor, and when possible, join in these efforts.
+
+01:28:58.572 --> 01:28:59.234
+We do not.
+
+01:28:59.815 --> 01:29:02.681
+You will lose our electronically created records.
+
+01:29:03.583 --> 01:29:05.668
+And I will echo the call.
+
+01:29:06.189 --> 01:29:08.514
+Just say yes.
+
+01:29:08.534 --> 01:29:08.835
+Thank you.
+

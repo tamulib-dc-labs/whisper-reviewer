@@ -1,0 +1,626 @@
+WEBVTT
+
+00:01.955 --> 00:13.967
+I don't remember what I was saying, but... Twenty-four something... Oh, yeah, yeah.
+
+00:13.987 --> 00:31.405
+Twenty-four dots over, laid over the small, over a millimeter, which is what 600 DPI scanning represents, was sufficient to render that with full fidelity, including the type font, the serif, the thick and thin lines,
+
+00:31.537 --> 00:46.795
+Particularly as you move beyond the Roman alphabet, you look at Japanese or Chinese, where characters have to stand by themselves and they are comprised of varying strokes and light and dark.
+
+00:47.535 --> 00:52.882
+And you can't figure stuff out in context, it has to be understood by itself.
+
+00:52.902 --> 00:58.388
+But it was really important to have enough resolution to capture that detail.
+
+00:59.633 --> 01:23.464
+After this assessment, we concluded that 600 DPI bi-tonal scanning, black and white scanning, was sufficient to capture 99.9% of the text-based information contained in commercially published books during this period of brittle paper.
+
+01:24.153 --> 01:35.783
+confirmed those calculations based on visual assessments of paper printouts derived from those digital files.
+
+01:39.447 --> 01:52.438
+We feel pretty confident about the kind of quality and the ability to offer a replacement quality for text and line art.
+
+01:52.773 --> 02:17.957
+As you move beyond that to look at the illustrated book, graphic, you know, the intaglio relief and planigraphic processes, it becomes more complicated, and it's an area of inquiry that I want to pursue, which is to look at what are the attributes of an etching and an engraving and a halftone and an aquatint that are critical.
+
+02:17.977 --> 02:21.480
+Well, are such books being disposed of after they've been scanned?
+
+02:21.916 --> 02:26.001
+with engravings, with art, with illustrations?
+
+02:26.021 --> 02:31.627
+Commercially published stuff, like 19th century serial stuff.
+
+02:32.668 --> 02:41.418
+But whether it's an offset or not, the image itself still has the attributes of what was creating the original, the process.
+
+02:41.618 --> 02:45.522
+It reflects at the tell-tale signs of the process.
+
+02:46.223 --> 02:49.847
+The gouge of a woodcut,
+
+02:50.823 --> 02:54.167
+tell-tale lace effect of an aquatint.
+
+02:54.688 --> 02:58.453
+How much of that needs to be represented in the digital file itself?
+
+02:58.633 --> 03:01.857
+We're still pursuing a line of investigation on that.
+
+03:02.398 --> 03:05.522
+And we've identified three levels of perception.
+
+03:06.283 --> 03:11.509
+One is what we call essence, for a better word, which is what I see at normal viewing distance.
+
+03:12.911 --> 03:19.159
+And does this tend to replicate in printed form what I see from the original?
+
+03:19.848 --> 03:34.649
+Beyond that is detail, which is what was intended by the artist for me to see if I hold it up close or look at it under something modest magnification, such as 5X magnification.
+
+03:35.431 --> 03:41.379
+And then below that is production, the production process used to create the original.
+
+03:43.042 --> 03:48.910
+The black lace of an aquatint is only visible under 27X magnification.
+
+03:50.020 --> 04:01.038
+I might say, ah, that looks like an aquatint, but I can't really distinguish an aquatint from some other kind of process without doing that microscopic kind of examination.
+
+04:01.439 --> 04:05.666
+And must the digital file represent that information fully?
+
+04:06.287 --> 04:11.676
+If it has to, you're upping your requirements for conversion tremendously.
+
+04:12.056 --> 04:16.804
+So it's trying to align what information is present
+
+04:17.307 --> 04:25.636
+a definition of what is significant in that information, and how does it translate into digital reformatting requirements.
+
+04:25.997 --> 04:29.040
+And that's a process we've been working through.
+
+04:29.561 --> 04:35.107
+We call the process of trying to match those variables benchmarking.
+
+04:35.127 --> 04:36.628
+Essence is just one level.
+
+04:37.389 --> 04:44.958
+Essence, detail, and the process or structure.
+
+04:44.978 --> 04:46.099
+If you're doing studies,
+
+04:46.265 --> 04:47.406
+We're doing studies.
+
+04:48.407 --> 04:56.457
+For printed text, those three levels can be obtained at 600 DPI scanning.
+
+04:56.477 --> 05:00.682
+We can... Yeah, just DPS things.
+
+05:02.944 --> 05:03.385
+DPI.
+
+05:03.685 --> 05:04.947
+DPI, so that's... Dots print.
+
+05:04.967 --> 05:05.588
+Dots print.
+
+05:05.928 --> 05:08.331
+Yeah, it's the resolution.
+
+05:08.351 --> 05:09.852
+Which we have on our screen.
+
+05:09.872 --> 05:12.676
+Yeah, yeah, well, that's right.
+
+05:12.876 --> 05:14.338
+They're different.
+
+05:14.418 --> 05:14.618
+Excellent.
+
+05:15.205 --> 05:17.589
+They're sort of relational more than anything else.
+
+05:17.609 --> 05:21.336
+Just for the sake of my transcription.
+
+05:21.356 --> 05:38.766
+So we feel confident about creating preservation quality replacements that meet or exceed those criteria we've defined for either microfilming it or creating preservation photocopies for material that is on a
+
+05:39.252 --> 05:41.115
+slow decline anyway.
+
+05:41.495 --> 05:43.138
+Are they formulated?
+
+05:43.518 --> 05:45.861
+Are they codified?
+
+05:46.262 --> 05:48.445
+Do you have a code that sets out the criteria?
+
+05:48.545 --> 05:53.072
+We have formulas, and I will give you a copy of our benchmarking tutorial.
+
+05:53.232 --> 05:56.376
+I would really appreciate that.
+
+05:56.436 --> 06:00.262
+Can I ask you a question?
+
+06:00.282 --> 06:00.382
+Sure.
+
+06:00.582 --> 06:08.213
+I've heard that there are studies conducted maybe even at MIT that I get to see the results, but
+
+06:09.053 --> 06:16.602
+A text read on a screen is different to the reader than it is in a book.
+
+06:16.922 --> 06:19.025
+Do you remember that?
+
+06:19.185 --> 06:21.488
+Are there studies to try and determine?
+
+06:21.588 --> 06:27.695
+I realize this gets into a non-scientific area here.
+
+06:29.437 --> 06:36.546
+Has there been any work done to indicate whether or not there's a different perception from text?
+
+06:37.167 --> 06:40.051
+I'm sure there's a different perception of text on it.
+
+06:40.071 --> 06:42.675
+I know as a writer, it's something I write here.
+
+06:44.237 --> 06:49.925
+I have a sense of what it's going to look like when it's written in the newspaper.
+
+06:49.945 --> 06:50.786
+And it's different.
+
+06:50.826 --> 06:54.612
+That's the way I visualize it in writing.
+
+06:54.712 --> 06:57.696
+It's different from what it is.
+
+06:57.716 --> 07:02.163
+And part of that is a translation that needs to take place.
+
+07:02.203 --> 07:05.908
+You become a connoisseur.
+
+07:06.698 --> 07:09.702
+of making that translation.
+
+07:10.363 --> 07:17.374
+It's like when you look at art, you know, well that looks good, that looks good, but how do you distinguish between a Picasso and what my son does?
+
+07:17.454 --> 07:28.470
+Now, I think my son's better than Picasso, but you know what I mean, it's becoming the connoisseur of it, and making those
+
+07:31.488 --> 07:37.076
+We can't presume that all readers approach the text in a uniform manner.
+
+07:38.077 --> 07:47.170
+I may not care about any of the visual clues associated with the basic information I want to get off of that page.
+
+07:47.690 --> 07:52.036
+Whether it's a newspaper or a printout, it doesn't matter to me.
+
+07:52.317 --> 07:57.023
+In some context, all I want to know is, what's this information?
+
+07:58.555 --> 08:06.086
+But there are several levels, you see, and that's why they say the information age is nothing more than that.
+
+08:06.106 --> 08:16.081
+I mean, the information gets at higher levels, though, to acknowledge and... Oh, yeah, but my knowledge is informed by the information that I collect.
+
+08:16.462 --> 08:26.757
+And collecting it off something like this, as opposed to this, as opposed to that, may or may not make a difference to me.
+
+08:26.787 --> 08:29.892
+I was, you know, I'm a book person.
+
+08:29.972 --> 08:31.815
+I grew up with books.
+
+08:32.096 --> 08:33.398
+I don't like TV.
+
+08:33.598 --> 08:36.002
+I don't like the medium of comics.
+
+08:36.903 --> 08:38.446
+You know, the stupid balloons.
+
+08:39.007 --> 08:41.491
+Those things don't mean things to me.
+
+08:41.771 --> 08:44.015
+This means things to me.
+
+08:44.035 --> 08:46.659
+But, you know, you look at comic stores.
+
+08:47.120 --> 08:50.365
+They're all young boys and grown-up boys.
+
+08:50.699 --> 08:52.041
+in comic book stores.
+
+08:52.221 --> 08:57.968
+Part of it, I think, is the content of the comics, and part of it is the way it's delivered.
+
+08:57.988 --> 09:00.652
+I think it appeals to a male kind of mind.
+
+09:00.672 --> 09:01.633
+I don't know.
+
+09:01.653 --> 09:04.376
+I think that would be an interesting study.
+
+09:04.396 --> 09:10.904
+But as you look at... Not nearly as much as boys do.
+
+09:11.305 --> 09:16.892
+You go to these comic book stores, and 70% of the clientele are boys.
+
+09:18.020 --> 09:20.803
+And I think it's not just the content.
+
+09:20.843 --> 09:24.206
+I think it is the way it's delivered.
+
+09:24.807 --> 09:25.127
+Interesting.
+
+09:25.668 --> 09:33.335
+At any rate, I'll give you a little story about my son who is now eight.
+
+09:33.816 --> 09:39.141
+We bought an IBM Selectric typewriter here probably ten years ago.
+
+09:39.241 --> 09:41.003
+We paid $500 for it.
+
+09:41.343 --> 09:42.865
+We kept it for five years.
+
+09:43.105 --> 09:45.587
+I bought it for $5 from Cornell.
+
+09:46.428 --> 09:47.149
+Took it home.
+
+09:49.323 --> 09:54.568
+You know, it sat in a closet until Michael one day said, you know, how does this thing work?
+
+09:54.588 --> 10:02.535
+Took it out, rolled a piece of paper in for him, showed him how the power space bar goes and the automatic return and all the bells.
+
+10:03.616 --> 10:11.923
+He typed for a while, and then he looked up at me and he said, where's the screen?
+
+10:11.943 --> 10:12.663
+He wasn't.
+
+10:13.204 --> 10:17.828
+The idea of stuff coming out on paper didn't compute with him.
+
+10:18.213 --> 10:30.186
+He was interested in, you know, maybe his way of getting information, by the time he reaches college, will be so attentive to this as opposed to this.
+
+10:32.749 --> 10:33.389
+Interesting.
+
+10:33.770 --> 10:36.353
+Yeah.
+
+10:37.454 --> 10:42.159
+It was like, oh, my God.
+
+10:42.880 --> 10:44.001
+I know.
+
+10:44.217 --> 10:46.780
+Because I had very little tolerance for the screen.
+
+10:46.800 --> 10:50.184
+You know, I actually couldn't really need help.
+
+10:50.204 --> 10:52.727
+But on my own the door, there's a bridge.
+
+10:53.588 --> 10:57.432
+You know, I've actually called her if I'm right up to call her.
+
+10:57.452 --> 10:58.814
+I need your own paper.
+
+10:58.834 --> 11:01.116
+I can't turn the TV on at our house.
+
+11:01.336 --> 11:03.138
+Michael has to do it.
+
+11:03.219 --> 11:04.900
+There's too many of those things.
+
+11:04.920 --> 11:08.444
+I mean, we have four of those universals.
+
+11:08.845 --> 11:10.727
+None of them works.
+
+11:10.747 --> 11:13.330
+Yes, well, yes.
+
+11:14.373 --> 11:19.981
+But what I do use that form is to locate information.
+
+11:20.762 --> 11:29.094
+And I think in some ways, as we look at digital libraries, we're not providing a replacement for this.
+
+11:29.114 --> 11:37.005
+We're providing a fast way to conduct our research.
+
+11:37.025 --> 11:40.970
+The first stage of research isn't looking at what you want.
+
+11:41.090 --> 11:43.654
+It's getting rid of the stuff you don't want as far as you can.
+
+11:44.090 --> 11:44.991
+That's right.
+
+11:45.011 --> 12:14.097
+I mean, when I'm interested in winnowing out the six million volumes, I don't want the floor to start focusing on the ten volumes I do want.
+
+12:17.232 --> 12:27.651
+And even though you're making your judgment on those folks.
+
+12:27.791 --> 12:39.493
+Right.
+
+12:40.081 --> 12:44.788
+And even when you get to the text itself, you browse, you make decisions.
+
+12:44.868 --> 12:50.136
+I mean, you talk to... Well, you see rocks at the bottom of it, you know.
+
+12:50.376 --> 12:59.790
+And what this does is provide a way of extending the process you do now to looking up for the text itself.
+
+12:59.910 --> 13:03.095
+There's a lot of time to read there, so you just copy it.
+
+13:03.115 --> 13:03.736
+That's right.
+
+13:03.756 --> 13:05.518
+Take it all, and then I'll do this.
+
+13:05.779 --> 13:06.680
+I follow the tricks.
+
+13:06.760 --> 13:07.962
+That's why I read it right now.
+
+13:08.768 --> 13:13.274
+And then we'll have time to sit there and read the whole project.
+
+13:13.294 --> 13:13.454
+Exactly.
+
+13:13.634 --> 13:16.638
+So with this copy, I go with tons of folders.
+
+13:17.299 --> 13:17.780
+Exactly.
+
+13:17.800 --> 13:18.661
+And I do more work.
+
+13:18.681 --> 13:21.865
+And I come home with maybe 15 books.
+
+13:22.045 --> 13:24.989
+That's a two or three hours work.
+
+13:25.750 --> 13:31.557
+And the digital library will allow you to do that from your desktop, presumably.
+
+13:31.577 --> 13:34.441
+So you will say, aha, this is the stuff I want.
+
+13:34.461 --> 13:35.022
+You take it.
+
+13:35.142 --> 13:36.764
+You dump it to disk.
+
+13:36.784 --> 13:37.645
+You print it out.
+
+13:38.637 --> 13:56.378
+Or maybe you've done your first sort, and you're now down to 50 books, and you need a little more time to make the second sort to get down to the 10 books that you've been printed, or whatever, you know, the process is for the sections that you want.
+
+13:57.900 --> 14:03.126
+So I don't see this as replacing for anybody above 10.
+
+14:03.933 --> 14:09.141
+what we do ultimately with looking at the printed page.
+
+14:13.206 --> 14:27.046
+But I'm really worried about digital library development where we don't focus on what the printed page conveys in creating those digital circuits.
+
+14:27.227 --> 14:32.995
+A lot of projects have just been so unmannered by the technology
+
+14:33.717 --> 14:35.319
+whatever it was like.
+
+14:35.339 --> 14:44.251
+I really worried about digital library initiatives that don't pay enough respect to what is conveyed by the printed page.
+
+14:44.892 --> 15:02.796
+And so there's such a desire to do it that there isn't enough planning and conceptualization about what's involved in creating something that has value and utility
+
+15:03.113 --> 15:10.701
+and can meet the needs that you claim that are easy to make about what you're going to deliver.
+
+15:11.843 --> 15:23.295
+I mean, any darn fool who goes in and starts scanning oversize color maps with fine detail and promises that they're going to deliver something to the desktop that the user wants.
+
+15:24.877 --> 15:25.678
+Check it out.
+
+15:25.844 --> 15:50.278
+Yeah, and the cost associated with grass and the ability to do different silver.
+
+15:50.859 --> 15:54.484
+And I could do a full-faring cooler fish.
+
+15:54.835 --> 16:15.257
+that will have more information than a file that I would create for that same object, a 1.34 gigabyte file, 134 floppy disks, to have the same kind of information that a full-time fiche could provide me for some of that material.
+
+16:15.477 --> 16:22.665
+I'd create the full-time fiche, and then get a digital derivative from it for current use, and go back to this as they
+
+16:22.915 --> 16:40.397
+So it's a process of trying to merge the content to the capabilities and to create stuff that has real memory.
+
+16:40.417 --> 16:42.660
+Are you going to show us some stuff?
+
+16:42.680 --> 16:44.082
+I'm going to show you some stuff.
+
+16:44.102 --> 16:47.286
+There's one other thing about it.
+
+16:48.886 --> 16:53.815
+So while our focus has been on conversion, we're also very concerned about what is delivered to the user.
+
+16:54.537 --> 16:59.045
+And we are not enfranchising the world and creating digital libraries.
+
+16:59.506 --> 17:01.690
+Those on modems will be very frustrated.
+
+17:01.750 --> 17:12.210
+Those with 386s will not be able to display the kind of color that the digital file could represent beautifully if you had the proper technical links in the chain.
+
+17:12.528 --> 17:14.891
+Seth's point, it's mad.
+
+17:15.251 --> 17:19.437
+And, you know, the good news is, three basics won't be working in two years anyway.
+
+17:19.537 --> 17:23.582
+Yeah, three basics is, uh, which I love my book on birth, uh, great, that's so funny.
+
+17:23.602 --> 17:27.927
+I mean, Toshiba 720, all that stuff up here.
+
+17:28.308 --> 17:28.508
+Mm-hmm.
+
+17:28.528 --> 17:34.015
+I love that, uh, one for my kids, which we saw, you know, two computers that I had to go in my life.
+
+17:34.035 --> 17:34.736
+That's right.
+
+17:34.796 --> 17:39.101
+Three basics was, uh, so if we had the entire financial world, huh?
+
+17:39.121 --> 17:39.361
+Mm-hmm.
+
+17:39.401 --> 17:41.744
+You know, you know, we had six basics.
+
+17:41.764 --> 17:42.265
+That's right.
+
+17:43.105 --> 17:47.671
+So, um, let's show you a little bit.
+
+17:48.371 --> 17:53.838
+...that we can kind of look to.
+
+17:56.121 --> 18:08.095
+I think Cornell has been a leader in trying to make some guidelines here on how to capture stuff.
+
+18:08.115 --> 18:11.880
+Uh... We are now... We are... This is, um...
+
+18:12.282 --> 18:16.806
+My colleague's office.
+
+18:16.826 --> 18:17.447
+I see.
+
+18:17.707 --> 18:22.111
+This is the kind of comedy that we have produced.
+
+18:22.131 --> 18:25.374
+That's actually... It's a digital facsimile.
+
+18:25.554 --> 18:31.499
+And the title is Astronomy for All by B-U-R-G-E-L.
+
+18:31.880 --> 18:35.843
+This looks like a regular book, doesn't it, huh?
+
+18:35.863 --> 18:38.205
+Yeah.
+
+18:38.225 --> 18:39.226
+And you've done this right here?
+
+18:39.627 --> 18:39.927
+Yep.
+
+18:40.379 --> 18:57.875
+Cassell & Company, C-A-S-S-E-L-L, London, New York, 1911, by Bruno H-B-U-I, a little bit loud about the U. The illustration could be a little better, but maybe that's how it was in the original book, right?
+
+18:57.935 --> 19:02.360
+Where does it say Cornell here, that you did this?
+
+19:02.380 --> 19:03.120
+It's a production nut.
+
+19:03.140 --> 19:04.221
+Okay.
+
+19:06.103 --> 19:06.804
+Production nut.
+
+19:07.564 --> 19:09.306
+Cornell University Library produced this.
+
