@@ -10093,5 +10093,85 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/c11ed3eb-cda2-49c9-b4b3-0057c484e752/outputs/basbanes_15_065a_access-medium.mp4/index.m3u8",
         "url": "./transcripts/basbanes_15_065a_access-medium.json",
         "name": "Joan Baez, Side A"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/b6ecdb3b-5a77-4ae1-8f06-13cb569e0dc0/outputs/PQ7081.A1C542007no.007_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.007_t1-medium.json",
+        "name": "Juan Andralis. [Part 1]: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/0b6b0adb-2c91-4dbe-a029-4dcf1e7bc06a/outputs/PQ7081.A1C542007no.005_t2-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.005_t2-medium.json",
+        "name": "Enrique Anderson Imbert [Part 1]: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/73549a01-1bad-4a17-8076-d22ec09df88a/outputs/PQ7081.A1C542007no.010_t2-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.010_t2-medium.json",
+        "name": "Constantino Andreadis: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/9be0197d-4df9-46a9-814a-9b0c49101972/outputs/PQ7081.A1C542007no.008_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.008_t1-medium.json",
+        "name": "Juan Andralis. [Part 2]: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/37cf6642-13f4-43e3-ae53-ef575d1d97ae/outputs/PQ7081.A1C542007no.002_t2-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.002_t2-medium.json",
+        "name": "Rodolfo Abularach: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/8cf25241-1463-4b68-93cd-0fccd5dcd509/outputs/PQ7081.A1C542007no.003_t2-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.003_t2-medium.json",
+        "name": "Jorge Accame: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/8d538fc6-0aee-42c8-906f-adce32e026f2/outputs/PQ7081.A1C542007no.001_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.001_t1-medium.json",
+        "name": "Toma\u0301s Abraham [Part 1]: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/577254dd-d793-47a2-9b3f-608b2130346f/outputs/PQ7081.A1C542007no.004_t2-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.004_t2-medium.json",
+        "name": "Pepa Acedo, Ana Padovani: Interviews"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/30a22bb8-3575-4b06-bc9e-9919b2a30f43/outputs/PQ7081.A1C542007no.006_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.006_t1-medium.json",
+        "name": "Enrique Anderson Imbert. [Part 2]: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/ae034dde-7e40-4a26-8b86-bf8fb8a6bb6a/outputs/PQ7081.A1C542007no.006_t2-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.006_t2-medium.json",
+        "name": "Enrique Anderson Imbert. [Part 2]: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/8f63f029-5ed6-479d-b4bf-861e86052773/outputs/PQ7081.A1C542007no.001_t2-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.001_t2-medium.json",
+        "name": "Toma\u0301s Abraham [Part 1]: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/9fb35af4-71c0-48b0-9ef1-f2ae0bcbc4e4/outputs/PQ7081.A1C542007no.003_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.003_t1-medium.json",
+        "name": "Jorge Accame: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/fcf9e1da-630b-4386-a9b6-570e96aebc3a/outputs/PQ7081.A1C542007no.009_t2-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.009_t2-medium.json",
+        "name": "Juan Andralis. [Part 3]: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/e870e54c-41fa-4a56-9a79-c71c62895b09/outputs/PQ7081.A1C542007no.002_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.002_t1-medium.json",
+        "name": "Rodolfo Abularach: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/ba7ca773-8bc9-4315-b275-bce4ca17e0e6/outputs/PQ7081.A1C542007no.010_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.010_t1-medium.json",
+        "name": "Constantino Andreadis: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/a7138dd5-510d-49f4-9364-1bffc27eb1d4/outputs/PQ7081.A1C542007no.005_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.005_t1-medium.json",
+        "name": "Enrique Anderson Imbert [Part 1]: Interview"
     }
 ]
