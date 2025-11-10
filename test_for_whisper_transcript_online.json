@@ -10778,5 +10778,385 @@
         "audio": "https://kaltura.library.tamu.edu/avalon/3292659b-a73d-48c8-9e3e-d863b8279298/outputs/PQ7081.A1C542007no.063_t2-medium.mp4/index.m3u8",
         "url": "./transcripts/PQ7081.A1C542007no.063_t2-medium.json",
         "name": "Carlos Feiling: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/9e7fb390-e183-444d-9175-4c0ca698c38e/outputs/PQ7081.A1C542007no.085B_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.085B_t1-medium.json",
+        "name": "Victor Grippo: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/cacd9eb1-0340-44c0-a680-920edd286f36/outputs/PQ7081.A1C542007no.076_t3-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.076_t3-medium.json",
+        "name": "Olvido Garc\u00eda Vald\u00e9s: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/faf14330-6010-4c00-92b2-a2750617af65/outputs/PQ7081.A1C542007no.085A_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.085A_t1-medium.json",
+        "name": "Victor Grippo: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/01b30b41-55a1-4a38-9b62-f1c89e5c1185/outputs/PQ7081.A1C542007no.076_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.076_t1-medium.json",
+        "name": "Olvido Garc\u00eda Vald\u00e9s: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/17334072-506f-40d2-a82f-d079601bb4dd/outputs/PQ7081.A1C542007no.096_t2-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.096_t2-medium.json",
+        "name": "Vintila\u0306\u00a0 Horia. [Part 1]: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/a3e92d62-cd03-414f-8bf7-51ecbd81fcef/outputs/PQ7081.A1C542007no.089_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.089_t1-medium.json",
+        "name": "Luis Gusma\u0301n: Interview [1991]"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/6d3bdca4-d7d1-48d2-80d7-d42a0944af66/outputs/PQ7081.A1C542007no.081_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.081_t1-medium.json",
+        "name": "Ba\u0301rbara Gill \"Szymborska\": Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/042f3a75-4531-4fe7-a899-edbb03915c44/outputs/PQ7081.A1C542007no.094_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.094_t1-medium.json",
+        "name": "Hopenhayn, Mart\u00edn: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/dde20c3a-6455-44d9-8daf-d2091469e513/outputs/PQ7081.A1C542007no.093_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.093_t1-medium.json",
+        "name": "Ide Hintze: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/66a04bef-bb9d-4995-b16d-ce84a6e9842a/outputs/PQ7081.A1C542007no.086_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.086_t1-medium.json",
+        "name": "Ernesto Grosman: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/f3592d41-36d1-48fa-b476-31d4576857d3/outputs/PQ7081.A1C542007no.099_t2-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.099_t2-medium.json",
+        "name": "Beatriz Iacoviello: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/0546c72e-aca3-44ef-b167-24addfdc2e4d/outputs/PQ7081.A1C542007no.087_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.087_t1-medium.json",
+        "name": "Silvia Guerra: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/31a57092-7443-4bfa-bb6a-9a65e2ce59d8/outputs/PQ7081.A1C542007no.092_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.092_t1-medium.json",
+        "name": "Francesc Herna\u0300ndez : Interview [1990s]"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/6f6b5211-8786-4ee0-b9de-8e0079980aa7/outputs/PQ7081.A1C542007no.100_t2-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.100_t2-medium.json",
+        "name": "Samuel Jaramillo: Interview [Version 1]"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/a59df066-c8cb-4634-b9de-1d2237938c0e/outputs/PQ7081.A1C542007no.098_t2-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.098_t2-medium.json",
+        "name": "Hebe Uhart: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/e339ec81-158b-4673-bc48-3fce0a76cd6e/outputs/PQ7081.A1C542007no.078_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.078_t1-medium.json",
+        "name": "Angela Gentile: Interview [Version 1]"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/a1e93adc-ef6e-4b52-887c-779f8184a2ac/outputs/PQ7081.A1C542007no.090_t2-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.090_t2-medium.json",
+        "name": "Liliana Heer: Interview [1993]"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/5aa5a58e-8a55-4f2a-ae5c-131e2be3f89b/outputs/PQ7081.A1C542007no.079B_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.079B_t1-medium.json",
+        "name": "Zunilda Gertel: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/97e78ceb-70e1-4cda-9e0b-a897341dc026/outputs/PQ7081.A1C542007no.095_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.095_t1-medium.json",
+        "name": "Mart\u00edn Hopenhayn '99: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/ac587fee-7e42-4c4d-8849-1a8565802fe1/outputs/PQ7081.A1C542007no.080_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.080_t1-medium.json",
+        "name": "Joaqu\u00edn Giannuzzi: Interview [1991]"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/827a6d9d-5af3-4261-bc96-a5ce7b889852/outputs/PQ7081.A1C542007no.082_t2-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.082_t2-medium.json",
+        "name": "Mario Goloboff: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/20483e8a-a55f-47a2-802a-7a29750b38db/outputs/PQ7081.A1C542007no.097_t2-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.097_t2-medium.json",
+        "name": "Vintila\u0306\u00a0 Horia. [Part 2]: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/9a3caa48-3bf4-401e-bbfb-8b05d9a73586/outputs/PQ7081.A1C542007no.088_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.088_t1-medium.json",
+        "name": "Beatriz Guido: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/bf824761-f9a2-46e5-945d-74f4bb0d49fa/outputs/PQ7081.A1C542007no.097_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.097_t1-medium.json",
+        "name": "Vintila\u0306\u00a0 Horia. [Part 2]: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/24a8a1a6-0190-4e27-8a53-d8d6a127796a/outputs/PQ7081.A1C542007no.082_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.082_t1-medium.json",
+        "name": "Mario Goloboff: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/a5f0efb1-601c-448d-a16d-486d0d178dd3/outputs/PQ7081.A1C542007no.077B_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.077B_t1-medium.json",
+        "name": "Juan Gelman: Interview [1]"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/609d5738-532b-4456-a654-5478c40d385e/outputs/PQ7081.A1C542007no.080_t2-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.080_t2-medium.json",
+        "name": "Joaqu\u00edn Giannuzzi: Interview [1991]"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/90d1290f-7a22-4561-82ba-6dada35a2966/outputs/PQ7081.A1C542007no.090_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.090_t1-medium.json",
+        "name": "Liliana Heer: Interview [1993]"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/fb7b5039-d368-4a80-bf16-3214805e6592/outputs/PQ7081.A1C542007no.098_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.098_t1-medium.json",
+        "name": "Hebe Uhart: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/83a40807-9045-4f89-9294-171fa2781c46/outputs/PQ7081.A1C542007no.100_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.100_t1-medium.json",
+        "name": "Samuel Jaramillo: Interview [Version 1]"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/c1ad2943-638d-4cf7-93f2-bbf4f8a1e82e/outputs/PQ7081.A1C542007no.078_t2-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.078_t2-medium.json",
+        "name": "Angela Gentile: Interview [Version 1]"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/a1008ba0-e871-4178-8517-ffaec43ff715/outputs/PQ7081.A1C542007no.092_t2-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.092_t2-medium.json",
+        "name": "Francesc Herna\u0300ndez : Interview [1990s]"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/bee184d8-fe61-4294-8d19-7625a9353f10/outputs/PQ7081.A1C542007no.087_t2-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.087_t2-medium.json",
+        "name": "Silvia Guerra: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/3b8c141b-a4ba-43e4-9a8e-b83d98edae35/outputs/PQ7081.A1C542007no.099_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.099_t1-medium.json",
+        "name": "Beatriz Iacoviello: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/c0c976ee-2d8f-4562-95bd-bc7bff54b6dd/outputs/PQ7081.A1C542007no.086_t2-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.086_t2-medium.json",
+        "name": "Ernesto Grosman: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/2e244c7b-34d9-41d6-afd0-6e0c624928c6/outputs/PQ7081.A1C542007no.093_t2-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.093_t2-medium.json",
+        "name": "Ide Hintze: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/18740984-23f3-4bb1-93dc-287619681bb3/outputs/PQ7081.A1C542007no.091_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.091_t1-medium.json",
+        "name": "Cuentos-Maria H\u00e9quiz: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/54eb128a-fe84-4e2c-b48a-54f4b63962b8/outputs/PQ7081.A1C542007no.084_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.084_t1-medium.json",
+        "name": "[Amadeo] Gravino/Hilda Mans: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/1371d944-430f-4c7f-b00e-fd3d6230dfc1/outputs/PQ7081.A1C542007no.094_t2-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.094_t2-medium.json",
+        "name": "Hopenhayn, Mart\u00edn: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/ca58fbe4-9bd7-4aa7-8cb2-583f857de7fc/outputs/PQ7081.A1C542007no.089_t2-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.089_t2-medium.json",
+        "name": "Luis Gusma\u0301n: Interview [1991]"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/00c4e2de-406e-47ef-9db1-acf5b66005fa/outputs/PQ7081.A1C542007no.076_t2-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.076_t2-medium.json",
+        "name": "Olvido Garc\u00eda Vald\u00e9s: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/aae37d12-0dc1-4484-b7e5-7deb696576ef/outputs/PQ7081.A1C542007no.079A_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.079A_t1-medium.json",
+        "name": "Zunilda Gertel: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/8cfd5247-c505-4de3-ac86-39bb38e31f3e/outputs/PQ7081.A1C542007no.083_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.083_t1-medium.json",
+        "name": "A\u0301ngel Gonza\u0301lez: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/a37bd459-146a-418f-a79f-370cfa368904/outputs/PQ7081.A1C542007no.096_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.096_t1-medium.json",
+        "name": "Vintila\u0306\u00a0 Horia. [Part 1]: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/bf641fe4-98bd-47b4-9b81-9d1e4610fd0a/outputs/PQ7081.A1C542007no.125_t2-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.125_t2-medium.json",
+        "name": "Socrates. [Part 1]: Interview [with Mina Guillermo]"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/1d43b1cf-eeef-4b9b-9a26-26a7dcb2fb07/outputs/PQ7081.A1C542007no.120_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.120_t1-medium.json",
+        "name": "Josefina Manresa: Interview [Version 1]"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/6006fb42-a6b4-4c6c-b9fb-bc1f775bcb5b/outputs/PQ7081.A1C542007no.118A_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.118A_t1-medium.json",
+        "name": "Eugenio Mandrini: Interview [1992]"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/554db94f-a854-43e3-9495-9e4b578a63eb/outputs/PQ7081.A1C542007no.123_t2-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.123_t2-medium.json",
+        "name": "Seymour Menton: Interview [1987]"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/2fa2211f-5061-4dee-bd53-809855f00d63/outputs/PQ7081.A1C542007no.122A_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.122A_t1-medium.json",
+        "name": "Jos\u00e9 Antonio Marina: Interview [Long version]"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/85b6a408-0096-4b98-b552-03cdcc13bc96/outputs/PQ7081.A1C542007no.121_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.121_t1-medium.json",
+        "name": "Fiona Mackintosh: Interview [1982]"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/b612f201-1ce6-47b0-ba85-4b0d6618a66a/outputs/PQ7081.A1C542007no.110A_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.110A_t1-medium.json",
+        "name": "Juan Carlos Kreimer: Interview [1992]"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/51e08d44-0129-468b-b73a-e476f2fec039/outputs/PQ7081.A1C542007no.118B_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.118B_t1-medium.json",
+        "name": "Eugenio Mandrini: Interview [1992]"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/e7ea5001-d845-4674-9aa6-3a29fe2ed7c7/outputs/PQ7081.A1C542007no.121_t2-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.121_t2-medium.json",
+        "name": "Fiona Mackintosh: Interview [1982]"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/87cba708-53e1-489a-a862-4d6ff6a41000/outputs/PQ7081.A1C542007no.123_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.123_t1-medium.json",
+        "name": "Seymour Menton: Interview [1987]"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/3f6a5043-629f-4abd-b2f6-5a0247cfb996/outputs/PQ7081.A1C542007no.120_t2-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.120_t2-medium.json",
+        "name": "Josefina Manresa: Interview [Version 1]"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/af9edef6-b46e-4a74-a204-dbba420b7c7e/outputs/PQ7081.A1C542007no.122B_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.122B_t1-medium.json",
+        "name": "Jos\u00e9 Antonio Marina: Interview [Long version]"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/cb2376eb-543c-42f4-8a64-b576c610fdc9/outputs/PQ7081.A1C542007no.110B_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.110B_t1-medium.json",
+        "name": "Juan Carlos Kreimer: Interview [1992]"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/71dac263-2a05-40aa-94fd-7a107833851f/outputs/PQ7081.A1C542007no.125_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.125_t1-medium.json",
+        "name": "Socrates. [Part 1]: Interview [with Mina Guillermo]"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/09313c8e-98c6-42c6-a662-32886d398f85/outputs/PQ7081.A1C542007no.111_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.111_t1-medium.json",
+        "name": "Mar\u00eda In\u00e9s Lagos: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/e03e56bd-ff8f-47f8-a1c7-b1f57bdb1452/outputs/PQ7081.A1C542007no.119_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.119_t1-medium.json",
+        "name": "Julia\u0301n Mar\u00edas: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/0e4683fc-691c-41ac-ab70-cb6fb84116c9/outputs/PQ7081.A1C542007no.113_t2-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.113_t2-medium.json",
+        "name": "Daniel Larriqueta. [Part 2]: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/3afbe344-8819-4e49-98d1-177bd7fa5534/outputs/PQ7081.A1C542007no.116_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.116_t1-medium.json",
+        "name": "Antonio Lo\u0301pez Ortega: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/09bd2ff3-e721-4797-8ee5-a047d0792aef/outputs/PQ7081.A1C542007no.114_t2-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.114_t2-medium.json",
+        "name": "Daniel Larriqueta: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/cebb847a-f439-42e0-9c00-48df5e70ec2d/outputs/PQ7081.A1C542007no.108_t2-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.108_t2-medium.json",
+        "name": "Kodama: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/f915c1a5-f36c-4ee7-9917-400a0c29c91f/outputs/PQ7081.A1C542007no.102_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.102_t1-medium.json",
+        "name": "Arturo Jauretche. [Part 2]: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/5930291e-f903-4f90-9424-c68cf5975900/outputs/PQ7081.A1C542007no.107_t2-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.107_t2-medium.json",
+        "name": "Alberto Kattan. [Part 2]: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/3c31d363-c863-4e44-8afd-266cc34b6699/outputs/PQ7081.A1C542007no.105_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.105_t1-medium.json",
+        "name": "[Ruben] Kanalestein: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/b7b5af29-fe0c-48fb-b3ae-f6afb4cfb1b8/outputs/PQ7081.A1C542007no.112_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.112_t1-medium.json",
+        "name": "Daniel Larriqueta. [Part 1]: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/cc9b1588-10a4-4108-b78c-e78cd3862556/outputs/PQ7081.A1C542007no.117_t2-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.117_t2-medium.json",
+        "name": "Toma Longinovic\u0301 y Ksenja Bilbija; Chantal Maillard: Interviews"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/c9c5b9fe-8ecd-4443-b5e6-a4fdcdd93fbf/outputs/PQ7081.A1C542007no.108_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.108_t1-medium.json",
+        "name": "Kodama: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/3502a900-e6c5-4639-98cd-ab0840cc4e1f/outputs/PQ7081.A1C542007no.115_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.115_t1-medium.json",
+        "name": "Myron Lichtblau: Interview [Version 1]"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/55959ec3-5243-465d-bc52-ac11d74e66bd/outputs/PQ7081.A1C542007no.101_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.101_t1-medium.json",
+        "name": "Arturo Jauretche. [Part 1]: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/be148e93-1df1-41f7-a442-36ab9740b123/outputs/PQ7081.A1C542007no.103_t2-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.103_t2-medium.json",
+        "name": "Federico Jeanmaire: Interview [1993]"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/8ec23a66-a3f0-4836-bc83-63bf2b7823d4/outputs/PQ7081.A1C542007no.109_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.109_t1-medium.json",
+        "name": "[Mari\u0301a] Kodama: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/1fa6552d-2037-46f6-90db-d652cd370da8/outputs/PQ7081.A1C542007no.106_t1-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.106_t1-medium.json",
+        "name": "Alberto Kattan. [Part 1]: Interview"
+    },
+    {
+        "audio": "https://kaltura.library.tamu.edu/avalon/6365f83d-c343-43ff-9f04-1d33a1eda0e0/outputs/PQ7081.A1C542007no.104_t2-medium.mp4/index.m3u8",
+        "url": "./transcripts/PQ7081.A1C542007no.104_t2-medium.json",
+        "name": "Paulina Juszko: Interview"
     }
 ]
