@@ -1,0 +1,1117 @@
+WEBVTT
+
+00:00:03.136 --> 00:00:06.319
+Testing, one, two, three, one, two, three.
+
+00:00:09.483 --> 00:00:13.347
+Testing, testing, three, two, one, three, two, one.
+
+00:00:13.527 --> 00:00:15.449
+Testing, testing.
+
+00:00:15.469 --> 00:00:17.992
+Testing on Wednesday, August 15.
+
+00:00:18.973 --> 00:00:21.155
+I'm Don Barker here with Haskell Monroe.
+
+00:00:23.558 --> 00:00:24.919
+This is August 15.
+
+00:00:24.980 --> 00:00:30.105
+We're in the Evans Library and I have the pleasure of chatting with Dr.
+
+00:00:30.406 --> 00:00:31.207
+Is it Donald?
+
+00:00:31.367 --> 00:00:32.389
+Donald G. Barker.
+
+00:00:32.529 --> 00:00:39.638
+Donald G. Barker, whose period of service here goes back a good many decades.
+
+00:00:40.539 --> 00:00:49.811
+To introduce yourself to someone who might hear this tape or read the transcription, describe Don Barker's life before Texas A&M.
+
+00:00:49.851 --> 00:00:50.692
+Where did you grow up?
+
+00:00:50.752 --> 00:00:52.073
+What did Mom and Dad do?
+
+00:00:52.154 --> 00:00:57.240
+Where did you go to school, high school, college, and any other experience before you got here?
+
+00:00:57.912 --> 00:01:16.156
+Okay, I go by Don Barker and I was born in 1929 in Waco, Texas and grew up in Waco and attended public schools there and went to Waco High School and after high school I went into the Army.
+
+00:01:16.697 --> 00:01:18.199
+I was in the Army for three years.
+
+00:01:18.803 --> 00:01:22.189
+Then when I came out of the Army, I was a student in my hometown at Baylor.
+
+00:01:23.070 --> 00:01:28.239
+I took the Bachelor's and Master's at Baylor, and then I went into employment service work.
+
+00:01:28.299 --> 00:01:36.593
+I worked for the Texas Employment Service, and then later for the Texas Rehabilitation Council.
+
+00:01:36.573 --> 00:01:40.058
+No, it was a state commission for the blind, and I was a rehabilitation counselor.
+
+00:01:40.879 --> 00:01:49.110
+And then after that, I worked for the state merit system council, which is a civil service testing program, but for state civil service.
+
+00:01:49.931 --> 00:01:59.163
+And it was from there that I came to, and I went to University of Texas and received the PhD in educational psychology, and I came from Austin here in 1959.
+
+00:02:01.486 --> 00:02:04.690
+How did you know there was a vacancy at A&M?
+
+00:02:06.577 --> 00:02:09.785
+I was registering at Texas.
+
+00:02:10.366 --> 00:02:17.683
+Each time you're required to go to your advisor, and the advisee ahead of me, the
+
+00:02:18.440 --> 00:02:21.965
+the advisor asked him if he'd be interested in a position at A&M.
+
+00:02:22.927 --> 00:02:25.691
+He said no, and I overheard that.
+
+00:02:25.851 --> 00:02:34.504
+When I came up, he checked my load at Texas, and I said, well, what about me?
+
+00:02:34.604 --> 00:02:37.408
+I heard you ask somebody if he was interested in a position at A&M.
+
+00:02:37.428 --> 00:02:38.730
+He said, well, are you?
+
+00:02:39.111 --> 00:02:41.634
+I said yes, and so that began it.
+
+00:02:41.955 --> 00:02:42.976
+Now, when was that?
+
+00:02:43.197 --> 00:02:43.918
+That was in 1959.
+
+00:02:43.998 --> 00:02:48.244
+It was the beginning of the fall semester.
+
+00:02:48.798 --> 00:02:50.200
+And you had already finished your degree.
+
+00:02:50.440 --> 00:02:51.081
+No, I had not.
+
+00:02:51.241 --> 00:02:56.487
+I was registering at that time and I finished my dissertation after I came over here.
+
+00:02:56.888 --> 00:03:00.892
+How did you make contact then with somebody over here about that vacancy?
+
+00:03:02.294 --> 00:03:07.380
+Well, I was given a referral to, I believe it was to Grady Parker.
+
+00:03:08.041 --> 00:03:11.785
+Grady Parker was a head of educational psychology and so I
+
+00:03:12.237 --> 00:03:25.116
+telephoned him and set up a conference for him, with him, and I was working still at the Texas Merit System Council and I arranged to come over for an evening interview.
+
+00:03:25.754 --> 00:03:43.388
+And so I came to Dr. Parker's office in the academic building, and I showed him some of my writing that I had done and my credentials, and we had a nice discussion.
+
+00:03:43.508 --> 00:03:48.758
+And then we went by to see Walter Vorville, who was in charge of the psychology portion
+
+00:03:49.075 --> 00:03:51.039
+of the Education and Psychology Department.
+
+00:03:51.801 --> 00:03:55.248
+And I had a conference with him that same evening.
+
+00:03:56.049 --> 00:03:59.276
+I was wined and dined at Black's Pharmacy.
+
+00:03:59.296 --> 00:04:07.894
+And Frank Hubert met us there, the three of us, or the four of us, Grady Parker, Walter Vorvel, Frank Hubert, and I.
+
+00:04:07.874 --> 00:04:14.423
+We discussed the appointment at the soda fountain, and I was, I believe I was hired on the spot.
+
+00:04:14.483 --> 00:04:18.409
+If not, it was only a few days before the appointment was confirmed.
+
+00:04:18.429 --> 00:04:23.696
+Do you remember anything about what they asked about, what they talked about in the interview?
+
+00:04:25.799 --> 00:04:30.726
+Yes, they asked, well they were particularly, the reason they invited me over
+
+00:04:31.398 --> 00:04:37.188
+was I had a background in psychological testing, and particularly in test construction.
+
+00:04:37.488 --> 00:04:39.752
+That's what I was doing with the Texas Merit Council.
+
+00:04:39.772 --> 00:04:44.540
+I was writing up these civil service tests, and that's what I was majoring in at the university.
+
+00:04:44.580 --> 00:04:46.824
+And I studied under Dr. H.T.
+
+00:04:46.864 --> 00:04:50.149
+Manuel, who's a noted authority in that field.
+
+00:04:50.129 --> 00:04:52.332
+I guess that's the only reason I was invited over here.
+
+00:04:52.433 --> 00:05:03.950
+So we talked about my qualifications to teach test and measurements and statistics and techniques of research and general psychology.
+
+00:05:04.391 --> 00:05:04.851
+I did that.
+
+00:05:05.653 --> 00:05:07.876
+And we talked about that.
+
+00:05:09.799 --> 00:05:15.107
+I remember Frank Hubert asked me if I drank or smoked.
+
+00:05:16.724 --> 00:05:23.256
+I was kind of surprised at that question, but I did not at that time, and still don't.
+
+00:05:23.276 --> 00:05:26.281
+Because I know he was a heavy smoker.
+
+00:05:26.301 --> 00:05:27.583
+He seemed to be glad that I didn't.
+
+00:05:28.485 --> 00:05:31.330
+I told him, no, I didn't drink or smoke, and I'm practically a virgin.
+
+00:05:33.073 --> 00:05:38.563
+Did they ask any other questions that in today's standards might be a little unusual?
+
+00:05:40.872 --> 00:05:44.595
+Well, no, they didn't.
+
+00:05:44.676 --> 00:05:48.139
+They didn't ask very many personal questions.
+
+00:05:48.159 --> 00:05:49.420
+They asked about my family.
+
+00:05:49.620 --> 00:05:53.324
+I'm married and have two children, and they were children then.
+
+00:05:53.384 --> 00:05:54.104
+They're grown now.
+
+00:05:54.805 --> 00:05:57.207
+But I think I was interested in that.
+
+00:05:57.448 --> 00:06:02.132
+Oh, and it was to be a one-year appointment.
+
+00:06:03.113 --> 00:06:05.395
+So I was, like you, it was one year.
+
+00:06:06.356 --> 00:06:08.618
+And then during the year, they...
+
+00:06:09.847 --> 00:06:11.530
+put me on a tenure track position.
+
+00:06:11.790 --> 00:06:14.614
+How long did it take for them to make the offer?
+
+00:06:15.796 --> 00:06:16.978
+Was it made that night?
+
+00:06:18.080 --> 00:06:18.861
+I was trying to think.
+
+00:06:18.961 --> 00:06:19.782
+I believe it was.
+
+00:06:20.023 --> 00:06:23.929
+To the best of my knowledge, we sealed the deal with a handshake.
+
+00:06:24.370 --> 00:06:31.240
+There weren't any papers involved, but we closed the deal right there in the Black's Pharmacy soda fountain.
+
+00:06:31.320 --> 00:06:33.804
+This is the only dollar and cent question I'll ask.
+
+00:06:34.225 --> 00:06:35.507
+What was the beginning salary?
+
+00:06:35.527 --> 00:06:36.208
+Do you remember?
+
+00:06:36.374 --> 00:06:39.999
+I think it was about $8,000.
+
+00:06:40.260 --> 00:06:41.201
+I believe that's correct.
+
+00:06:41.241 --> 00:06:42.102
+For 9 or 12?
+
+00:06:42.122 --> 00:06:43.484
+I believe that was for 9 months.
+
+00:06:44.286 --> 00:06:53.379
+Actually, I was here 34 years and worked 34 summers, but I believe that salary would be close to being correct, $8,000 for 9 months.
+
+00:06:53.980 --> 00:06:56.403
+What did they tell you your duties would be?
+
+00:06:57.425 --> 00:07:03.073
+Well, my first teaching assignment, and I believe they told me,
+
+00:07:03.678 --> 00:07:24.555
+right from the very beginning, either that night or the next day or two, I was to teach a graduate course in test and measurements, an undergraduate course in test and measurements, and I believe it was two or three sections of general introductory psychology.
+
+00:07:24.822 --> 00:07:26.684
+And the normal teaching load then was?
+
+00:07:27.365 --> 00:07:31.829
+I think it was about 12 semester hours, 12 or 15.
+
+00:07:32.490 --> 00:07:35.513
+Sometimes it was 15, but typically 12 semester hours.
+
+00:07:36.054 --> 00:07:37.395
+And you began in September.
+
+00:07:37.435 --> 00:07:39.117
+When was this interview session?
+
+00:07:39.898 --> 00:07:54.053
+It was right, it was an emergency for them because it was just weeks, you know, very few weeks, less than a month before the beginning of the fall semester.
+
+00:07:54.438 --> 00:08:02.533
+I had to finish my work I was doing in Austin, so I really arrived here just a day or two before classes began.
+
+00:08:03.395 --> 00:08:05.679
+It was really kind of a rushed up deal.
+
+00:08:06.481 --> 00:08:08.986
+What was your image of Texas A&M at that point?
+
+00:08:09.006 --> 00:08:10.048
+What did you know about it?
+
+00:08:10.549 --> 00:08:11.511
+I had never been here.
+
+00:08:12.933 --> 00:08:13.695
+Even to visit?
+
+00:08:13.715 --> 00:08:14.116
+To visit.
+
+00:08:14.196 --> 00:08:15.258
+I'd never been here at all.
+
+00:08:15.458 --> 00:08:16.480
+What had you heard about it?
+
+00:08:17.422 --> 00:08:43.142
+Well, of course, I was a graduate of Baylor, and we heard about it there, and we had a rivalry, football rivalry, of course, and I was, even though I was from Waco, I did live in the, when I got back from the Army, I did live in the dormitory on Baylor campus, the freshman dormitory in Coconut Hall, and I remember that one night, upperclassmen came into the
+
+00:08:43.763 --> 00:08:52.260
+my room, my bedroom, and woke my roommate and me up and said, get dressed.
+
+00:08:52.280 --> 00:08:54.023
+We've got to go out and guard for Aggies.
+
+00:08:55.146 --> 00:08:58.853
+And that was about the first I'd heard of Aggies.
+
+00:08:59.002 --> 00:09:04.627
+other than just knowing about the football rivalry and attending some of the football games.
+
+00:09:04.667 --> 00:09:09.051
+Of course, I had lived in Waco and I knew about the Aggie football all along.
+
+00:09:09.071 --> 00:09:16.397
+I listened to the games broadcast by Kern Tips all my life and attended a few games at Baylor Stadium.
+
+00:09:17.678 --> 00:09:28.468
+And I had classmates that had gone from Waco High to A&M, so I guess I was somewhat informed about it, but I had never been here before.
+
+00:09:28.853 --> 00:09:37.144
+When you got back to Austin, you surely must have chatted about this with some of your advisors and faculty friends.
+
+00:09:37.324 --> 00:09:41.149
+Did they give you any words about A&M, plus or minus?
+
+00:09:42.030 --> 00:09:44.513
+Oh, everybody thought it was a wonderful opportunity.
+
+00:09:45.134 --> 00:09:47.837
+I didn't have any negatives about that at all.
+
+00:09:49.419 --> 00:09:52.423
+Describe the move over here, you and your family.
+
+00:09:52.563 --> 00:09:53.224
+All right.
+
+00:09:53.474 --> 00:10:01.422
+Since it was to be a temporary appointment, my family stayed in Austin, and I commuted on weekends to them.
+
+00:10:02.363 --> 00:10:15.535
+And then a few months into the school year, I don't really remember how long, but a few months in there, I was offered a regular appointment on tenure.
+
+00:10:15.836 --> 00:10:20.460
+Well, we didn't have tenure in those days, really, but it was a regular appointment, not just a...
+
+00:10:20.812 --> 00:10:22.054
+Do you remember when that came?
+
+00:10:24.017 --> 00:10:28.083
+I think it was during the first semester, maybe toward the end of the first semester, something like that.
+
+00:10:28.464 --> 00:10:31.248
+Did, and who, how was that made known to you?
+
+00:10:31.809 --> 00:10:32.890
+Conversation or later?
+
+00:10:32.910 --> 00:10:47.933
+Oh, that was, yes, that was just in Dr. Parker's office, Grady Parker, he told me about it, about that, and I had kind of hoped that that would happen and kind of, I wasn't too surprised that it happened, although I had made some
+
+00:10:49.820 --> 00:10:54.807
+inquiries about other positions and about assistantship at Texas and a few things like that.
+
+00:10:55.408 --> 00:10:57.791
+But I really wasn't too real surprised.
+
+00:10:57.831 --> 00:10:59.533
+I was hoping that it would work out that way.
+
+00:10:59.654 --> 00:11:05.161
+I hadn't been really encouraged that it would, but somehow I thought that might happen.
+
+00:11:05.542 --> 00:11:07.044
+Did you move family over here then?
+
+00:11:07.284 --> 00:11:07.524
+No.
+
+00:11:08.005 --> 00:11:15.135
+Well, we started making plans to do that, and my wife decided that she would stay with our
+
+00:11:15.503 --> 00:11:17.167
+home in Austin until it sold.
+
+00:11:18.109 --> 00:11:23.962
+And then after a few months, we got tired of that and decided she would move over.
+
+00:11:24.082 --> 00:11:27.068
+And the day she moved over, it sold.
+
+00:11:28.151 --> 00:11:29.814
+So it sold during that year.
+
+00:11:29.835 --> 00:11:33.242
+Describe finding housing for you and family here.
+
+00:11:35.078 --> 00:11:46.997
+When I first came over here, thinking it would be temporary, I got a room with Mr. and Mrs. Mais.
+
+00:11:47.197 --> 00:11:58.314
+That's spelled M-A-I-S. And the Mais had a grocery store, one of the few grocery stores in town, at the corner of Texas Avenue and University Drive.
+
+00:11:58.374 --> 00:12:00.698
+I don't believe they called it University at that time.
+
+00:12:00.678 --> 00:12:06.925
+but they had a grocery store there, and they had their home next door to it on Texas, facing Texas Avenue.
+
+00:12:07.715 --> 00:12:09.817
+And I rented a room in their home.
+
+00:12:09.937 --> 00:12:11.099
+That was my first lodging.
+
+00:12:12.200 --> 00:12:14.302
+And I paid $20 a month.
+
+00:12:15.484 --> 00:12:19.568
+I got linen changed regularly and had use of the kitchen.
+
+00:12:19.668 --> 00:12:21.590
+It was a very good deal.
+
+00:12:21.650 --> 00:12:22.771
+I wish I could find that now.
+
+00:12:24.834 --> 00:12:26.315
+I wish I could find $20 a day.
+
+00:12:26.355 --> 00:12:27.316
+Yes.
+
+00:12:27.337 --> 00:12:31.461
+Describe... And then shortly after that,
+
+00:12:31.964 --> 00:12:41.053
+I mean, by the time the family came over a few months after that, we rented a home on Carter Creek in the same block where Bill Barzac lived.
+
+00:12:41.073 --> 00:12:48.360
+And then we were there about a year, and then we moved to our present home on Tim, just south of the campus, where we still live.
+
+00:12:48.921 --> 00:12:59.992
+When you moved into the department, describe getting settled into, where was the department, where was your office, and what was it?
+
+00:13:00.332 --> 00:13:01.093
+All right.
+
+00:13:01.934 --> 00:13:11.828
+The Department of Education and Psychology, that included the psychology courses and what's now called curriculum instruction and what's now called educational administration, they're all one department.
+
+00:13:12.669 --> 00:13:17.636
+And we were on the first floor of the academic building.
+
+00:13:18.878 --> 00:13:26.428
+And we were on the, our offices were on the, most all of them were on the south end of the hall.
+
+00:13:26.568 --> 00:13:28.331
+And we had both sides of the hall.
+
+00:13:29.012 --> 00:13:30.574
+I was on the west side of the hall.
+
+00:13:31.010 --> 00:13:34.013
+and there was an ante room there and several offices.
+
+00:13:34.934 --> 00:13:36.897
+My office mates were M.S.
+
+00:13:36.937 --> 00:13:46.087
+Cavanaugh and Paul Henseling and also George Wilcox.
+
+00:13:46.127 --> 00:13:51.973
+Now he had formerly been the head of that department, but was retired, but he still had an office in that suite.
+
+00:13:53.075 --> 00:13:55.778
+So I got to be good friends with those men.
+
+00:13:55.938 --> 00:13:57.259
+How did they welcome you?
+
+00:13:57.279 --> 00:13:59.802
+How did the department receive a newcomer?
+
+00:14:01.587 --> 00:14:02.668
+Well, they applauded me.
+
+00:14:02.829 --> 00:14:03.650
+That's what they did.
+
+00:14:04.671 --> 00:14:12.481
+When I walked in, they clapped their hands, and that was pretty typical of the way they continued to work with me during my first year.
+
+00:14:13.142 --> 00:14:21.853
+My primary mentor, the one that helped me the most, was Walter Varvel, because I was in the psychology area mainly.
+
+00:14:21.913 --> 00:14:23.816
+Describe that help.
+
+00:14:23.836 --> 00:14:24.216
+All right.
+
+00:14:24.577 --> 00:14:27.240
+Well, let me first tell about...
+
+00:14:27.625 --> 00:14:30.009
+the first day in there with Grady Parker.
+
+00:14:31.110 --> 00:14:40.304
+We had some talks and he assigned me my office and I took over the office of Price Ewing who had been teaching test and measurement before he went to Oklahoma State.
+
+00:14:41.205 --> 00:14:50.359
+And anyway, after we had finished that visit, Grady Parker took me down the hall to the center area of the academic building, you know, the kind of rotunda
+
+00:14:50.339 --> 00:14:54.053
+area and there was a men's restroom there.
+
+00:14:54.073 --> 00:15:01.783
+Of course there were only men here anyway, but there was men's, faculty men's restroom it was labeled and it was locked.
+
+00:15:02.253 --> 00:15:05.137
+And so he showed it to me, and he issued me a key.
+
+00:15:06.339 --> 00:15:09.984
+And I said, Dr. Parker, who are we locking out of here?
+
+00:15:10.745 --> 00:15:13.569
+He said, well, women, I guess.
+
+00:15:15.572 --> 00:15:25.506
+Or about, you ask about Walter Vorble, he was so kind to me, and of course he knew everything about everything, at least that's what I thought then, and I pretty much still think that.
+
+00:15:26.247 --> 00:15:30.994
+He was extremely well read, and apparently remembered everything he ever read.
+
+00:15:30.974 --> 00:15:37.906
+He was better than having a reference library.
+
+00:15:37.926 --> 00:15:38.808
+I could just ask him.
+
+00:15:40.311 --> 00:15:41.873
+So I leaned on him very heavy.
+
+00:15:43.717 --> 00:15:50.569
+I had conferences with him before my first classes.
+
+00:15:50.549 --> 00:16:07.424
+and he advised me about how to conduct classes, what to expect, how to handle discipline, which wasn't very much to that, but just the details of organizing and conducting a class.
+
+00:16:07.444 --> 00:16:09.286
+Was this your first real classroom?
+
+00:16:09.306 --> 00:16:11.728
+This was absolutely my first teaching of any kind.
+
+00:16:11.868 --> 00:16:19.695
+I had not had any teaching assignments in graduate school, and I had not taught at any previous level, so I was just totally green.
+
+00:16:19.912 --> 00:16:27.524
+Did Dr. Warville or any other senior member give you any advice about being a faculty member at Texas A&M?
+
+00:16:28.746 --> 00:16:33.294
+Anything, any dos or don'ts?
+
+00:16:33.314 --> 00:16:37.701
+Well, I think it was more implied than explicit, you know.
+
+00:16:38.812 --> 00:16:39.713
+I would watch them.
+
+00:16:39.733 --> 00:16:40.594
+I knew like they did.
+
+00:16:41.596 --> 00:16:43.018
+Especially like Vorvel did.
+
+00:16:43.198 --> 00:16:51.749
+And I, of course, some of them I looked at them and did the opposite, but not necessarily in that department.
+
+00:16:51.769 --> 00:16:56.295
+But no, there was very little orientation actually.
+
+00:16:56.335 --> 00:17:01.202
+I don't recall very much in the way of formal orientation at all.
+
+00:17:01.582 --> 00:17:05.107
+Nobody told you about smoking or drinking or gambling or anything like that?
+
+00:17:05.347 --> 00:17:06.068
+Not a word.
+
+00:17:06.757 --> 00:17:23.495
+And I will say, too, that one thing that I appreciated about my work at A&M was that I was given free rein to decide how I would teach my classes and almost free rein about the content.
+
+00:17:23.976 --> 00:17:27.099
+Of course, I did discuss the content with other faculty members.
+
+00:17:27.159 --> 00:17:32.545
+And if I was teaching a course that was taught by other faculty members, too, I would coordinate it with them.
+
+00:17:32.930 --> 00:17:44.188
+But I was really surprised, and still am surprised in a way, how much freedom I did have to plan and conduct and do my teaching.
+
+00:17:44.228 --> 00:17:51.620
+They seemed to trust my knowledge of my subjects and my ability to teach it, even from the beginning.
+
+00:17:52.641 --> 00:17:56.027
+And that was true throughout my stay at A&M.
+
+00:17:56.467 --> 00:18:00.574
+Now, by and large, those colleagues
+
+00:18:01.195 --> 00:18:03.619
+present on campus from what hour to what hour.
+
+00:18:04.500 --> 00:18:06.824
+OK. And by the way, we didn't have many.
+
+00:18:06.924 --> 00:18:08.346
+That was a very small department.
+
+00:18:09.107 --> 00:18:13.795
+A&M was not into teacher education at that time to a very great extent at all.
+
+00:18:14.536 --> 00:18:19.844
+They were into training some school administrators, principals, and some school counselors.
+
+00:18:20.666 --> 00:18:25.954
+And they did train some secondary teachers, high school.
+
+00:18:26.153 --> 00:18:29.579
+and no elementary education program.
+
+00:18:30.441 --> 00:18:36.672
+And we did teach all of the psychology courses, but the enrollment then was only about, was it about 6,000?
+
+00:18:36.692 --> 00:18:38.816
+Does that sound right to you?
+
+00:18:38.876 --> 00:18:40.039
+Between 6 and 7,000.
+
+00:18:41.201 --> 00:18:43.184
+So we didn't have a large faculty.
+
+00:18:43.204 --> 00:18:45.308
+I think there were about six on our whole faculty.
+
+00:18:46.571 --> 00:18:48.955
+And you asked about the hours.
+
+00:18:50.605 --> 00:18:57.835
+At that time, they were there almost all day, every day, and we also had night classes.
+
+00:18:57.915 --> 00:19:08.530
+All the time that I was at A&M in my department, we had night classes, and there was hardly a semester the entire 34 years that I didn't have at least
+
+00:19:08.510 --> 00:19:13.558
+one night class that met usually from five to eight, occasionally from six to nine.
+
+00:19:13.618 --> 00:19:19.448
+In the summer, we didn't have night classes, with a few exceptions.
+
+00:19:19.688 --> 00:19:22.232
+In those early years, was there a coffee pot nearby?
+
+00:19:22.252 --> 00:19:27.200
+Or did you all go to the MSC for coffee?
+
+00:19:30.085 --> 00:19:34.973
+Right at that first time, those first year or two,
+
+00:19:35.543 --> 00:19:39.225
+I remember going to the MSC a lot with Warble and with Kavanaugh.
+
+00:19:39.678 --> 00:19:42.120
+and Hensling sometime, Grady Parker.
+
+00:19:43.121 --> 00:19:52.331
+And some other colleagues that I didn't see quite as often because they were in a different house and a different place were Austin Curley and Doug Perry.
+
+00:19:52.451 --> 00:19:55.133
+They were in what they call the basic division.
+
+00:19:56.415 --> 00:19:58.817
+But of course, I saw them pretty often too.
+
+00:19:58.877 --> 00:20:01.560
+But those I mentioned were the ones I saw.
+
+00:20:02.080 --> 00:20:03.361
+And I remember going to the MSC.
+
+00:20:03.441 --> 00:20:09.027
+I don't know whether that was because we didn't have a coffee pot or whether we just preferred to go over there, but I remember that.
+
+00:20:09.327 --> 00:20:19.807
+Later we moved to the fourth floor of the academic building and at that time we had a very active interaction with other faculty members for coffee.
+
+00:20:20.548 --> 00:20:27.201
+We had a room on the fourth floor right off the lobby that we shared with the English department mainly.
+
+00:20:27.704 --> 00:20:31.611
+And by that time, our department had grown quite a bit.
+
+00:20:32.714 --> 00:20:36.601
+And sometimes philosophy would be in there.
+
+00:20:37.162 --> 00:20:38.445
+You might have even been in there.
+
+00:20:38.485 --> 00:20:38.765
+Were you?
+
+00:20:38.845 --> 00:20:39.226
+I don't know.
+
+00:20:39.587 --> 00:20:41.050
+I don't remember you being in there much.
+
+00:20:41.150 --> 00:20:46.540
+But you were probably over at the library doing research while we were drinking that coffee.
+
+00:20:47.144 --> 00:20:49.969
+But we did have some very good times.
+
+00:20:50.490 --> 00:20:55.038
+In that first year, did you have a private office or did you share it with a colleague?
+
+00:20:55.218 --> 00:20:56.320
+I had a private office.
+
+00:20:56.901 --> 00:20:59.084
+Oh, that is good.
+
+00:20:59.365 --> 00:21:04.073
+Was it normal when you began, was it normal to post office hours?
+
+00:21:05.656 --> 00:21:10.101
+No, they just figured you'd be there if it was business hours, we'd be there.
+
+00:21:10.321 --> 00:21:11.722
+That's what I thought.
+
+00:21:11.742 --> 00:21:13.124
+This is an editorial note.
+
+00:21:14.145 --> 00:21:17.268
+Frank Hubert began his... Later, of course, we did.
+
+00:21:17.548 --> 00:21:18.830
+Oh, yeah.
+
+00:21:18.850 --> 00:21:23.274
+Frank Hubert began his service as dean in the summer of 1959.
+
+00:21:24.235 --> 00:21:33.385
+I've learned from doing these interviews that President Earl Rudder then knew in his chief executive office job here on the campus
+
+00:21:33.854 --> 00:21:47.769
+had been inquiring around Texas for someone who would have very good contact with the public high schools in the state, and Frank Hubert had been recommended to him as such a person.
+
+00:21:48.690 --> 00:22:03.726
+Then I understand that after Dean Hubert got here, he and President Rudder and Vice President Wayne Hall agreed that what was then the School of Arts and Sciences would get extra attention
+
+00:22:03.773 --> 00:22:11.097
+particularly in education and in business, which were then nothing more than departments.
+
+00:22:12.020 --> 00:22:17.277
+And that the dream was that those areas would grow
+
+00:22:18.033 --> 00:22:20.796
+and make a great deal of progress.
+
+00:22:21.397 --> 00:22:31.908
+And so this fall of 1959 was the beginning of that DREAMS implementation.
+
+00:22:34.150 --> 00:22:36.753
+Did- That was also about the time Paul Hensley came.
+
+00:22:36.793 --> 00:22:38.254
+He may have come the year before I did.
+
+00:22:38.274 --> 00:22:43.720
+As you met your first classes, describe,
+
+00:22:43.970 --> 00:22:51.892
+your impression of Aggie students, and what was it like to be a new teacher, and particularly to be a new faculty member in the classroom here?
+
+00:22:53.356 --> 00:22:58.350
+Well, I was a little nervous at first, but I was really
+
+00:22:58.870 --> 00:23:02.616
+I loved it from the very beginning, just from the very beginning.
+
+00:23:03.197 --> 00:23:05.140
+I felt like this was what I was intended to do.
+
+00:23:05.160 --> 00:23:13.133
+I hadn't done it before, but I immediately got the impression that this was for me, what I really wanted to continue doing.
+
+00:23:14.095 --> 00:23:18.482
+And I spent a whole lot of time in preparation.
+
+00:23:18.462 --> 00:23:24.471
+even more than was necessary later, of course, since everything was new.
+
+00:23:24.531 --> 00:23:40.213
+One thing I was very grateful for that throughout my time at A&M, I was almost always given a chance to teach the courses that I preferred to teach.
+
+00:23:41.655 --> 00:23:44.219
+That was partly because I was hired for that purpose, you know.
+
+00:23:44.379 --> 00:23:45.060
+I guess I was
+
+00:23:45.732 --> 00:23:47.835
+always the best qualified one for those.
+
+00:23:48.876 --> 00:24:01.933
+But there was hardly any time that I had to teach courses that I wasn't well prepared by education, at least, to teach, and by some of the work that I'd done, too, because I'd been employed in testing.
+
+00:24:02.875 --> 00:24:06.579
+And I forgot just what you were.
+
+00:24:06.920 --> 00:24:13.849
+When you go to these first classes, at what level were they, and what were the students like?
+
+00:24:15.280 --> 00:24:24.784
+Well, we had two survey courses in introductory psychology, 207 and 303.
+
+00:24:25.979 --> 00:24:29.584
+And I asked Cavanaugh, my neighbor, what's the difference?
+
+00:24:29.604 --> 00:24:34.211
+He said, well, in 207, we use Munn as a text and lecture out of Hilgard.
+
+00:24:34.731 --> 00:24:38.476
+And in 303, we use Hilgard as a text and lecture out of Munn.
+
+00:24:39.638 --> 00:24:41.340
+That's exactly the answer he gave me.
+
+00:24:41.661 --> 00:24:45.206
+And they were nearly the same course.
+
+00:24:45.246 --> 00:24:47.930
+But 303 was intended for technical students.
+
+00:24:47.950 --> 00:24:50.333
+We had the engineering and business students in there.
+
+00:24:50.313 --> 00:25:02.899
+And we had everybody else in 207, the liberal arts students, although there weren't very many of them, but we had just everybody that weren't, except engineering and business, we had in the 207.
+
+00:25:03.861 --> 00:25:09.352
+And we typically had classes of around 50 in a survey course like that.
+
+00:25:09.573 --> 00:25:11.697
+So these were juniors and seniors?
+
+00:25:12.082 --> 00:25:14.966
+I mean, excuse me, sophomore and junior, two and three hundred.
+
+00:25:15.306 --> 00:25:15.607
+Yes.
+
+00:25:16.288 --> 00:25:21.575
+And very few majors in education or psychology, is that right?
+
+00:25:21.595 --> 00:25:23.838
+We had no major in psychology at that time.
+
+00:25:24.719 --> 00:25:33.351
+And, yeah, well, if they were, 207 would have those that major in education, but that was a very small number.
+
+00:25:34.332 --> 00:25:40.941
+And both class, and they were, although they were sophomore and junior,
+
+00:25:41.225 --> 00:25:53.347
+It wasn't unusual for a senior to be in either one, or not too unusual for a freshman even, but all underclassmen.
+
+00:25:53.667 --> 00:25:57.575
+But primarily they were juniors and sophomores.
+
+00:25:58.516 --> 00:26:03.385
+And we met.
+
+00:26:03.584 --> 00:26:11.193
+Well, I've met classes in every building nearly on this campus, but I guess in those days we met most all of them in the academic building.
+
+00:26:11.553 --> 00:26:12.594
+Very convenient.
+
+00:26:12.614 --> 00:26:12.855
+All right.
+
+00:26:12.875 --> 00:26:17.260
+You had seen Baylor students and UT students.
+
+00:26:17.960 --> 00:26:22.826
+What impression did those Aggie students make in those first, that first semester?
+
+00:26:24.187 --> 00:26:29.153
+I was favorably impressed, very favorably impressed, and continue to be.
+
+00:26:29.588 --> 00:26:30.969
+all through the time I was here.
+
+00:26:31.310 --> 00:26:36.014
+Did they at all tease you about being a Baylor or a Longhorn?
+
+00:26:36.415 --> 00:26:37.636
+Oh, I heard a little of that.
+
+00:26:37.756 --> 00:26:42.520
+Yeah, just a little of that from the faculty and students, too.
+
+00:26:42.620 --> 00:26:45.884
+But you know, it never amounted to very much.
+
+00:26:47.765 --> 00:26:54.332
+The students were, at first, they were all men, naturally.
+
+00:26:54.432 --> 00:26:58.836
+And also, they were mostly in uniform.
+
+00:27:00.200 --> 00:27:03.344
+even the upperclassmen a lot up wearing uniform, you know.
+
+00:27:03.845 --> 00:27:06.509
+Did they come, was their attendance regular?
+
+00:27:07.169 --> 00:27:07.410
+Yes.
+
+00:27:08.291 --> 00:27:11.215
+I didn't have much trouble with absences in those early days.
+
+00:27:12.016 --> 00:27:12.477
+And they were?
+
+00:27:12.497 --> 00:27:13.498
+Maybe a little more later.
+
+00:27:13.798 --> 00:27:15.601
+They were appropriately respectful?
+
+00:27:16.482 --> 00:27:16.903
+They were.
+
+00:27:17.203 --> 00:27:17.904
+Yeah, I was surprised.
+
+00:27:17.924 --> 00:27:25.394
+And I was only about thirty years old myself, you know, not much older than some of them, but they were, they were respectful, yes they were.
+
+00:27:25.775 --> 00:27:29.700
+Did anybody come up to try to make a special impression?
+
+00:27:30.136 --> 00:27:34.689
+and to introduce themselves or come by so you'd be sure to know who they were?
+
+00:27:34.729 --> 00:27:40.045
+You know, I got the impression they were deliberately not doing that.
+
+00:27:41.088 --> 00:27:43.770
+I also never received gifts from students.
+
+00:27:44.631 --> 00:27:50.896
+Occasionally, later on, I did occasionally get gifts from, small gifts from some foreign students.
+
+00:27:50.936 --> 00:27:53.038
+And I was always a little ambiguous about that.
+
+00:27:53.539 --> 00:27:57.041
+You know, I thought it would be rude not to accept it.
+
+00:27:57.062 --> 00:28:00.104
+And didn't know, didn't quite want to accept it either.
+
+00:28:00.144 --> 00:28:05.148
+But I did receive a few, you know, souvenir kind of things from foreign students.
+
+00:28:05.188 --> 00:28:10.673
+But I never received gifts from students or never
+
+00:28:11.075 --> 00:28:12.657
+thought anybody was bribing.
+
+00:28:13.699 --> 00:28:14.760
+That just never did come up.
+
+00:28:15.161 --> 00:28:24.053
+In those early semesters, do you remember any event that caused you to turn to somebody for advice and, hey, this happened, what do I do about this or that?
+
+00:28:27.077 --> 00:28:35.428
+Well, I think you're probably talking about conduct primarily, but as far as content is concerned, you know,
+
+00:28:35.965 --> 00:28:41.653
+how would be a good way to approach this subject or introduce this subject, you know.
+
+00:28:41.673 --> 00:28:43.435
+I went to barbel with that.
+
+00:28:44.577 --> 00:28:54.690
+And as far as conduct was concerned, it was remarkable how little problem I did have with that.
+
+00:28:55.571 --> 00:29:02.901
+I don't believe much of that was due to me because I was green, you know, I didn't know what I was doing.
+
+00:29:03.269 --> 00:29:05.833
+But like you asked if they were respectful, they were.
+
+00:29:05.873 --> 00:29:07.355
+They did what I told them to.
+
+00:29:09.558 --> 00:29:11.942
+They seemed interested, you know.
+
+00:29:12.062 --> 00:29:16.829
+I tried to, my main way of getting discipline is try to make the class interesting.
+
+00:29:17.009 --> 00:29:19.112
+That was always my strategy.
+
+00:29:20.134 --> 00:29:25.682
+And if someday I just couldn't really get quite up
+
+00:29:25.662 --> 00:29:27.644
+for a subject that day.
+
+00:29:28.465 --> 00:29:32.169
+Well, I went into some very closely related subject that I could get up for.
+
+00:29:32.189 --> 00:29:35.572
+I felt it that important to maintain their interest.
+
+00:29:36.253 --> 00:29:54.572
+And I always, especially at the beginning of the class, but all throughout the class, I tried to give a lively presentation, and I told some jokes, and not really so much jokes as just kind of having a light touch, you know, not being too serious about the subject.
+
+00:29:55.750 --> 00:30:05.863
+And I remember a few problems that I had or thought I was having with cheating.
+
+00:30:06.605 --> 00:30:07.127
+Not many.
+
+00:30:07.546 --> 00:30:10.709
+In fact, I'm really surprised I've had so little experience with that.
+
+00:30:11.210 --> 00:30:13.172
+Of course, there's probably some I didn't know about.
+
+00:30:13.913 --> 00:30:22.642
+But there were a few times, and I would talk to horrible William about that, or maybe Grady Parker, and there were a few times I was sure of it.
+
+00:30:23.724 --> 00:30:32.473
+And I remember one time I had a, perhaps on their advice, I gave,
+
+00:30:32.723 --> 00:30:39.253
+different questions on the same test and alternated them, but didn't make a big deal about who was getting which test.
+
+00:30:39.594 --> 00:30:40.455
+They looked the same.
+
+00:30:41.276 --> 00:30:46.684
+And occasionally I would get answers to the, correct answers to the wrong question.
+
+00:30:48.808 --> 00:30:51.071
+And I would confront them about that.
+
+00:30:52.473 --> 00:30:58.883
+If it only happened once, and it never did happen more than once, I didn't report them to...
+
+00:30:58.863 --> 00:31:03.254
+We didn't have a committee in those days for that, and I didn't carry it any further.
+
+00:31:03.314 --> 00:31:04.477
+I just straightened it out between.
+
+00:31:04.518 --> 00:31:11.175
+Did any student attempt to give you a memorable excuse for the cheating?
+
+00:31:14.924 --> 00:31:15.606
+No.
