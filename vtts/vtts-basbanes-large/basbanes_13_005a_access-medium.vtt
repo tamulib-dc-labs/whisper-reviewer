@@ -1,0 +1,1790 @@
+WEBVTT
+
+00:03.457 --> 00:09.143
+Up next is a man who, like Walt Crawford, traveled all the way across the country to be with us.
+
+00:10.564 --> 00:20.074
+Dr. Jeff Rothenberg is a senior computer scientist in the social policy department of the Rand Corporation in Santa Monica, California.
+
+00:21.495 --> 00:33.227
+He received a master's degree in computer science from the University of Wisconsin in 1969, and then spent the next four years working toward a doctorate in artificial intelligence.
+
+00:34.253 --> 00:48.648
+His research has included work in modeling theory, investigations into the effects of information technology on humanities research, and numerous studies involving information technology policy issues.
+
+00:50.309 --> 01:03.062
+A widely published author, Jeff was commissioned by the Council on Library of Information Resources to write Avoiding Technological Quicksand, a description of his proposal
+
+01:03.346 --> 01:10.177
+for emulating obsolete software and hardware systems as a means of preserving digital information.
+
+01:10.818 --> 01:14.744
+This is also the theme he'll be exploring for us this afternoon.
+
+01:15.485 --> 01:23.498
+Here to address the topic, emulation as a preservation strategy, I'm delighted to present Dr. Jeff Rothenberg.
+
+01:33.502 --> 01:36.546
+Can you hear me through this?
+
+01:36.566 --> 01:50.064
+I actually got involved in this back in 1992, working with someone at the National Archives and Archives Administration.
+
+01:50.084 --> 02:02.361
+And in 1995, I wrote an article on the subject of South Carolina Basin for Scientific American, which some of you may have read.
+
+02:02.695 --> 02:10.328
+Later that year, they had a 150th anniversary issue in which they cited one or two items from each year that they thought were particularly important.
+
+02:10.769 --> 02:13.313
+And I was delighted that they cited the issue.
+
+02:13.333 --> 02:16.799
+My article on digital preservation is one of them for that year.
+
+02:17.260 --> 02:20.806
+The other one was about a mechanical fish called Robocunani.
+
+02:20.866 --> 02:24.853
+You can't always win.
+
+02:26.436 --> 02:27.538
+What I'm going to do is
+
+02:27.721 --> 02:32.566
+I'm going to start out with a little teaser for this subject and then I'm going to back up and get a little more detail.
+
+02:32.586 --> 02:33.947
+I hope this is going to be bright.
+
+02:35.268 --> 02:43.777
+This is a probably fourth or fifth generation photograph of a copy of the 1609 quarto edition of Shakespeare Sonnets.
+
+02:44.458 --> 02:45.699
+This one is from a Folger.
+
+02:46.420 --> 02:52.986
+I point out that it's quite readable despite a little bit of changed typography and spelling and punctuation and two other oddities.
+
+02:53.168 --> 03:13.352
+But I'm particularly interested in the last portraying of the couplet, where as many of the signs are fascinated by immortality, he says to his love, but thy eternal summer shall not fade, nor lose possession of that fair thou of us, nor shall death brag thou wanderest in its shade, when in eternal lines to time thou rose.
+
+03:14.313 --> 03:21.522
+So long as men can breathe, or eyes can see, so long lives this, and this gives light to thee.
+
+03:23.088 --> 03:30.338
+Now, if you were to update this a little bit for the digital age, the final couple would have to be rewritten in it.
+
+03:31.719 --> 03:46.299
+And it would come out something like, so long as we have the magnetic stuff on this disk is not evaporated, and so long as humans have the appropriate size and speed of disk drives, and so long as we have the hardware controllers with drivers to read the format of the disk, and so long as we have the application software, et cetera, et cetera.
+
+03:46.679 --> 03:51.205
+It wrecks the iambic processor.
+
+03:51.674 --> 03:54.818
+And in a nutshell, that's the problem with physical preservation.
+
+03:54.858 --> 03:58.803
+I'm going to talk and just talk a little bit about the nature of the problem itself.
+
+03:58.983 --> 04:06.352
+And I'm going to show you some examples of the kinds of things that are easily lost in conversion and migration.
+
+04:06.372 --> 04:09.136
+There's nothing intended to attack the previous speaker.
+
+04:09.156 --> 04:13.081
+I don't tend this to be an abseminent attack.
+
+04:14.482 --> 04:21.411
+But I am going to be carrying into migration somewhat as to the approach that most people have been, I think, a bit uncritically
+
+04:22.353 --> 04:23.234
+Sydney will work.
+
+04:24.215 --> 04:30.323
+Now, I don't think I need to preach this, but there are lots of kinds of records that are important for long periods of time.
+
+04:30.343 --> 04:34.327
+One of my favorite is records about things like, where did we bury the plutonium?
+
+04:40.635 --> 04:52.309
+Plutonium, half-life plutonium is 20,000 years, so to get down to 1 100th of its original value would take 133,000 years, fairly long periods.
+
+04:52.660 --> 05:11.669
+What we mean by preservation, there's a quote I like from Sue McKenna, who's an archivist in Australia, who defines it as to enable the reliable, authentic, meaningful, and accessible records to be carried forward through time, within and beyond organizational boundaries, for as long as they are needed for whatever multiple purposes they serve.
+
+05:12.591 --> 05:17.318
+What I like to take out of this is preservation must allow future users to do a whole lot of things.
+
+05:17.652 --> 05:25.221
+Retrieve and access, certainly, but also decipher, view, interpret, understand, appreciate, experience, any other words that you'd like to add there.
+
+05:25.742 --> 05:27.825
+To do whatever it is we do with information.
+
+05:28.285 --> 05:30.348
+And this applies to all informational entities.
+
+05:30.368 --> 05:35.374
+I won't be distinguishing here between documents, records, data, artworks that are in digital form.
+
+05:35.975 --> 05:42.883
+And we'll be focusing somewhat on foreign digital records, or at least on records that would lose a lot if they were not in digital form.
+
+05:43.370 --> 05:47.537
+And the final line there is that we need to preserve things in meaningful and valid ways.
+
+05:49.440 --> 05:55.350
+So there have been some examples of things that have been lost or almost lost.
+
+05:55.370 --> 06:02.762
+Some of you probably know this report from the House of Representatives in 1990 called Taking a Bite Out of History.
+
+06:03.724 --> 06:09.073
+Who says the Congress doesn't have a sense of humor?
+
+06:09.931 --> 06:18.204
+And there were a number of things cited, including the 1960 census, which is widely talked about, although nothing was apparently truly lost.
+
+06:18.224 --> 06:21.268
+We came very close in that instance.
+
+06:21.288 --> 06:23.832
+So it's not that this is just an abstract problem.
+
+06:24.133 --> 06:28.199
+There certainly are things that can and will be lost if we don't do something.
+
+06:28.219 --> 06:34.268
+And so you might say, and I think people have said, well, why are we in this headlong rush to digitize everything if this is a problem?
+
+06:34.855 --> 06:42.202
+And I would argue that our documents, our data, our artifacts are going to become increasingly digital, whether we like it or not, for good reasons.
+
+06:42.702 --> 06:45.705
+And the reasons are pretty obvious, but I'll enumerate them.
+
+06:45.985 --> 06:51.670
+The first and probably the central focus of a lot of these advantages is that digital things can be copied perfectly.
+
+06:52.351 --> 06:57.416
+You can copy a digital thing perfectly and know that you have copied it perfectly and verify that fact.
+
+06:57.436 --> 07:02.280
+And that's the basis for allowing us to access and distribute things so easily over networks and communications.
+
+07:02.918 --> 07:05.522
+Furthermore, digital documents and things are easy to process.
+
+07:05.542 --> 07:10.689
+We can do all sorts of new things with them in all of their phases of development, from draft through publicating.
+
+07:10.709 --> 07:11.791
+We can reformat them.
+
+07:11.811 --> 07:16.859
+We can search through them in ways that were unthinkable before we had digital representations.
+
+07:16.939 --> 07:27.574
+And they allow us to integrate information from a number of different sources, and they create truly new capabilities like hypermedia, distributed documents, interactive documents of various sorts.
+
+07:27.594 --> 07:30.799
+And again, I'll talk about that in a little more detail as we go along.
+
+07:31.353 --> 07:37.142
+Well, then you might say, well, okay, so why don't we just print everything if we can say things that way.
+
+07:37.182 --> 07:44.412
+And the problem is that the nature of a digital document, because of those attributes I was just discussing, really prevents printing in many cases.
+
+07:44.532 --> 07:47.517
+That is, you can print, but by printing, you lose all those advantages.
+
+07:47.837 --> 07:50.702
+You can no longer copy perfectly, distribute access remotely.
+
+07:51.463 --> 07:59.875
+And in many cases, for many of the more interesting kinds of digital artifacts, it isn't even really meaningful to print multimedia, multidimensional things.
+
+08:00.327 --> 08:01.508
+So we really can't cheat.
+
+08:02.850 --> 08:10.379
+And just to remind people that analog media, you know, have their problems, is to tend to generate the facts of the sun.
+
+08:11.480 --> 08:13.643
+The facts back and forth between two facts machines.
+
+08:13.963 --> 08:16.626
+On the eighth try, I was disappointed that it still looked too good.
+
+08:17.047 --> 08:21.492
+It really came through.
+
+08:22.079 --> 08:28.228
+But the problem is the digital things, digital documents and artifacts, are also very vulnerable to loss.
+
+08:28.348 --> 08:30.651
+And I refer to this as the lemming phenomenon.
+
+08:30.771 --> 08:35.858
+I think of this as a number of different factors that are each racing each other to the cliff to see which can jump over first.
+
+08:35.878 --> 08:41.046
+I understand lemmings don't really do that, but it's too good a metaphor to give up.
+
+08:41.066 --> 08:48.516
+So one is the, we're probably all aware of, is the physical decay of media, the fact that things just don't last all that long.
+
+08:48.917 --> 08:50.719
+I'm not going to talk about that much today.
+
+08:50.969 --> 08:58.218
+Even more problematic probably is the fact that the media become obsolete often before they even lose their physical content.
+
+08:58.698 --> 09:16.960
+But what I'm going to focus on is dependence on software and the fact that software formats or the logical format of something depends on particular software and software of course only runs on environments that include operating systems and other software and it only runs on hardware of a particular type and all of that stuff becomes obsolete.
+
+09:17.311 --> 09:22.937
+So if any of these things become obsolete, we lose, effectively lose, our digital material.
+
+09:23.498 --> 09:34.951
+And I've been going around the country now for a couple of years saying that because of this, the best we can say is that digital documents last forever, or five years before.
+
+09:34.971 --> 09:39.696
+I prefer mathematical notation.
+
+09:41.057 --> 09:46.103
+So, having said that, I have a way of a graphical,
+
+09:46.285 --> 09:50.010
+reminder of the kinds of media that are already obsolete.
+
+09:50.030 --> 09:57.259
+The centerpiece of this, which I published in the Scientific American article, it's my only photo credited print, so I always like to show it.
+
+09:57.279 --> 10:08.293
+And the centerpiece is a little coffee table reproduction of the Rosetta Stone, one third size, and it's surrounded by a number of digital media which are already obsolete despite their short tenure.
+
+10:08.780 --> 10:18.756
+When I went looking for the paper tape that someone mentioned earlier today, I actually couldn't find any, although, you know, used to be computer scientists had it hanging from their doorways and had to go through it like a lean curtain in the 60s.
+
+10:19.197 --> 10:23.624
+But when I went looking for some, I had to send to a friend in Colorado to actually get a sample of it.
+
+10:24.165 --> 10:24.886
+It's already gone.
+
+10:25.687 --> 10:27.430
+Now, it's fairly straightforward.
+
+10:27.832 --> 10:33.239
+To solve the media problem, people have talked about refreshing or sometimes referred to as migration.
+
+10:33.639 --> 10:39.767
+The terminology, unfortunately, is very confusing, but people use migration to need both refreshing media and converting format.
+
+10:40.187 --> 10:45.133
+But in any case, the problem is we can't expect truly archival media in the near future.
+
+10:45.173 --> 10:49.198
+People have said, well, why can't we make a platinum CD that lasts for 200 years?
+
+10:49.820 --> 10:55.970
+And the answer is we could, but I don't think anyone in their right mind would develop such a product because it would be obsolete in five years.
+
+10:55.990 --> 11:00.997
+In any case, something faster, cheaper, more dense, and easier to use would come along and would replace it.
+
+11:01.358 --> 11:02.780
+So its shelf life would be wasted.
+
+11:03.421 --> 11:11.153
+And therefore, I don't think the market is going to warrant developing those media until things slow down, which might happen in the next century, but not in the next 20 years.
+
+11:12.280 --> 11:17.707
+Therefore, the only solution to this is we have to copy things to new media before the old media become unreadable.
+
+11:17.727 --> 11:21.372
+And nothing I say today is going to subvert this requirement.
+
+11:21.392 --> 11:23.335
+Okay, we have to do this if we're going to save the bits.
+
+11:23.736 --> 11:31.747
+No matter what we do with those bits, whether we convert them to save them for data or whatever, we have to do the refreshing to keep the bit streams alive on media.
+
+11:32.467 --> 11:36.974
+But the hard problem is that digital documents are software dependent.
+
+11:36.994 --> 11:37.655
+What does that mean?
+
+11:37.715 --> 11:38.576
+I'll give some examples.
+
+11:38.656 --> 11:41.680
+But basically it means that they can only be seen by running a program.
+
+11:41.845 --> 11:43.046
+of some sort.
+
+11:43.066 --> 11:46.670
+The data file, the thing that you save as the document, is not enough.
+
+11:46.690 --> 11:53.718
+You need some piece of software that recreates the thing that you were interested in out of that saved file.
+
+11:54.438 --> 12:03.608
+And of course, that really means that such documents are system dependent, not just the software, but they're dependent on the heart that that software runs on.
+
+12:03.628 --> 12:05.490
+What is it that makes something
+
+12:05.960 --> 12:21.479
+software dependent, well, either if it's only meaningful to its original software and there's nothing else can really figure it out at all, or if we really need to see exactly what it's offer a reader, audience thought, and there are cases where this might be important, I'll suggest to you when I go through the examples, why that might be relevant.
+
+12:22.420 --> 12:24.743
+So here are some examples just to get us concrete.
+
+12:25.364 --> 12:31.832
+If you take the Shakespeare sonnet and you just, you know, put it in ASCII, but you just format it this way,
+
+12:32.234 --> 12:38.744
+It's still there, but you probably wouldn't recognize it as a problem if you were scanning somewhere, because the structure doesn't leap out at you.
+
+12:39.104 --> 12:41.868
+So we haven't lost much, but even that is a little bit of loss.
+
+12:41.908 --> 12:54.327
+Here's a more interesting case from Winnie the Pooh, where the kangaroo takes Piglet for a ride, and Piglet says in this sort of roller coaster text, if this is flying, I shall never really take to it.
+
+12:54.678 --> 13:10.766
+Well, if you were to save this as an ASCII text stream, the obvious way, you would strip out one line after the next, and you would wind up with this kind of postmodern rendition on the bottom here.
+
+13:10.786 --> 13:18.159
+See, any avowed postmodernists in the audience?
+
+13:18.179 --> 13:18.821
+Good, but now let's talk slowly.
+
+13:18.841 --> 13:18.941
+Okay.
+
+13:18.961 --> 13:19.622
+Here's, uh...
+
+13:19.973 --> 13:21.314
+This is a somewhat more serious one.
+
+13:21.655 --> 13:24.217
+There are lots of ways of representing this familiar structure.
+
+13:24.538 --> 13:26.159
+This one is perhaps not very clever.
+
+13:26.439 --> 13:28.822
+I just use spacing between the columns.
+
+13:28.842 --> 13:40.714
+But if this is a perfectly valid way of representing the table, if I were to do that, and I merely change font, I lose the columns because the spacing has changed.
+
+13:41.314 --> 13:45.298
+Many brave men and women gave their careers finding those columns.
+
+13:45.318 --> 13:48.141
+And I wiped them out with a font change.
+
+13:48.931 --> 13:51.514
+So when people say, well, you might lose little things like Fox.
+
+13:52.976 --> 14:01.087
+Just for the archivists among you, this violates.
+
+14:01.107 --> 14:03.890
+My one archival joke.
+
+14:03.910 --> 14:08.496
+I was in San Diego some years ago at the Scripps Institute, the Graphic Institute.
+
+14:08.556 --> 14:10.999
+They had this up on the wall, pretty much in this form.
+
+14:11.019 --> 14:12.441
+We'll ask you to print out this.
+
+14:12.691 --> 14:34.868
+letter that was written in 1853 by some of my traditions to his mother and I was reading along and then it gets to this thing at the end it says just in the middle here there's suddenly a parenthesis it says when I get a hair on my pen I never stop to take it off and I thought oh there must be something going on there so I got on and called the archivist Deborah Day who of course was delighted that anybody cared and she sent me this
+
+14:36.097 --> 14:37.118
+Now, it's a little hard to see here.
+
+14:37.138 --> 14:38.259
+For one thing, it's cross-written.
+
+14:38.279 --> 14:44.927
+It's written one page and then turned 90 degrees and written the other page, presumably to save paper, but maybe to avoid prying eyes over the shoulder.
+
+14:45.348 --> 14:53.257
+But you get to the point in question here, and of course, things get blotted because apparently a hair got in the middle of the nib of his head and spread out and he started pulling it.
+
+14:53.277 --> 15:01.446
+All of that would have been lost, or at least the motivation behind it would have been lost if we hadn't kept this original in some form.
+
+15:02.641 --> 15:04.723
+Here's a more serious example.
+
+15:04.823 --> 15:13.453
+This is data documenting failure of the O-ring seals in the solid state boosters of the space shuttle prior to the Challenger disaster.
+
+15:13.853 --> 15:17.978
+And this is not exactly the form that NASA had the information, but it's something like it.
+
+15:18.258 --> 15:25.006
+It's just a table with some numbers, plotting the level of damage against temperature and the number of occasions that it occurred.
+
+15:25.026 --> 15:27.408
+And you look at this and nothing leaps out at you.
+
+15:27.428 --> 15:30.071
+It's sort of not obvious what this is telling you.
+
+15:30.091 --> 15:32.614
+On the other hand, if you take that same data and you plot it,
+
+15:34.957 --> 15:35.558
+You get this.
+
+15:37.100 --> 15:37.901
+Two things leap out.
+
+15:38.061 --> 15:40.544
+One is that the data actually ends at 53 degrees.
+
+15:40.564 --> 15:43.788
+You have no right extrapolating from 31 degrees where challenges are launched.
+
+15:44.088 --> 15:46.371
+But if you do, the curve goes off scale.
+
+15:46.792 --> 15:59.628
+Now, the point of this is that if you had been a NASA manager looking at this form of the data as displayed, you might be held more accountable in the future for having made that decision than if you had been looking at the previous tabular form.
+
+15:59.988 --> 16:03.192
+So the form in which something is presented to its original audience
+
+16:03.610 --> 16:10.918
+may be critical for various purposes, at least for things like accountability, but also for historical and aesthetic understanding.
+
+16:12.740 --> 16:25.173
+Here's an example of, you don't have to understand what this is, kind of a standard entity relationship diagram describing a database structure with boxes and text in them and lines connecting them and funny symbols.
+
+16:25.613 --> 16:32.200
+And the point is simply that this is created by a program called ER-WIN, which runs all the other windows that's ER design.
+
+16:32.517 --> 16:35.963
+And if you save that file, what gets saved is this.
+
+16:39.970 --> 16:41.913
+Ages and pages and pages of it.
+
+16:41.933 --> 16:46.961
+It's somewhat human readable, but I defy you to recreate the previous slide by reading 1,000 pages of this.
+
+16:48.544 --> 16:53.933
+So digital things, by their nature, digital files, are really programmed.
+
+16:54.655 --> 16:57.900
+And this may be a somewhat foreign notion.
+
+16:58.218 --> 17:10.481
+some of you, but a program is really just a sequence of commands in some formal language that's intended to be interpreted by some process, some automated interpreter that understands that language and does what it says to do.
+
+17:10.602 --> 17:21.222
+So in the previous case, the language is things like draw a box at this point and put this line connecting it with this kind of symbol at the end of that line and connect it to that other box and so on.
+
+17:21.573 --> 17:26.524
+digital document or data or entity, if you will, is really a program.
+
+17:26.544 --> 17:35.844
+Now the simplest ones are fairly simple, like an ASCII stream or a numeric stream, but in general it is not enough to just save this.
+
+17:37.267 --> 17:39.953
+You really have to save the interpreter.
+
+17:40.557 --> 17:46.184
+And saving the bits without the interpreter would be like saving hieroglyphics without having a rosetta stone.
+
+17:46.584 --> 17:48.166
+You just don't know what hieroglyphics mean.
+
+17:48.587 --> 17:52.432
+Actually it's worse than that because in this case the interpreter is not just another document.
+
+17:52.452 --> 17:54.714
+It's an executable thing.
+
+17:54.775 --> 17:56.557
+It's a program that has to run.
+
+17:57.538 --> 18:01.563
+So that makes things rather different, rather complicated.
+
+18:02.024 --> 18:07.290
+My point here is that all sorts of documents, all documents require interpretation.
+
+18:07.625 --> 18:10.508
+You know, once you read them, humans interpret things.
+
+18:10.528 --> 18:11.950
+They interpret poetry.
+
+18:12.010 --> 18:17.135
+Tim mentioned the idea that poetry is something that, you know, interpreting poetry is human activity.
+
+18:17.716 --> 18:24.804
+But if it's digitally represented, then before you get to do that human interpretation, you have to do this prior stage of interpreting.
+
+18:25.044 --> 18:30.310
+That is, you have to run some piece of software that renders the thing visible or readable by humans.
+
+18:30.330 --> 18:36.096
+And so that's what I'm talking about here as this additional stage of interpretation that digital entity is required.
+
+18:36.599 --> 18:42.330
+They still require a human interpretation, but without this prior stage, it's as if they were written in invisible ink.
+
+18:42.751 --> 18:45.697
+They just don't appear on the page until you do the magic.
+
+18:47.180 --> 18:51.148
+Someone mentioned this a little earlier, that we really are going to have to choose what to lose.
+
+18:52.030 --> 18:54.956
+You can't just save a digital thing the way you save a book.
+
+18:54.976 --> 18:57.561
+You put a book away at the vault, you're pretty sure you saved it.
+
+18:57.794 --> 19:02.159
+It's going to fade over time and the paper may have acid in it and there are those issues.
+
+19:02.179 --> 19:05.744
+But within the limit of the physical medium, you've saved everything about it as possible to save.
+
+19:06.204 --> 19:09.068
+Not as context, metadata and all of that, but the item itself.
+
+19:09.789 --> 19:13.113
+There is no real equivalent or no obvious equivalent in the digital world.
+
+19:14.595 --> 19:20.902
+And you might ask, well, what do we really mean about saving things, particularly saving things authentically?
+
+19:21.303 --> 19:22.084
+What does that mean?
+
+19:22.845 --> 19:25.388
+I'll get this right by the end of the talk.
+
+19:26.043 --> 19:27.406
+Sorry, I stayed in here.
+
+19:27.586 --> 19:30.512
+There are different meanings of authenticity for different disciplines.
+
+19:30.532 --> 19:33.638
+I recently attended a workshop in Clearedale in Washington on this subject.
+
+19:33.658 --> 19:36.243
+I guess it was back in January or something recently.
+
+19:36.844 --> 19:42.415
+One is if you look at the archives, they have a pretty well-defined notion of what it means for records to be authentic.
+
+19:42.614 --> 20:00.235
+uh i've worked with the netflix uh efforts in europe and the netherlands with the dutch library and from a deposit library point of view there's a somewhat different perspective you're interested in preserving publications as they were submitted to you by the publisher and you may feel that you're not allowed to copy or reformat or republish them in any way
+
+20:00.215 --> 20:10.188
+For a data warehouse, you might decide that it's important to you that users in the future be able to see data using all of their interpretive facilities, even if the original users didn't have those.
+
+20:11.009 --> 20:14.854
+For instance, fractal relationships weren't even defined 50 years ago.
+
+20:16.136 --> 20:19.540
+So there are different notions of authenticity which complicates things.
+
+20:20.330 --> 20:30.639
+And what I've suggested is that what you really like is to have some sort of original, which you could say, where for a traditional document, it's pretty obvious what that means.
+
+20:30.659 --> 20:32.421
+It's a distinct physical artifact.
+
+20:32.882 --> 20:47.295
+But I suggest in the digital world that we might define something analogously by saying that a digital original, which I like to hyphenate, is any record comparison of a digital document that has a maximum likelihood of retaining all of the relevant and meaningful aspects of the document.
+
+20:47.315 --> 20:49.797
+Now, what would such a thing be is another question.
+
+20:50.215 --> 20:55.363
+But that would be the analogy to saving an original thing, an original digital thing.
+
+20:55.903 --> 21:01.532
+Now, the solutions that people have proposed to these problems really sort of fall into two classes.
+
+21:02.593 --> 21:09.203
+One is the reliance on migration and standards, which I love together because they tend to be rather tightly connected.
+
+21:09.684 --> 21:19.598
+The archives, National Archives, for instance, has this notion that they have a limited number of acceptably put formats to translate into those formats on ingestion or accession.
+
+21:19.831 --> 21:22.854
+then they will accept things, and then they will migrate over time.
+
+21:23.715 --> 21:36.830
+The other general approach has been for people to suggest saving obsolete hardware, the Kpro example that Finet gave, of saving an obsolete system so that you have a chance of reading old media on those old systems.
+
+21:36.850 --> 21:38.071
+Now each of these have problems.
+
+21:38.592 --> 21:46.400
+It's not that they don't have a role, particularly the standards doesn't have a role to play in an ultimate solution, but let me talk about some of the problems.
+
+21:47.622 --> 21:48.943
+First I'll talk about the
+
+21:49.362 --> 21:57.054
+The idea is, if you have a standard that lasted long enough, then you could keep reading the digital thing in that standard form.
+
+21:57.394 --> 21:59.898
+And when a standard became obsolete, you would simply migrate.
+
+21:59.918 --> 22:03.063
+That is, you would convert, if you will, or translate or transform.
+
+22:03.443 --> 22:12.417
+I don't care which of those words you use, but change the thing from one digital format into a new one, into a new standard form, so that that would last for another 10 or 20 years.
+
+22:12.667 --> 22:14.850
+Migration has a long history in computer science.
+
+22:14.870 --> 22:15.871
+We've been doing it forever.
+
+22:16.192 --> 22:21.639
+I have an address book that's migrated over the last 25 years with me from one system to another.
+
+22:21.659 --> 22:29.770
+It can be done, but it's expensive and labor intensive, and it doesn't always work, particularly when paradigms change.
+
+22:30.471 --> 22:32.473
+I'll talk about that in a minute.
+
+22:32.493 --> 22:36.058
+The problem is, for the most,
+
+22:36.983 --> 22:41.551
+Central problem here is that we're really not smart enough yet to define ultimate standards.
+
+22:41.571 --> 22:44.676
+We're still learning what information science and computer science is about.
+
+22:45.057 --> 22:53.932
+We really don't have good models yet for what the categories are, let alone what the ultimate canonical representation for each of these categories also be.
+
+22:54.492 --> 23:01.945
+So to think that we can develop a long-lived standard that means something that lasts more than five or ten years in the foreseeable future just seems to be unrealistic.
+
+23:02.667 --> 23:07.836
+It's a nice idea, it may happen eventually, but not in the foreseeable future.
+
+23:08.518 --> 23:14.469
+The other idea of using successive evolving standards means that you have to convert or translate each time you change standards.
+
+23:15.110 --> 23:25.148
+And this is, there are a lot of analogies, but this one is a parlor game where you whisper, somebody whispers a sentence into someone's ear and you whisper it into the next person's ear, and by the eighth or ninth person it's unintelligible.
+
+23:25.887 --> 23:37.263
+Another that I like would be, suppose you have, but all we have in the Iliad were translations that have been translated from the ancient Greek through every intermediate language that has existed since then and now.
+
+23:37.283 --> 23:43.512
+We would have something that might conceivably be a story about the Zacchaeus of Rome, but of the Troy, but it would certainly not be what we think of as the Iliad.
+
+23:44.093 --> 23:46.997
+And that's not in fact what scholars do when they translate the Iliad.
+
+23:47.017 --> 23:48.739
+They try to find the oldest text.
+
+23:49.343 --> 24:18.557
+valid text that they can and translate correctly from that precisely because this continuous corruption problem every time you translate something you're going to corrupt it an even more extreme example that i like is suppose that sometime in the future english had taken over the planet and you decided to translate everything in your repository in english and suppose one of the things in your repository was a french spanish dictionary translate both halves of it lined up with two rather mediocre english things of dictionaries
+
+24:18.908 --> 24:27.985
+And the problem is that in order to avoid that sort of thing with migration, you would have to know what everything in your collection is, what it means, what is important about it.
+
+24:28.206 --> 24:33.075
+So you have to actually look at the semantics of everything to decide what's the right thing to do with it.
+
+24:33.576 --> 24:35.540
+And that seems to me is just wildly labor intensive.
+
+24:35.841 --> 24:41.271
+The other problem standards is someone, I think it was Andrew Tannenbaum,
+
+24:41.622 --> 24:46.029
+The great thing about standards is that there are so many different ones to choose from.
+
+24:46.049 --> 24:55.004
+Here's a website that purports to list every standard three or four or five character file name extension that's in use by some piece of software out there.
+
+24:55.064 --> 24:56.667
+There are about over a thousand on this page.
+
+24:57.408 --> 25:00.533
+And the very first one I went to look for here was Mr. Sims.
+
+25:00.593 --> 25:02.637
+Somebody told me about it a week after I made this slide up.
+
+25:02.657 --> 25:03.478
+And it's not on there.
+
+25:04.201 --> 25:05.963
+So there are lots and lots of standards.
+
+25:06.123 --> 25:09.066
+And the problem is standards don't evolve very fast.
+
+25:09.146 --> 25:10.628
+They don't get solidified very fast.
+
+25:10.688 --> 25:13.171
+By the time they do, they tend to be obsolete.
+
+25:13.731 --> 25:14.853
+So there are serious problems.
+
+25:14.973 --> 25:19.137
+Even though standards are good work, it's important stuff to do.
+
+25:19.478 --> 25:31.491
+And finding the right level of standard can sometimes really be a big win, like SML or HTML or XML, that are standards at sort of the right location for PCPIP for that matter.
+
+25:32.197 --> 25:34.741
+OK, so the standards approach is a difficult one.
+
+25:35.262 --> 25:41.092
+And the problems that I've been suggesting here suggest that really what you need is to run original software somehow.
+
+25:41.914 --> 25:46.201
+You can't just translate things into future standard forms and expect future software to work.
+
+25:46.662 --> 25:49.547
+So that means that you're going to somehow save the original software.
+
+25:50.050 --> 25:52.073
+That's not hard because software is just a bunch of bits.
+
+25:52.473 --> 25:57.079
+If you can save a digital document, which is a bunch of bits, you can save a piece of software, just a different bunch of bits.
+
+25:57.580 --> 26:02.506
+The hard part, however, is that the software only runs on hardware, which is also obsolete in the future.
+
+26:03.026 --> 26:04.188
+So how do you do that?
+
+26:05.930 --> 26:13.720
+You either save old computers in museums somehow, or you do something else.
+
+26:14.761 --> 26:19.247
+Save old computers is kind of a romantic idea, but
+
+26:19.480 --> 26:21.702
+It really isn't realistic for lots and lots of reasons.
+
+26:21.722 --> 26:24.044
+I won't go into much detail here, but I'll just mention two.
+
+26:24.204 --> 26:32.852
+One is that if you had a 100-year-old document in your repository, it would not still be on its original medium because that medium would have physically died long ago.
+
+26:32.892 --> 26:37.156
+So you would have migrated, say, an eight-inch floppy document onto a CD or a DVD.
+
+26:37.676 --> 26:45.543
+If you have the old computer in your museum, it doesn't have a DVD drive, so you can't even put the migrated version of the data file into the old computer.
+
+26:45.984 --> 26:47.445
+You've got to build interfaces
+
+26:47.543 --> 26:52.288
+software drivers between all of the old machines in your museum and all of your new I.O.
+
+26:52.348 --> 26:54.591
+devices and it's completely unmanageable.
+
+26:54.671 --> 26:57.574
+You'd have to retain expertise for writing software for those things.
+
+26:57.614 --> 26:58.175
+This doesn't even work.
+
+26:58.535 --> 27:01.158
+Furthermore, hardware itself doesn't really last all that long.
+
+27:01.879 --> 27:06.604
+There are all sorts of mechanisms by which integrated circuits actually decay over time.
+
+27:08.186 --> 27:15.053
+So the solution that I've been suggesting now for about eight years is to rely on emulation and
+
+27:15.404 --> 27:16.505
+Paul mentioned what this is.
+
+27:16.846 --> 27:18.488
+I'll define emulation in general.
+
+27:18.568 --> 27:23.235
+An emulator is something that performs the function of something else.
+
+27:23.555 --> 27:27.741
+Usually it's either a computer, a piece of hardware, or a program.
+
+27:27.981 --> 27:30.604
+And I'll focus on the use of programs that actually can be hardware.
+
+27:30.885 --> 27:37.073
+For instance, you've probably seen terminals that claim they do BT100 emulation or IBM something or other emulation.
+
+27:37.093 --> 27:41.940
+And that just means the hardware or the firmware in the terminal is actually emulating a different piece of hardware.
+
+27:42.761 --> 27:45.124
+I'll note that emulation is not the same as simulation.
+
+27:45.678 --> 27:47.982
+An airplane simulator does not leave the ground.
+
+27:48.844 --> 27:49.585
+It does not fly.
+
+27:49.605 --> 27:53.973
+A simulator tells you what a system would do, but it doesn't do it for you.
+
+27:54.234 --> 27:58.441
+An emulator actually does what a system in question would have done.
+
+27:59.303 --> 28:01.327
+It replaces it in some limited context.
+
+28:02.669 --> 28:09.762
+Now, why would you want to emulate hardware as opposed to just, say, writing programs in the future that emulate old software?
+
+28:10.332 --> 28:18.043
+Well, we decided we have to actually run a document's original software and that we know how to save software because it's just a bunch of disks.
+
+28:18.724 --> 28:24.172
+Well, it turns out hardware emulation is a well-understood computer science technique, also been in use for 30 years or so.
+
+28:25.114 --> 28:27.497
+Most new machines actually are emulated before they're built.
+
+28:28.237 --> 28:37.991
+And when Pentium comes out, Intel wants to design the Pentium before building it, they'll write an emulator that runs on their previous machine, a 486, that emulates the Pentium that doesn't exist yet.
+
+28:38.411 --> 28:42.377
+They'll get some of the bugs out, not all of them as it turns out, but they'll get some of the bugs out.
+
+28:42.397 --> 28:47.224
+They'll even start writing firmware for it before they build any silica, before they actually generate a chip.
+
+28:48.098 --> 28:50.021
+Similarly, it's been used in the opposite direction.
+
+28:50.041 --> 28:54.407
+IBM for years would provide emulators for backward compatibility with older systems.
+
+28:54.427 --> 28:56.810
+The IBM 360 had an emulator for the 7090.
+
+28:56.911 --> 28:59.975
+I don't know if there's anybody in the room old enough to remember the 7090.
+
+29:00.596 --> 29:06.885
+And so that meant a bank that had a lot of investment in old software and the older machine didn't have to rewrite it all to buy the new machine.
+
+29:06.925 --> 29:08.447
+They just ran the new machine with an emulator.
+
+29:09.128 --> 29:17.700
+More recently, if anybody uses Macintoshes, the PowerPC Macintosh has included an emulator for the older Motorola 68000 chip inside it since it was released.
+
+29:17.680 --> 29:26.711
+And in fact, large portions of the Mac OS ran under emulation until I think it was version 8.6 or 9.0 of Mac OS.
+
+29:27.392 --> 29:29.355
+So this is a technique that's in use all the time.
+
+29:29.635 --> 29:30.376
+We know how to do this.
+
+29:30.837 --> 29:42.912
+The big advantage is that if we do it for anything, if we decide that there's any document that's worth preserving in this original form, then once we create an emulator for the machine on which that document ran,
+
+29:43.330 --> 29:45.855
+We can get everything else that ran on that machine for free.
+
+29:45.875 --> 29:50.964
+We just saved the software that was associated with the documents, and we saved the software in their original bid forms.
+
+29:50.984 --> 29:54.971
+And then we automatically transported everything from that platform into the future.
+
+29:55.752 --> 29:57.335
+Now, I'm being a little blue.
+
+29:57.476 --> 30:01.643
+There are some technical challenges to doing this, but the effort
+
+30:01.943 --> 30:04.986
+involved in doing this is really quite remarkable.
+
+30:05.166 --> 30:16.076
+All you have to do, if you take an approach that I'm being a little eliding a little bit here, I suggest an approach that relies on the use of a virtual machine, and I won't go into what that means.
+
+30:16.096 --> 30:20.460
+It's just a quick way of getting an emulator interpreter to run on future systems.
+
+30:21.040 --> 30:30.769
+If we create such a thing, we only need to create one port or implementation of that thing for each older platform.
+
+30:31.137 --> 30:32.438
+as it becomes obsolete.
+
+30:32.518 --> 30:40.266
+That is, we created an emulator for each old platform, and we implemented on each new platform.
+
+30:40.487 --> 30:43.430
+We do essentially one of each for each platform.
+
+30:43.450 --> 30:50.958
+We describe the platform as my emulator that we'll run in the future, and we port this interpreter for our older emulators on the new platform.
+
+30:51.378 --> 31:00.047
+Having done that and writing essentially two programs for each platform, we're done for the history of that platform, for the five years or however long it is that that platform lasts.
+
+31:00.382 --> 31:08.337
+This is incredibly high leverage as compared to, say, translating or even looking at all of the documents in a repository.
+
+31:08.698 --> 31:11.784
+What would this look like in terms of what you save in a repository?
+
+31:12.084 --> 31:23.706
+You would save not only the document itself, but the original software that created that document, including all the context, the operating system that went with it, and a hardware description for the platform that it ran on.
+
+31:24.142 --> 31:28.009
+Now I've shown this encapsulated logically in a circle here.
+
+31:28.289 --> 31:34.720
+You wouldn't necessarily save a copy of a hardware description and save Microsoft Windows with every document that you save.
+
+31:35.081 --> 31:36.122
+This is a logical view.
+
+31:36.142 --> 31:42.353
+You would probably save those things once in your repository or even a national repository and link to them out of this
+
+31:42.333 --> 31:43.174
+encapsulation.
+
+31:43.475 --> 31:51.005
+But conceptually speaking, what you have here is a document with all of the software and hardware description necessary to recreate it in the future.
+
+31:51.025 --> 32:01.159
+You'd also have reference information here, indexing and anything else that you need to actually use the thing and you have to be able to open it up and use it in some way in the future.
+
+32:01.179 --> 32:03.782
+Now, problems, well, yeah.
+
+32:04.503 --> 32:05.384
+There are some issues.
+
+32:05.464 --> 32:11.833
+For one, it means that someone in 200 years might open a current document, a 1990s document in Microsoft Word.
+
+32:12.337 --> 32:14.359
+which presumably won't exist in 100 years.
+
+32:15.140 --> 32:21.347
+So they'll have to run this obsolete software under an old obsolete hardware environment and operating systems environment.
+
+32:22.048 --> 32:28.355
+And that's kind of an off thing to make a reader do until you realize it's very analogous to reading an ancient manuscript.
+
+32:28.856 --> 32:37.645
+You save the original and by so doing, you make it the case that only scholars are likely to have the expertise necessary to access that thing directly.
+
+32:37.665 --> 32:38.226
+However,
+
+32:38.662 --> 32:48.355
+You then need to create, skipping a little third point here, you can create used copies or vernacular translations or renditions of the original from the original at each epic and time.
+
+32:48.375 --> 32:50.638
+This is the way we do with, you know, this ancient thing.
+
+32:50.998 --> 32:53.481
+When I want to read the Shakespeare sonnets, I don't usually go to the Folger.
+
+32:53.802 --> 33:01.712
+I go to Wallman's books and I buy a $5 paperback edition of the sonnets, which someone has thoughtfully transcribed into modern typography, spelling, and punctuation for me.
+
+33:01.732 --> 33:03.114
+And that's fine for both purposes.
+
+33:03.534 --> 33:05.497
+But if I want to see the original, I go to the Folger.
+
+33:06.999 --> 33:07.099
+Okay.
+
+33:07.248 --> 33:14.756
+Now, we also have to make sure the bit streams don't get changed, both the bit streams of documents themselves and the programs and the hardware description.
+
+33:14.776 --> 33:16.939
+And we may have to emulate more than just processors.
+
+33:16.959 --> 33:28.932
+I mean, when I say emulating 68,000 processors, there are other issues that have to be worried about the entire platform, I-O devices and peripherals and such.
+
+33:28.952 --> 33:31.655
+But none of that is essentially very difficult.
+
+33:31.675 --> 33:37.221
+And as I said, we require one emulator description and one emulated environment per platform.
+
+33:37.538 --> 33:41.483
+So that's a cost, but it's a per-platform cost, not a per-document cost.
+
+33:42.684 --> 33:45.208
+Now you might ask, is this real?
+
+33:45.288 --> 33:45.929
+Can this be done?
+
+33:47.010 --> 33:54.800
+And I'll point out a couple of what I think of as natural experiments, but it's places where relevant things are already happening.
+
+33:55.020 --> 34:06.955
+One, in the Macintosh world, when the software is distributed, it's always distributed with some kind of installation instructions, and to make sure you can read those instructions, they include a copy of old text editor, simple text,
+
+34:07.323 --> 34:08.985
+and make sure that you can read the README file.
+
+34:10.267 --> 34:15.633
+That's an example of bundling the software with a document so that you're sure you have the right software.
+
+34:15.994 --> 34:20.579
+It's not an example of emulation, but it's an example of the encapsulation idea.
+
+34:20.599 --> 34:25.345
+Similarly, JPL has a wonderful set of CDs out from Mars data that I got a couple of years ago.
+
+34:26.066 --> 34:30.792
+When I opened it up, I noticed that it used Adobe Reader version 2.
+
+34:30.812 --> 34:34.456
+I don't really install version 3 on that system, so I thought, well, I'll just read it with version 3.
+
+34:34.496 --> 34:35.237
+They wouldn't let me.
+
+34:35.960 --> 34:38.064
+And I realized, oh, that's actually very clever of them.
+
+34:38.364 --> 34:40.688
+They didn't know what version 3 was going to be when they released this.
+
+34:40.728 --> 34:42.872
+They couldn't guarantee that it would still read their data.
+
+34:43.313 --> 34:49.564
+So they included a copy of version 2, and furthermore, they prevented you from reading their data with anything but the software that they gave you.
+
+34:50.906 --> 34:55.895
+A similar example of bundling in the DOS world, many of you use pkzip files.
+
+34:56.336 --> 34:58.660
+There's a way of building a copy of the
+
+34:58.893 --> 35:06.259
+decompressor into the file so that it's an executable thing, so that you don't have to worry about keeping the decompressor PKO zip around.
+
+35:06.579 --> 35:08.401
+It just gets bundled into the document itself.
+
+35:09.142 --> 35:11.223
+So that's sort of the encapsulation side.
+
+35:11.644 --> 35:16.448
+On the emulate side, we talked about some examples where manufacturers have done this.
+
+35:16.468 --> 35:20.812
+There's also a wonderful natural experiment occurring in what I call the retrocomputing subculture.
+
+35:21.432 --> 35:28.478
+These are people who go out and find old game cartridges for Ataris and Commodores and things at garage sales.
+
+35:28.930 --> 35:38.755
+And they bring it home, and then they find on the network, they write or download off the network these emulators for those old platforms that run on their current Pentium or Macintosh systems.
+
+35:39.494 --> 35:44.459
+And here's just one website that had, a year or two ago, had a list of these emulators that you could download.
+
+35:44.479 --> 35:46.902
+These are running emulators that someone else has written before you.
+
+35:47.242 --> 35:52.067
+You just download this, then you have to figure out how to get bits out of this game cartridge for which you no longer have a reader.
+
+35:52.568 --> 35:55.351
+So these people build all sorts of Google Word devices for doing that.
+
+35:55.671 --> 35:59.935
+These are people with more time on their hands than I seem to have.
+
+35:59.955 --> 36:00.816
+But it works.
+
+36:02.298 --> 36:05.481
+Another example, I showed you this picture previously.
+
+36:05.501 --> 36:09.045
+This is an ERWin, which as I said is a program that only runs under
+
+36:09.430 --> 36:21.505
+Microsoft Windows, but if you look at the top of the screen here, you'll notice it was actually running on my Macintosh under emulation, a program called Soft Windows, which creates a virtual Pentium system on the desktop running Windows.
+
+36:21.525 --> 36:24.729
+And Erwin, the program, had no idea it was running on a Macintosh.
+
+36:24.749 --> 36:29.595
+It would have been very upset if it hadn't.
+
+36:29.615 --> 36:31.978
+Finally, just to show you that this scales over time,
+
+36:32.313 --> 36:38.462
+The very first operational electronic computer, although there's a lot of arguments about this, but it seems enough to settle.
+
+36:38.962 --> 36:41.506
+It seems to have been the ESSAC in 1949 in Britain.
+
+36:42.227 --> 36:43.829
+And this is a picture of the machine.
+
+36:43.889 --> 36:51.900
+And actually, you can't really see it very well, but there's a console over here somewhere, which is where you sat and actually used the machine.
+
+36:52.381 --> 36:57.328
+And someone has very thoughtfully created an emulator for that very first electronic digital computer.
+
+36:58.650 --> 37:01.594
+So here we have, in the center of the screen, we have facts.
+
+37:02.958 --> 37:15.089
+platform emulated, a little graphical interface here, running the program which was written in 1952 for that system, which played tic-tac-toe, or was it the drops of an ounce or something, what the British call it.
+
+37:15.109 --> 37:17.291
+And here's a little game that I started there.
+
+37:17.591 --> 37:18.993
+Hopefully I can play it interactively.
+
+37:19.673 --> 37:28.862
+So this is, if you will, a 1952 document in its original digital format, this game, interactive, of course, but that's the point for a lot of digital artifacts and documents.
+
+37:28.882 --> 37:31.564
+And now you'll notice this emulator is running
+
+37:32.084 --> 37:42.241
+in what looks like a Macintosh environment, and it actually is a Macintosh, but that emulator only runs under a 68,000 Macintosh, the older Macintosh.
+
+37:42.341 --> 37:44.364
+It doesn't run under a Motorola Macintosh.
+
+37:44.825 --> 37:55.442
+So I'm actually running this Macintosh emulator under soft windows, or virtual PC in this case, which is a Windows emulator.
+
+37:56.013 --> 37:59.678
+that's running on my Macintosh PowerPC.
+
+37:59.698 --> 38:03.163
+So you're looking at three levels that emulate it here.
+
+38:03.303 --> 38:15.119
+I'm running a Macintosh PowerPC that's emulating a Windows Pentium system running Windows that's emulating a 68,000 Macintosh running Mac OS 7 point something that's emulating an headset.
+
+38:15.139 --> 38:20.586
+This works and in fact runs faster than the original machine.
+
+38:21.140 --> 38:32.820
+This is one way, at least, this isn't actually the most efficient way you would do this, but this is one way that you could ensure that as successive generations of machines came along, you would emulate each successive generation.
+
+38:32.840 --> 38:44.059
+And at the very worst, you would be able to run previous emulators under your successive emulators and run your old documents and you would just see, you know, in about as close as imaginable a form to the original.
+
+38:44.461 --> 38:51.330
+Now there are issues to worry about here about screen resolution and color and all sorts of other details which have to be taken into account.
+
+38:51.630 --> 38:53.653
+But this is the approach in a nutshell.
+
+38:54.294 --> 38:57.698
+Now let me just compare, summarize, emulation with migration.
+
+38:58.700 --> 39:05.789
+And I kind of characterize migration as a strategy based on faith or wishful thinking.
+
+39:05.809 --> 39:07.751
+And I don't really mean that to be derogatory.
+
+39:08.132 --> 39:10.755
+I've done plenty of migration in my own career.
+
+39:11.156 --> 39:14.400
+But the problem with it is I can't predict what's going to happen in five years.
+
+39:15.173 --> 39:16.855
+I'm a computer scientist.
+
+39:16.875 --> 39:23.163
+I think of myself as a reasonably predictive character, but I'm not going to try to follow what will happen in five years.
+
+39:23.823 --> 39:28.970
+And therefore, I don't know what I'm going to have to do in five years to migrate all the documents in my collection.
+
+39:29.310 --> 39:37.880
+They are in some set of formats right now, a whole range of formats, probably in all sorts of proprietary as well as standard formats.
+
+39:38.040 --> 39:41.745
+It's very difficult to constrain people to keep them to using standard formats.
+
+39:41.765 --> 39:42.666
+It's been tried.
+
+39:42.865 --> 39:51.598
+some examples in the military where it's been dictated that people use only standard forms and people just ignore it because they have to work with colleagues who are using all sorts of other formats.
+
+39:51.899 --> 39:54.883
+So there's going to be this multitude of proprietary formats.
+
+39:54.903 --> 39:58.729
+I don't know what I'm going to have to do to migrate each individual one of those in five years.
+
+39:59.070 --> 40:00.532
+I just know I'm going to have to do something.
+
+40:00.973 --> 40:04.097
+It's going to be probably different for each one of the formats in my collection.
+
+40:05.139 --> 40:11.168
+I don't know how much I'm going to lose, how successful I'm going to be, which things I'm just going to give up on, throw my hands up, and say this can't be done.
+
+40:12.110 --> 40:15.114
+Furthermore, it has to be applied to every individual document.
+
+40:16.716 --> 40:24.285
+Even though, of course, in most collections, certainly in archives, probably even in libraries, a large percentage of the collection isn't actually accessed in many given the five-year period.
+
+40:24.846 --> 40:29.031
+But probably every five years or so, you're going to have to take each individual document and migrate it.
+
+40:29.351 --> 40:36.600
+Understand what it is, what its semantics is, what its constraints are, how to convert it without loss, and do the best you can to do it in Murray.
+
+40:36.620 --> 40:39.484
+So it's very expensive in terms of looking at individual documents.
+
+40:40.072 --> 40:45.059
+It may be different for each kind of format, each type of document, or required specialized handling.
+
+40:45.699 --> 40:54.772
+Anything that's in a non-standard form that's been left orphaned by history and left along the wayside will probably not get converted or will get completely corrupted in the process.
+
+40:55.753 --> 41:00.239
+Migration schedules, it's easy to say we'll do this every five years, but you don't always have five years.
+
+41:00.639 --> 41:09.471
+If a company goes out of business a moment after you've just done one migration cycle, you may not have five years to keep running a program or the hardware that it depended on.
+
+41:09.721 --> 41:14.903
+On the other hand, in comparison, emulation mostly requires that you do something upfront.
+
+41:14.923 --> 41:20.305
+That is, you create this emulation environment for a platform that a person created, and you can actually test.
+
+41:20.622 --> 41:22.044
+whether preservation will work.
+
+41:22.404 --> 41:27.831
+Because someone gives you a document, and you try running its original software both in its original form and under emulation.
+
+41:28.272 --> 41:36.822
+You don't have a future machine to try it on yet, but you try it on some other current machine, and you can actually, we've actually done this in an environment at the Dutch National Library.
+
+41:37.023 --> 41:48.537
+We put things up side by side and looked at the emulated version of the CD-Roth publication next to the native original form, and convinced ourselves that they look identical enough for preservation purposes, and you're done.
+
+41:48.517 --> 41:51.761
+Once you've done that, you put the thing in the repository and you never have to look at it again.
+
+41:52.002 --> 41:55.526
+You know that it's going to come out correctly if you emulate it correctly.
+
+41:55.546 --> 41:56.868
+That's the argument.
+
+41:56.888 --> 41:59.552
+I will put up with one final example.
+
+41:59.572 --> 42:04.158
+I talked about the CD-ROM example we did at the Dutch National Library.
+
+42:04.178 --> 42:04.598
+Here it is.
+
+42:04.618 --> 42:08.363
+I think it was an Elsevier publication.
+
+42:08.484 --> 42:09.004
+I can't remember.
+
+42:09.565 --> 42:13.871
+The CD-ROM that does marine planarians of the world.
+
+42:14.432 --> 42:14.872
+Planaria.
+
+42:15.132 --> 42:17.055
+That was a silly one on the outside.
+
+42:17.643 --> 42:23.370
+And this was a good example because it installed lots and lots of application software when you installed it under Windows.
+
+42:24.091 --> 42:30.839
+So it installed a special browser plug-ins and all sorts of stuff so that you could display it.
+
+42:31.120 --> 42:37.748
+And it did that under emulation, running it under virtual PC, which is a commercially available emulator for the Windows platform.
+
+42:37.768 --> 42:41.032
+So this is just an example of the fact that this can be done.
+
+42:41.893 --> 42:47.059
+And that's why I suggest that this might work as a preservation technique.
+
+43:00.843 --> 43:08.418
+OK, at this time, I'd like to invite Paul Conway and Matt Eaton and Jeff Rothenberg to our panel table.
+
+43:08.439 --> 43:15.072
+And also, since he assures me he has things to say on this issue, we're going to bring Walt Crawford back.
+
+43:30.239 --> 43:37.069
+Several noted experts discussing the issues surrounding digital preservation.
+
+43:37.090 --> 43:45.442
+Moderating the panel discussion will be Jan Merrill-Boldham, the Malloy-Rabinowitz Preservation Librarian at Harvard University Library.
+
+43:46.905 --> 43:58.963
+In that position, Jan directs the work of the Wiseman Preservation Center in the Harvard University Library and the Preservation and Imaging Services Department in the Harvard College Library.
+
+44:00.158 --> 44:11.851
+Together, these programs provide conservation, micro-building, digitizing, photography, and consulting services to the more than 90 libraries at Harvard University.
+
+44:13.233 --> 44:27.769
+Over the course of her career, Janet has chaired and served on a wide range of preservation planning and advisory committees and task forces for the American Library Association, the Association of Research Libraries, the Library of Congress,
+
+44:28.120 --> 44:33.367
+Commission on Preservation and Access, and other professional organizations.
+
+44:33.387 --> 44:40.095
+In great demand as a speaker, Jan is also a gifted author who has written and edited more than 40 publications.
+
+44:40.776 --> 44:47.985
+Uniquely qualified to lead us through this final segment of the program, it's my pleasure to introduce my friend Jan Carol Oldenburg.
+
+44:56.875 --> 45:26.595
+what we would like to do rather than run a formal panel is to open up the floor to questions from you because if we don't do that now we're really not going to have time and I can imagine we probably have questions
+
+45:29.528 --> 45:29.989
+Shall I?
+
+45:30.609 --> 45:30.930
+Yes.
+
+45:32.491 --> 45:38.899
+And please identify yourself and let us know to whom you're addressing the question.
+
+45:40.841 --> 45:42.383
+My name is Aidy Benson.
+
+45:42.403 --> 45:43.544
+I work at Nellinit.
+
+45:43.564 --> 45:45.407
+And I have a question for Jeff Rothenberg.
+
+45:45.427 --> 45:56.059
+I just wondered if you have run into or considered or there's something out there about proprietary problems with emulation and if you're encapsulating software that one
+
+45:57.085 --> 46:04.151
+Yeah, that is an issue.
+
+46:04.171 --> 46:09.616
+I had to gloss over a number of issues, and that's one of them.
+
+46:09.636 --> 46:19.245
+On one hand, you'd sort of like to think that by the time it becomes necessary to use software for this purpose in the future, it's already off the market, and so there is an issue.
+
+46:19.265 --> 46:27.092
+On the other hand, it's using it in the future of this market lifetime, and therefore the copyright claim, especially with the copyright laws.
+
+46:27.072 --> 46:31.400
+So there is an issue there, and I think that has to be work.
+
+46:31.981 --> 46:39.034
+That is in the realm of public policy, and there are issues that have to be set in place for this kind of system to work.
+
+46:39.635 --> 46:47.950
+And similarly, the software, even the hardware descriptions might be considered proprietary, so you do have to worry about that.
+
+46:47.930 --> 46:54.439
+Now you can, of course, finesse that by saying, well, we'll just use viewers instead of using original software.
+
+46:54.459 --> 47:04.111
+Then you're right back in the situation of not using your correct software.
+
+47:04.131 --> 47:04.432
+Yeah.
+
+47:10.280 --> 47:15.106
+Alex Boyenberger, the Cedars Project, Cambridge University Library.
+
+47:15.667 --> 47:16.688
+We were wondering,
+
+47:16.972 --> 47:28.852
+whether, this would be for Dr. Conway, whether you felt that the use of emulation and migration are complementary or mutually exclusive.
+
+47:32.979 --> 47:41.654
+Can I say yes?
+
+47:42.055 --> 47:42.135
+Yes.
+
+47:42.554 --> 47:59.776
+In preparing for this day, my thinking coming in to this day, and I've been listening as carefully as everybody else about this, it seems to me that emulation was a subset of migration, that the umbrella was movement from one to another.
+
+47:59.836 --> 48:06.925
+Jeff, in a sense, confirmed my view a little bit when he said that one way or the other, you still have a data copying issue because the media
+
+48:07.310 --> 48:08.934
+At some point, you're copying.
+
+48:09.475 --> 48:14.627
+And in copying, there's the promise of exact replication, but not necessarily.
+
+48:14.908 --> 48:17.434
+It's another article of faith.
+
+48:17.454 --> 48:19.058
+But now that I
+
+48:19.460 --> 48:26.969
+I've listened carefully, and what I find takeaway from this is that they're more complimentary than not.
+
+48:27.029 --> 48:39.204
+There may be occasions when the copying of individual documents and applying a rigorous selection process to decide what lives and what dies is going to be the way we're going to want to go.
+
+48:39.264 --> 48:44.050
+And then there's others of do it once or a class of materials, a database.
+
+48:44.840 --> 48:47.744
+that requires holistic maintenance in its form.
+
+48:47.784 --> 48:52.089
+The selection doesn't work because you can't select one document or another.
+
+48:52.109 --> 48:55.574
+You're selecting a corpus to move forward and you emulate.
+
+48:55.594 --> 49:01.321
+So emulation, it seems to me, feels right when selection cannot be applied to the document.
+
+49:01.562 --> 49:05.968
+But migration feels right when it's right to select.
+
+49:06.188 --> 49:09.012
+And then you're back to two-tier selection.
+
+49:09.472 --> 49:12.476
+When do we emulate and when do we migrate?
+
+49:13.077 --> 49:14.779
+Annette, could you comment on this question?
+
+49:15.046 --> 49:25.600
+And Jeff talked about... Jeff compared migration and emulation, but you did not... No, he did not have any experience with it.
+
+49:26.081 --> 49:31.849
+What I was basically doing in my presentation was talking about actual experience, what has happened up to now.
+
+49:32.349 --> 49:42.403
+I am very much intrigued by what Jeff talks about, and I was hoping that we could actually use meth Smithsonian, but we were not able to take advantage of it when it came to talk about it.
+
+49:42.805 --> 49:44.988
+I think it's something I'd like to see attached.
+
+49:45.188 --> 49:49.353
+And I think Jeff's found a couple of small places where it's been done, but not that much.
+
+49:49.373 --> 49:55.300
+So with everything, what I want to see is, rather than just talking about it, I want to see people doing things.
+
+49:55.320 --> 49:59.145
+And I want us to have failures, so we know we don't go that direction.
+
+49:59.165 --> 50:01.007
+But I also want us to have some successes.
+
+50:01.027 --> 50:03.950
+So I don't know if I'm answering your question the right way or not.
+
+50:04.130 --> 50:06.093
+I just think we need to do stuff.
+
+50:06.113 --> 50:07.935
+Jeff, can you answer some of
+
+50:08.135 --> 50:15.590
+some of your critics, because there have been some interesting counterpoints to various publications.
+
+50:16.552 --> 50:27.814
+Let me just first make one other comment that I guess I didn't make when I was up there, which is that I certainly don't see the approaches as mutually exclusive, but I do see them as having rather
+
+50:28.300 --> 50:35.094
+drastically different outcomes in the sense that emulation, if it works, will preserve an original.
+
+50:35.935 --> 50:38.100
+Migration, even if it works, will not.
+
+50:39.102 --> 50:42.910
+And nobody who's talking about migration is claiming that it will preserve the original.
+
+50:43.310 --> 50:46.056
+What we talk about is converting the original success
+
+50:46.728 --> 50:54.876
+So if that's what you mean by preservation, if by preservation you mean preserving originals, then migration isn't really a solution to that problem.
+
+50:54.896 --> 51:07.749
+On the other hand, if what you mean by preservation is preserving usable forms of things for various purposes, which is after all what most of us mean pragmatically by preservation, then migration is certainly an option.
+
+51:07.769 --> 51:09.331
+But I do want to comment on that.
+
+51:09.351 --> 51:12.093
+There have been a number of objections.
+
+51:12.153 --> 51:16.718
+I tried to bring a number of them up as I went along.
+
+51:16.951 --> 51:25.922
+One is, of course, the imperative that people need to be able to run and use obsolete hardware and software in order to read things in the future.
+
+51:25.942 --> 51:35.094
+And as I said, I find that entirely analogous to looking at old medieval documents and needing to have some scholarly expertise to do that in the original.
+
+51:35.114 --> 51:43.545
+And there's no problem at all with using emulation to allow creating the use copies at each period in time.
+
+51:43.565 --> 51:45.287
+And people have said, well, that's just migration.
+
+51:45.588 --> 52:09.132
+but the distinction is you're doing that from the original on each occurrence rather than doing it successively over time so if there's corruption going on you corrupt may corrupt the used copy but 10 years later when you create a new use copy you're not going to go back to the original you make a different corruption in a new one you won't accumulate the corruption error so that's that's that distinction another objection that's been brought up is that
+
+52:09.550 --> 52:12.875
+You know, this requires saving bits perfectly.
+
+52:13.056 --> 52:20.948
+You know, that you think you copy things perfectly, but you never get 100% perfection.
+
+52:22.070 --> 52:22.951
+Well, yes, that's true.
+
+52:22.991 --> 52:24.433
+Things will be great that way.
+
+52:24.794 --> 52:29.902
+And software is notoriously unforgiving of small changes.
+
+52:29.922 --> 52:34.950
+If you change bits in the wrong place in a program, it may just never work again, and that might be that.
+
+52:35.183 --> 52:37.847
+So that just says that nothing is perfect.
+
+52:37.867 --> 52:40.831
+Human life, human existence is a problem of uncertainty.
+
+52:41.272 --> 52:46.960
+And this is not an absolute perfect solution either, but with reasonable care.
+
+52:46.980 --> 52:54.070
+And it's one of these things where if you want to be more certain that your copy fits perfectly well, you pay more money and you do more verification and you're a little more careful.
+
+52:54.611 --> 52:56.173
+It's a question of how risk averse you are.
+
+52:59.338 --> 53:02.362
+I think if there are any other major objections that have been brought up.
+
+53:02.382 --> 53:04.245
+It's often brought up, but it sounds expensive.
+
+53:04.782 --> 53:17.375
+And I've tried to indicate here that I think it would actually be considerably cheaper than a migration alternative because it's something you do per platform rather than per document or even per document type.
+
+53:18.376 --> 53:27.706
+Suppose you have a dozen or so, at most, popular computer platforms that you use at a given moment.
+
+53:27.726 --> 53:31.870
+Sparks and PPCs and Pentiums and a few others.
+
+53:32.305 --> 53:35.609
+you have thousands of programs that run on those platforms.
+
+53:35.629 --> 53:42.257
+So if you needed to understand how to convert the format of each of those programs, you'd have thousands of times the effort.
+
+53:42.277 --> 53:47.863
+And you have millions of documents for each, potentially for each of those program formats.
+
+53:48.424 --> 53:54.511
+So if you had to convert into the documents and understand what the problems were, you'd have actually millions of times the effort.
+
+53:54.531 --> 53:58.836
+So I think in terms of cost, it's tremendously cheaper, at least in principle.
+
+54:00.402 --> 54:06.464
+Can you imagine feeling up to really test emulation as a strategy?
+
+54:06.865 --> 54:11.442
+Do you have a vision for how we might really put emulation to work on a large scale?
+
+54:12.198 --> 54:17.705
+We actually, I published a report last year with the Dutch National Archives.
+
+54:17.725 --> 54:19.187
+It's done through RAND Europe with .
+
+54:19.327 --> 54:24.033
+And some of you may know, it's worked in the electronic records community, mostly the international community.
+
+54:24.714 --> 54:30.821
+And we wrote for them a specification for a test bit, which they have just put out.
+
+54:31.282 --> 54:35.187
+They've just awarded a call for tender for someone to implement that.
+
+54:35.207 --> 54:39.572
+It used to be a three-year project in which they will actually run controlled experiments.
+
+54:39.552 --> 54:52.309
+comparing emulation, migration, and any other preservative form that they decide along the way, but particularly those two, on again, a test scale, but trying to do it a little more seriously than just anecdotal.
+
+54:53.151 --> 55:01.422
+So there is that project, and there's Cedar's work, which my understanding is, is planning to look at emulating, at least to some extent.
+
+55:02.603 --> 55:07.450
+Well, I guess if I want to take issue with anything there, the one that is
+
+55:08.510 --> 55:21.730
+When you say it's free for everything, everything I heard you say implied that emulation in fact involved necessary migration of the media themselves, in which case it isn't free for everything.
+
+55:21.870 --> 55:28.881
+Emulating a, not a 68,000 Mac, but emulating an Apple II,
+
+55:29.367 --> 55:39.435
+on the Pentium is probably feasible, except for the issue of reading things from, well, not Apple II, but the 8-inch his guests, for example.
+
+55:39.836 --> 55:41.280
+And what do you do about that?
+
+55:41.300 --> 55:43.226
+Because then you no longer have the original.
+
+55:43.246 --> 55:44.710
+You have a version of the original.
+
+55:44.690 --> 55:53.168
+As I said at the beginning of the talk, nothing in my talk should be construed as subverting the need to copy the bits from medium to medium.
+
+55:53.509 --> 56:00.443
+That is a constant cost across any preservation medium, any preservation approach, except the one that says we won't preserve.
+
+56:00.924 --> 56:02.327
+We preserve by throwing away.
+
+56:02.459 --> 56:07.125
+Any other approach that I can imagine requires saving, at least saving the bits.
+
+56:07.566 --> 56:09.508
+If not the original bits, then the converted bits.
+
+56:09.588 --> 56:11.511
+But it requires saving bit streams over time.
+
+56:11.791 --> 56:16.117
+So I agree that cost has to be varied in any preservation technique.
+
+56:16.137 --> 56:22.084
+And in the case of the case you cite, the point is that you don't have the original medium.
+
+56:22.365 --> 56:24.648
+You have the original logical contents of the medium.
+
+56:24.708 --> 56:26.049
+You have the bit stream intact.
+
+56:26.430 --> 56:29.534
+What you copy is the bit image off the Apple II disk.
+
+56:30.155 --> 56:31.116
+You do have to give up.
+
+56:31.568 --> 56:43.609
+that we have to give up because we just can't physically retain those things.
+
+56:43.630 --> 56:46.154
+That is a caveat.
+
+56:47.036 --> 56:54.589
+But if you give that up and you say that what the essence of an original digital thing is its digital nature
+
+56:54.957 --> 56:58.745
+logical form, not the thing that happens to be stored on me.
+
+56:58.765 --> 57:02.633
+After all, I have documents that are stored on lots of different media all at once.
+
+57:03.335 --> 57:04.097
+Who's to stay with it?
+
+57:04.137 --> 57:11.312
+The original is my Zip disk or the Spark disk on my workstation or any email server or whatever.
+

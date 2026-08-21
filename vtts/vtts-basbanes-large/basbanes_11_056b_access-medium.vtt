@@ -1,0 +1,1400 @@
+WEBVTT
+
+00:03.541 --> 00:04.624
+Okay.
+
+00:04.844 --> 00:07.491
+Why don't you just put your name on there so I know when I listen to your name?
+
+00:07.511 --> 00:07.711
+Right.
+
+00:07.771 --> 00:16.352
+This is Catherine Tussinger at the Electronic Text Center with a C. Let me grab you one of my cards before you leave.
+
+00:17.665 --> 00:24.574
+We're talking about a collection of manuscripts and letters that the library received this summer.
+
+00:26.096 --> 00:35.648
+They were basically written by two brothers, Jimmy and John Booker, who were soldiers from Virginia during the Civil War.
+
+00:36.389 --> 00:42.036
+We have about 22 manuscript letters written by the brothers and a bit of surrounding material.
+
+00:42.758 --> 00:50.309
+some pages from Bibles that record family information, and some fragments of letters that are either unidentifiable or not dated.
+
+00:50.890 --> 00:58.741
+And what we've done is to create high-quality archival TIF images of all the manuscripts.
+
+00:58.761 --> 01:00.503
+That's an image file format.
+
+01:02.406 --> 01:09.576
+T-I-F-F is sort of the official name, but images in the TIF format will have a dot T-I-F.
+
+01:09.809 --> 01:16.318
+And it is one of several raw image file formats.
+
+01:16.338 --> 01:21.445
+It doesn't compress or process the image data at all, which means the files are very big.
+
+01:22.367 --> 01:24.249
+But it also means that they're fairly universal.
+
+01:24.289 --> 01:25.992
+They can be opened by any image editor.
+
+01:26.933 --> 01:30.878
+And this is an example of a page out of one of the Bibles to the family records.
+
+01:31.399 --> 01:32.401
+So what's that?
+
+01:32.421 --> 01:33.342
+That's a fragment?
+
+01:33.422 --> 01:34.804
+This looks like a tear.
+
+01:34.844 --> 01:38.449
+And so the page underneath it is the Bible.
+
+01:38.750 --> 01:39.812
+That's right.
+
+01:40.033 --> 01:44.523
+Now, what we have here are poor quality photocopies of that Bible.
+
+01:44.944 --> 01:46.647
+We don't actually have the Bible.
+
+01:47.108 --> 01:55.948
+The descendant of the bookers who donated the letters originally, or maybe never had it, had some sort of early photocopied version of it.
+
+01:56.182 --> 01:57.963
+That's all I know at this point.
+
+01:58.744 --> 02:10.614
+The letters themselves, we have the actual manuscripts, and we shot images of them at 400 dots per inch resolution, 24-bit color, on the flatbed scanner.
+
+02:11.415 --> 02:25.126
+We then had, this again is part of David's Rare Book School course on electronic text production this summer, we transcribed the letters, marked them up in SGML, so we have a structured tag.
+
+02:25.827 --> 02:26.087
+SGML meaning?
+
+02:26.371 --> 02:29.382
+standard generalized markup language.
+
+02:31.330 --> 02:33.939
+I'll show you an example of it.
+
+02:34.020 --> 02:35.706
+It's a way of
+
+02:36.378 --> 02:40.425
+describing classes of information in a document to make them meaningful.
+
+02:40.725 --> 02:51.784
+So you can mark a dateline in a letter as a dateline, a date as a date, a valutation as a valutation, a closer as a closer, a proper name as a proper name.
+
+02:52.385 --> 02:55.631
+An extension of this would be in a work of literature, for example.
+
+02:55.671 --> 02:58.336
+You could mark a chapter in a novel as a chapter.
+
+02:58.356 --> 02:59.638
+Mark it in a text itself.
+
+02:59.798 --> 03:00.018
+Right.
+
+03:00.459 --> 03:02.082
+Could you illustrate something?
+
+03:02.348 --> 03:03.870
+Yes, let me finish.
+
+03:04.150 --> 03:07.294
+Let me just save this before I lose it.
+
+03:07.714 --> 03:10.237
+Is this something that was developed here?
+
+03:10.257 --> 03:10.758
+Oh, no.
+
+03:10.798 --> 03:11.999
+It's a universal.
+
+03:12.159 --> 03:18.807
+It's a standard established decades ago, and it's supported by the International Standards Organization.
+
+03:19.168 --> 03:23.332
+We use one class of SGML tagging.
+
+03:24.254 --> 03:31.562
+We subscribe to the TEI guidelines, text encoding initiative guidelines, which...
+
+03:32.453 --> 03:46.252
+It's a given subset of SGML, which is most appropriate for marking up text from the humanities, for example.
+
+03:46.693 --> 03:53.302
+Now, you may have heard of HTML, which is the markup language used to create documents for the World Wide Web.
+
+03:53.763 --> 03:57.027
+That's another subset of SGML, the same thing.
+
+03:57.665 --> 03:58.907
+That's hypertext.
+
+03:58.927 --> 04:01.311
+That's right, hypertext markup language.
+
+04:02.874 --> 04:19.302
+Now, what we do is create these high-quality archival digital images in the TIFF format so that we will have a version of the image that records with pretty much as much information as today's technology makes possible.
+
+04:19.433 --> 04:24.526
+Now, these images themselves are no good for delivery over the web because they're so big.
+
+04:25.208 --> 04:30.903
+What we then do is make a derivative of this image in the JPEG format.
+
+04:31.224 --> 04:32.828
+And let me just sort of open one up for you.
+
+04:33.289 --> 04:36.177
+JPEG is simply another image format.
+
+04:36.460 --> 04:42.946
+which uses a compression algorithm to make the file smaller.
+
+04:42.966 --> 04:48.091
+So the image looks exactly the same on a computer monitor, but it will be much smaller.
+
+04:48.111 --> 04:50.734
+That's not the actual size of the image, of course.
+
+04:50.834 --> 04:54.978
+The actual size of the image is 576 pixels by 745.
+
+04:55.098 --> 04:58.141
+How do you know that?
+
+04:58.181 --> 04:59.222
+It tells me right in there.
+
+04:59.262 --> 05:03.126
+We're in an image editor known as SV, which is designed for the
+
+05:03.106 --> 05:11.998
+So this is nothing I can at home call up and see.
+
+05:12.278 --> 05:12.539
+True.
+
+05:13.400 --> 05:21.891
+However, what you can call up and see, and let me get something else rolling here.
+
+05:22.259 --> 05:33.041
+is the way we publish these letters in digital form on the web through our website as part of our online library collection of electronic text and digital images.
+
+05:33.061 --> 05:35.145
+So that's as text or as an image?
+
+05:35.165 --> 05:35.426
+Both.
+
+05:35.586 --> 05:37.270
+We have the transcription of the text.
+
+05:37.290 --> 05:38.753
+Now let me sort of back up a little bit.
+
+05:39.093 --> 05:42.360
+So we begin by creating these high-quality images
+
+05:42.340 --> 05:47.146
+which we can manipulate if we need to if we're having a hard time transcribing them.
+
+05:47.487 --> 05:55.557
+We need to make, say, some of the letters more distinct or less distinct, if possible, in an image tool such as this.
+
+05:56.599 --> 06:01.545
+I'm going to exit XV right now because it's preventing me from getting all of my colors here in Nescape.
+
+06:02.847 --> 06:08.274
+Now, this is our top-level homepage at the Electronic Text Center.
+
+06:08.855 --> 06:11.098
+You simply use a web browser.
+
+06:11.855 --> 06:14.540
+and type in the URL.
+
+06:14.560 --> 06:14.880
+Thank you, dear.
+
+06:14.900 --> 06:27.122
+Let me get you a brochure.
+
+06:27.142 --> 06:34.996
+Pardon me?
+
+06:35.016 --> 06:36.218
+I mean, I love languages.
+
+06:36.238 --> 06:36.799
+You're welcome.
+
+06:37.133 --> 06:41.640
+Now, as I mentioned, all of our texts are encoded in SGML.
+
+06:54.681 --> 07:04.677
+That gives us the ability to record detailed structural information about the data and also to give us a little bit more flexibility in terms of data retrieval.
+
+07:05.298 --> 07:13.408
+It allows us to index and search various elements in the book.
+
+07:13.468 --> 07:23.981
+So if you would like to search in one of our collections, say, only works of poetry or only the appendices to works, you can only do that if those elements are tagged as such.
+
+07:24.642 --> 07:34.174
+So using a different flavor of SGML than HTML, using TEI, for example, gives you much more power and flexibility with the tagging language.
+
+07:35.065 --> 07:41.918
+I'll show you an example of how these letters might end up for the collection.
+
+07:48.349 --> 07:54.400
+These are several projects from various rare book school classes.
+
+07:54.421 --> 07:56.905
+We're still continuing to build this page.
+
+07:56.925 --> 07:58.508
+What we've done then is had
+
+07:58.758 --> 08:02.269
+David's students transcribe the letters, mark them up in SGML.
+
+08:02.711 --> 08:11.299
+Another crucial element to our workflow is that we fill out a bibliographic header for every one of our electronic texts, which records information about
+
+08:11.583 --> 08:34.722
+the creation of the electronic text, the print source that was used to derive the electronic text, and that header gets passed directly onto the cataloging department here in the library, where it's turned directly into a MARC record and becomes part of the library catalog.
+
+08:35.309 --> 08:47.642
+Then, after the Rare Book School course was over, two graduate students on our staff here in the Electronic Tech Center wrote some surrounding contextual material that helped users understand the context for the collection.
+
+08:50.365 --> 08:53.528
+It's a fairly discreet collection.
+
+08:53.668 --> 09:03.038
+That's right, which actually makes it perfect for a short teaching span such as these two one-week courses that David was teaching.
+
+09:03.406 --> 09:06.549
+the bibliographic header which gets converted into the MARC record.
+
+09:06.689 --> 09:11.854
+Another aspect of this process is the EAD project.
+
+09:11.914 --> 09:14.556
+This is a grant project that we're involved in.
+
+09:14.576 --> 09:17.819
+It's the encoded archival description project.
+
+09:19.541 --> 09:26.267
+We are working in a partnership with Berkeley, Stanford, and Duke in the first phase of this project.
+
+09:26.988 --> 09:31.692
+And what it is is an attempt to establish
+
+09:31.790 --> 09:40.156
+an SGML model for encoding and making electronic searchable versions of finding aids.
+
+09:41.360 --> 09:43.065
+I don't know if you're familiar with finding aids.
+
+09:43.282 --> 09:49.671
+They are pretty much the list of items in an archival collection.
+
+09:51.574 --> 09:57.463
+For example, the book or letters were donated to the library or were purchased by the library as a unit.
+
+09:57.843 --> 10:05.695
+Depending on their history, if we had gotten them from another library or whatnot, at some point, somebody would have written a finding aid for this collection.
+
+10:06.080 --> 10:11.809
+Now, finding aids... Finding aid in terms of helping the researchers determine if this is something that I need to support.
+
+10:11.829 --> 10:12.450
+That's right.
+
+10:12.811 --> 10:16.497
+And they have a wide range of what a finding aid may or may not contain.
+
+10:16.617 --> 10:23.749
+Some of them contain a 10-page thesis on the history of the person who put them together and a detailed list of the content of each item.
+
+10:24.010 --> 10:30.400
+And some are a mere handwritten list of, you know, 12 photographs, black and white, without describing any content.
+
+10:30.667 --> 10:38.501
+So the challenge is to create... This is all something I can access, all this history that you've got.
+
+10:38.521 --> 10:38.881
+That's right.
+
+10:38.901 --> 10:44.391
+This is all publicly accessible, where we talk about the creation and our workflow issues here.
+
+10:45.152 --> 10:53.687
+And so the students in the Rare Book School class also created a record, an encoded archival description of this collection.
+
+10:53.971 --> 11:21.227
+which is now part of a large consortium, so that if you were a researcher researching Civil War soldiers, you could come here and type in the Civil War or Gettysburg, and in an ideal world, if all archives were to transcribe and mark up their finding aids and put them into a common collection, then you could find all the archival resources around the states that had potential materials of interest to you.
+
+11:21.950 --> 11:27.576
+The electronic texts are broken down by date.
+
+11:28.096 --> 11:38.266
+You can look at a transcription of the original version of the letter with all of its erroneous spelling and quirky habits of the reader.
+
+11:38.767 --> 11:42.691
+What we're looking at here is that bibliographic header I was talking to you about.
+
+11:42.991 --> 11:48.717
+So it tells us who created the electronic version, who created the digital images, who marked
+
+11:48.933 --> 12:12.237
+the electronic text up in TEI, the fact that the library published it, the URL for the page, any notes about the electronic texts that are worth recording, information about the print source, when it was originally written or published, and then a list of any revisions that have been made after the original transcription and marker was completed.
+
+12:12.397 --> 12:17.522
+This is part of the
+
+12:17.671 --> 12:20.876
+part of our goal as a library department.
+
+12:20.896 --> 12:25.643
+The Electronic Tech Center serves two main roles here at the university.
+
+12:25.663 --> 12:33.676
+On the one hand, we do build and maintain the library's online collection of humanities and social sciences text.
+
+12:33.696 --> 12:45.214
+So electronic text and digital images that go with them in the humanities and social sciences are collected on our server as part of a globally searchable index database of electronic text.
+
+12:45.599 --> 12:57.988
+The other part of our function here is to build up and support a user community, people who know how to use and know how to create electronic text and digital images.
+
+12:58.008 --> 13:00.975
+And so this course combines both of those goals
+
+13:01.360 --> 13:19.154
+in one function where we're training people how to do this stuff so that ideally they would want to go on to produce research scholarly projects that contain or make use of electronic text and digital images and at the same time they're helping to build up our collection of online resources.
+
+13:19.635 --> 13:23.402
+So I'll show you our online collection in just a moment.
+
+13:23.720 --> 13:28.707
+And then what we have here then is... Oh, no.
+
+13:29.048 --> 13:30.009
+Tons of printed books.
+
+13:30.029 --> 13:35.237
+And in fact, the largest project we're involved in right now is an NEH-funded grant project.
+
+13:36.058 --> 13:39.003
+It's called the Early American Fiction Electronic Archive.
+
+13:39.463 --> 13:46.434
+And we are transcribing and marking up in SGML about 500 titles, about 450 models.
+
+13:46.454 --> 13:47.295
+Transcribing meaning what?
+
+13:47.375 --> 13:49.178
+So you're not scanning the books?
+
+13:49.659 --> 13:49.899
+Nope.
+
+13:49.919 --> 13:52.022
+What we've done in terms of workflow is...
+
+13:52.373 --> 13:58.741
+to take a high-quality image, full-page image of every page and leaf of every book.
+
+13:58.821 --> 14:00.203
+And I can show you this in a moment.
+
+14:00.263 --> 14:12.379
+We are then shipping those images off to a commercial keyboarding company who's transcribing the books, marking them up in SGML, and then we will have a final product.
+
+14:12.419 --> 14:14.021
+By individual keyboarders.
+
+14:14.822 --> 14:18.246
+Who's checking to see if they've made mistakes?
+
+14:18.901 --> 14:20.324
+models for this.
+
+14:20.524 --> 14:25.172
+These commercial keyboarding companies are all over the world and there are different systems of workflow.
+
+14:25.232 --> 14:43.525
+The one that we have chosen to go with uses a system where two different people key in the text from the digital images discreetly and then a third person has a computer screen that's split in half that measures one against the other and every time
+
+14:43.960 --> 14:45.341
+There's a discrepancy.
+
+14:45.742 --> 14:50.927
+That person goes back to the digital image, the third person, and looks to see which one is appropriate.
+
+14:50.947 --> 14:52.629
+So there's a degree of quality control.
+
+14:52.749 --> 14:53.250
+That's right.
+
+14:53.330 --> 14:57.114
+And they pretty much guarantee one error per 20,000 characters.
+
+14:57.234 --> 14:59.516
+So it's about one error per 20 pages.
+
+14:59.536 --> 15:01.598
+That still gets why that procedure?
+
+15:01.638 --> 15:02.299
+That's right.
+
+15:02.319 --> 15:04.301
+So there'll still be an error that gets in.
+
+15:04.842 --> 15:06.103
+That's right.
+
+15:06.243 --> 15:10.608
+But that's a better accuracy rate than you would ever get through OCR scanning.
+
+15:10.948 --> 15:11.168
+Ever.
+
+15:11.569 --> 15:11.969
+Okay.
+
+15:12.610 --> 15:12.870
+Ever.
+
+15:13.508 --> 15:16.312
+I thought scanning didn't give you an exact image.
+
+15:16.332 --> 15:20.578
+Oh, well, scanning an image does, but not text scanning.
+
+15:21.018 --> 15:25.024
+Text scanning would give you about anywhere from five to a hundred times that error rate.
+
+15:25.064 --> 15:27.046
+So are you keeping the original book?
+
+15:27.066 --> 15:27.407
+Oh, yes.
+
+15:27.487 --> 15:30.231
+The original book is part of our special collections department downstairs.
+
+15:30.571 --> 15:39.343
+These are all works of American fiction, first editions published between 1775 to 1850 from the Barrett collection.
+
+15:39.503 --> 15:39.984
+That's right.
+
+15:40.064 --> 15:41.706
+So is the goal to get all of those books?
+
+15:41.887 --> 15:42.267
+No.
+
+15:42.466 --> 15:47.533
+Let me show you what the final product will look like.
+
+15:47.673 --> 15:54.001
+We have a webpage for the Early American Fiction Project that's accessible by anybody, and you can read a little bit more about it.
+
+15:54.722 --> 16:00.209
+With the manuscript material, this is a transcription of the original letter itself.
+
+16:00.390 --> 16:03.594
+Again, with such quirks as that such is is one word.
+
+16:06.117 --> 16:09.942
+You can look at this has been deleted, this word in red.
+
+16:10.799 --> 16:15.950
+see how the letter Y has been added here, the signature, what not.
+
+16:15.970 --> 16:27.373
+And then we have included a full color page image of each slip of the manuscript so users can compare and have access to the rare manuscripts without having to be here in the library.
+
+16:27.910 --> 16:33.255
+If I want to see that letter, though, I think that one will still have to see it.
+
+16:33.275 --> 16:34.936
+I don't know exactly what the policies are.
+
+16:35.116 --> 16:44.444
+It depends on who you are and what your purpose is and the value of that particular archival object.
+
+16:44.464 --> 16:57.495
+We've also transcribed a modernized version where we have modernized all of the spelling so that people who are searching with a 20th century sense of language would be able to find the kinds of things that they're looking for.
+
+16:58.066 --> 17:02.092
+And so we've regularized the spelling and modernized several different features of it.
+
+17:02.673 --> 17:09.804
+And the reason why this is important is because, again, all of these letters are in fact searchable.
+
+17:11.306 --> 17:12.708
+And every word is indexed.
+
+17:12.728 --> 17:17.796
+And what we have done is to include them as part of our Modern English collection.
+
+17:18.265 --> 17:24.237
+So if you are starting at our homepage, I went into projects and publications because this is a special project that we're working on right now.
+
+17:24.537 --> 17:31.111
+But our online library of electronic text contains text in five different languages, including searchable Japanese.
+
+17:32.032 --> 17:39.868
+And our English collection is the largest because we have built our collection almost exclusively by user demand.
+
+17:40.237 --> 17:55.153
+either collected electronic text that are made by faculty and students here or elsewhere, and they've deposited them with us for markup in SGML, or we have created text at the behest of a faculty member, say, for a particular .
+
+17:55.173 --> 18:02.581
+So we don't really have an agenda in building up a particular kind of collection, and most of our users happen to be interested in text in English language.
+
+18:03.321 --> 18:06.405
+We have also purchased a number of commercial resources.
+
+18:07.266 --> 18:09.568
+These, for example, are five databases
+
+18:09.835 --> 18:18.026
+published by, well, these four, anyway, are products of the Chad McKayley Publishing Company, and they put out these products on CD-ROM.
+
+18:18.807 --> 18:27.179
+What we will do is we will negotiate a license with the company to purchase the content, the data, rather than the CD-ROM itself.
+
+18:27.579 --> 18:35.550
+So they will send us tapes with the text already encoded in SGML, and we will mount them on our server instead of having a CD-ROM.
+
+18:36.071 --> 18:38.374
+The beauty of that is then our users can...
+
+18:38.725 --> 18:40.607
+That's right, and they can use them off the bat.
+
+18:40.707 --> 18:45.552
+So if the library's closed, they can search English poetry in the middle of the night if they want to.
+
+18:46.053 --> 18:46.273
+Is it used?
+
+18:47.214 --> 18:51.699
+We get about 1,000,000.3 hits a month, about 40,000 hits a day.
+
+18:52.519 --> 18:55.763
+There's no way to measure how much of that is from the university?
+
+18:55.843 --> 18:56.203
+Oh, yes.
+
+18:56.283 --> 19:01.829
+We get anywhere from 4% to 12% of use from the university per day, depending on the season.
+
+19:01.849 --> 19:08.496
+In the summer, university traffic's a little slower than it is, say, in the middle of the fall or the spring.
+
+19:09.269 --> 19:17.681
+So the range we get about between 5% and 15% is sort of a safe range to say is UVA traffic on any given day.
+
+19:18.583 --> 19:33.825
+And the other benefit, this is also a strong feature of our collection, the other benefit to purchasing the data of commercial products and mounting it on our own server is that we only have one search interface for every single one of our products.
+
+19:34.143 --> 19:40.654
+And so users don't have to learn how to use 12 different CD-ROMs and search them all discreetly.
+
+19:40.674 --> 19:42.257
+They can search these things together.
+
+19:42.297 --> 19:44.721
+They only have to learn how to use one interface.
+
+19:45.322 --> 19:51.452
+And then as we add new things, they don't have to learn anything new, but they can apply that same knowledge to different collections.
+
+19:51.592 --> 19:56.320
+So the Modern English Collection is sort of a hodgepodge of things that we've created ourselves.
+
+19:56.705 --> 20:00.129
+things that other people have created and deposited with us.
+
+20:00.209 --> 20:07.238
+If we were to, for example, want to find those book or letters, if you came to the B page, you could browse them and you could download them one at a time for viewing.
+
+20:08.380 --> 20:18.772
+Every one of our texts, which is greater than 100 kilobytes, is automatically broken down into a table of contents where you can look at the book chapter by chapter.
+
+20:19.654 --> 20:24.079
+Now, the beauty of this is that if we had just had HTML files, you can't do this.
+
+20:24.481 --> 20:25.342
+kept the whole book.
+
+20:25.362 --> 20:25.823
+That's right.
+
+20:25.883 --> 20:30.690
+But because we've been able to mark a chapter as a chapter, we can retrieve one part at a time.
+
+20:30.750 --> 20:31.752
+Can you try one?
+
+20:32.133 --> 20:32.433
+Sure.
+
+20:32.994 --> 20:36.960
+This may or may not have images.
+
+20:37.020 --> 20:37.601
+I'm not sure.
+
+20:37.681 --> 20:40.265
+So if it doesn't, it's fairly straightforward.
+
+20:40.666 --> 20:42.208
+So that indicates the page.
+
+20:42.508 --> 20:43.910
+In the print source.
+
+20:43.930 --> 20:44.411
+That's right.
+
+20:44.932 --> 20:52.243
+And because in that bibliographic header we recorded what print source we're talking about, you can interlibrary loan that same edition.
+
+20:52.510 --> 20:55.314
+and then use this in conjunction with the print source.
+
+20:55.334 --> 21:03.044
+It's always been our bearing that electronic texts are not intended to replace print sources.
+
+21:03.065 --> 21:04.887
+They're intended as research material.
+
+21:04.927 --> 21:08.151
+To give you access to something you can't get.
+
+21:08.192 --> 21:09.473
+You sure could.
+
+21:09.493 --> 21:20.188
+Because what we have done, if you look at the header, is whenever possible we'll include the call number of the book that we used to create the text.
+
+21:20.742 --> 21:30.618
+This is the edition, The Man Between, by Amelia Barr, published by the Authors of Newspapers Association, New York, London in 1906.
+
+21:30.798 --> 21:33.382
+This is the first edition.
+
+21:34.023 --> 21:40.895
+And so you get a sense of what the print source is, and you could actually cite this and say, in this edition on page 10, this is a quotation.
+
+21:40.935 --> 21:43.539
+What are these revisions under this page?
+
+21:43.559 --> 21:45.943
+Somebody else created this text.
+
+21:46.163 --> 21:47.425
+In fact, it was...
+
+21:47.658 --> 21:55.432
+A professor at Ole Miss made the electronic text and saved it as the word perfect file, cleaned and corrected, then shipped it to us.
+
+21:55.452 --> 22:00.201
+And what we did to that text was we added this header and we added the TEI tag.
+
+22:00.281 --> 22:08.856
+And so we record what we were responsible for here and what Charles Keller was responsible for originally.
+
+22:12.903 --> 22:19.394
+This way, if you were not able to have access to this book in print source, you could, if you wanted to, read the entire novel online.
+
+22:19.995 --> 22:27.367
+Or if you didn't want to do that, you could sort of search for certain quotes here, and then if you decided you wanted to read the text, you could interlibrary loan it or something.
+
+22:28.048 --> 22:38.725
+So it's not intended to replace necessarily reading a book off of the staff, but it's intended to increase access and furthermore make searching possible.
+
+22:39.650 --> 22:45.359
+At the top of every one of these pages in most of our collections, you will see a link to the search tool.
+
+22:46.781 --> 22:56.917
+And if we wanted to search the Modern English collection, you can either do a simple search or a compound search.
+
+22:56.937 --> 23:02.245
+You can search for a word or a phrase because every word has been indexed, even stock words.
+
+23:02.365 --> 23:06.231
+So, you know, and, or, for the, everything has been indexed.
+
+23:06.616 --> 23:18.148
+You can search all of the works in the Modern English Collection, or you can choose to search just, say, descriptions of illustrations, just publishers' names, just prose, just drama, just speeches and drama.
+
+23:18.168 --> 23:20.650
+You don't have to search characters' names or stage directions.
+
+23:21.151 --> 23:28.438
+So say we wanted to search just descriptions of illustrations, which is a part of the SGML tagging that we encode here.
+
+23:28.458 --> 23:33.383
+We write descriptions of illustrations that are included.
+
+23:35.236 --> 23:49.518
+If we knew, for example, that Horatio Alger had an illustrated book in our collection, we could limit this by author and just search Alger, or just search Whitman, or search the title of the book, Moby Dick, for example.
+
+23:50.480 --> 23:51.601
+Or a date range.
+
+23:51.621 --> 23:53.304
+We could do 1800 through 1900.
+
+23:53.324 --> 23:55.528
+So let's see.
+
+23:55.828 --> 23:58.392
+Now most of these texts, in fact,
+
+24:01.409 --> 24:05.855
+are published before, say 1920, because of copyright restrictions.
+
+24:05.875 --> 24:06.275
+That's right.
+
+24:06.295 --> 24:08.878
+So we don't have too much in the later part of the 20th century.
+
+24:09.679 --> 24:17.829
+And the few things that we do have permission to publish that are in copyright are almost always available only to the University of Virginia.
+
+24:18.670 --> 24:26.600
+Now it looks like we have one match searching for seashore within descriptions of illustrations in works published between 1800 and 1900.
+
+24:27.061 --> 24:27.922
+That's right.
+
+24:27.942 --> 24:29.284
+This is a beautiful work, actually.
+
+24:29.304 --> 24:31.146
+We have a wonderful illustrated version.
+
+24:31.430 --> 24:38.000
+When you click on that link, it takes you to a little surrounding context page, so you can see a little bit more of what we're talking about.
+
+24:38.040 --> 24:46.632
+At this point, you could choose to download just the header to find out what exactly is the work we're talking about, just the page on the work where that illustration occurs.
+
+24:47.013 --> 24:48.835
+Now, it's giving me an illustration.
+
+24:49.176 --> 24:49.757
+It sure is.
+
+24:49.777 --> 24:50.578
+Because that's what we asked about.
+
+24:50.598 --> 24:51.038
+That's right.
+
+24:51.659 --> 24:56.647
+And if you click on this little thumbnail, you get a bigger version, so you can zoom in a little bit more.
+
+24:57.388 --> 24:58.049
+Isn't that nice?
+
+24:58.109 --> 24:58.990
+I can do this at home.
+
+24:59.729 --> 25:01.291
+For this text you can.
+
+25:01.411 --> 25:03.353
+For most of the collection you can.
+
+25:03.413 --> 25:14.425
+There are a few works that are not publicly accessible, so you would only be searching a subset of the collection, but you're perfectly welcome to use the search tool at any time.
+
+25:18.369 --> 25:19.731
+Is the word seashore in there?
+
+25:20.071 --> 25:23.215
+The word seashore is not in the printed text.
+
+25:23.235 --> 25:28.200
+Somebody on our staff looked at this picture and wrote a 25-word description.
+
+25:28.771 --> 25:31.356
+based on the content that she or he saw.
+
+25:31.376 --> 25:32.978
+So there may be other seashore pictures.
+
+25:33.199 --> 25:33.820
+That's right.
+
+25:33.840 --> 25:34.902
+That's right.
+
+25:35.002 --> 25:42.776
+So what you would want to do is something like maybe potentially, or sea even, because... That's right, shore is kind of limited.
+
+25:43.337 --> 25:48.826
+And the way our words are indexed, any word beginning with sea will get picked up.
+
+25:48.986 --> 25:52.753
+So sea or seashore should get picked up equally.
+
+25:53.898 --> 26:18.792
+and we do try to maintain a kind of common vocabulary right so it'll list the author and the work so there are four examples in little lord faulroy a bunch of ancient mariners that's right what else do we have stephen crane richard harding davis dickens several times doyle lots of doyle illustrations of the sea hugo
+
+26:19.160 --> 26:21.548
+And so once again, it sort of works in the same way.
+
+26:21.688 --> 26:27.988
+All of our search tools follow the same pattern, where here you get a little bit of keyword and context when you click on this
+
+26:28.323 --> 26:36.193
+selection, you get a sense of what you're looking at, and you can choose to download the chapter, the full text, just the header.
+
+26:36.454 --> 26:38.677
+Now, are these books scanned here?
+
+26:38.697 --> 26:39.638
+Again, we set these up.
+
+26:39.818 --> 26:40.519
+It's hard to say.
+
+26:40.599 --> 26:47.548
+Much of what we have, we don't spend a lot of time generating electronic text ourselves because we just don't have the resources.
+
+26:47.989 --> 26:53.136
+But a text like this was scanned, this was scanned by the same fellow at Ole Miss.
+
+26:53.156 --> 26:55.579
+He scanned and corrected and proofread the text.
+
+26:55.846 --> 27:02.036
+We got a copy of the same edition of the book and scanned all the images here ourselves on a flatbed scanner.
+
+27:02.416 --> 27:05.020
+Once again, it's 400 dots per inch, 24-bit color.
+
+27:06.182 --> 27:08.306
+Yeah, it's pretty good.
+
+27:09.748 --> 27:13.374
+So you get a sense of, you know, what the actual text might have looked like.
+
+27:15.076 --> 27:18.782
+And...
+
+27:19.066 --> 27:20.989
+Is this a kind of project?
+
+27:21.570 --> 27:26.557
+Do you have a target number of checks that you're putting on?
+
+27:26.737 --> 27:30.623
+We're just trying to keep up with things that people send us and projects that we've got going.
+
+27:30.663 --> 27:32.906
+Two other things, let me just show you quickly.
+
+27:33.026 --> 27:40.056
+This link here, announcing the Electronic Archive of Early American Fiction, is that NEH grant project I was telling you about.
+
+27:41.218 --> 27:42.660
+That's right.
+
+27:42.826 --> 27:47.752
+There were several criteria, three criteria that we used to put together the list of texts that we were going to do.
+
+27:47.772 --> 28:02.431
+They had to be in BAO, in Wright's Bibliography of American Literature also, and part of the Barrett collection, because we actually wanted the source text here on site, so that we wouldn't have to borrow them or anything.
+
+28:02.531 --> 28:09.660
+So there's a list of the authors and titles, and we can take a look at the sample text, the kinds of quality we're getting.
+
+28:09.927 --> 28:17.738
+Now, because these are rare books that we're dealing with in old materials, it's a little risky to scan them on a flatbed scanner.
+
+28:17.998 --> 28:21.263
+So what we have done is to purchase two high-quality digital cameras.
+
+28:22.404 --> 28:23.927
+Let me just show you the cameras first.
+
+28:25.429 --> 28:29.995
+We had a craftsman here in Charlottesville build special book cradles.
+
+28:31.190 --> 28:33.093
+Well, so you're still going to get some red pages.
+
+28:33.674 --> 28:34.214
+That's right.
+
+28:34.274 --> 28:37.139
+So this is the cradle, and there are two little clips that sort of hold it down.
+
+28:37.479 --> 28:42.626
+But there's a fair amount of curvature, depending on if the book ever got wet or how stiff the binding is or whatnot.
+
+28:43.047 --> 28:46.252
+So we do film each one of these pages on the digital camera.
+
+28:47.213 --> 28:53.742
+But we're scanning the covers and the spines on a flatbed scanner at the same settings.
+
+28:54.263 --> 28:58.429
+And what I can show you here is...
+
+28:59.067 --> 29:00.589
+what SGML looks like.
+
+29:00.609 --> 29:08.340
+So this is a sample from Charles Brockton Brown's Veland, which was published in 1799, I think.
+
+29:08.360 --> 29:09.702
+This is what SGML looks like.
+
+29:09.742 --> 29:17.534
+This is part of the bibliographic header where we can record the title of the document, the author, who's responsible for this and that.
+
+29:17.874 --> 29:22.281
+And it's just like HTML in that the tags are set off by angle brackets.
+
+29:22.301 --> 29:25.345
+This is then just a plain ASCII text file
+
+29:25.898 --> 29:29.624
+that has the structure tags embedded in it as ASCII characters.
+
+29:30.625 --> 29:35.132
+And then moving down toward the beginning of the document, this is where the text begins.
+
+29:35.192 --> 29:45.568
+We give each one of our texts a seven character ID, a unique ID that's composed of the first three letters of the author's last name and the first four letters of the first major word in the title.
+
+29:46.069 --> 29:49.594
+And this helps us keep track of our database because we don't have any
+
+29:49.827 --> 29:51.609
+We don't have any database software.
+
+29:51.629 --> 29:57.296
+We're not using any kind of relational or organizational structure and no software to organize it.
+
+29:57.336 --> 30:00.380
+It's just a set of directories with text.
+
+30:00.480 --> 30:10.093
+We have front matter here that includes the title page, which is transcribed with different tags, marking the different parts of the title page, which contains an epigraph, for example.
+
+30:12.976 --> 30:17.522
+We also have as part of the front matter, here's a page break between the title page and an advertisement.
+
+30:17.722 --> 30:19.364
+So this is all SGML, right?
+
+30:19.404 --> 30:24.049
+This is all SGML, the Text Encoding Initiative Guidelines, that particular subset of SGML.
+
+30:24.069 --> 30:26.992
+So where do you actually have the page that you filmed?
+
+30:27.012 --> 30:29.234
+Okay.
+
+30:30.616 --> 30:36.422
+Well, let me show you then what it would look like filtered from SGML to HTML.
+
+30:36.462 --> 30:38.244
+You see this, okay?
+
+30:38.524 --> 30:43.189
+And this is a picture of page one.
+
+30:44.148 --> 30:47.333
+It's not a perfect shot by any means.
+
+30:47.353 --> 30:47.873
+That's right.
+
+30:47.933 --> 30:50.958
+Is that like Cornell with a guillotine of books actually?
+
+30:51.358 --> 31:02.815
+No, in fact, we were very interested in getting as much of the edge as we could because we're intending these images to be useful to bibliographers, people who wanted to get a sense of the object as a three-dimensional object.
+
+31:03.301 --> 31:07.006
+And this is also one of the earliest test shots we did.
+
+31:07.066 --> 31:10.069
+We've now perfected it so we can eliminate some of the shadow in here.
+
+31:10.470 --> 31:13.253
+We had some lighting problems in the first few months of the project.
+
+31:13.273 --> 31:16.437
+We've learned a lot about digital cameras and light bulbs and whatnot.
+
+31:17.198 --> 31:18.520
+But I think you get a pretty good sense.
+
+31:18.540 --> 31:19.621
+You can see the bleed through.
+
+31:19.641 --> 31:21.403
+You can see the creases.
+
+31:24.186 --> 31:28.532
+Any sort of foliation and signatures has been maintained.
+
+31:29.974 --> 31:31.215
+Let me look at another one, too.
+
+31:31.685 --> 31:41.998
+We've got a couple other sample images up here, and it depends what side of the book you're on.
+
+31:42.238 --> 31:53.252
+This side of the book, because we're at the beginning, the binding is such that there's not much of a shadow on this side to get a cleaner sense.
+
+31:53.272 --> 31:58.198
+Then in terms of the covers and spines, we have been able to use
+
+31:59.292 --> 32:13.106
+the high quality shots to build a 3D model of this book, which we don't have any software on this particular computer, but using a standard known as VRML, virtual reality modeling language.
+
+32:13.567 --> 32:21.115
+Matthew has done all of this work for us, and he can tell you a lot more about VRML and its potential for humanities text projects.
+
+32:21.135 --> 32:26.380
+But we've been able to build basically a little geometric
+
+32:27.524 --> 32:49.465
+cube a rectangle cube and then simply map these images on top of it so you get a 3d rendering of the book and i can show you an example of that on a different computer this was done in a flatbed scanner as opposed to the digital camera and you can see that you get pretty good quality and we're trying to get a margin to give people a sense of that's right that's right
+
+32:50.052 --> 32:57.564
+So we're hoping to bring into high school classrooms and community colleges a sense of these books as their authors would have known them.
+
+32:57.964 --> 33:01.309
+You know, what was it like to have the Scarlet Letter in the 1850s?
+
+33:03.994 --> 33:14.290
+And then to sort of take the matter one step further, let me just show you some of the uses to which these electronic text and images have been put.
+
+33:14.931 --> 33:18.456
+We have a professor here in the English department, Steve Railton, who has
+
+33:19.111 --> 33:24.579
+been building up a tremendous site which investigates Mark Twain in his time.
+
+33:25.340 --> 33:48.814
+And what he's done is around a core of five electronic texts and a whole host of resources out of the Barrett collection, posters and flyers and manuscript materials and letters, he is asking questions of who was the man, Sam Clemons, and who was the cultural icon, Mark Twain, and who was he as a writer, and how does his books reflect history and his contemporary moment.
+
+33:49.300 --> 33:54.227
+And so we have the full text of five electronic books, and he's making more.
+
+33:54.788 --> 34:00.055
+And we have a proposal on the table that would let us transcribe several thousand of Twain's letters.
+
+34:00.997 --> 34:05.042
+And say, around the e-text of Huck Finn, you can search Mark Twain's works.
+
+34:05.082 --> 34:06.544
+You can view it chapter by chapter.
+
+34:07.045 --> 34:10.450
+You can also look at all the sources and pretexts that Railton's identified.
+
+34:11.151 --> 34:14.095
+You can look at advertisements and publicity for the book.
+
+34:14.115 --> 34:18.261
+You can learn all about subscription sales and how this was
+
+34:18.663 --> 34:25.291
+very much a part of the culture and a part of Twain's sense of himself as a writer and the reason why he hurried and whatnot.
+
+34:25.711 --> 34:42.752
+You can actually take a tour with seeing what a subscription salesperson would show you if they came to your door, so we built up a little slideshow here with pictures of the sample books that we have downstairs in the Barrett collection.
+
+34:43.252 --> 34:47.978
+You can also look at illustration history for the novel.
+
+34:48.228 --> 34:53.174
+examples of illustrated copies from 1885 through 1985.
+
+34:54.716 --> 35:01.584
+You can compare representations of Jim over the years and investigate how that sort of reflects images of race.
+
+35:03.386 --> 35:09.574
+And then he has taken manuscripts of Twain's letters and pictures of Mark Twain.
+
+35:09.974 --> 35:13.358
+And so, for example, he can look at with his students
+
+35:13.726 --> 35:19.433
+how Mark Twain signed his name, depending on who he was writing to and how he conceived of his own identity.
+
+35:20.935 --> 35:22.817
+And these are all manuscripts we have downstairs.
+
+35:23.178 --> 35:25.361
+It's wonderful, isn't it?
+
+35:25.461 --> 35:28.885
+And again, you click on these little thumbnails and you get a larger version of the JPEG.
+
+35:29.406 --> 35:36.975
+Now, we have also spent the summer transcribing and marking up in SGMAIL many of the resources that Steve Railton has pictures of here.
+
+35:37.095 --> 35:39.278
+So we're still putting that together in final form.
+
+35:40.152 --> 35:45.560
+It gives undergraduates so much more access to these rare materials than they ever could assign.
+
+35:45.600 --> 35:55.634
+You know, here at UVA especially, there are 350 students in an American lit survey, and you just cannot tell them to go to special collections and look at these things.
+
+35:55.654 --> 36:00.761
+You know, it's entirely unfeasible.
+
+36:02.564 --> 36:07.611
+So, let me just quickly pull up this 3D model of the...
+
+36:07.895 --> 36:09.917
+for these Unix computers over here.
+
+36:09.938 --> 36:13.001
+It's pretty much only for the PC at this point.
+
+36:13.021 --> 36:15.705
+And as I say, Matt Kirshenbaum knows a lot more about this.
+
+36:15.725 --> 36:32.125
+He can certainly answer any questions we have.
+
+36:32.145 --> 36:37.311
+In a particular VRML viewer, it's a plugin that goes with Netscape.
+
+36:37.915 --> 36:41.340
+And what's loading now are the images of the covers in this file.
+
+36:43.503 --> 36:49.432
+And again, those are in the JPEG format, the compressed image format, the same as we have just the ceiling on the web.
+
+36:49.452 --> 36:53.198
+That's the problem.
+
+36:53.218 --> 36:54.700
+These things take forever to load.
+
+36:54.720 --> 36:55.200
+They do.
+
+36:55.561 --> 36:57.584
+And part of it is that our machines aren't that fast.
+
+36:57.604 --> 37:00.428
+And what's really not fast is the network speed in this building.
+
+37:00.508 --> 37:04.274
+Even though we have a T1 connection to the internet, one stuff comes into Alderman.
+
+37:04.294 --> 37:06.437
+It's just such an old wiring system.
+
+37:13.420 --> 37:16.905
+This is V-list.
+
+37:17.326 --> 37:19.128
+That's right.
+
+37:19.168 --> 37:24.736
+So it's really a 3D model where you have sort of the edges down here.
+
+37:26.819 --> 37:28.602
+So how was that photographed?
+
+37:28.622 --> 37:30.725
+On a blackboard scanner.
+
+37:30.745 --> 37:32.307
+All the sides were filmed differently.
+
+37:32.327 --> 37:34.450
+So what's making an animated figure?
+
+37:34.565 --> 37:36.667
+Programming or something?
+
+37:36.748 --> 37:37.288
+The coding.
+
+37:37.348 --> 37:37.528
+Right.
+
+37:37.629 --> 37:44.116
+VRML is a standard sort of like SGML and HTML, and it's a set of mathematical coordinates.
+
+37:44.136 --> 37:49.302
+And so you plot a box that would correspond to the size of the actual book.
+
+37:49.322 --> 37:51.445
+You know, we have the measurement of the book in centimeters.
+
+37:51.845 --> 37:55.430
+Make a box and then say, on this face of the box, put this JPEG.
+
+37:55.490 --> 37:58.814
+On this face of the box, put this other JPEG.
+
+37:58.834 --> 38:00.876
+And then this browser,
+
+38:01.160 --> 38:06.184
+takes those images and renders them in this three-dimensional virtual reality space.
+
+38:06.204 --> 38:06.968
+Can you open the book?
+
+38:07.606 --> 38:08.727
+That's our next goal.
+
+38:08.747 --> 38:10.870
+We want to be able to say... They're doing that at the British Library, by the way.
+
+38:10.890 --> 38:12.111
+It's called Turning the Pages.
+
+38:12.332 --> 38:13.293
+We'd love to do that.
+
+38:13.313 --> 38:16.797
+They show me page 185 and have the book open up, but we're not quite there yet.
+
+38:16.817 --> 38:20.501
+They say the space, the computing, the power that they need.
+
+38:20.582 --> 38:23.525
+But they're doing what the Lindisfarne Gospel is called, Turning the Pages.
+
+38:23.605 --> 38:24.686
+That's wonderful.
+
+38:24.807 --> 38:25.748
+Yeah, I was over there in March.
+
+38:25.768 --> 38:36.921
+Well, Katie Thiemann, the center's director, was in Japan in March, and the University of Osaka has an entire room dedicated to VRML, where they have about $300,000 worth of equipment
+
+38:36.901 --> 38:43.127
+walls of these 3D modeling machines that just run the most incredible, incredible time.
+
+38:43.208 --> 38:43.908
+So they're doing it?
+
+38:43.948 --> 38:45.049
+Is this anything I need?
+
+38:45.070 --> 38:45.690
+Any of this stuff?
+
+38:45.770 --> 38:49.154
+No, these are a lot of the help sheets that we publish.
+
+38:49.174 --> 38:49.895
+Okay.
+
+38:50.355 --> 38:51.736
+Can I chat with them?
+
+38:51.777 --> 38:52.457
+Yes, of course.
+
+38:52.597 --> 38:54.579
+These are all available on the web.
+
+38:54.820 --> 38:56.021
+You can take one of these.
+
+38:56.121 --> 38:58.704
+You can take anything on this stuff.
+
+38:59.485 --> 38:59.785
+Sure.
+
+38:59.805 --> 39:03.769
+This is, again, our instructions for scanning text with optical character recognition.
+
+39:03.867 --> 39:06.551
+We do teach a series of short cases.
+
+39:06.611 --> 39:07.012
+No, I don't.
+
+39:07.652 --> 39:10.577
+We have two, one for images and one for text, which I believe you have.
+
+39:10.597 --> 39:14.182
+Here's an example of a letter by Thomas Jefferson.
+
+39:14.222 --> 39:15.103
+Oh, yeah.
+
+39:15.203 --> 39:16.245
+I want all this stuff.
+
+39:16.265 --> 39:16.465
+Good.
+
+39:17.006 --> 39:20.411
+I'm going to allow you to just sort of help you send different software packages that you have.
+
+39:20.631 --> 39:21.212
+And what's this?
+
+39:22.214 --> 39:24.036
+That is the library newsletter.
+
+39:24.056 --> 39:25.599
+Here's the library during this quarter.
+
+39:28.222 --> 39:30.786
+I'm going to go take a half hour nap.
+

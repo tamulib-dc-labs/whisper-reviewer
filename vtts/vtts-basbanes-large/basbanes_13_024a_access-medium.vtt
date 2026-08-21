@@ -1,0 +1,860 @@
+WEBVTT
+
+00:02.427 --> 00:05.873
+We're speaking with Matthew Kirschenbaum.
+
+00:07.175 --> 00:11.302
+Okay, Matthew, tell me a little bit about yourself and what we're doing.
+
+00:11.322 --> 00:23.102
+Well, I'm the project manager with the William Blake Archive here at the Institute for Advanced Technology and Humanities.
+
+00:23.563 --> 00:24.504
+Red lights on, right?
+
+00:24.985 --> 00:26.207
+Yes.
+
+00:26.997 --> 00:34.184
+And the Blake Archive is actually only one of a number of projects that go on here.
+
+00:34.204 --> 00:47.818
+Basically, the Institute takes on several new fellows each year, either from within the University of Virginia or, as in the case of the Blake Archive, from other institutions.
+
+00:48.759 --> 00:54.405
+And all of these people have research projects that they want to pursue.
+
+00:54.976 --> 01:03.765
+in the humanities that they need the Institute's expertise in advanced computing technology for.
+
+01:04.646 --> 01:18.121
+The projects that are chosen here are chosen not only in terms of their humanities content, so to speak, the importance of that.
+
+01:18.701 --> 01:22.165
+It says Institute for Advanced Technology in the Humanities.
+
+01:24.355 --> 01:49.899
+But the projects are chosen as not only for their content, but also for the extent to which they'll permit us to do research and development work with various computing technologies that can then be applied to other humanities projects in addition to the particular one that the fellow might be working on.
+
+01:49.919 --> 01:52.962
+Just to give you an idea of some of the things that
+
+01:53.212 --> 02:01.503
+go on here at the Blake Archive, which I'll tell you more about, is an electronic editing project.
+
+02:01.523 --> 02:23.033
+Basically, the idea is to provide scholars and students with access to Blake's works in a way which is not possible with color, facsimile, reproductions of the work in print, because it's simply too expensive to produce
+
+02:23.418 --> 02:52.159
+high quality facsimiles the various books that blake printed all exist in multiple copied copies and there are differences in coloring differences in the order in which the plates are printed among all of them and typically when these are reproduced even in facsimile form it's only possible to reproduce one copy of a given book so what the blake archive is doing electronically is making
+
+02:52.308 --> 02:56.393
+multiple copies of the various illuminated books available.
+
+02:56.413 --> 02:58.796
+So you're getting very in place and stuff like that.
+
+02:58.816 --> 02:59.377
+Exactly.
+
+02:59.477 --> 03:03.301
+And is this the headquarters for the Blake project here?
+
+03:03.502 --> 03:17.158
+It is, and physically you're sitting in the Institute, which is the headquarters not only for the Blake project, but also for, I would say, 15 to 20 other humanities computing research projects.
+
+03:17.178 --> 03:18.720
+So how is it for the Virginia?
+
+03:19.122 --> 03:22.628
+that comes to the headquarters for this project?
+
+03:23.229 --> 03:33.786
+Well, the Institute was founded about five years ago with a grant from IBM of about $3 million, I believe.
+
+03:34.968 --> 03:42.480
+And IBM had decided they wanted to donate this money to the university and
+
+03:44.013 --> 04:04.064
+The decision to spend it on a humanities computing search institute was basically driven by the idea that humanities scholars have certain unique needs which would actually present important and interesting R&D problems to computer scientists.
+
+04:04.365 --> 04:09.733
+One example that is immediately relevant to the Blake archive concerns images
+
+04:10.135 --> 04:25.114
+If you've done work with digital text, you know that it's very difficult to do anything meaningful with images other than just look at them, typically on the web or in electronic editions.
+
+04:25.134 --> 04:26.516
+They're ornamental.
+
+04:26.536 --> 04:31.021
+They're just static attachments to the database.
+
+04:31.962 --> 04:37.189
+So one of the questions that the Blake Archive is investigating is how can one
+
+04:37.388 --> 04:44.378
+take the images and turn them into a functional part of the database, something that can be searched in the same way as the text.
+
+04:45.420 --> 04:56.596
+And that's an important question not only for Blake, but it has, as you can imagine, broader applications outside of just this project.
+
+04:57.017 --> 05:00.101
+Well, how was it that Blake was selected?
+
+05:00.121 --> 05:04.948
+Well, partly because one of the
+
+05:05.435 --> 05:10.101
+The Institute has several electronic editing projects underway.
+
+05:10.762 --> 05:15.688
+In addition to Blake, there's also a project on Rossetti.
+
+05:15.748 --> 05:18.472
+He was a maybe 19th century poet and painter.
+
+05:18.932 --> 05:23.358
+There's an Emily Dickinson and a Walt Whitman archive underway.
+
+05:23.979 --> 05:26.502
+So, currently I'm out of here.
+
+05:27.343 --> 05:32.590
+Based here, but like the Blake project, the Dickinson and the Whitman project are being
+
+05:32.772 --> 05:36.277
+edited by scholars who are based at other universities.
+
+05:36.297 --> 05:46.072
+So, of course, you mentioned Dickinson, where you scan the actual faxicles that you wrote poems on, which are owned, I guess, by Harvard and Amherst.
+
+05:46.092 --> 05:46.272
+Right.
+
+05:46.433 --> 05:47.614
+So how does that work?
+
+05:48.155 --> 05:50.118
+How do you get around that?
+
+05:50.198 --> 05:59.873
+The scanning is done typically, in the case of Dickinson and Blake, from first-generation transparencies of the materials.
+
+05:59.913 --> 06:00.754
+Which already exist.
+
+06:01.072 --> 06:02.394
+Not always.
+
+06:02.694 --> 06:08.982
+We negotiate with the various libraries and museums that hold the original materials.
+
+06:10.023 --> 06:20.035
+And they either, if they have the transparencies on hand, they will let us use them for a fee.
+
+06:20.676 --> 06:24.380
+Or if they're not on hand, then they will shoot them for us.
+
+06:25.382 --> 06:29.847
+And it's certainly been a, it's taken a long time.
+
+06:30.417 --> 06:49.795
+time to... Well, you were asking me why Blake was chosen.
+
+06:49.815 --> 06:59.985
+And usually one of the reasons Blake was chosen is that if you look at the way that he's typically been edited in print, if you look at, say, Erdman's
+
+07:00.320 --> 07:12.959
+standard edition of Blake's poetry and prose, what you see is mainly plain, hypothetical text with some illustrations, but those are few and far between.
+
+07:13.900 --> 07:25.417
+So the effect of that is to turn Blake, who was as much of an artist and an engraver, into a poet in the most orthodox sense of the word.
+
+07:26.499 --> 07:30.124
+So Blake was of interest partly because
+
+07:30.425 --> 07:36.714
+he has not been adequately edited in print.
+
+07:38.056 --> 07:46.810
+And again, that's due, I think, less to scholars being unaware of the importance of the visual dimensions of his work.
+
+07:46.830 --> 07:53.319
+I think people are very much aware of that, but it's due more to simply economic reasons.
+
+07:53.339 --> 07:58.407
+It's expensive to produce high-quality facsimiles and
+
+07:58.893 --> 08:03.598
+material like that in a printed book.
+
+08:04.058 --> 08:06.821
+Can you tell me a little bit about your work and what it is that you know?
+
+08:06.841 --> 08:21.195
+Well, I'm just, I'm really interested in... The Library of Congress actually has an extensive Blake collection.
+
+08:21.215 --> 08:21.816
+It's the A.V.
+
+08:21.856 --> 08:24.799
+Rosenwald Collection, and you'll notice there
+
+08:25.032 --> 08:35.883
+They're listed as one of the sponsors of the archive, and that's because they gave us permission to reproduce the contents of that collection.
+
+08:36.784 --> 08:50.398
+Joe Viscomi, who's at Chapel Hill, went up there with a photographer and spent several weeks shooting the contents of the Rosenwald Blake Collection.
+
+08:50.952 --> 08:55.177
+The archive has been underway for about two years.
+
+08:55.437 --> 09:01.163
+We're in the third year of a... So 95 is when it started?
+
+09:01.183 --> 09:14.478
+We're in the third year of a three-year grant from the Getty Art Institute, who are the primary funders for the project at this point.
+
+09:14.518 --> 09:19.744
+Just to give you some numbers that will give you an idea of the
+
+09:20.095 --> 09:27.062
+the scope and the scale of things, the archive will include about 3,000 digital images.
+
+09:30.966 --> 09:38.033
+Blake printed about 20 different illuminated books during the course of his career.
+
+09:38.554 --> 09:43.078
+Each of those illuminated books exists in multiple copies.
+
+09:43.599 --> 09:48.904
+There are about 150 copies of all of the books that survive.
+
+09:49.306 --> 09:56.936
+The Blake Archive will reproduce between 50 or 60 of those, or about a third of the extant copies of those.
+
+09:57.056 --> 09:59.499
+Why did I try to get all of them?
+
+09:59.559 --> 10:05.186
+Partly simply because of time and labor, there's only so much that one could do.
+
+10:05.206 --> 10:06.247
+A number of them are privately owned.
+
+10:06.368 --> 10:16.140
+A number of them are privately owned, and as I said, the materials are held by any number of different libraries, and each of them has
+
+10:16.660 --> 10:20.283
+unique feelings about reproducing them.
+
+10:20.724 --> 10:24.287
+And the scholarly value of something like that would be?
+
+10:24.768 --> 10:25.388
+Several things.
+
+10:25.468 --> 10:34.537
+For one thing, I'm thinking first from the library's point of view, it will, we hope, reduce wear and tear on the physical artifacts.
+
+10:35.778 --> 10:44.727
+Nobody is suggesting that a digital archive will ever replace the need that scholars have to
+
+10:45.095 --> 10:55.290
+handle the physical materials in all cases, but in many cases a high-quality facsimile might fill that need.
+
+10:55.310 --> 10:58.776
+So that's one advantage.
+
+10:59.056 --> 11:13.077
+The other thing, or certainly several things, as I said, we can reproduce multiple copies of each of the books, which is something that has never really been done in print.
+
+11:13.293 --> 11:16.858
+And the differences between the copies are substantial.
+
+11:16.958 --> 11:23.027
+There are things that would be very obvious to a non-Blake expert.
+
+11:23.327 --> 11:33.682
+Blake hand-colored all of the books used watercolor paints, and each of them is painted differently.
+
+11:33.782 --> 11:36.306
+So that's one difference between the copies.
+
+11:37.287 --> 11:42.034
+The ordering of the plates within the copies also moves around
+
+11:42.470 --> 11:58.233
+and one of the things that Blake scholars have been interested in is the interpretive significance of those different orderings.
+
+11:58.693 --> 12:02.379
+In other words, clearly they weren't just for random and arbitrary reasons.
+
+12:02.399 --> 12:05.003
+This was Blake who determined the orderings at each point?
+
+12:05.323 --> 12:11.532
+Yeah, I don't know how much you know about Blake, but he was... No, I'm quite fascinated by Blake.
+
+12:12.119 --> 12:32.606
+He was responsible for printing his own work, and the technique that he developed, what's been called Eliminated Printing, is unique to his work.
+
+12:32.626 --> 12:39.055
+One of the editors on the project, Joe Biscomi, again from Chapel Hill,
+
+12:39.490 --> 12:53.044
+made his reputation in Blake's studies by reproducing the physical process that Blake went through in printing his books, which had never been well understood.
+
+12:53.324 --> 13:05.616
+The book to go to for that is called Blake and the Idea of the Book by Joe Bisconi.
+
+13:05.637 --> 13:07.118
+That was Princeton.
+
+13:07.520 --> 13:10.124
+From about 19... Like two years ago?
+
+13:10.144 --> 13:10.945
+About 1990.
+
+13:11.345 --> 13:12.547
+Yeah.
+
+13:12.567 --> 13:14.990
+I know that book.
+
+13:15.010 --> 13:15.491
+Mm-hmm.
+
+13:15.511 --> 13:15.931
+Joe?
+
+13:16.712 --> 13:19.556
+Uh, B-I-S-C-O-M-I.
+
+13:20.357 --> 13:22.220
+Is that Tristan?
+
+13:22.721 --> 13:25.204
+He's at Chapel Hill.
+
+13:25.224 --> 13:26.766
+Mm-hmm.
+
+13:26.786 --> 13:30.511
+Tristan University.
+
+13:30.531 --> 13:30.611
+Yes.
+
+13:30.631 --> 13:31.512
+Okay.
+
+13:31.532 --> 13:36.379
+Um, so there are, so there are differences in color, there are differences in the plate orderings,
+
+13:36.815 --> 13:43.565
+Let me actually take you into the archive and show you some of the things that we can do.
+
+13:46.610 --> 13:49.374
+This is the Look of Fel caveat.
+
+13:49.815 --> 13:55.043
+The Book of Fel is one of the earlier books that Blake printed.
+
+13:55.063 --> 13:59.911
+And this is essentially the table of contents for the book.
+
+13:59.931 --> 14:03.396
+You can see that it consists of eight plates.
+
+14:07.510 --> 14:09.934
+and selecting an individual plate.
+
+14:12.057 --> 14:15.762
+So he printed the whole book himself, including the type?
+
+14:16.002 --> 14:17.484
+Did he set his own type?
+
+14:17.605 --> 14:19.267
+Well, he didn't work in type.
+
+14:19.908 --> 14:22.412
+So it was all illuminating?
+
+14:22.432 --> 14:23.954
+And scripted, yeah.
+
+14:24.254 --> 14:30.623
+I mean, he was a fascinating person.
+
+14:30.643 --> 14:36.572
+He taught himself Italian so he could illustrate Dante in the original.
+
+14:37.531 --> 14:49.471
+What you're looking at is the title plate of Bell, and down here you'll see a number of different options that one has.
+
+14:51.915 --> 15:03.555
+You can select an enlargement and see a high-quality reproduction, and this is obviously useful for the study of
+
+15:04.463 --> 15:30.927
+details and again these are shots from transparency so nobody's actually handling them that's right they're shot from transparencies and they're all they're color corrected using photoshop adobe photoshop against the original transparency so in terms of color there's a great deal of fidelity to the original
+
+15:31.143 --> 15:38.090
+This is a 300 DPI image and the smaller one is a 100 DPI image.
+
+15:40.413 --> 15:45.538
+Another interesting thing you'll notice is this control console here.
+
+15:46.599 --> 15:51.784
+This is something that was done in a programming language known as Java.
+
+15:51.864 --> 15:53.826
+I don't know if I've heard of it.
+
+15:54.948 --> 15:59.192
+Java is basically a programming language that is
+
+15:59.628 --> 16:03.654
+designed and implemented to work over the Internet.
+
+16:04.375 --> 16:13.127
+And what that means is that this is actually a self-contained applet.
+
+16:13.447 --> 16:14.008
+Excuse me.
+
+16:14.168 --> 16:15.130
+It's a bit of a cough.
+
+16:16.331 --> 16:22.740
+This is a self-contained programming application, or applet, as it's known, a Java applet.
+
+16:23.461 --> 16:28.909
+And that will anybody who accesses the archive, assuming that
+
+16:29.210 --> 16:41.446
+the web browser and the software that they're using is Java-tapable, that browser will be able to execute this Java outlet, in other words, display this control console.
+
+16:43.008 --> 16:49.176
+And what this does is this permits us to display the image at its true physical size.
+
+16:49.645 --> 16:54.089
+regardless of the resolution of your individual monitor.
+
+16:54.629 --> 17:05.099
+If you've spent time looking around the web, you'll notice that if you look at images on different monitors, they'll appear to be different sizes in some cases.
+
+17:05.219 --> 17:18.471
+And the reason for that is depending on the resolution of your individual monitor, a higher resolution monitor will display an image of a different size than the lower resolution monitor.
+
+17:18.856 --> 17:25.666
+And it was important to us in the Blake archive that people have a sense of the actual physical scale of the image.
+
+17:26.287 --> 17:32.255
+Usually when non-specialists think of Blake's work, they tend to imagine it as being very big.
+
+17:32.696 --> 17:35.820
+Yeah, they're very tiny.
+
+17:35.840 --> 17:37.843
+They're about the size of paperback books.
+
+17:38.212 --> 17:42.678
+but people generally have the impression that there are these big poster-sized works.
+
+17:42.698 --> 17:45.002
+I handle one that's smaller than that local.
+
+17:45.022 --> 17:47.785
+So how do you... Well, I'll show you.
+
+17:48.066 --> 17:50.950
+On the first part of the scale there, because I don't get it there.
+
+17:51.270 --> 17:55.496
+Well, but what you're looking at here is, in fact, the true size.
+
+17:55.797 --> 17:59.562
+You'll notice that the dimensions are provided
+
+18:00.284 --> 18:08.557
+And the way this works is that the first time somebody comes into the archive, they select the Calibrate button here.
+
+18:13.504 --> 18:16.068
+And this ruler appears on the screen.
+
+18:16.749 --> 18:27.726
+And at this point, what you would do is you would take a physical ruler, hold it up against the screen, and match the two using the scroll bars here.
+
+18:37.122 --> 18:44.009
+Give it a moment.
+
+18:44.029 --> 18:44.369
+There we go.
+
+18:45.571 --> 18:52.638
+You would match up the markings on your physical ruler with the one that's here on screen.
+
+18:56.301 --> 19:04.750
+And doing this enables the Java applet to determine the resolution of your particular monitor.
+
+19:05.708 --> 19:12.598
+And I happen to know that this is about a 68 DPI monitor.
+
+19:12.618 --> 19:34.450
+Once you do that, and you come back into the archive, because the applet knows the resolution of the monitor that you're working with, I think I may have gone too small, actually, but because the applet
+
+19:35.071 --> 19:42.442
+The op-let knows the resolution of your monitor, and it knows what the true physical dimensions of the image are.
+
+19:42.782 --> 19:47.469
+It can match the two and display the digital image at its true size.
+
+19:48.330 --> 19:52.676
+As I said, I think I goofed a bit on the calibration.
+
+19:53.037 --> 19:58.665
+And I can find some of these other projects that you're working on, besides the lake.
+
+19:58.814 --> 20:03.820
+Yeah, if you go back to the IAP homepage, which is in that brochure.
+
+20:06.003 --> 20:14.014
+Now, something else that we can do, I was telling you about image searching a little while ago.
+
+20:14.835 --> 20:25.328
+Again, I don't know how much you know about digital text projects and so on, but searching text is fairly commonplace.
+
+20:25.662 --> 20:32.789
+Catherine, next door, I'm sure, showed you the text searching capabilities that they have.
+
+20:32.809 --> 20:44.821
+And what we wanted to do with the Blake archive, in addition to being able to search the text of the poetry, is to essentially build a visual concordance to Blake's work.
+
+20:45.562 --> 20:53.610
+If a Blake scholar wanted, for example, to find all of the occurrences of eagles,
+
+20:54.350 --> 20:57.635
+on Lake's illuminated plates.
+
+20:58.937 --> 21:16.945
+What that person will be able to do once the archive is complete is come into the image search page here and use this controlled vocabulary that we've established.
+
+21:16.965 --> 21:21.792
+And select, for example, Eagle, which is what I just checked off.
+
+21:23.375 --> 21:24.256
+run the search.
+
+21:29.722 --> 21:37.469
+And we see, again, across the Book of Fel copy app is the only thing we're searching on at the moment.
+
+21:37.530 --> 21:40.232
+We'll see that we have one hit, like three.
+
+21:41.273 --> 21:42.194
+We click on that.
+
+21:45.217 --> 21:46.899
+That's pretty good.
+
+21:46.919 --> 21:52.605
+We come to a page where we have just some very simple
+
+21:59.656 --> 22:06.866
+some very simple descriptive language that describes what it is that's in that center.
+
+22:07.106 --> 22:15.258
+But certainly, as the people who are always saying to evaluate this, that's part of the work that the project editors do.
+
+22:15.318 --> 22:20.806
+They describe... These are Blake's scholars.
+
+22:20.926 --> 22:28.937
+Yeah, the three editors are three internationally known Blake's scholars who have edited Blake's works in France.
+
+22:29.812 --> 22:31.734
+And so what's your background?
+
+22:31.755 --> 22:40.025
+Well, I'm a graduate student in the English department here, and I'm working on a dissertation on electronic media.
+
+22:40.105 --> 22:50.198
+It's being written electronically as a hypertext, so it's an attempt to basically match the medium to the message, so to speak.
+
+22:50.218 --> 22:57.608
+And basically my interest in the Blake project is as a way of...
+
+22:58.229 --> 23:16.293
+matching the kinds of theoretical interests that I'm pursuing in the dissertation, what is text and the digital medium and so on, with an actual hands-on project that's a fine... So it doesn't bother you that your thesis is not being done in paper?
+
+23:16.733 --> 23:26.987
+No, I find that exhilarating, much more interesting than if I were writing and, okay, I have a thesis on 8.5 by 11 inch paper,
+
+23:27.406 --> 23:40.322
+So you certainly have no anxiety about libraries tipping more towards... Well, I don't think I would use the word anxiety.
+
+23:40.402 --> 23:51.315
+I certainly have reservations and skepticisms, I think, just to... I mean, one obvious thing is the question of access.
+
+23:51.435 --> 23:55.540
+If you listen to people talk about digital libraries,
+
+23:55.823 --> 24:20.717
+often less informed people will say things like once all the books are digitized once everybody has a computer and so on and one of the things that working on a project like this will bring home to you very quickly is that there's the work is there's a lot more work that needs to be done than simply slapping the books down onto the scanner and having them
+
+24:21.288 --> 24:26.396
+somehow magically appear as digital text.
+
+24:26.516 --> 24:29.661
+The process is much more complicated than that.
+
+24:29.681 --> 24:37.693
+And when people talk about digitizing the holdings of the Library at Congress, I don't think it will ever happen.
+
+24:37.834 --> 24:46.146
+I was at the British Library in March, the new British Library, which cost about, you know, a billion pearls to build.
+
+24:46.166 --> 24:48.510
+And the director of the United States said, if we were to
+
+24:49.317 --> 24:54.943
+scan every page of every book we own, the price has been estimated at 50 billion pounds.
+
+24:55.183 --> 24:58.086
+So he says, trust me, that's never going to happen.
+
+24:58.106 --> 25:01.109
+And of course, labor is a price that's going to remain constant.
+
+25:01.389 --> 25:05.353
+The cost of the technology might go down a little bit.
+
+25:05.814 --> 25:06.555
+That'll happen.
+
+25:06.615 --> 25:08.196
+But labor is always going to be labor.
+
+25:09.217 --> 25:11.139
+So that is an expense.
+
+25:12.641 --> 25:16.725
+Did you tell me the subject of your thesis?
+
+25:17.161 --> 25:22.188
+I can actually show you a piece of it online in a moment.
+
+25:23.510 --> 25:25.813
+Let me just finish up here.
+
+25:26.715 --> 25:33.544
+You'll notice that after this bit of descriptive text that you get, there are these buttons marked iNote.
+
+25:33.845 --> 25:39.693
+iNote is a second Java envelope that was developed here at the Institute.
+
+25:40.775 --> 25:44.400
+What iNote will do for you after you run your image search
+
+25:45.055 --> 26:13.881
+is it will actually open the plate that the search has located and you'll notice that it is zoomed to the quadrant of the plate with the eagle and then in this window to the left you can view the editorial commentary on the plate so again and as i think i mentioned a while back what this does is it takes the images from being simply ornaments and illustrations that one can
+
+26:14.080 --> 26:26.072
+look at and they're very attractive, but you can't do anything more than look at them, and it integrates them into the archive in a functional way, in the same way that the text.
+
+26:27.293 --> 26:31.738
+Now, you are physically in the library, which you're not part of the library, right?
+
+26:31.758 --> 26:32.659
+You're not part of the library.
+
+26:33.019 --> 26:33.480
+That's right.
+
+26:33.820 --> 26:38.324
+I'm like the text center, which is a department of the library.
+
+26:38.344 --> 26:41.007
+The institute here is separate.
+
+26:41.568 --> 26:42.889
+So who do you work for?
+
+26:43.274 --> 26:45.939
+Who do I personally work for?
+
+26:45.959 --> 26:50.066
+I work for the project editors for the Institute.
+
+26:51.189 --> 26:53.633
+And is that an independent organization?
+
+26:54.214 --> 27:03.752
+Well, independent of the library, but we're funded by the provost's office here at UVA.
+
+27:04.613 --> 27:06.717
+The Institute is also funded from
+
+27:07.439 --> 27:12.969
+private donors from various grants and so on.
+
+27:13.069 --> 27:20.181
+The Blake Project, typically individual projects are funded by their own grant money.
+
+27:20.201 --> 27:30.399
+So as I said, the Blake Project right now is being funded by a grant from the Getty Art Institute.
+
+27:30.419 --> 27:31.000
+Let me see.
+
+27:31.621 --> 27:45.739
+But basically, I mean, I hope that that's gone some way towards answering your question about what we can do.
+
+27:45.759 --> 27:54.490
+I think now that we've met, if you don't mind, I can call you and get in touch with you, and maybe we can continue on.
+
+27:54.773 --> 27:55.474
+Sure.
+
+27:56.054 --> 28:00.239
+I'd be interested in seeing some of your writing on digital texts.
+
+28:00.459 --> 28:19.601
+Well, I've done none of that yet, but I've been to Cornell, and just in the last few years, there's been a tremendous explosion of work that's been published in this area on hypertext, digital text, digital libraries, and so on.
+
+28:19.621 --> 28:20.882
+So as somebody who
+
+28:21.200 --> 28:31.916
+is working as a scholar myself, writing critically about this field, I find that there's a lot more secondary material than one might expect.
+
+28:32.076 --> 28:33.358
+Well, what do you recommend?
+
+28:33.438 --> 28:38.125
+I go to this D.Live, let's say, that's pretty good.
+
+28:38.145 --> 28:42.151
+Yeah, D.Live is an electronic journal, I believe.
+
+28:42.511 --> 28:49.201
+And, well, the interesting thing about the medium is that you get people from all disciplines writing about it.
+
+28:49.261 --> 28:50.042
+You have
+
+28:50.225 --> 29:01.788
+people who are librarians, you also have literary scholars, you have people from art history, you have people who are specialists in media studies.
+
+29:02.369 --> 29:06.698
+So it's really, it's an interdisciplinary field.
+
+29:07.387 --> 29:18.822
+My suggestion to you as a researcher is that you're not confined to reading to any two library signs or to any one particular approach.
+
+29:18.882 --> 29:21.265
+So where would I find some of you?
+
+29:21.285 --> 29:31.919
+Well, you can, if you go to, for example, my dissertation site, I have a bibliography online.
+
+29:32.160 --> 29:34.002
+I can get this at the...
+
+29:40.023 --> 29:41.245
+Okay, I'll write it down.
+
+29:41.325 --> 29:47.032
+It'll be a while before you get to this tape, so I'll give you the address.
+
+29:49.695 --> 29:52.639
+So what do you hope to do?
+
+29:53.100 --> 29:53.780
+What's your future?
+
+29:54.762 --> 30:07.718
+I'd like to work on a university faculty, either in an English department or possibly a media studies department or a design program.
+
+30:08.052 --> 30:10.416
+Multimedia design, graphic design.
+
+30:10.436 --> 30:13.080
+Can you design this idea?
+
+30:13.100 --> 30:13.321
+Mm-hmm.
+
+30:13.341 --> 30:17.107
+If you, um... Are you what your course of study is?
+
+30:17.868 --> 30:18.930
+What's it called?
+
+30:18.950 --> 30:22.877
+It's Media and Contemporary Fiction.
+
+30:22.937 --> 30:25.201
+So it's E-N-T-L.
+
+30:25.221 --> 30:32.473
+W-W-W dot E-N-G-L dot Virginia.
+
+30:36.098 --> 30:47.235
+G-D-U, slash, and then that little curly thing, which you call it, what do you call that thing?
+
+30:47.876 --> 30:49.519
+That's a tilde.
+
+30:49.799 --> 30:57.431
+M-G-K, save that, three, and the number three, K, and it was, what's after the slash?
+
+30:57.451 --> 31:00.115
+On cited.html.
+
+31:07.739 --> 31:23.668
+And if you were to come into this address and simply drop the site at .html, you would find yourself at the homepage for the dissertation.
+
+31:23.688 --> 31:32.143
+In fact, let me, I'll write down the address for my personal address.
+
+31:32.495 --> 31:53.597
+interest in her is as somebody who is obviously deeply involved and invested with the printed word as such, but who thinks of her work with typography, with books, with printing, as being as a continuum of work developments.
+
+31:53.617 --> 31:54.177
+Where is she?
+
+31:54.298 --> 31:55.118
+Where is she?
+
+31:55.138 --> 31:55.959
+She's at Yale.
+
+31:55.979 --> 32:00.544
+She's an art historian.
+
+32:01.351 --> 32:04.715
+Just like somebody I want to talk to.
+
+32:04.735 --> 32:08.901
+And she's, I can find her, find her someplace to search?
+
+32:08.921 --> 32:09.342
+Yeah, and her book.
+
+32:09.602 --> 32:14.248
+She'll be, if you look, I dare not writing on the search column.
+
+32:14.268 --> 32:19.275
+You can find my interview with her.
+
+32:22.219 --> 32:26.064
+So she would actually have a perspective on it.
+
+32:26.164 --> 32:30.750
+An intellectual perspective on it.
+
